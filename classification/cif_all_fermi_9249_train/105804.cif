@@ -1,0 +1,79 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_105804-ICSD
+_database_code_ICSD 105804
+_audit_creation_date 2004-10-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Platinum tantalum (3/1)'
+_chemical_formula_structural 'Pt3 Ta'
+_chemical_formula_sum 'Pt3 Ta1'
+_chemical_name_structure_type NbPt3
+_exptl_crystal_density_diffrn 20.72
+_publ_section_title 'On the constitution diagram Ta-Pt between 50-100 at.% Pt'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Transactions of the Metallurgical Society of Aime' 1965 233 855 864
+TMSAAB
+loop_
+_publ_author_name
+'Giessen, B.C.'
+'Kane, R.H.'
+'Grant, N.J.'
+_cell_length_a 27.33(1)
+_cell_length_b 5.537(2)
+_cell_length_c 4.869(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.5
+_cell_angle_gamma 90.
+_cell_volume 736.78
+_cell_formula_units_Z 12
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pt0+ 0
+Ta0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pt1 Pt0+ 2 e 0.958 0.25 0.667 . 1. 0
+Pt2 Pt0+ 2 e 0.792 0.25 0. . 1. 0
+Pt3 Pt0+ 2 e 0.625 0.25 0. . 1. 0
+Pt4 Pt0+ 2 e 0.458 0.25 0.333 . 1. 0
+Pt5 Pt0+ 2 e 0.292 0.25 0.333 . 1. 0
+Pt6 Pt0+ 2 e 0.125 0.25 0.667 . 1. 0
+Pt7 Pt0+ 4 f 0.042 0 0.833 . 1. 0
+Pt8 Pt0+ 4 f 0.208 0 0.5 . 1. 0
+Pt9 Pt0+ 4 f 0.375 0 0.5 . 1. 0
+Pt10 Pt0+ 4 f 0.542 0 0.167 . 1. 0
+Pt11 Pt0+ 4 f 0.708 0 0.167 . 1. 0
+Pt12 Pt0+ 4 f 0.875 0 0.833 . 1. 0
+Ta1 Ta0+ 2 e 0.042 0.25 0.333 . 1. 0
+Ta2 Ta0+ 2 e 0.208 0.25 0. . 1. 0
+Ta3 Ta0+ 2 e 0.375 0.25 0. . 1. 0
+Ta4 Ta0+ 2 e 0.542 0.25 0.667 . 1. 0
+Ta5 Ta0+ 2 e 0.708 0.25 0.667 . 1. 0
+Ta6 Ta0+ 2 e 0.875 0.25 0.333 . 1. 0
+#End of TTdata_105804-ICSD

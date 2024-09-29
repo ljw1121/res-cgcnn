@@ -1,0 +1,82 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1377-ICSD
+_database_code_ICSD 1377
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Cadmium bromide tetrahydrate'
+_chemical_formula_structural 'Cd Br2 (H2 O)4'
+_chemical_formula_sum 'H8 Br2 Cd1 O4'
+_exptl_crystal_density_diffrn 3.
+_publ_section_title 'Structure cristalline de  Cd Br2 (H2 O)4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1978 34 5 8 ACBCAR
+loop_
+_publ_author_name
+'Leligny, H.'
+'Monier, J.C.'
+_cell_length_a 12.594(5)
+_cell_length_b 7.551(4)
+_cell_length_c 4.002(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 380.58
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P n n m'
+_symmetry_Int_Tables_number 58
+_refine_ls_R_factor_all 0.065
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 'x+1/2, -y+1/2, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+Br1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cd1 Cd2+ 2 a 0 0 0 . 1. 0
+Br1 Br1- 4 g -.03512(8) 0.24216(9) 0.5 . 1. 0
+O1 O2- 4 g 0.1797(6) 0.0833(10) 0 . 1. 0
+O2 O2- 4 g 0.1948(7) 0.4516(11) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cd1 Cd2+ 0.00256(3) 0.00700(8) 0.02548(31) -.00029(5) 0 0
+Br1 Br1- 0.00432(6) 0.00527(8) 0.02937(41) 0.00108(5) 0 0
+O1 O2- 0.00341(37) 0.01156(95) 0.0491(49) -.00161(50) 0 0
+O2 O2- 0.00364(44) 0.0127(11) 0.0644(62) -.00057(57) 0 0
+#End of TTdata_1377-ICSD

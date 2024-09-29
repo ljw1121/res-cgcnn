@@ -1,0 +1,163 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_640978-ICSD
+_database_code_ICSD 640978
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Scandium iridium silicide (4/7/6)'
+_chemical_formula_structural 'Sc4 Ir7 Si6'
+_chemical_formula_sum 'Ir7 Sc4 Si6'
+_chemical_name_structure_type Re7U4Si6
+_exptl_crystal_density_diffrn 11.02
+_publ_section_title
+
+;
+Sc4 T7 Ge6 (T = Rh, Ir, Os, Ru) and Sc4 Ir7 Si6 with the cubic U4 Re7 Si6 -
+type structure
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1984 96 291 296 JCOMAH
+loop_
+_publ_author_name
+'Engel, N.'
+'Chabot, B.'
+'Parthe, E.'
+_cell_length_a 8.003(1)
+_cell_length_b 8.003(1)
+_cell_length_c 8.003(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 512.58
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m -3 m'
+_symmetry_Int_Tables_number 229
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z, y, -x'
+2 'y, x, -z'
+3 'x, z, -y'
+4 'z, x, -y'
+5 'y, z, -x'
+6 'x, y, -z'
+7 'z, -y, x'
+8 'y, -x, z'
+9 'x, -z, y'
+10 'z, -x, y'
+11 'y, -z, x'
+12 'x, -y, z'
+13 '-z, y, x'
+14 '-y, x, z'
+15 '-x, z, y'
+16 '-z, x, y'
+17 '-y, z, x'
+18 '-x, y, z'
+19 '-z, -y, -x'
+20 '-y, -x, -z'
+21 '-x, -z, -y'
+22 '-z, -x, -y'
+23 '-y, -z, -x'
+24 '-x, -y, -z'
+25 '-z, -y, x'
+26 '-y, -x, z'
+27 '-x, -z, y'
+28 '-z, -x, y'
+29 '-y, -z, x'
+30 '-x, -y, z'
+31 '-z, y, -x'
+32 '-y, x, -z'
+33 '-x, z, -y'
+34 '-z, x, -y'
+35 '-y, z, -x'
+36 '-x, y, -z'
+37 'z, -y, -x'
+38 'y, -x, -z'
+39 'x, -z, -y'
+40 'z, -x, -y'
+41 'y, -z, -x'
+42 'x, -y, -z'
+43 'z, y, x'
+44 'y, x, z'
+45 'x, z, y'
+46 'z, x, y'
+47 'y, z, x'
+48 'x, y, z'
+49 'z+1/2, y+1/2, -x+1/2'
+50 'y+1/2, x+1/2, -z+1/2'
+51 'x+1/2, z+1/2, -y+1/2'
+52 'z+1/2, x+1/2, -y+1/2'
+53 'y+1/2, z+1/2, -x+1/2'
+54 'x+1/2, y+1/2, -z+1/2'
+55 'z+1/2, -y+1/2, x+1/2'
+56 'y+1/2, -x+1/2, z+1/2'
+57 'x+1/2, -z+1/2, y+1/2'
+58 'z+1/2, -x+1/2, y+1/2'
+59 'y+1/2, -z+1/2, x+1/2'
+60 'x+1/2, -y+1/2, z+1/2'
+61 '-z+1/2, y+1/2, x+1/2'
+62 '-y+1/2, x+1/2, z+1/2'
+63 '-x+1/2, z+1/2, y+1/2'
+64 '-z+1/2, x+1/2, y+1/2'
+65 '-y+1/2, z+1/2, x+1/2'
+66 '-x+1/2, y+1/2, z+1/2'
+67 '-z+1/2, -y+1/2, -x+1/2'
+68 '-y+1/2, -x+1/2, -z+1/2'
+69 '-x+1/2, -z+1/2, -y+1/2'
+70 '-z+1/2, -x+1/2, -y+1/2'
+71 '-y+1/2, -z+1/2, -x+1/2'
+72 '-x+1/2, -y+1/2, -z+1/2'
+73 '-z+1/2, -y+1/2, x+1/2'
+74 '-y+1/2, -x+1/2, z+1/2'
+75 '-x+1/2, -z+1/2, y+1/2'
+76 '-z+1/2, -x+1/2, y+1/2'
+77 '-y+1/2, -z+1/2, x+1/2'
+78 '-x+1/2, -y+1/2, z+1/2'
+79 '-z+1/2, y+1/2, -x+1/2'
+80 '-y+1/2, x+1/2, -z+1/2'
+81 '-x+1/2, z+1/2, -y+1/2'
+82 '-z+1/2, x+1/2, -y+1/2'
+83 '-y+1/2, z+1/2, -x+1/2'
+84 '-x+1/2, y+1/2, -z+1/2'
+85 'z+1/2, -y+1/2, -x+1/2'
+86 'y+1/2, -x+1/2, -z+1/2'
+87 'x+1/2, -z+1/2, -y+1/2'
+88 'z+1/2, -x+1/2, -y+1/2'
+89 'y+1/2, -z+1/2, -x+1/2'
+90 'x+1/2, -y+1/2, -z+1/2'
+91 'z+1/2, y+1/2, x+1/2'
+92 'y+1/2, x+1/2, z+1/2'
+93 'x+1/2, z+1/2, y+1/2'
+94 'z+1/2, x+1/2, y+1/2'
+95 'y+1/2, z+1/2, x+1/2'
+96 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc0+ 0
+Ir0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc0+ 8 c 0.25 0.25 0.25 . 1. 0
+Ir1 Ir0+ 12 d 0.25 0 0.5 . 1. 0
+Ir2 Ir0+ 2 a 0 0 0 . 1. 0
+Si1 Si0+ 12 e 0.29 0 0 . 1. 0
+#End of TTdata_640978-ICSD

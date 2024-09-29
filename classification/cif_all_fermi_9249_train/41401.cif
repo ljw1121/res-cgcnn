@@ -1,0 +1,47 @@
+
+data_41401-ICSD
+_database_code_ICSD 41401
+_audit_creation_date 1999-11-30
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Iron sulfide (1/2)'
+_chemical_formula_structural 'Fe S2'
+_chemical_formula_sum 'Fe1 S2'
+_chemical_name_structure_type PtGeSe
+_chemical_name_mineral 'Pyrite (anisotropic)'
+_exptl_crystal_density_diffrn 5.01
+_cell_length_a 5.417(2)
+_cell_length_b 5.417(2)
+_cell_length_c 5.417(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 158.96
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P c a 21'
+_symmetry_Int_Tables_number 29
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x+1/2, y, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe0+ 0
+S0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe0+ 4 a -.0049 0.2581 0.0016 0.2 1. 0
+S1 S0+ 4 a 0.385 0.635 0.385 0.6 1. 0
+S2 S0+ 4 a 0.615 0.865 0.615 0.6 1. 0

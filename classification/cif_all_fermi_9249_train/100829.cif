@@ -1,0 +1,73 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_100829-ICSD
+_database_code_ICSD 100829
+_audit_creation_date 1981-12-31
+_chemical_name_systematic 'Disodium tetracopper trisulfide'
+_chemical_formula_structural 'Na2 Cu4 S3'
+_chemical_formula_sum 'Cu4 Na2 S3'
+_chemical_name_structure_type Ag4K2S3
+_exptl_crystal_density_diffrn 4.43
+_publ_section_title 'Zur Kenntnis von Na2 Cu4 S3 und K Cu3 Te2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1981 16 1291 1297 MRBUAC
+loop_
+_publ_author_name
+'Savelsberg, G.'
+'Schaefer, H.'
+_cell_length_a 15.63(3)
+_cell_length_b 3.86(2)
+_cell_length_c 10.33(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.6
+_cell_angle_gamma 90.
+_cell_volume 594.05
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.089
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Cu1+ 1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 i 0.8316(9) 0 0.1542(15) 0.0150(36) 1. 0
+Na2 Na1+ 4 i 0.688(1) 0 0.3474(15) 0.0182(38) 1. 0
+Cu1 Cu1+ 4 i 0.5230(4) 0 0.6365(6) 0.0150(16) 1. 0
+Cu2 Cu1+ 4 i 0.9017(4) 0 0.8938(6) 0.0227(17) 1. 0
+Cu3 Cu1+ 4 i 0.0969(4) 0 0.5141(6) 0.0151(15) 1. 0
+Cu4 Cu1+ 4 i 0.5085(5) 0 0.8784(7) 0.0358(22) 1. 0
+S1 S2- 4 i 0.3351(6) 0 0.3833(10) 0.0125(22) 1. 0
+S2 S2- 4 i 0.9686(5) 0 0.7182(9) 0.0085(21) 1. 0
+S3 S2- 4 i 0.6449(6) 0 0.0432(10) 0.0141(23) 1. 0
+#End of TTdata_100829-ICSD

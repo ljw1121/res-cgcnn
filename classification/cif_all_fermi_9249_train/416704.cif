@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_416704-ICSD
+_database_code_ICSD 416704
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Cesium pentatitanium(III) octatelluride'
+_chemical_formula_structural 'Cs Ti5 Te8'
+_chemical_formula_sum 'Cs1 Te8 Ti5'
+_exptl_crystal_density_diffrn 6.1
+_cell_measurement_temperature 153.
+_publ_section_title
+
+;
+Synthesis and structure of Cs Ti5 Te8: relation to the Tl V5 S8, Tl Cr3 S5,
+and similar channel structures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2007 440 74 77 JALCEU
+loop_
+_publ_author_name
+'Gray, D.L.'
+'Ibers, J.A.'
+_cell_length_a 13.4135(16)
+_cell_length_b 3.8912(5)
+_cell_length_c 14.552(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 93.1350(10)
+_cell_angle_gamma 90.
+_cell_volume 758.4
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0282
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, -y, -z'
+3 '-x, y, -z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Te2- -2
+Ti3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 2 a 0. 0. 0. 0.00977(16) 1 0
+Te1 Te2- 4 i 0.29735(3) 0. 0.03595(2) 0.00583(14) 1 0
+Te2 Te2- 4 i 0.33754(2) 0. 0.65964(2) 0.00552(14) 1 0
+Te3 Te2- 4 i 0.96325(3) 0. 0.36081(3) 0.00547(14) 1 0
+Te4 Te2- 4 i 0.62794(3) 0. 0.69652(2) 0.00558(14) 1 0
+Ti1 Ti3+ 2 c 0.5 0. 0. 0.0089(3) 1 0
+Ti2 Ti3+ 4 i 0.83172(6) 0. 0.67134(6) 0.0077(3) 1 0
+Ti3 Ti3+ 4 i 0.30937(7) 0. 0.84398(6) 0.0084(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0114(3) 0.0092(3) 0.0088(3) 0. 0.0010(2) 0.
+Te1 Te2- 0.0071(2) 0.0062(2) 0.0042(2) 0. 0.00078(15) 0.
+Te2 Te2- 0.0054(2) 0.0057(3) 0.0055(2) 0. 0.00060(16) 0.
+Te3 Te2- 0.0045(2) 0.0052(2) 0.0068(2) 0. 0.00067(15) 0.
+Te4 Te2- 0.0052(2) 0.0062(2) 0.0053(2) 0. 0.00043(16) 0.
+Ti1 Ti3+ 0.0083(7) 0.0114(7) 0.0068(7) 0. -0.0015(6) 0.
+Ti2 Ti3+ 0.0062(6) 0.0096(6) 0.0071(6) 0. -0.0008(4) 0.
+Ti3 Ti3+ 0.0079(5) 0.0108(5) 0.0065(5) 0. 0.0017(4) 0.
+#End of TTdata_416704-ICSD

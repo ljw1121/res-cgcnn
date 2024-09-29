@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_409702-ICSD
+_database_code_ICSD 409702
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Lanthanum iodide (2/5)'
+_chemical_formula_structural 'La2 I5'
+_chemical_formula_sum 'I5 La2'
+_chemical_name_structure_type Pr2Br5
+_exptl_crystal_density_diffrn 5.48
+_publ_section_title 'Crystal structure of dilanthanum pentaiodide, La2 I5'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 2003 218
+281 281 ZKNSFT
+loop_
+_publ_author_name
+'Mattausch, H.J.'
+'Oeckler, O.'
+'Simon, A.'
+_cell_length_a 8.6178(17)
+_cell_length_b 4.4038(9)
+_cell_length_c 14.580(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.20(3)
+_cell_angle_gamma 90.
+_cell_volume 553.32
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La2+ 2.5
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La2+ 2 e 0.42084(5) 0.25 0.65836(3) 0.02198(11) 1. 0
+La2 La2+ 2 e 0.91707(6) 0.25 0.15865(3) 0.02732(13) 1. 0
+I1 I1- 2 e 0.69529(6) 0.25 0.49188(3) 0.02344(12) 1. 0
+I2 I1- 2 e 0.04689(6) 0.25 0.67838(3) 0.02440(12) 1. 0
+I3 I1- 2 e 0.35660(6) 0.25 0.87902(3) 0.02704(13) 1. 0
+I4 I1- 2 e 0.84783(6) 0.25 0.92992(3) 0.02484(13) 1. 0
+I5 I1- 2 e 0.33452(6) 0.25 0.27313(4) 0.02715(13) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La2+ 0.0233(2) 0.0225(2) 0.0202(2) 0 0.00379(15) 0
+La2 La2+ 0.0403(3) 0.0178(2) 0.0239(2) 0 0.00849(19) 0
+I1 I1- 0.0266(2) 0.0228(3) 0.0209(2) 0 0.00413(17) 0
+I2 I1- 0.0238(2) 0.0261(3) 0.0233(2) 0 0.00298(17) 0
+I3 I1- 0.0299(3) 0.0278(3) 0.0234(2) 0 0.00512(19) 0
+I4 I1- 0.0298(3) 0.0238(3) 0.0210(2) 0 0.00413(18) 0
+I5 I1- 0.0294(2) 0.0213(3) 0.0308(3) 0 0.00058(19) 0
+#End of TTdata_409702-ICSD

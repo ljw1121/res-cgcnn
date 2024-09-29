@@ -1,0 +1,61 @@
+
+data_23826-ICSD
+_database_code_ICSD 23826
+_audit_creation_date 1980-01-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Copper arsenic sulfide (1/1/1)'
+_chemical_formula_structural 'Cu As S'
+_chemical_formula_sum 'As1 Cu1 S1'
+_chemical_name_structure_type CuAsS
+_chemical_name_mineral Lautite
+_exptl_crystal_density_diffrn 4.8
+_cell_length_a 11.35(6)
+_cell_length_b 5.546(28)
+_cell_length_c 3.749(19)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 235.99
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu0+ 0
+As0+ 0
+S0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu0+ 4 a 0.32617(30) 0.43823(90) 0.22992(80) . 1. 0
+As1 As0+ 4 a 0.48668(30) 0.14766(60) 0.21867(60) . 1. 0
+S1 S0+ 4 a 0.16668(60) 0.1790(19) 0.2128(20) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cu1 Cu0+ 0.003 0.0359 0.0535 0 0.0092 -.0009
+As1 As0+ 0.0044 0.0307 0.0452 0 0.002 0.0006
+S1 S0+ 0.0035 0.0433 0.0219 0 0.0075 -.0006

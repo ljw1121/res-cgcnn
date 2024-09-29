@@ -1,0 +1,101 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_412412-ICSD
+_database_code_ICSD 412412
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Lanthanum cyanamide nitride chloride'
+_chemical_formula_structural 'La2 Cl (C N2) N'
+_chemical_formula_sum 'C1 Cl1 La2 N3'
+_exptl_crystal_density_diffrn 4.78
+_publ_section_title
+
+;
+Chains of [RE6] Octahedra Coupled by (NCN) Links in the Network Structure of
+RE2Cl(CN2)N: Synthesis of Two Novel Rare Earth Chloride Carbodiimide Nitrides
+with Structures Related to the RE2Cl3 Type
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2003 42 3406 3411 INOCAJ
+loop_
+_publ_author_name
+'Srinivasan, R.'
+'Stroebele, M.'
+'Meyer, H.J.'
+_cell_length_a 13.3914(8)
+_cell_length_b 9.6345(7)
+_cell_length_c 3.9568(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 510.5
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m m m'
+_symmetry_Int_Tables_number 65
+_refine_ls_R_factor_all 0.0234
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'x+1/2, -y+1/2, z'
+10 '-x+1/2, y+1/2, z'
+11 'x+1/2, y+1/2, -z'
+12 '-x+1/2, -y+1/2, -z'
+13 '-x+1/2, y+1/2, -z'
+14 'x+1/2, -y+1/2, -z'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Cl1- -1
+N3- -3
+N2- -2
+C2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 g 0.36132(2) 1. 1. 0.00869(9) 1 0
+La2 La3+ 4 j 0.5 0.71113(3) 0.5 0.00957(10) 1 0
+Cl1 Cl1- 4 g 0.12217(12) 1. 1. 0.0229(3) 1 0
+N1 N3- 4 i 0.5 0.8434(5) 0. 0.0093(8) 1 0
+N2 N2- 8 q 0.3226(2) 1.1713(3) 0.5 0.0129(6) 1 0
+C1 C2+ 4 f 0.25 1.25 0.5 0.0108(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.00800(13) 0.00889(14) 0.00917(17) 0. 0. 0.
+La2 La3+ 0.01019(15) 0.00762(14) 0.01090(18) 0. 0. 0.
+Cl1 Cl1- 0.0150(6) 0.0204(7) 0.0334(10) 0. 0. 0.
+N1 N3- 0.0080(16) 0.0097(16) 0.010(2) 0. 0. 0.
+N2 N2- 0.0107(13) 0.0135(13) 0.0145(18) 0.0012(12) 0. 0.
+C1 C2+ 0.011(2) 0.015(2) 0.007(3) 0.0023(19) 0. 0.
+#End of TTdata_412412-ICSD

@@ -1,0 +1,50 @@
+
+data_37026-ICSD
+_database_code_ICSD 37026
+_audit_creation_date 1983-12-31
+_chemical_name_systematic 'Sodium iron(III) sulfide'
+_chemical_formula_structural 'Na Fe S2'
+_chemical_formula_sum 'Fe1 Na1 S2'
+_exptl_crystal_density_diffrn 2.6
+_cell_length_a 6.25
+_cell_length_b 10.83
+_cell_length_c 5.4
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 365.51
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 2 2 2'
+_symmetry_Int_Tables_number 23
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, -y, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 'x+1/2, -y+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe3+ 3
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 g 0 0.28 0 . 1. 0
+Fe1 Fe3+ 2 a 0 0 0 . 1. 0
+Fe2 Fe3+ 2 c 0 0 0.5 . 1. 0
+S1 S2- 8 k 0.2 0.115 0.75 . 1. 0

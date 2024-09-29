@@ -1,0 +1,100 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_424895-ICSD
+_database_code_ICSD 424895
+_audit_creation_date 2013-02-01
+_chemical_name_systematic 'Barium diiron(II) bis(orthophosphate)'
+_chemical_formula_structural 'Ba Fe2 (P O4)2'
+_chemical_formula_sum 'Ba1 Fe2 O8 P2'
+_chemical_name_structure_type BaNi2V2O8
+_exptl_crystal_density_diffrn 4.55
+_cell_measurement_temperature 296.
+_publ_section_title 'Genuine two-dimensional Ising ferromagnet Ba Fe2 (P O4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie. International Edition' 2012 51 11745 11749 ACIEF5
+loop_
+_publ_author_name
+'Kabbour, H.'
+'David, R.'
+'Pautrat, A.'
+'Koo Hyun-Joo'
+'Whangbo Myunghwan'
+'Andre, G.'
+'Mentre, O'
+_cell_length_a 4.8730(2)
+_cell_length_b 4.8730(2)
+_cell_length_c 23.368(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 480.56
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.0403
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Fe2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 3 a 0 0 0 0.0088(2) 1 0
+Fe1 Fe2+ 6 c 0 0 0.17012(6) 0.0065(3) 1 0
+P1 P5+ 6 c 0.333333 -0.333333 0.24242(10) 0.0048(4) 1 0
+O1 O2- 6 c -0.333333 0.333333 -0.0251(3) 0.0110(16) 1 0
+O2 O2- 18 f 0.0258(11) -0.6284(10) 0.22077(18) 0.0081(14) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0080(3) 0.0080(3) 0.0104(4) 0.00400(14) 0 0
+Fe1 Fe2+ 0.0055(3) 0.0055(3) 0.0083(5) 0.00277(17) 0 0
+P1 P5+ 0.0040(5) 0.0040(5) 0.0064(8) 0.0020(3) 0 0
+O1 O2- 0.0097(19) 0.0097(19) 0.014(3) 0.0049(9) 0 0
+O2 O2- 0.0075(17) 0.0073(17) 0.0096(16) 0.0036(15) -0.0023(13) -0.0021(14)
+#End of TTdata_424895-ICSD

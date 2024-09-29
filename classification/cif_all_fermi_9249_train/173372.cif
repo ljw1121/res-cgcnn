@@ -1,0 +1,103 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_173372-ICSD
+_database_code_ICSD 173372
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Tetralanthanum trinickel octaoxide'
+_chemical_formula_structural 'La4 Ni3 O8'
+_chemical_formula_sum 'La4 Ni3 O8'
+_chemical_name_structure_type Nd4Ni3O8
+_exptl_crystal_density_diffrn 6.94
+_publ_section_title
+
+;
+Crystal structures of Ln4 Ni3 O8 (Ln = La, Nd) triple layer T'-type nickelates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2007 46 10887 10891 INOCAJ
+loop_
+_publ_author_name
+'Poltavets, V.V.'
+'Lokshin, K.A.'
+'Croft, M.'
+'Mandal, T.K.'
+'Egami, T.'
+'Greenblatt, M.'
+_cell_length_a 3.97083(4)
+_cell_length_b 3.97083(4)
+_cell_length_c 26.1057(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 411.62
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 4/m m m'
+_symmetry_Int_Tables_number 139
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z'
+2 '-y, -x, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z'
+10 'y, x, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 'x, -y, z'
+14 '-x, y, z'
+15 '-x, -y, z'
+16 'x, y, z'
+17 'y+1/2, x+1/2, -z+1/2'
+18 '-y+1/2, -x+1/2, -z+1/2'
+19 '-y+1/2, x+1/2, -z+1/2'
+20 'y+1/2, -x+1/2, -z+1/2'
+21 '-x+1/2, y+1/2, -z+1/2'
+22 'x+1/2, -y+1/2, -z+1/2'
+23 'x+1/2, y+1/2, -z+1/2'
+24 '-x+1/2, -y+1/2, -z+1/2'
+25 '-y+1/2, -x+1/2, z+1/2'
+26 'y+1/2, x+1/2, z+1/2'
+27 'y+1/2, -x+1/2, z+1/2'
+28 '-y+1/2, x+1/2, z+1/2'
+29 'x+1/2, -y+1/2, z+1/2'
+30 '-x+1/2, y+1/2, z+1/2'
+31 '-x+1/2, -y+1/2, z+1/2'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Ni1+ 1.33
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 e 0. 0. 0.4330(1296) 0.0060(3) 1. 0
+La2 La3+ 4 e 0. 0. 0.2998(1) 0.0078(4) 1. 0
+Ni1 Ni1+ 2 a 0. 0. 0. 0.0107(7) 1. 0
+Ni2 Ni1+ 4 e 0. 0. 0.1250(17) 0.0072(3) 1. 0
+O1 O2- 4 c 0. 0.5 0. 0.0087(7) 1. 0
+O2 O2- 8 g 0. 0.5 0.1256(1) 0.0118(5) 1. 0
+O3 O2- 4 d 0. 0.5 0.25 0.0080(7) 1. 0
+#End of TTdata_173372-ICSD

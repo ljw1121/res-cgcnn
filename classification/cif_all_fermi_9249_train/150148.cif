@@ -1,0 +1,98 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_150148-ICSD
+_database_code_ICSD 150148
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Titanium nickel bismuthide (4/1/2)'
+_chemical_formula_structural 'Ti4 Ni Bi2'
+_chemical_formula_sum 'Bi2 Ni1 Ti4'
+_chemical_name_structure_type V4Sb2Si
+_exptl_crystal_density_diffrn 8.28
+_publ_section_title
+
+;
+The ternary titanium transition metal bismuthides Ti4 T Bi2 with T = Cr, Mn,
+Fe, Co and Ni
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1997 133 400 406 JSSCBI
+loop_
+_publ_author_name
+'Richter, C.G.'
+'Jeitschko, W.'
+'Kuennen, B.'
+'Gerdes, M.H.'
+_cell_length_a 10.554(1)
+_cell_length_b 10.554(1)
+_cell_length_c 4.814(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 536.22
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 4/m c m'
+_symmetry_Int_Tables_number 140
+_refine_ls_R_factor_all 0.02
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z+1/2'
+2 '-y, -x, -z+1/2'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 'x, -y, -z+1/2'
+6 '-x, y, -z+1/2'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z+1/2'
+10 'y, x, z+1/2'
+11 'y, -x, z'
+12 '-y, x, z'
+13 '-x, y, z+1/2'
+14 'x, -y, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+17 'y+1/2, x+1/2, -z'
+18 '-y+1/2, -x+1/2, -z'
+19 '-y+1/2, x+1/2, -z+1/2'
+20 'y+1/2, -x+1/2, -z+1/2'
+21 'x+1/2, -y+1/2, -z'
+22 '-x+1/2, y+1/2, -z'
+23 'x+1/2, y+1/2, -z+1/2'
+24 '-x+1/2, -y+1/2, -z+1/2'
+25 '-y+1/2, -x+1/2, z'
+26 'y+1/2, x+1/2, z'
+27 'y+1/2, -x+1/2, z+1/2'
+28 '-y+1/2, x+1/2, z+1/2'
+29 '-x+1/2, y+1/2, z'
+30 'x+1/2, -y+1/2, z'
+31 '-x+1/2, -y+1/2, z+1/2'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti0+ 0
+Ni0+ 0
+Bi0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti0+ 16 k 0.0828(1) 0.1992(1) 0 0.55(2) 1. 0
+Ni1 Ni0+ 4 a 0 0 0.25 0.48(2) 1. 0
+Bi1 Bi0+ 8 h 0.1400(1) 0.6400(1) 0 0.475(3) 1. 0
+#End of TTdata_150148-ICSD

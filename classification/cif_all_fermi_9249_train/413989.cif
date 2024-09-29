@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_413989-ICSD
+_database_code_ICSD 413989
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Rubidium gold(III) bis(selenate(VI))'
+_chemical_formula_structural 'Rb Au (Se O4)2'
+_chemical_formula_sum 'Au1 O8 Rb1 Se2'
+_exptl_crystal_density_diffrn 5.06
+_publ_section_title
+'Rb Au (Se O4)2: First structure determination of a ternary gold selenate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2004
+630 1539 1540 ZAACAB
+loop_
+_publ_author_name
+'Buechner, O.'
+'Wickleder, M.S.'
+_cell_length_a 10.787(4)
+_cell_length_b 5.2267(12)
+_cell_length_c 7.393(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.45(2)
+_cell_angle_gamma 90.
+_cell_volume 373.19
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0338
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au3+ 3
+Se6+ 6
+O2- -2
+Rb1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au3+ 2 a 0. 0. 0. 0.0218(4) 1 0
+Se1 Se6+ 4 i 0.19950(18) 0.5 0.1579(3) 0.0170(4) 1 0
+O1 O2- 4 i 0.1757(15) 0.5 0.926(2) 0.024(3) 1 0
+O2 O2- 8 j 0.1166(10) 0.2529(17) 0.2097(14) 0.0253(19) 1 0
+O3 O2- 4 i 0.3538(14) 0.5 0.330(2) 0.030(3) 1 0
+Rb1 Rb1+ 2 d 0. 0.5 0.5 0.0304(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au1 Au3+ 0.0269(6) 0.0126(5) 0.0263(6) 0. 0.0123(5) 0.
+Se1 Se6+ 0.0202(9) 0.0101(8) 0.0195(9) 0. 0.0077(8) 0.
+O1 O2- 0.028(7) 0.024(6) 0.021(6) 0. 0.011(6) 0.
+O2 O2- 0.037(5) 0.016(4) 0.025(5) -0.006(4) 0.015(4) -0.001(4)
+O3 O2- 0.014(7) 0.030(7) 0.029(8) 0. -0.006(6) 0.
+Rb1 Rb1+ 0.0415(18) 0.0236(13) 0.0225(14) 0. 0.0111(13) 0.
+#End of TTdata_413989-ICSD

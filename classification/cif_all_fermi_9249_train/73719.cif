@@ -1,0 +1,52 @@
+
+data_73719-ICSD
+_database_code_ICSD 73719
+_audit_creation_date 1995-01-10
+_chemical_name_systematic 'Tungsten oxide (3/8) - I'
+_chemical_formula_structural 'W3 O8'
+_chemical_formula_sum 'O8 W3'
+_chemical_name_structure_type U3O8
+_exptl_crystal_density_diffrn 8.92
+_cell_length_a 6.386(9)
+_cell_length_b 10.43(5)
+_cell_length_c 3.80(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 253.1
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 2 2 2'
+_symmetry_Int_Tables_number 21
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, -y, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W5+ 5.333
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W5+ 2 a 0 0 0 . 1. 0
+W2 W5+ 4 g 0 0.324(4) 0 . 1. 0
+O1 O2- 2 b 0 0.5 0 . 1. 0
+O2 O2- 2 d 0 0 0.5 . 1. 0
+O3 O2- 4 h 0 0.302(10) 0.5 . 1. 0
+O4 O2- 8 l 0.157(16) 0.152(10) 0.150(26) . 1. 0

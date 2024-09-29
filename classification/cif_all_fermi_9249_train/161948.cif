@@ -1,0 +1,57 @@
+
+data_161948-ICSD
+_database_code_ICSD 161948
+_audit_creation_date 2009-02-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Germanium octathiotetravanadate(III) - LT'
+_chemical_formula_structural 'Ge (V4 S8)'
+_chemical_formula_sum 'Ge1 S8 V4'
+_chemical_name_structure_type V4GeS8
+_exptl_crystal_density_diffrn 3.94
+_cell_measurement_temperature 25.
+_cell_length_a 6.8428(1)
+_cell_length_b 6.7994(1)
+_cell_length_c 9.6476(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 448.87
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m m 2'
+_symmetry_Int_Tables_number 44
+_refine_ls_R_factor_all 0.0307
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge4+ 4
+V3+ 3
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ge1 Ge4+ 2 a 0 0 0.0037(4) . 1. 0
+V1 V3+ 4 c 0.2100(4) 0 0.3936(4) . 1. 0
+V2 V3+ 4 d 0 0.8006(5) 0.5983(3) . 1. 0
+S1 S2- 4 d 0 0.7592(7) 0.3691(4) . 1. 0
+S2 S2- 4 d 0 0.7293(6) 0.8857(4) . 1. 0
+S3 S2- 4 c 0.2577(6) 0 0.6322(5) . 1. 0
+S4 S2- 4 c 0.2869(5) 0 0.1283(4) . 1. 0

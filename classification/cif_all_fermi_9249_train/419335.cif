@@ -1,0 +1,91 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_419335-ICSD
+_database_code_ICSD 419335
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Scandium oxide iodide'
+_chemical_formula_structural 'Sc O I'
+_chemical_formula_sum 'I1 O1 Sc1'
+_exptl_crystal_density_diffrn 4.64
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+A missing rare-earth oxide halide structure now observed for scandium oxide
+iodide, Sc O I
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2008
+634 2217 2220 ZAACAB
+loop_
+_publ_author_name
+'Zimmermann, S.'
+'Meyer, G.'
+_cell_length_a 19.333(6)
+_cell_length_b 3.8610(8)
+_cell_length_c 7.224(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 93.51(3)
+_cell_angle_gamma 90.
+_cell_volume 538.22
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc3+ 3
+O2- -2
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc3+ 4 i 0.30032(9) 0. -0.1170(2) 0.0164(4) 1 0
+Sc2 Sc3+ 4 i 0.29879(9) 0. 0.3839(2) 0.0162(4) 1 0
+O1 O2- 4 i 0.2442(3) 0. 0.1207(7) 0.0167(12) 1 0
+O2 O2- 4 i 0.2448(3) 0. -0.3731(7) 0.0189(13) 1 0
+I1 I1- 4 i 0.41636(3) 0. 0.15576(7) 0.0242(3) 1 0
+I2 I1- 4 i 0.39813(3) -0.5 -0.35182(7) 0.0242(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sc1 Sc3+ 0.0247(10) 0.0110(8) 0.0135(7) 0. 0.0015(7) 0.
+Sc2 Sc3+ 0.0251(10) 0.0108(8) 0.0132(7) 0. 0.0049(7) 0.
+O1 O2- 0.029(3) 0.012(3) 0.010(2) 0. 0.006(2) 0.
+O2 O2- 0.031(4) 0.009(3) 0.017(3) 0. 0.006(3) 0.
+I1 I1- 0.0257(5) 0.0265(4) 0.0207(4) 0. 0.0029(3) 0.
+I2 I1- 0.0260(5) 0.0217(4) 0.0249(4) 0. 0.0028(3) 0.
+#End of TTdata_419335-ICSD

@@ -1,0 +1,76 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1044-ICSD
+_database_code_ICSD 1044
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Dilithium tungstate - LT'
+_chemical_formula_structural 'Li2 (W O4)'
+_chemical_formula_sum 'Li2 O4 W1'
+_chemical_name_structure_type Li2WO4
+_exptl_crystal_density_diffrn 6.
+_publ_section_title
+
+;
+The structure of Li2 W O4 (IV). A high pressure polymorph of lithium
+wolframate. Structure determination by use of Guinier-Haegg powder diffraction
+data.
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Crystal Structure Communications' 1977 6 225 230 CSCMCS
+loop_
+_publ_author_name
+'Wilhelmi, K.A.'
+'Waltersson, K.'
+'Werner, P.E.'
+_cell_length_a 9.7551(8)
+_cell_length_b 5.9465(5)
+_cell_length_c 4.9932(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.563(7)
+_cell_angle_gamma 90.
+_cell_volume 289.64
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.092
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 4 e 0 -.1702(5) 0.25 0.43 1. 0
+O1 O2- 8 f 0.360(2) 0.124(4) 0.379(4) 3.1 1. 0
+O2 O2- 8 f 0.111(2) 0.920(4) 0.563(5) 2.3 1. 0
+Li1 Li1+ 8 f 0.326(4) 0.862(7) 0.195(9) 5. 1. 0
+#End of TTdata_1044-ICSD

@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_23316-ICSD
+_database_code_ICSD 23316
+_audit_creation_date 1984-09-05
+_chemical_name_systematic 'Antimony arsenate(V)'
+_chemical_formula_structural 'As Sb O4'
+_chemical_formula_sum 'As1 O4 Sb1'
+_chemical_name_structure_type SbPO4
+_exptl_crystal_density_diffrn 4.92
+_publ_section_title 'Antimony(III) Arsenic(V) Oxide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1980 36 1923 1925 ACBCAR
+loop_
+_publ_author_name
+'Jones, P.G.'
+'Sheldrick, G.M.'
+'Schwarzmann, E.'
+_cell_length_a 4.794(2)
+_cell_length_b 6.925(2)
+_cell_length_c 5.307(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 93.55(2)
+_cell_angle_gamma 90.
+_cell_volume 175.85
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As5+ 5
+Sb3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As5+ 2 e 0.7172(2) 0.25 0.1101(2) . 1. 0
+Sb1 Sb3+ 2 e 0.2067(2) 0.25 0.6782(2) . 1. 0
+O1 O2- 2 e 0.8348(25) 0.25 0.8190(24) 0.027(3) 1. 0
+O2 O2- 2 e 0.3699(29) 0.25 0.0375(29) 0.035(3) 1. 0
+O3 O2- 4 f 0.8069(20) 0.0625(17) 0.2847(20) 0.042(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 As5+ 0.013(1) 0.001(1) 0.010(1) 0 -.002(1) 0
+Sb1 Sb3+ 0.014(1) 0.020(1) 0.011(1) 0 0.002(1) 0
+#End of TTdata_23316-ICSD

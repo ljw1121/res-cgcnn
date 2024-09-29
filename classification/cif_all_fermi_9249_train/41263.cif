@@ -1,0 +1,106 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_41263-ICSD
+_database_code_ICSD 41263
+_audit_creation_date 1999-11-30
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Copper sulfide (9/5)'
+_chemical_formula_structural 'Cu9 S5'
+_chemical_formula_sum 'Cu9 S5'
+_chemical_name_structure_type Cu9S5
+_chemical_name_mineral Digenite
+_exptl_crystal_density_diffrn 5.67
+_publ_section_title
+
+;
+Atomic environment classification of the rhombohedral "intermetallic"
+structure types
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1993 201 11 16 JALCEU
+loop_
+_publ_author_name
+'Daams, J.L.C.'
+'Villars, P.'
+_cell_length_a 3.93
+_cell_length_b 3.93
+_cell_length_c 48.14
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 643.91
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 m H'
+_symmetry_Int_Tables_number 166
+_refine_ls_R_factor_all 0.09
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+1/3'
+14 '-x+2/3, -x+y+1/3, -z+1/3'
+15 'y+2/3, x+1/3, -z+1/3'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+1/3'
+20 'x+2/3, x-y+1/3, z+1/3'
+21 '-y+2/3, -x+1/3, z+1/3'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+2/3'
+26 '-x+1/3, -x+y+2/3, -z+2/3'
+27 'y+1/3, x+2/3, -z+2/3'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+2/3'
+32 'x+1/3, x-y+2/3, z+2/3'
+33 '-y+1/3, -x+2/3, z+2/3'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S2- -2
+Cu1+ 1.11
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+S1 S2- 3 a 0 0 0 . 1. 0
+S2 S2- 6 c 0 0 0.2 . 1. 0
+S3 S2- 6 c 0 0 0.4 . 1. 0
+Cu1 Cu1+ 3 b 0 0 0.5 . 1. 0
+Cu2 Cu1+ 6 c 0 0 0.06 . 1. 0
+Cu3 Cu1+ 6 c 0 0 0.133 . 1. 0
+Cu4 Cu1+ 6 c 0 0 0.25 . 1. 0
+Cu5 Cu1+ 6 c 0 0 0.35 . 1. 0
+#End of TTdata_41263-ICSD

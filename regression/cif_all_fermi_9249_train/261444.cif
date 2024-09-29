@@ -1,0 +1,75 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_261444-ICSD
+_database_code_ICSD 261444
+_audit_creation_date 2011-08-01
+_chemical_name_systematic 'Dirubidium sulfide - HP phase II'
+_chemical_formula_structural 'Rb2 S'
+_chemical_formula_sum 'Rb2 S1'
+_chemical_name_structure_type TiNiSi-MgSrSi
+_exptl_crystal_density_diffrn 3.25
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+High-pressure experimental study on Rb2 S: antifluorite to Ni2 In-type phase
+transitions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2011 67 109 115
+ASBSDK
+loop_
+_publ_author_name
+'Santamaria-Perez, D.'
+'Vegas, A.'
+'Muehle, C.'
+'Jansen, M.'
+_cell_length_a 8.167(10)
+_cell_length_b 5.101(6)
+_cell_length_c 9.957(11)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 414.81
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.091
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 4 c 0.0390(10) 0.25 0.1891(4) . 1. 0
+Rb2 Rb1+ 4 c 0.1652(6) 0.25 0.5778(5) . 1. 0
+S1 S2- 4 c 0.224(3) 0.25 0.8892(12) . 1. 0
+#End of TTdata_261444-ICSD

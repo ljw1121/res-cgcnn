@@ -1,0 +1,83 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_453-ICSD
+_database_code_ICSD 453
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Nickel tin sulfide (3/2/2)'
+_chemical_formula_structural 'Ni3 Sn2 S2'
+_chemical_formula_sum 'Ni3 S2 Sn2'
+_exptl_crystal_density_diffrn 7.
+_publ_section_title 'The crystal structure of Ni3 Sn2 S2 and related compounds'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1976 45 185 191 JCOMAH
+loop_
+_publ_author_name
+'Michelet, A.'
+'Collin, G.'
+_cell_length_a 9.331(3)
+_cell_length_b 5.403(2)
+_cell_length_c 5.458(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 124.55(2)
+_cell_volume 226.64
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'B 1 1 2/m'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.04
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, z'
+2 '-x, -y, -z'
+3 'x, y, -z'
+4 'x, y, z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x+1/2, -y, -z+1/2'
+7 'x+1/2, y, -z+1/2'
+8 'x+1/2, y, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn0+ 0
+Ni0+ 0
+S0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn0+ 2 a 0 0 0 . 1. 0
+Sn2 Sn0+ 2 c 0.5 0.5 0 . 1. 0
+Ni1 Ni0+ 4 f 0.25 0.5 0.25 . 1. 0
+Ni2 Ni0+ 2 b 0 0 0.5 . 1. 0
+S1 S0+ 4 i 0.2178(5) 0.7821(8) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Sn1 Sn0+ 0.0036(2) 0.0091(6) 0.0090(5) 0.0003(3) 0 0
+Sn2 Sn0+ 0.0037(2) 0.0133(7) 0.0138(6) 0.0041(3) 0 0
+Ni1 Ni0+ 0.0031(3) 0.0090(8) 0.0094(6) 0.0020(4) 0.0001(3) 0.0016(6)
+Ni2 Ni0+ 0.0019(4) 0.0087(12) 0.0108(9) 0.0005(5) 0 0
+S1 S0+ 0.0022(5) 0.0071(15) 0.0093(11) 0.0012(7) 0 0
+#End of TTdata_453-ICSD

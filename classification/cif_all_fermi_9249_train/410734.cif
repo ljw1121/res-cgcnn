@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_410734-ICSD
+_database_code_ICSD 410734
+_audit_creation_date 1999-11-30
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Dipotassium tritelluridozirconate'
+_chemical_formula_structural 'K2 (Zr Te3)'
+_chemical_formula_sum 'K2 Te3 Zr1'
+_chemical_name_structure_type K2ZrTe3
+_exptl_crystal_density_diffrn 4.25
+_publ_section_title
+
+;
+Komplexe Chalcogenide der IVa Metalle mit niedrigdimensionalen anionischen
+Partialstrukturen. Darstellung und Kristallstruktur von K2 Zr Te3 und Rb2 Zr
+Te3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 1999 54 441 446
+ZNBSEN
+loop_
+_publ_author_name
+'Klepp, K.O.'
+'Kolb, A.'
+_cell_length_a 9.089(3)
+_cell_length_b 14.148(4)
+_cell_length_c 6.986(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.90(1)
+_cell_angle_gamma 90.
+_cell_volume 863.97
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Zr4+ 4
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 e 0.6632(4) 0.0398(3) 0.3386(5) . 1. 0
+K2 K1+ 4 e 0.8941(4) 0.1359(2) 0.9434(6) . 1. 0
+Zr1 Zr4+ 4 e 0.2922(1) 0.25110(9) 0.3068(2) . 1. 0
+Te1 Te2- 4 e 0.27607(9) 0.08483(6) 0.0732(1) . 1. 0
+Te2 Te2- 4 e 0.53520(9) 0.18638(7) 0.6621(1) . 1. 0
+Te3 Te2- 4 e 0.07378(8) 0.15113(6) 0.4987(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.040(2) 0.052(2) 0.046(2) 0.003(2) 0.012(1) -.018(1)
+K2 K1+ 0.030(2) 0.042(2) 0.078(2) -.013(1) -.021(2) 0.019(2)
+Zr1 Zr4+ 0.0224(5) 0.0281(6) 0.0113(4) -.0005(5) -.0021(4) -.0007(5)
+Te1 Te2- 0.0299(4) 0.0203(3) 0.0161(3) -.0006(3) -.0005(3) 0.0000(3)
+Te2 Te2- 0.0195(3) 0.0445(5) 0.0162(3) 0.0110(4) -.0027(3) 0.0017(4)
+Te3 Te2- 0.0210(3) 0.0279(4) 0.0173(3) -.0053(3) -.0016(3) -.0008(3)
+#End of TTdata_410734-ICSD

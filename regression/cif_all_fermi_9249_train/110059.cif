@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_110059-ICSD
+_database_code_ICSD 110059
+_audit_creation_date 2008-02-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Tetramethylammonium trichlorocadmate - LT'
+_chemical_formula_structural '((C H3)4 N) (Cd Cl3)'
+_chemical_formula_sum 'C4 H12 Cd1 Cl3 N1'
+_exptl_crystal_density_diffrn 2.07
+_cell_measurement_temperature 103.
+_publ_section_title
+
+;
+X-ray diffraction study of the phase transitions of N (C H3)4 Cd Cl3 between
+293 K and 80 K: A quantitative analysis of the ferroelastic domains
+distribution below 118 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2000 56 215 225
+ASBSDK
+loop_
+_publ_author_name
+'Peral, I.'
+'Madariaga, G.'
+'Perez-Etxebarria, A.'
+'Breczewski, T.'
+_cell_length_a 9.334(2)
+_cell_length_b 8.7963(15)
+_cell_length_c 6.688(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.958(13)
+_cell_volume 470.89
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 1 21/m'
+_symmetry_Int_Tables_number 11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z+1/2'
+2 '-x, -y, -z'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+Cl1- -1
+N3- -3
+C2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cd1 Cd2+ 2 a 0 0 0 . 1. 0
+Cl1 Cl1- 2 e .1 0.262 .25 . 1. 0
+Cl2 Cl1- 2 e .237 0.169 .75 . 1. 0
+Cl3 Cl1- 2 e .833 .091 .75 . 1. 0
+N1 N3- 2 e .299 .648 .75 . 1. 0
+C1 C2- 2 e .372 .843 .75 . 1. 0
+#End of TTdata_110059-ICSD

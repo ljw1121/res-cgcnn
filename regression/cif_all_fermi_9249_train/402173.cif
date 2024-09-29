@@ -1,0 +1,177 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_402173-ICSD
+_database_code_ICSD 402173
+_audit_creation_date 1996-04-22
+_chemical_name_systematic 'Lithium tetrastrontium tris(dinitridoborate)'
+_chemical_formula_structural 'Li1 Sr4 (B N2)3'
+_chemical_formula_sum 'B3 Li1 N6 Sr4'
+_chemical_name_structure_type Sr9B6N12
+_exptl_crystal_density_diffrn 3.8
+_publ_section_title
+
+;
+Crystal structure of lithium tetrastrontium tris(dinitridoborate), Li Sr4 (B
+N2)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1996 211 54 54 ZEKRDZ
+loop_
+_publ_author_name
+'Somer, M.'
+'Herterich, U.'
+'Curda, J.'
+'Peters, K.'
+'von Schnering, H.G.'
+_cell_length_a 7.456(1)
+_cell_length_b 7.456(1)
+_cell_length_c 7.456(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 414.49
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m -3 m'
+_symmetry_Int_Tables_number 229
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z, y, -x'
+2 'y, x, -z'
+3 'x, z, -y'
+4 'z, x, -y'
+5 'y, z, -x'
+6 'x, y, -z'
+7 'z, -y, x'
+8 'y, -x, z'
+9 'x, -z, y'
+10 'z, -x, y'
+11 'y, -z, x'
+12 'x, -y, z'
+13 '-z, y, x'
+14 '-y, x, z'
+15 '-x, z, y'
+16 '-z, x, y'
+17 '-y, z, x'
+18 '-x, y, z'
+19 '-z, -y, -x'
+20 '-y, -x, -z'
+21 '-x, -z, -y'
+22 '-z, -x, -y'
+23 '-y, -z, -x'
+24 '-x, -y, -z'
+25 '-z, -y, x'
+26 '-y, -x, z'
+27 '-x, -z, y'
+28 '-z, -x, y'
+29 '-y, -z, x'
+30 '-x, -y, z'
+31 '-z, y, -x'
+32 '-y, x, -z'
+33 '-x, z, -y'
+34 '-z, x, -y'
+35 '-y, z, -x'
+36 '-x, y, -z'
+37 'z, -y, -x'
+38 'y, -x, -z'
+39 'x, -z, -y'
+40 'z, -x, -y'
+41 'y, -z, -x'
+42 'x, -y, -z'
+43 'z, y, x'
+44 'y, x, z'
+45 'x, z, y'
+46 'z, x, y'
+47 'y, z, x'
+48 'x, y, z'
+49 'z+1/2, y+1/2, -x+1/2'
+50 'y+1/2, x+1/2, -z+1/2'
+51 'x+1/2, z+1/2, -y+1/2'
+52 'z+1/2, x+1/2, -y+1/2'
+53 'y+1/2, z+1/2, -x+1/2'
+54 'x+1/2, y+1/2, -z+1/2'
+55 'z+1/2, -y+1/2, x+1/2'
+56 'y+1/2, -x+1/2, z+1/2'
+57 'x+1/2, -z+1/2, y+1/2'
+58 'z+1/2, -x+1/2, y+1/2'
+59 'y+1/2, -z+1/2, x+1/2'
+60 'x+1/2, -y+1/2, z+1/2'
+61 '-z+1/2, y+1/2, x+1/2'
+62 '-y+1/2, x+1/2, z+1/2'
+63 '-x+1/2, z+1/2, y+1/2'
+64 '-z+1/2, x+1/2, y+1/2'
+65 '-y+1/2, z+1/2, x+1/2'
+66 '-x+1/2, y+1/2, z+1/2'
+67 '-z+1/2, -y+1/2, -x+1/2'
+68 '-y+1/2, -x+1/2, -z+1/2'
+69 '-x+1/2, -z+1/2, -y+1/2'
+70 '-z+1/2, -x+1/2, -y+1/2'
+71 '-y+1/2, -z+1/2, -x+1/2'
+72 '-x+1/2, -y+1/2, -z+1/2'
+73 '-z+1/2, -y+1/2, x+1/2'
+74 '-y+1/2, -x+1/2, z+1/2'
+75 '-x+1/2, -z+1/2, y+1/2'
+76 '-z+1/2, -x+1/2, y+1/2'
+77 '-y+1/2, -z+1/2, x+1/2'
+78 '-x+1/2, -y+1/2, z+1/2'
+79 '-z+1/2, y+1/2, -x+1/2'
+80 '-y+1/2, x+1/2, -z+1/2'
+81 '-x+1/2, z+1/2, -y+1/2'
+82 '-z+1/2, x+1/2, -y+1/2'
+83 '-y+1/2, z+1/2, -x+1/2'
+84 '-x+1/2, y+1/2, -z+1/2'
+85 'z+1/2, -y+1/2, -x+1/2'
+86 'y+1/2, -x+1/2, -z+1/2'
+87 'x+1/2, -z+1/2, -y+1/2'
+88 'z+1/2, -x+1/2, -y+1/2'
+89 'y+1/2, -z+1/2, -x+1/2'
+90 'x+1/2, -y+1/2, -z+1/2'
+91 'z+1/2, y+1/2, x+1/2'
+92 'y+1/2, x+1/2, z+1/2'
+93 'x+1/2, z+1/2, y+1/2'
+94 'z+1/2, x+1/2, y+1/2'
+95 'y+1/2, z+1/2, x+1/2'
+96 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Sr2+ 2
+N3- -3
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 a 0 0 0 0.02805 1. 0
+Sr1 Sr2+ 8 c 0.25 0.25 0.25 . 1. 0
+N1 N3- 12 e 0.3179(13) 0 0 . 1. 0
+B1 B3+ 6 b 0 0.5 0.5 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr2+ 0.01393(78) 0.01393(78) 0.01393(78) -.00078(21) -.00078(21) -.00078(21)
+N1 N3- 0.0192(46) 0.0153(27) 0.0153(27) 0 0 0
+B1 B3+ 0.0203 0.0105(37) 0.0105(37) 0 0 0
+#End of TTdata_402173-ICSD

@@ -1,0 +1,76 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_106857-ICSD
+_database_code_ICSD 106857
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Indium sodium (1/2)'
+_chemical_formula_structural 'In Na2'
+_chemical_formula_sum 'In1 Na2'
+_chemical_name_structure_type Na2Tl
+_exptl_crystal_density_diffrn 2.97
+_publ_section_title
+
+;
+Synthesis, characterization, and bonding of indium cluster phases: Na15
+In27.4, a network of In16 and In11 clusters; Na2 In with isolated indium
+tetrahedra
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1993 103 114 130 JSSCBI
+loop_
+_publ_author_name
+'Sevov, S.C.'
+'Corbett, J.D.'
+_cell_length_a 13.855(1)
+_cell_length_b 8.836(1)
+_cell_length_c 11.762(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1439.94
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'C 2 2 21'
+_symmetry_Int_Tables_number 20
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 'x, -y, -z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In0+ 0
+Na0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In0+ 8 c 0.28762(6) 0.04329(8) 0.12622(7) 2.13(3) 1. 0
+In2 In0+ 8 c 0.05297(7) 0.6735(1) 0.52604(7) 2.98(4) 1. 0
+Na1 Na0+ 4 a 0.0659(5) 0 0 3.3(3) 1. 0
+Na2 Na0+ 4 b 0 0.5897(7) 0.25 3.6(3) 1. 0
+Na3 Na0+ 8 c 0.3020(4) 0.1963(5) 0.4181(5) 4.0(3) 1. 0
+Na4 Na0+ 8 c 0.1219(3) 0.2749(5) 0.2077(4) 3.5(2) 1. 0
+Na5 Na0+ 8 c 0.3625(4) 0.4131(6) 0.1673(5) 4.2(3) 1. 0
+#End of TTdata_106857-ICSD

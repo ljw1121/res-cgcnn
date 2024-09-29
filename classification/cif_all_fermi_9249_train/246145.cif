@@ -1,0 +1,100 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_246145-ICSD
+_database_code_ICSD 246145
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Hexadecabismuth tetraiodide'
+_chemical_formula_structural 'Bi16 I4'
+_chemical_formula_sum 'Bi16 I4'
+_exptl_crystal_density_diffrn 8.82
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Bi16 I4 - A new bismuth subiodide: An analysis of molecular packing and
+electronic structures of the compounds in the Bim I4 (m = 14, 16, 18) family
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry  (online)' 2008 2008 5196 5202
+EJICFO
+loop_
+_publ_author_name
+'Lindsjoe, M.'
+'Kloo, L.'
+'Kuznetzov, A.'
+'Popovkin, B.'
+_cell_length_a 25.948(6)
+_cell_length_b 4.354(1)
+_cell_length_c 13.259(2)
+_cell_angle_alpha 90
+_cell_angle_beta 104.48(2)
+_cell_angle_gamma 90
+_cell_volume 1450.39
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi0+ 0.25
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi0+ 4 i 0.29029(3) 0.5 0.37236(5) . 1. 0
+Bi2 Bi0+ 4 i 0.37183(3) 0 0.36456(5) . 1. 0
+Bi3 Bi0+ 4 i 0.34041(3) 0 0.12824(5) . 1. 0
+Bi4 Bi0+ 4 i 0.42083(3) 0.5 0.11761(5) . 1. 0
+Bi5 Bi0+ 4 i 0.38526(3) 0.5 -0.11969(5) . 1. 0
+Bi6 Bi0+ 4 i 0.46523(3) 0 -0.13141(5) . 1. 0
+Bi7 Bi0+ 4 i 0.43458(3) 0 -0.37008(5) . 1. 0
+Bi8 Bi0+ 4 i 0.51444(3) 0.5 -0.38081(5) . 1. 0
+I1 I1- 4 i 0.23017(5) 0.5 0.13404(9) . 1. 0
+I2 I1- 4 i 0.31981(5) 0.5 0.61387(9) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi0+ 0.0206(4) 0.0205(4) 0.0140(4) 0.0049(3) 0. 0.
+Bi2 Bi0+ 0.0163(4) 0.0216(4) 0.0113(3) 0.0021(3) 0. 0.
+Bi3 Bi0+ 0.0187(4) 0.0198(4) 0.0105(3) 0.0030(3) 0. 0.
+Bi4 Bi0+ 0.0174(4) 0.0207(4) 0.0110(4) 0.0029(3) 0. 0.
+Bi5 Bi0+ 0.0187(4) 0.0187(4) 0.0104(4) 0.0034(3) 0. 0.
+Bi6 Bi0+ 0.0172(4) 0.0195(4) 0.0108(4) 0.0019(3) 0. 0.
+Bi7 Bi0+ 0.0192(4) 0.0195(5) 0.0106(4) 0.0028(3) 0. 0.
+Bi8 Bi0+ 0.0172(5) 0.0198(5) 0.0118(4) 0.0032(3) 0. 0.
+I1 I1- 0.0199(7) 0.0271(8) 0.0163(6) -0.0003(5) 0. 0.
+I2 I1- 0.0201(7) 0.0232(8) 0.0121(6) 0.0038(5) 0. 0.
+#End of TTdata_246145-ICSD

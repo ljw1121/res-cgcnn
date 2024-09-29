@@ -1,0 +1,68 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_22138-ICSD
+_database_code_ICSD 22138
+_audit_creation_date 1986-10-21
+_chemical_name_systematic 'Lead bromide iodide'
+_chemical_formula_structural 'Pb Br I'
+_chemical_formula_sum 'Br1 I1 Pb1'
+_chemical_name_structure_type PbCl2
+_exptl_crystal_density_diffrn 6.8
+_publ_section_title 'The crystal structures of some mixed halides of lead.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1969 25 796 800 ACBCAR
+loop_
+_publ_author_name
+'Goodyear, J.'
+'Ali, S.A.D.'
+'Duffin, W.J.'
+_cell_length_a 8.674(5)
+_cell_length_b 10.483(5)
+_cell_length_c 4.448(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 404.45
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a m'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.116
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 'x, y, -z+1/2'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+Br1- -1
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 4 c 0.1624(2) 0.1578(2) 0.25 3.33 1. 0
+Br1 Br1- 4 c 0.8412(3) 0.0542(4) 0.25 1.8 1. 0
+I1 I1- 4 c 0.5007(3) 0.8288(2) 0.25 2.42 1. 0
+#End of TTdata_22138-ICSD

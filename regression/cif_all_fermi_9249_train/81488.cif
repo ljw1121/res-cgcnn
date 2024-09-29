@@ -1,0 +1,86 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_81488-ICSD
+_database_code_ICSD 81488
+_audit_creation_date 1997-11-05
+_chemical_name_systematic 'Iron tungsten(IV) nitride'
+_chemical_formula_structural 'Fe W N2'
+_chemical_formula_sum 'Fe1 N2 W1'
+_chemical_name_structure_type MoNiP2
+_exptl_crystal_density_diffrn 11.35
+_publ_section_title
+'Synthesis and structure of two new ternary nitrides: Fe W N2 and Mn Mo N2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1996 35 581 585 INOCAJ
+loop_
+_publ_author_name
+'Bem, D.S.'
+'Lampe-Oennerud, C.M.'
+'Olsen, H.P.'
+'zur Loye, H.C.'
+_cell_length_a 2.87630(5)
+_cell_length_b 2.87630(5)
+_cell_length_c 10.9320(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 78.32
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.066
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+W4+ 4
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 2 a 0 0 0 0.0239(7) 1. 0
+W1 W4+ 2 b 0 0 0.25 0.0077(3) 1. 0
+N1 N3- 4 f 0.3333 0.6667 0.3757(7) 0.003(2) 1. 0
+#End of TTdata_81488-ICSD

@@ -1,0 +1,56 @@
+
+data_77791-ICSD
+_database_code_ICSD 77791
+_audit_creation_date 2003-04-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Scandium ruthenium phosphide (2/12/7)'
+_chemical_formula_structural 'Sc2 Ru12 P7'
+_chemical_formula_sum 'P7 Ru12 Sc2'
+_chemical_name_structure_type Zr2Fe12P7
+_exptl_crystal_density_diffrn 8.69
+_cell_length_a 9.31(8)
+_cell_length_b 9.31
+_cell_length_c 3.87(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 290.5
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -6'
+_symmetry_Int_Tables_number 174
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z'
+2 '-y, x-y, -z'
+3 'x, y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc0+ 0
+Ru0+ 0
+P0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc0+ 1 c 0.3333 0.6667 0 . 1. 0
+Sc2 Sc0+ 1 f 0.6667 0.3333 0.5 . 1. 0
+Ru1 Ru0+ 3 j 0.6374 0.5705 0 . 1. 0
+Ru2 Ru0+ 3 j 0.1637 0.2745 0 . 1. 0
+Ru3 Ru0+ 3 k 0.5545 0.9461 0.5 . 1. 0
+Ru4 Ru0+ 3 k 0.9113 0.1228 0.5 . 1. 0
+P1 P0+ 1 a 0 0 0 . 1. 0
+P2 P0+ 3 j 0.6951 0.1195 0 . 1. 0
+P3 P0+ 3 k 0.1233 0.4053 0.5 . 1. 0

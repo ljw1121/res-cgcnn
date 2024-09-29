@@ -1,0 +1,80 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_82148-ICSD
+_database_code_ICSD 82148
+_audit_creation_date 1999-11-30
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Chromium phosphide (2/1)'
+_chemical_formula_structural 'Cr2 P'
+_chemical_formula_sum 'Cr2 P1'
+_chemical_name_structure_type Cr2P
+_exptl_crystal_density_diffrn 6.17
+_publ_section_title
+
+;
+La structure cristalline de Cr2 P: Distorsion orthorhombique de la structure
+hexagonale de type Fe2 P
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1996 123 306 312 JSSCBI
+loop_
+_publ_author_name
+'Artigas, M.'
+'Bacmann, M.'
+'Fruchart, D.'
+'Fruchart, R.'
+_cell_length_a 6.6097(1)
+_cell_length_b 10.4023(2)
+_cell_length_c 6.3371(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 435.71
+_cell_formula_units_Z 12
+_symmetry_space_group_name_H-M 'I m m 2'
+_symmetry_Int_Tables_number 44
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr0+ 0
+P0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr0+ 2 a 0 0 0.3813(10) 1.0(1) 1. 0
+Cr2 Cr0+ 2 b 0 0.5 0.9392(10) 1.1(1) 1. 0
+Cr3 Cr0+ 4 d 0.5 0.2896(4) 0.3462(10) 0.75(7) 1. 0
+Cr4 Cr0+ 4 d 0 0.2908(4) 0.2681(8) 0.90(8) 1. 0
+Cr5 Cr0+ 4 c 0.2055(5) 0 0.7412(6) 0.40(6) 1. 0
+Cr6 Cr0+ 8 e 0.2892(4) 0.1245(2) 0.1280(5) 0.53(5) 1. 0
+P1 P0+ 2 a 0 0 0.0274(8) 0.67(7) 1. 0
+P2 P0+ 2 b 0 0.5 0.4274(8) 0.83(7) 1. 0
+P3 P0+ 8 e 0.2680(3) 0.3337(2) 0 0.61(3) 1. 0
+#End of TTdata_82148-ICSD

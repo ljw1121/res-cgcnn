@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_631852-ICSD
+_database_code_ICSD 631852
+_audit_creation_date 2012-02-01
+_chemical_name_systematic 'Yttrium iron gallide (1/6/6)'
+_chemical_formula_structural 'Y Fe6 Ga6'
+_chemical_formula_sum 'Fe6 Ga6 Y1'
+_chemical_name_structure_type Fe6Ga6Sc
+_exptl_crystal_density_diffrn 7.45
+_publ_section_title
+
+;
+Magnetism and crystal chemistry in RE Fe12-x Gax (RE =Y, Ce, Pr, Nd, Sm, Gd,
+Tb, Dy, Ho, Er, Tm, Yb, Lu and MM = mischmetal) and (Zr, Pr) (Fe1-x Cox)12-y
+Gay
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Applied Physics' 1990 68 3512 3517 JAPIAU
+loop_
+_publ_author_name
+'Weitzer, F.'
+'Hiebl, K.'
+'Rogl, R.'
+'Grin', Yu.N.'
+_cell_length_a 5.0715(22)
+_cell_length_b 8.5438(27)
+_cell_length_c 8.6707(54)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 375.7
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m m m'
+_symmetry_Int_Tables_number 71
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 'x, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x, -y, z'
+6 '-x, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x+1/2, y+1/2, -z+1/2'
+10 'x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 '-x+1/2, -y+1/2, z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe0+ 0
+Ga0+ 0
+Y0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe0+ 4 h 0 0.257 0.5 . 1. 0
+Fe2 Fe0+ 8 k 0.25 0.25 0.25 . 1. 0
+Ga1 Ga0+ 4 g 0 0.336 0 . 1. 0
+Ga2 Ga0+ 4 i 0 0 0.345 . 1. 0
+Ga3 Ga0+ 4 j 0.5 0 0.835 . 1. 0
+Y1 Y0+ 2 a 0 0 0 . 1. 0
+#End of TTdata_631852-ICSD

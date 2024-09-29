@@ -1,0 +1,86 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_84789-ICSD
+_database_code_ICSD 84789
+_audit_creation_date 1999-01-19
+_audit_update_record 2003-04-01
+_chemical_name_systematic 'Copper diantimonate - alpha, HT'
+_chemical_formula_structural 'Cu (Sb2 O6)'
+_chemical_formula_sum 'Cu1 O6 Sb2'
+_chemical_name_structure_type ZnSb2O6
+_exptl_crystal_density_diffrn 6.73
+_cell_measurement_temperature 400.
+_publ_section_title
+
+;
+The geometry and electronic structure of the Cu(2+) polyhedra in
+trirutile-type compounds Zn (Mg)1-x Cux Sb2 O6 and the dimorphism of Cu Sb2
+O6: a solid state and EPR study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1997 131 263 274 JSSCBI
+loop_
+_publ_author_name
+'Giere, E.O.'
+'Brahimi, A.'
+'Deiseroth, H.J.'
+'Reinen, D.'
+_cell_length_a 4.6291(13)
+_cell_length_b 4.6291(13)
+_cell_length_c 9.2882(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 199.03
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_symmetry_Int_Tables_number 136
+_refine_ls_R_factor_all 0.015
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x+1/2, -z+1/2'
+2 'y+1/2, -x+1/2, -z+1/2'
+3 'y, x, -z'
+4 '-y, -x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-y, -x, z'
+8 'y, x, z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, y, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Sb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 2 a 0 0 0 0.64(9) 1. 0
+Sb1 Sb5+ 4 e 0 0 0.33249(3) 0.47(2) 1. 0
+O1 O2- 4 f 0.3095(8) 0.3095(8) 0 0.61(9) 1. 0
+O2 O2- 8 j 0.3014(5) 0.3014(5) 0.3271(3) 0.74(6) 1. 0
+#End of TTdata_84789-ICSD

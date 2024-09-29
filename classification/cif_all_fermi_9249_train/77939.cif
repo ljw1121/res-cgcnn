@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_77939-ICSD
+_database_code_ICSD 77939
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Lanthanum nickel boride nitride (1/1/1/1)'
+_chemical_formula_structural 'La Ni B N'
+_chemical_formula_sum 'B1 La1 N1 Ni1'
+_chemical_name_structure_type BaNiS2
+_exptl_crystal_density_diffrn 6.95
+_publ_section_title
+
+;
+Structure of the 13 K superconductor La3 Ni2 B2 N3 and the related phase La Ni
+B N
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Nature (London)' 1994 372 759 761 NATUAS
+loop_
+_publ_author_name
+'Zandbergen, H.W.'
+'Jansen, J.'
+'Cava, R.J.'
+'Krajewski, J.J.'
+'Peck, W.F.jr.'
+_cell_length_a 3.73
+_cell_length_b 3.73
+_cell_length_c 7.64
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 106.29
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n m m Z'
+_symmetry_Int_Tables_number 129
+_refine_ls_R_factor_all 0.125
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z'
+2 '-y, x+1/2, -z'
+3 'y+1/2, -x, -z'
+4 '-y, -x, -z'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 'y, -x+1/2, z'
+11 '-y+1/2, x, z'
+12 'y, x, z'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z'
+15 '-x+1/2, y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Ni2+ 2
+B2- -2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 2 c 0.25 0.25 0.170(2) 0.003(4) 1. 0
+Ni1 Ni2+ 2 b 0.75 0.25 0.5 0.07(1) 1. 0
+B1 B2- 2 c 0.75 0.75 0.44(2) 0.25(12) 1. 0
+N1 N3- 2 c 0.75 0.75 0.18(2) 0.06(3) 1. 0
+#End of TTdata_77939-ICSD

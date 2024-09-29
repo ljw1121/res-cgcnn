@@ -1,0 +1,101 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_249923-ICSD
+_database_code_ICSD 249923
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Potassium thallium auride (3/1/5)'
+_chemical_formula_structural 'K3 Au5 Tl'
+_chemical_formula_sum 'Au5 K3 Tl1'
+_chemical_name_structure_type Au5K3Tl
+_exptl_crystal_density_diffrn 9.34
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Gold tetrahedra as building blocks in K3 Au5 Tr (Tr = In, Tl) and rb2 Au3 Tl
+and in other compounds: A broad group of electron-poor intermetallic phases
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2009 48 6573 6583 INOCAJ
+loop_
+_publ_author_name
+'Li Bin'
+'Kim Sung Jin'
+'Miller, G.J.'
+'Corbett, J.D.'
+_cell_length_a 5.595(1)
+_cell_length_b 19.706(4)
+_cell_length_c 8.430(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 929.45
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I m m a'
+_symmetry_Int_Tables_number 74
+_refine_ls_R_factor_all 0.0433
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 '-x, -y+1/2, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y+1/2, z'
+6 'x, y+1/2, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y, -z+1/2'
+10 '-x+1/2, -y, z+1/2'
+11 '-x+1/2, y+1/2, z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'x+1/2, -y, z+1/2'
+14 'x+1/2, y, -z+1/2'
+15 'x+1/2, -y+1/2, -z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au0+ 0
+Tl0+ 0
+K0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au0+ 8 h 0. 0.14381(5) 0.04153(13) 0.0211(3) 1 0
+Au2 Au0+ 8 g 0.25 0.06181(5) 0.25 0.0183(3) 1 0
+Au3 Au0+ 4 a 0. 0. 0. 0.0167(4) 1 0
+Tl1 Tl0+ 4 e 0. 0.25 0.83638(18) 0.0220(4) 1 0
+K1 K0+ 8 h 0. 0.0879(3) 0.6223(8) 0.0245(12) 1 0
+K2 K0+ 4 e 0. 0.25 0.3798(12) 0.031(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au1 Au0+ 0.0164(5) 0.0171(5) 0.0298(6) 0. 0. 0.0034(4)
+Au2 Au0+ 0.0102(5) 0.0217(5) 0.0230(6) 0. -0.0028(3) 0.
+Au3 Au0+ 0.0124(6) 0.0164(6) 0.0212(7) 0. 0. -0.0022(5)
+Tl1 Tl0+ 0.0224(7) 0.0172(6) 0.0264(8) 0. 0. 0.
+K1 K0+ 0.016(3) 0.028(3) 0.029(3) 0. 0. 0.001(3)
+K2 K0+ 0.021(4) 0.041(5) 0.031(5) 0. 0. 0.
+#End of TTdata_249923-ICSD

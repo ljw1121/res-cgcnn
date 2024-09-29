@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_27310-ICSD
+_database_code_ICSD 27310
+_audit_creation_date 1980-01-01
+_audit_update_record 1985-05-17
+_chemical_name_systematic 'Tricopper vanadate'
+_chemical_formula_structural 'Cu3 V2 O8'
+_chemical_formula_sum 'Cu3 O8 V2'
+_chemical_name_structure_type Mg3(PO4)2
+_exptl_crystal_density_diffrn 4.71
+_publ_section_title 'Crystal Structure of a New Form of Cu3 V2 O8'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Journal of Chemistry' 1972 50 3944 3949 CJCHAG
+loop_
+_publ_author_name
+'Shannon, R.D.'
+'Calvo, C.'
+_cell_length_a 6.2493(9)
+_cell_length_b 7.9936(9)
+_cell_length_c 6.3776(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.49(1)
+_cell_angle_gamma 90.
+_cell_volume 296.44
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.054
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 2 a 0 0 0 . 1. 0
+Cu2 Cu2+ 4 e 0.2638(2) 0.2454(1) 0.3915(1) . 1. 0
+V1 V5+ 4 e 0.2510(1) 0.6185(1) 0.1418(1) . 1. 0
+O1 O2- 4 e 0.0105(8) 0.7622(6) 0.0351(8) . 1. 0
+O2 O2- 4 e 0.2324(8) 0.4923(6) 0.3573(7) . 1. 0
+O3 O2- 4 e 0.5024(8) 0.7261(6) 0.2382(7) . 1. 0
+O4 O2- 4 e 0.7518(8) 0.5024(6) 0.0727(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.0139(6) 0.0048(5) 0.0131(5) 0 0.0118(4) 0
+Cu2 Cu2+ 0.0110(5) 0.0060(5) 0.0109(5) 0.0005(3) 0.0091(3) 0.0004(3)
+V1 V5+ 0.0081(5) 0.0048(5) 0.0072(5) -.0002(3) 0.0059(4) 0.0000(3)
+O1 O2- 0.0093(18) 0.0086(19) 0.0145(19) -.0010(13) 0.0093(16) -.0012(14)
+O2 O2- 0.0143(20) 0.010(2) 0.0102(19) 0.0022(13) 0.0110(16) 0.0029(13)
+O3 O2- 0.0121(19) 0.0108(19) 0.0111(19) -.0030(15) 0.0091(15) -.0022(14)
+O4 O2- 0.0154(20) 0.0069(18) 0.0087(17) 0.0001(13) 0.0076(15) -.0012(14)
+#End of TTdata_27310-ICSD

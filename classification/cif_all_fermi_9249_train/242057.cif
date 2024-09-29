@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_242057-ICSD
+_database_code_ICSD 242057
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Yttrium chloride molybdate(VI)'
+_chemical_formula_structural 'Y Cl (W O4)'
+_chemical_formula_sum 'Cl1 O4 W1 Y1'
+_chemical_name_structure_type GdWO4Cl
+_exptl_crystal_density_diffrn 5.12
+_publ_section_title
+
+;
+On halide derivatives of rare-earth metal(III) oxidomolybdates(VI) and
+-tungstates(VI)
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - Crystalline Materials' 2016 231 449
+466 ZKCMAJ
+loop_
+_publ_author_name
+'Schleid, Thomas'
+'Hartenbach, Ingo'
+_cell_length_a 10.2241(5)
+_cell_length_b 7.2291(3)
+_cell_length_c 6.8434(3)
+_cell_angle_alpha 90
+_cell_angle_beta 107.455(2)
+_cell_angle_gamma 90
+_cell_volume 482.51
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Cl1- -1
+W6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 i 0.22145(3) 0. 0.11369(5) . 1 0
+Cl1 Cl1- 4 i 0.011 0. 0.76 . 1 0
+W1 W6+ 4 i 0.36 0. 0.73 . 1 0
+O1 O2- 4 i 0.3 0. 0.47 . 1 0
+O2 O2- 4 i 0.46 0. 0.2 . 1 0
+O3 O2- 8 j 0.2 0.31 0.16 . 1 0
+#End of TTdata_242057-ICSD

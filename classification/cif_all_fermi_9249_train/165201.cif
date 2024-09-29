@@ -1,0 +1,102 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_165201-ICSD
+_database_code_ICSD 165201
+_audit_creation_date 2010-02-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Rubidium cadmium thallide (5/2/11)'
+_chemical_formula_structural 'Rb5 Cd2 Tl11'
+_chemical_formula_sum 'Cd2 Rb5 Tl11'
+_chemical_name_structure_type Rb5Cd2Tl11
+_exptl_crystal_density_diffrn 7.58
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Synthesis, structure and bonding of A5 Cd2 Tl11, A= Cs, Rb. Naked pentagonal
+antiprismatic columns centered by cadmium
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2000 39 3086 3091 INOCAJ
+loop_
+_publ_author_name
+'Kaskel, S.'
+'Corbett, J.D.'
+_cell_length_a 5.5999(6)
+_cell_length_b 17.603(3)
+_cell_length_c 12.896(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1271.22
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'A m m 2'
+_symmetry_Int_Tables_number 38
+_refine_ls_R_factor_all 0.048
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x, y+1/2, z+1/2'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl0+ -0.818
+Rb1+ 1
+Cd2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl0+ 2 a 0 0 0.2893 2.3(1) 1. 0
+Tl2 Tl0+ 4 d 0 0.1610(1) 0.1309(4) 2.05(7) 1. 0
+Tl3 Tl0+ 4 e 0.5 0.1029(1) 0.2437(4) 2.19(7) 1. 0
+Tl4 Tl0+ 4 d 0 0.0979(1) -0.1203(4) 2.16(6) 1. 0
+Tl5 Tl0+ 2 b 0.5 0 -0.1704(2) 2.0(1) 1. 0
+Tl6 Tl0+ 4 e 0.5 0.1595(1) -0.0092(4) 2.26(8) 1. 0
+Tl7 Tl0+ 2 b 0.5 0 0.4384(4) 4.67(9) 1. 0
+Rb1 Rb1+ 4 d 0 0.1925(3) 0.4142(6) 3.1(2) 1. 0
+Rb2 Rb1+ 2 a 0 0 0.6248(8) 4.3(2) 1. 0
+Rb3 Rb1+ 4 e 0.5 0.3120(3) 0.1965(7) 3.6(2) 1. 0
+Cd1 Cd2+ 4 c 0.248(1) 0 0.0606(6) 2.01(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl0+ 0.021(3) 0.032(2) 0.034(3) 0. 0. 0.
+Tl2 Tl0+ 0.019(2) 0.028(2) 0.032(2) 0. 0. 0.001(1)
+Tl3 Tl0+ 0.024(2) 0.028(1) 0.032(2) 0. 0. -0.006(1)
+Tl4 Tl0+ 0.031(2) 0.023(1) 0.028(2) 0. 0. -0.001(1)
+Tl5 Tl0+ 0.032(3) 0.024(2) 0.020(2) 0. 0. 0.
+Tl6 Tl0+ 0.036(3) 0.023(1) 0.027(2) 0. 0. 0.003(1)
+Tl7 Tl0+ 0.058(3) 0.083(2) 0.036(2) 0. 0. 0.
+Rb1 Rb1+ 0.064(6) 0.028(3) 0.025(3) 0. 0. 0.016(3)
+Rb2 Rb1+ 0.059(6) 0.061(5) 0.041(5) 0. 0. 0.
+Rb3 Rb1+ 0.046(5) 0.038(3) 0.055(4) 0. 0. -0.037(4)
+Cd1 Cd2+ 0.019(1) 0.027(1) 0.030(1) 0. -0.002(1) 0.
+#End of TTdata_165201-ICSD

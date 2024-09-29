@@ -1,0 +1,65 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_104315-ICSD
+_database_code_ICSD 104315
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Mercury magnesium (1/2)'
+_chemical_formula_structural 'Hg Mg2'
+_chemical_formula_sum 'Hg1 Mg2'
+_chemical_name_structure_type Co2Si
+_exptl_crystal_density_diffrn 6.55
+_publ_section_title 'Contribution to the system Mg-Au-Hg'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Philips Journal of Research' 1984 39 275 292 PHJRD9
+loop_
+_publ_author_name
+'Daams, J.L.C.'
+'van Vucht, J.H.N.'
+_cell_length_a 6.219(1)
+_cell_length_b 4.617(1)
+_cell_length_c 8.799(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 252.65
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg0+ 0
+Mg0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg0+ 4 c 0.281 0.25 0.123 . 1. 0
+Mg1 Mg0+ 4 c 0.816 0.25 0.055 . 1. 0
+Mg2 Mg0+ 4 c 0.442 0.25 0.788 . 1. 0
+#End of TTdata_104315-ICSD

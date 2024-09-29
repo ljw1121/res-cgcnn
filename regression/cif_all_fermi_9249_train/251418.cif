@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_251418-ICSD
+_database_code_ICSD 251418
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Lithium tetracyanoethylene'
+_chemical_formula_structural 'Li C2 (C N)4'
+_chemical_formula_sum 'C6 Li1 N4'
+_exptl_crystal_density_diffrn 1.34
+_cell_measurement_temperature 20.
+_publ_section_title
+
+;
+Weak ferromagnetic ordering of the Li+[TCNE] circle - (TCNE =
+tetracyanoethylene) organic magnet with an interpenetrating diamondoid
+structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 2013 135 18060 18063 JACSAT
+loop_
+_publ_author_name
+'Her, Jae-Hyuk'
+'Stephens, Peter W.'
+'Davidson, Royce A.'
+'Min, Kil Sik'
+'Bagnato, Joshua D.'
+'van Schooten, Kipp'
+'Boehme, Christoph'
+'Miller, Joel S.'
+_cell_length_a 5.43283(45)
+_cell_length_b 5.40633(65)
+_cell_length_c 11.91039(84)
+_cell_angle_alpha 90
+_cell_angle_beta 107.6551(46)
+_cell_angle_gamma 90
+_cell_volume 333.34
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2/c 1'
+_symmetry_Int_Tables_number 13
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+N3- -3
+C1+ 1.833
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 f 0.5 0.3002(52) 0.75 1 1 0
+N1 N3- 4 g -0.23728(74) -0.43392(64) -0.14436(25) 1 1 0
+N2 N3- 4 g 0.34126(86) 0.13536(80) -0.14391(32) 1 1 0
+C1 C1+ 4 g -0.11886(45) -0.27179(47) -0.11145(18) 1 1 0
+C2 C1+ 4 g 0.19792(76) 0.03437(54) -0.11520(21) 1 1 0
+C3 C1+ 4 g 0.02041(26) -0.05126(18) -0.051294(63) 1 1 0
+#End of TTdata_251418-ICSD

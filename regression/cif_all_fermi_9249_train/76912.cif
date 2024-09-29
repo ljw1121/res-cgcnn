@@ -1,0 +1,60 @@
+
+data_76912-ICSD
+_database_code_ICSD 76912
+_audit_creation_date 2001-07-16
+_chemical_name_systematic 'Iridium stannide (5/7)'
+_chemical_formula_structural 'Ir5 Sn7'
+_chemical_formula_sum 'Ir5 Sn7'
+_chemical_name_structure_type Co5Ge7
+_exptl_crystal_density_diffrn 12.66
+_cell_length_a 8.5370(4)
+_cell_length_b 8.537
+_cell_length_c 6.4701(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 471.54
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 4 m m'
+_symmetry_Int_Tables_number 107
+_refine_ls_R_factor_all 0.083
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, z'
+2 'y, -x, z'
+3 '-y, -x, z'
+4 'y, x, z'
+5 'x, -y, z'
+6 '-x, y, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, x+1/2, z+1/2'
+10 'y+1/2, -x+1/2, z+1/2'
+11 '-y+1/2, -x+1/2, z+1/2'
+12 'y+1/2, x+1/2, z+1/2'
+13 'x+1/2, -y+1/2, z+1/2'
+14 '-x+1/2, y+1/2, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir0+ 0
+Sn0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir0+ 2 a 0 0 0.5 . 1. 0
+Ir2 Ir0+ 8 d 0.2437(5) 0 0.178(2) . 1. 0
+Sn1 Sn0+ 2 a 0 0 0.898(4) . 1. 0
+Sn2 Sn0+ 4 b 0 0.5 0.914(3) . 1. 0
+Sn3 Sn0+ 8 c 0.2871(6) 0.2871 0.012(2) . 1. 0

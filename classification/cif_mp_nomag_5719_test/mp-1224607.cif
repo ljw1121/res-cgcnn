@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Hf10CuSn7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85414283
+_cell_length_b   8.67370216
+_cell_length_c   8.67365926
+_cell_angle_alpha   120.00016709
+_cell_angle_beta   89.99606358
+_cell_angle_gamma   90.00787266
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf10CuSn7
+_chemical_formula_sum   'Hf10 Cu1 Sn7'
+_cell_volume   381.41702394
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.50000108  0.33334466  0.66668570  1
+  Hf  Hf1  1  0.50000108  0.66665896  0.33331430  1
+  Hf  Hf2  1  -0.00000021  0.66665975  0.33332665  1
+  Hf  Hf3  1  -0.00000021  0.33333310  0.66667335  1
+  Hf  Hf4  1  0.73882710  0.27348921  0.00000000  1
+  Hf  Hf5  1  0.73885908  0.72651644  0.72648211  1
+  Hf  Hf6  1  0.73885908  0.00003433  0.27351789  1
+  Hf  Hf7  1  0.26116353  0.72651320  1.00000000  1
+  Hf  Hf8  1  0.26114502  0.27348107  0.27351632  1
+  Hf  Hf9  1  0.26114502  0.99996476  0.72648368  1
+  Cu  Cu10  1  0.49999842  0.00000089  -0.00000000  1
+  Sn  Sn11  1  0.75260117  0.61504698  1.00000000  1
+  Sn  Sn12  1  0.75259266  0.38497825  0.38498735  1
+  Sn  Sn13  1  0.75259266  0.99999089  0.61501265  1
+  Sn  Sn14  1  0.24739583  0.38495390  0.00000000  1
+  Sn  Sn15  1  0.24741136  0.61502095  0.61501085  1
+  Sn  Sn16  1  0.24741136  0.00001010  0.38498915  1
+  Sn  Sn17  1  0.99999600  0.00000257  -0.00000000  1

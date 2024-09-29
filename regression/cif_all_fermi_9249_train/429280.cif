@@ -1,0 +1,99 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_429280-ICSD
+_database_code_ICSD 429280
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Octabismuth pentaplatinum triiodide'
+_chemical_formula_structural 'Bi8 Pt5 I3'
+_chemical_formula_sum 'Bi8 I3 Pt5'
+_chemical_name_structure_type Ca3Tl4O9
+_exptl_crystal_density_diffrn 11.27
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+The bismuth subiodides Bi8 Pt5 I3 and Bi16 Pt11 I6 - layered metals with
+covalent platinum networks
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2015
+641 1444 1452 ZAACAB
+loop_
+_publ_author_name
+'Rasche, Bertold'
+'Schnelle, Walter'
+'Ruck, Michael'
+_cell_length_a 18.507(2)
+_cell_length_b 3.9146(3)
+_cell_length_c 13.405(1)
+_cell_angle_alpha 90
+_cell_angle_beta 113.28(1)
+_cell_angle_gamma 90
+_cell_volume 892.09
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0294
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pt0+ 0
+Bi0+ 0
+I0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pt1 Pt0+ 2 d 0.5 0. 0.5 0.0210(3) 1 0
+Pt2 Pt0+ 4 i 0.44699(5) 0.5 0.34250(5) 0.01428(19) 1 0
+Pt3 Pt0+ 4 i 0.34682(5) 0.5 0.12677(6) 0.0190(2) 1 0
+Bi1 Bi0+ 4 i 0.39546(5) 0.5 0.52106(6) 0.01825(19) 1 0
+Bi2 Bi0+ 4 i 0.32346(5) 0. 0.27044(6) 0.01828(19) 1 0
+Bi3 Bi0+ 4 i 0.48406(5) 0. 0.21857(6) 0.01769(19) 1 0
+Bi4 Bi0+ 4 i 0.18270(5) 0.5 0.03018(5) 0.01787(19) 1 0
+I1 I0+ 2 a 0. 0. 0. 0.0473(7) 1 0
+I2 I0+ 4 i 0.18443(9) 0.5 0.32651(12) 0.0313(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pt1 Pt0+ 0.0368(8) 0.0118(5) 0.0092(5) 0. 0.0036(5) 0.
+Pt2 Pt0+ 0.0169(5) 0.0141(4) 0.0069(3) 0. -0.0004(3) 0.
+Pt3 Pt0+ 0.0193(5) 0.0212(4) 0.0091(3) 0. -0.0023(3) 0.
+Bi1 Bi0+ 0.0149(4) 0.0251(4) 0.0122(3) 0. 0.0026(3) 0.
+Bi2 Bi0+ 0.0172(5) 0.0154(4) 0.0207(4) 0. 0.0058(3) 0.
+Bi3 Bi0+ 0.0207(5) 0.0171(4) 0.0156(3) 0. 0.0076(3) 0.
+Bi4 Bi0+ 0.0188(5) 0.0194(4) 0.0117(3) 0. 0.0020(3) 0.
+I1 I0+ 0.073(2) 0.0269(12) 0.0630(16) 0. 0.0494(15) 0.
+I2 I0+ 0.0292(10) 0.0228(7) 0.0481(9) 0. 0.0219(8) 0.
+#End of TTdata_429280-ICSD

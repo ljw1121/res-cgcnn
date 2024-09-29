@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Co(BMo)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.16269692
+_cell_length_b   4.52843127
+_cell_length_c   10.79061187
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   110.43866494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(BMo)3
+_chemical_formula_sum   'Co2 B6 Mo6'
+_cell_volume   144.81468137
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.50000000  0.00000000  0.50000000  1
+  Co  Co1  1  0.50000000  0.00000000  -0.00000000  1
+  B  B2  1  0.91343605  0.82687211  0.39701781  1
+  B  B3  1  0.08656395  0.17312789  0.60298219  1
+  B  B4  1  0.91343605  0.82687211  0.10298219  1
+  B  B5  1  0.08656395  0.17312789  0.89701781  1
+  B  B6  1  0.79142941  0.58285881  0.25000000  1
+  B  B7  1  0.20857059  0.41714119  0.75000000  1
+  Mo  Mo8  1  0.21207503  0.42415007  0.39276871  1
+  Mo  Mo9  1  0.78792497  0.57584993  0.60723129  1
+  Mo  Mo10  1  0.21207503  0.42415007  0.10723129  1
+  Mo  Mo11  1  0.78792497  0.57584993  0.89276871  1
+  Mo  Mo12  1  0.49713671  0.99427342  0.25000000  1
+  Mo  Mo13  1  0.50286329  0.00572658  0.75000000  1

@@ -1,0 +1,72 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35154-ICSD
+_database_code_ICSD 35154
+_audit_creation_date 1982-12-31
+_chemical_name_systematic 'Titanium(II) ocatchlorodialuminate - alpha'
+_chemical_formula_structural 'Ti Al2 Cl8'
+_chemical_formula_sum 'Al2 Cl8 Ti1'
+_chemical_name_structure_type Al2CuCl8
+_exptl_crystal_density_diffrn 2.18
+_publ_section_title
+
+;
+A crystal structure determination of titanium(II) tetrachloroaluminate by
+vibrational correlation methods and powder diffraction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Polyhedron 1982 1 393 396 PLYHDE
+loop_
+_publ_author_name
+'Justnes, A.'
+'Rytter, E.'
+'Andresen, A.F.'
+_cell_length_a 13.161(3)
+_cell_length_b 7.477(2)
+_cell_length_c 5.981(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.48(3)
+_cell_angle_gamma 90.
+_cell_volume 588.54
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.061
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti2+ 2
+Al3+ 3
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti2+ 2 a 0 0 0 0.99 1. 0
+Al1 Al3+ 4 e 0.119(7) 0.286(14) 0.380(9) 0.99 1. 0
+Cl1 Cl1- 4 e 0.930(4) 0.254(9) 0.253(11) 0.99 1. 0
+Cl2 Cl1- 4 e 0.144(2) 0.014(10) 0.266(5) 0.99 1. 0
+Cl3 Cl1- 4 e 0.180(3) 0.543(3) 0.245(9) 0.99 1. 0
+Cl4 Cl1- 4 e 0.066(4) 0.210(4) 0.747(8) 0.99 1. 0
+#End of TTdata_35154-ICSD

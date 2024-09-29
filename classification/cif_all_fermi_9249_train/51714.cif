@@ -1,0 +1,80 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_51714-ICSD
+_database_code_ICSD 51714
+_audit_creation_date 2003-10-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Distrontium copper bis(phosphate(V))'
+_chemical_formula_structural 'Sr2 Cu (P O4)2'
+_chemical_formula_sum 'Cu1 O8 P2 Sr2'
+_chemical_name_structure_type Sr2Cu(PO4)2
+_exptl_crystal_density_diffrn 3.86
+_publ_section_title
+
+;
+Synthesis and x-ray powder diffraction study of new phosphates in the Cu3 (P
+O4)2-Sr3 (P O4)2 system: Sr1.9 Cu4.1 (P O4)4, Sr3 Cu3 (PO4)4, Sr2 Cu (P O4)2,
+and Sr9.1 Cu1.4 (P O4)7
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2002 163 121 131 JSSCBI
+loop_
+_publ_author_name
+'Belik, A.A.'
+'Malakho, A.P.'
+'Lazoryak, B.I.'
+'Khasanov, S.S.'
+_cell_length_a 11.5155(1)
+_cell_length_b 5.07543(6)
+_cell_length_c 6.57487(7)
+_cell_angle_alpha 90
+_cell_angle_beta 106.3563(6)
+_cell_angle_gamma 90
+_cell_volume 368.72
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0335
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Sr2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 2 d 0. 0.5 0.5 0.48(3) 1. 0
+Sr1 Sr2+ 4 i 0.17120(5) 0. 0.21669(8) 0.40(2) 1. 0
+P1 P5+ 4 i 0.14221(13) 0. 0.7099(2) 0.42(3) 1. 0
+O1 O2- 4 i 0.0499(3) 0. 0.8346(5) 0.68(8) 1. 0
+O2 O2- 4 i 0.2711(3) 0. 0.8628(4) 0.29(7) 1. 0
+O3 O2- 8 j 0.1295(2) 0.2463(4) 0.5606(3) 0.55(6) 1. 0
+#End of TTdata_51714-ICSD

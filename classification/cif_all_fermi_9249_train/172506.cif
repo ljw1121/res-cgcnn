@@ -1,0 +1,74 @@
+
+data_172506-ICSD
+_database_code_ICSD 172506
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Dithallium manganese germanium tetratelluride'
+_chemical_formula_structural 'Tl2 Mn Ge Te4'
+_chemical_formula_sum 'Ge1 Mn1 Te4 Tl2'
+_chemical_name_structure_type Tl2CdGeTe4
+_exptl_crystal_density_diffrn 7.08
+_cell_length_a 8.399(3)
+_cell_length_b 8.399(3)
+_cell_length_c 6.963(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 491.19
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4 2 m'
+_symmetry_Int_Tables_number 121
+_refine_ls_R_factor_all 0.0302
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x, z'
+2 'y, x, z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, -z'
+6 '-x, y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y+1/2, x+1/2, z+1/2'
+11 'y+1/2, -x+1/2, -z+1/2'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+Mn2+ 2
+Ge4+ 4
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 4 c 0. 0.5 0. 0.01901(16) 1 0
+Mn1 Mn2+ 2 b 0. 0. 0.5 0.0151(9) 1 0
+Ge1 Ge4+ 2 a 0. 0. 0. 0.0077(5) 1 0
+Te1 Te2- 8 i 0.17288(6) 0.17288(6) 0.23160(9) 0.00927(16) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl1+ 0.0247(5) 0.0150(4) 0.0174(3) 0. 0. 0.
+Mn1 Mn2+ 0.0191(15) 0.0191(15) 0.0072(13) 0. 0. 0.
+Ge1 Ge4+ 0.0077(8) 0.0077(8) 0.0076(8) 0. 0. 0.
+Te1 Te2- 0.0087(2) 0.0087(2) 0.0105(2) -0.0002(3) -0.00096(19) -0.00096(19)

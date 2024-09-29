@@ -1,0 +1,73 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_21040-ICSD
+_database_code_ICSD 21040
+_audit_creation_date 1980-01-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Pentalead disulfide hexaiodide'
+_chemical_formula_structural 'Pb5 S2 I6'
+_chemical_formula_sum 'I6 Pb5 S2'
+_chemical_name_structure_type Pb5I6S2
+_exptl_crystal_density_diffrn 6.74
+_publ_section_title
+'Die Kristallstrukturen von Pb4 Se Br6, Pb5 S2 I6 und Pb7 S2 Br10'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1973
+396 137 151 ZAACAB
+loop_
+_publ_author_name
+'Krebs, B.'
+_cell_length_a 14.338(7)
+_cell_length_b 4.437(2)
+_cell_length_c 14.552(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 98.04(5)
+_cell_angle_gamma 90.
+_cell_volume 916.67
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+I1- -1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 2 a 0 0 0 . 1. 0
+Pb2 Pb2+ 4 i 0.26134(5) 0 0.76057(5) . 1. 0
+Pb3 Pb2+ 4 i 0.12669(5) 0 0.46328(5) . 1. 0
+I1 I1- 4 i 0.36363(9) 0 0.06401(9) . 1. 0
+I2 I1- 4 i 0.11862(8) 0 0.20431(8) . 1. 0
+I3 I1- 4 i 0.42681(8) 0 0.35646(8) . 1. 0
+S1 S2- 4 i 0.28049(27) 0 0.59431(27) . 1. 0
+#End of TTdata_21040-ICSD

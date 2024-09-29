@@ -1,0 +1,68 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79892-ICSD
+_database_code_ICSD 79892
+_audit_creation_date 1996-10-14
+_chemical_name_systematic 'Barium bromide - HP'
+_chemical_formula_structural 'Ba Br2'
+_chemical_formula_sum 'Ba1 Br2'
+_chemical_name_structure_type BaCl2
+_exptl_crystal_density_diffrn 6.79
+_cell_measurement_pressure 25400000.
+_publ_section_title
+'The post-cotunnite phase in Ba Cl2, Ba Br2 and Ba I2 under high pressure'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Applied Crystallography' 1995 28 416 423 JACGAR
+loop_
+_publ_author_name
+'Leger, J.M.'
+'Haines, J.'
+'Atouf, A.'
+_cell_length_a 12.773(14)
+_cell_length_b 9.302(13)
+_cell_length_c 4.896(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 88.0(2)
+_cell_volume 581.36
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 1 21/a'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.057
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 '-x, -y, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 e 0.166 0.12 0.27 . 1. 0
+Ba2 Ba2+ 4 e 0.13 0.62 0.773 . 1. 0
+Br1 Br1- 4 e 0.145 0.455 0.273 . 1. 0
+Br2 Br1- 4 e 0.072 0.93 0.727 . 1. 0
+Br3 Br1- 4 e 0.03 0.29 0.727 . 1. 0
+Br4 Br1- 4 e 0.74 0.835 0.273 . 1. 0
+#End of TTdata_79892-ICSD

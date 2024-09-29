@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73316-ICSD
+_database_code_ICSD 73316
+_audit_creation_date 1994-01-19
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Niobium nickel telluride (1/1/5)'
+_chemical_formula_structural 'Nb Ni Te5'
+_chemical_formula_sum 'Nb1 Ni1 Te5'
+_chemical_name_structure_type NiNbTe5
+_exptl_crystal_density_diffrn 7.26
+_cell_measurement_temperature 123.
+_publ_section_title
+
+;
+Synthesis, structure and physical properties of the new layered ternary
+chalcogenide Nb Ni Te5
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1987 71 384 389 JSSCBI
+loop_
+_publ_author_name
+'Liimatta, E.W.'
+'Ibers, J.A.'
+_cell_length_a 3.656(5)
+_cell_length_b 13.075(16)
+_cell_length_c 15.111(19)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 722.34
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te1- -1.4
+Nb5+ 5
+Ni2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te1- 8 f 0 0.102230(21) 0.144230(19) 0.351(5) 1. 0
+Te2 Te1- 8 f 0.5 0.107870(22) 0.575250(19) 0.400(5) 1. 0
+Te3 Te1- 4 c 0 0.175340(29) 0.75 0.449(7) 1. 0
+Nb1 Nb5+ 4 c 0.5 0.987720(41) 0.25 0.308(9) 1. 0
+Ni1 Ni2+ 4 a 0 0 0 0.40(1) 1. 0
+#End of TTdata_73316-ICSD

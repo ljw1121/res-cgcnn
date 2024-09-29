@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74358-ICSD
+_database_code_ICSD 74358
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Calcium palladium silicide (4/4/3)'
+_chemical_formula_structural 'Ca4 Pd4 Si3'
+_chemical_formula_sum 'Ca4 Pd4 Si3'
+_chemical_name_structure_type Ge3Nd4Rh4
+_exptl_crystal_density_diffrn 5.11
+_publ_section_title
+'Crystal structure of monoclinic tetracalcium tetrapalladium trisilicide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1993 28 871 876 MRBUAC
+loop_
+_publ_author_name
+'Welter, R.'
+'Venturini, G.'
+'Malaman, B.'
+_cell_length_a 20.92(1)
+_cell_length_b 5.676(1)
+_cell_length_c 7.774(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.26(4)
+_cell_angle_gamma 90.
+_cell_volume 871.44
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca0+ 0
+Pd0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca0+ 8 f 0.1699(1) 0.6243(3) 0.4063(3) . 1. 0
+Ca2 Ca0+ 8 f 0.0679(1) 0.1337(3) 0.1723(3) . 1. 0
+Pd1 Pd0+ 8 f 0.2778(1) 0.3612(1) 0.6812(1) . 1. 0
+Pd2 Pd0+ 8 f 0.4382(1) 0.1345(1) 0.4766(1) . 1. 0
+Si1 Si0+ 4 e 0.5 0.1219(3) 0.25 . 1. 0
+Si2 Si0+ 8 f 0.3277(2) 0.6317(5) 0.9348(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca0+ 0.0189(13) 0.0016(10) 0.0083(11) -.0003(8) 0.0037(9) 0.0011(8)
+Ca2 Ca0+ 0.0118(12) 0.0070(11) 0.0094(12) 0.0017(8) 0.0026(10) -.0012(8)
+Pd1 Pd0+ 0.0140(6) 0.0055(6) 0.0072(5) -.0008(3) 0.0025(4) -.0012(3)
+Pd2 Pd0+ 0.0146(6) 0.0037(5) 0.0085(5) -.0002(3) 0.0020(4) -.0003(3)
+Si1 Si0+ 0.0187(23) 0.0049(20) 0.0095(22) 0 0.0040(19) 0
+Si2 Si0+ 0.0154(10) 0.0045(15) 0.0067(14) 0.0013(11) 0.0031(13) -.0009(11)
+#End of TTdata_74358-ICSD

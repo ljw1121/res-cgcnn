@@ -1,0 +1,127 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_414174-ICSD
+_database_code_ICSD 414174
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Trilanthanum triiodide germanide'
+_chemical_formula_structural 'La3 I3 Ge'
+_chemical_formula_sum 'Ge1 I3 La3'
+_chemical_name_structure_type Ca3PI3
+_exptl_crystal_density_diffrn 5.77
+_publ_section_title
+
+;
+Reduced lanthanum halides with Ge as interstitials: La2 I2 Ge, La2 I2 Ge2, La3
+Cl2 Ge3, La3 Br2 Ge3, La3 I3 Ge, La6 I5 Ge3 and La(7+x) I12 Ge
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2005
+631 302 308 ZAACAB
+loop_
+_publ_author_name
+'Mattausch, H.J.'
+'Zheng, C.'
+'Ryazanov, M.'
+'Simon, A.'
+_cell_length_a 12.6036(6)
+_cell_length_b 12.6036(6)
+_cell_length_c 12.6036(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2002.09
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I 41 3 2'
+_symmetry_Int_Tables_number 214
+_refine_ls_R_factor_all 0.0272
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/4, x+3/4, -z+3/4'
+2 '-y+3/4, x+1/4, z+3/4'
+3 'y+3/4, -x+3/4, z+1/4'
+4 '-y+1/4, -x+1/4, -z+1/4'
+5 'z+1/2, -x+1/2, -y'
+6 '-z+1/2, -x, y+1/2'
+7 '-z, x+1/2, -y+1/2'
+8 'z, x, y'
+9 '-z+3/4, y+1/4, x+3/4'
+10 'z+3/4, -y+3/4, x+1/4'
+11 'z+1/4, y+3/4, -x+3/4'
+12 '-z+1/4, -y+1/4, -x+1/4'
+13 '-y, z+1/2, -x+1/2'
+14 'y+1/2, -z+1/2, -x'
+15 '-y+1/2, -z, x+1/2'
+16 'y, z, x'
+17 'x+3/4, -z+3/4, y+1/4'
+18 'x+1/4, z+3/4, -y+3/4'
+19 '-x+3/4, z+1/4, y+3/4'
+20 '-x+1/4, -z+1/4, -y+1/4'
+21 '-x+1/2, -y, z+1/2'
+22 '-x, y+1/2, -z+1/2'
+23 'x+1/2, -y+1/2, -z'
+24 'x, y, z'
+25 'y+3/4, x+1/4, -z+1/4'
+26 '-y+1/4, x+3/4, z+1/4'
+27 'y+1/4, -x+1/4, z+3/4'
+28 '-y+3/4, -x+3/4, -z+3/4'
+29 'z, -x, -y+1/2'
+30 '-z, -x+1/2, y'
+31 '-z+1/2, x, -y'
+32 'z+1/2, x+1/2, y+1/2'
+33 '-z+1/4, y+3/4, x+1/4'
+34 'z+1/4, -y+1/4, x+3/4'
+35 'z+3/4, y+1/4, -x+1/4'
+36 '-z+3/4, -y+3/4, -x+3/4'
+37 '-y+1/2, z, -x'
+38 'y, -z, -x+1/2'
+39 '-y, -z+1/2, x'
+40 'y+1/2, z+1/2, x+1/2'
+41 'x+1/4, -z+1/4, y+3/4'
+42 'x+3/4, z+1/4, -y+1/4'
+43 '-x+1/4, z+3/4, y+1/4'
+44 '-x+3/4, -z+3/4, -y+3/4'
+45 '-x, -y+1/2, z'
+46 '-x+1/2, y, -z'
+47 'x, -y, -z+1/2'
+48 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+I1- -1
+La3+ 3
+Ge4- -4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+I1 I1- 24 h 0.125 0.38441(4) 0.86559(4) 0.0239(3) 1 0
+La1 La3+ 24 g -0.13694(4) 0.375 0.88694(4) 0.0240(3) 1 0
+Ge1 Ge4- 8 a 0.875 0.375 0.125 0.0147(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+I1 I1- 0.0190(3) 0.0263(3) 0.0263(3) 0.00006(12) 0.00006(12) 0.0029(2)
+La1 La3+ 0.0243(3) 0.0232(3) 0.0243(3) -0.00119(11) 0.00329(18) -0.00119(11)
+Ge1 Ge4- 0.0147(4) 0.0147(4) 0.0147(4) -0.0031(3) 0.0031(3) 0.0031(3)
+#End of TTdata_414174-ICSD

@@ -1,0 +1,96 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_420129-ICSD
+_database_code_ICSD 420129
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Barium tin bis(phosphate(V))'
+_chemical_formula_structural 'Ba Sn (P O4)2'
+_chemical_formula_sum 'Ba1 O8 P2 Sn1'
+_chemical_name_structure_type NaV(SO4)2
+_exptl_crystal_density_diffrn 4.37
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Syntheses, crystal and electronic structures of compounds A M (P O4)2 (A= Sr,
+M= Ti, Sn; A= Ba, M= Sn)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2009 2009 5310 5318 DTARAF
+loop_
+_publ_author_name
+'Zhao Dan'
+'Zhang Hao'
+'Xie Zhi'
+'Zhang Wei Long'
+'Yang Song Ling'
+'Cheng Wen Dan'
+_cell_length_a 8.214(2)
+_cell_length_b 5.2456(13)
+_cell_length_c 7.8938(19)
+_cell_angle_alpha 90.
+_cell_angle_beta 94.561(4)
+_cell_angle_gamma 90.
+_cell_volume 339.05
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0244
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Sn4+ 4
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 2 a 0. 1. 0. 0.0114(4) 1 0
+Sn1 Sn4+ 2 c 0. 1. 0.5 0.0053(4) 1 0
+P1 P5+ 4 i 0.12946(17) 0.5 0.29232(17) 0.0077(5) 1 0
+O1 O2- 8 j 0.0210(3) 0.7400(5) 0.3112(3) 0.0108(8) 1 0
+O2 O2- 4 i 0.2602(4) 0.5 0.4408(5) 0.0110(9) 1 0
+O3 O2- 4 i 0.1872(5) 0.5 0.1162(5) 0.0145(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0125(5) 0.0158(5) 0.0057(5) 0. -0.0001(3) 0.
+Sn1 Sn4+ 0.0054(5) 0.0061(5) 0.0039(5) 0. -0.0031(3) 0.
+P1 P5+ 0.0075(8) 0.0080(8) 0.0074(7) 0. -0.0013(5) 0.
+O1 O2- 0.0115(14) 0.0123(16) 0.0072(16) 0.0040(11) -0.0069(11) -0.0019(12)
+O2 O2- 0.006(2) 0.0155(19) 0.0100(18) 0. -0.0063(17) 0.
+O3 O2- 0.014(2) 0.020(2) 0.0091(19) 0. 0.0013(17) 0.
+#End of TTdata_420129-ICSD

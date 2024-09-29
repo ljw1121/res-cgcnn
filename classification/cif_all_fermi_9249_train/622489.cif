@@ -1,0 +1,75 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_622489-ICSD
+_database_code_ICSD 622489
+_audit_creation_date 2013-02-01
+_chemical_name_systematic 'Cobalt chromium phosphide (1/1/1)'
+_chemical_formula_structural 'Co Cr P'
+_chemical_formula_sum 'Co1 Cr1 P1'
+_chemical_name_structure_type TiNiSi-MgSrSi
+_exptl_crystal_density_diffrn 6.89
+_publ_section_title
+
+;
+Strukturelle Uebergaenge zwischen Phosphiden, Arseniden und Arsenophosphiden
+der Zusammensetzung M2 P, M2 As und M2 (P1-x Asx)
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Monatshefte fuer Chemie' 1971 102 1631 1642 MOCMB7
+loop_
+_publ_author_name
+'Nylund, A.'
+'Roger, A.'
+'Senateur, J.P.'
+'Fruchart, R.'
+_cell_length_a 5.765
+_cell_length_b 3.552
+_cell_length_c 6.682
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 136.83
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co0+ 0
+Cr0+ 0
+P0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co0+ 4 c 0.859 0.25 0.066 . 1. 0
+Cr2 Cr0+ 4 c 0.969 0.25 0.67 . 1. 0
+P1 P0+ 4 c 0.236 0.25 0.12 . 1. 0
+#End of TTdata_622489-ICSD

@@ -1,0 +1,95 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_194720-ICSD
+_database_code_ICSD 194720
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Bismuth diselenide'
+_chemical_formula_structural 'Bi Se2'
+_chemical_formula_sum 'Bi1 Se2'
+_exptl_crystal_density_diffrn 7.38
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Coexistence of monochalocogen and dichalocogen ions in Bi Se2 and Bi S2
+crystals prepared at high pressure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 4114 4119 INOCAJ
+loop_
+_publ_author_name
+'Yamamoto, Ayako'
+'Hashizume, Daisuke'
+'Bahramy, Mohammad Saeed'
+'Tokura, Yoshinori'
+_cell_length_a 16.740(3)
+_cell_length_b 4.1410(11)
+_cell_length_c 12.027(3)
+_cell_angle_alpha 90
+_cell_angle_beta 127.658(13)
+_cell_angle_gamma 90
+_cell_volume 660.02
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0989
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Se1- -1
+Se2- -2
+Bi3+ 3
+Se2- -2
+Se1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 i 0.69853(13) 0. 0.09377(18) 0.0494(7) 1 0
+Se1 Se1- 4 i 0.5348(3) 0.5 -0.0614(5) 0.0495(11) 1 0
+Se2 Se2- 4 i 0.6536(3) 0. -0.1663(4) 0.0460(10) 1 0
+Bi2 Bi3+ 4 i 0.38976(12) 0. -0.39315(19) 0.0519(8) 1 0
+Se3 Se2- 4 i 0.2112(3) 0. -0.6573(4) 0.0454(11) 1 0
+Se4 Se1- 4 i 0.4146(3) -0.5 -0.5450(5) 0.0489(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0561(11) 0.0470(12) 0.0559(11) 0. 0.0397(9) 0.
+Se1 Se1- 0.048(2) 0.049(3) 0.053(2) 0. 0.0318(18) 0.
+Se2 Se2- 0.0432(19) 0.047(2) 0.049(2) 0. 0.0285(16) 0.
+Bi2 Bi3+ 0.0492(10) 0.0528(12) 0.0551(11) 0. 0.0325(8) 0.
+Se3 Se2- 0.047(2) 0.044(2) 0.049(2) 0. 0.0313(17) 0.
+Se4 Se1- 0.051(2) 0.048(2) 0.053(2) 0. 0.0350(19) 0.
+#End of TTdata_194720-ICSD

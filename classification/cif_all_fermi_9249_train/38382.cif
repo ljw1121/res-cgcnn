@@ -1,0 +1,92 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_38382-ICSD
+_database_code_ICSD 38382
+_audit_creation_date 1984-12-31
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Pentasodium rhenate(VII)'
+_chemical_formula_structural 'Na5 (Re O6)'
+_chemical_formula_sum 'Na5 O6 Re1'
+_chemical_name_structure_type Na5ReO6
+_exptl_crystal_density_diffrn 4.55
+_publ_section_title
+
+;
+Ueber Perrhenate. 2. Zur Kenntnis von Li5 Re O6 und Na5 Re O6 - mit einer
+Bemerkung ueber Na5 I O6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1984
+512 19 33 ZAACAB
+loop_
+_publ_author_name
+'Betz, T.'
+'Hoppe, R.'
+_cell_length_a 5.6877(8)
+_cell_length_b 9.7314(13)
+_cell_length_c 5.6074(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.01(1)
+_cell_angle_gamma 90.
+_cell_volume 289.73
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re7+ 7
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re7+ 2 a 0 0 0 . 1. 0
+O1 O2- 8 j 0.2929(10) 0.3623(5) 0.7871(10) . 1. 0
+O2 O2- 4 i 0.2974(14) 0.5 0.2006(14) . 1. 0
+Na1 Na1+ 4 g 0 0.6667(4) 0 . 1. 0
+Na2 Na1+ 2 d 0 0.5 0.5 . 1. 0
+Na3 Na1+ 4 h 0.5 0.3263(5) 0.5 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re7+ 0.0077(2) 0.0051(2) 0.0084(2) 0 0.0018(2) 0
+O1 O2- 0.0136(21) 0.0114(20) 0.0106(21) 0 0.0041(25) -.0033(17)
+O2 O2- 0.0115(28) 0.0087(27) 0.0129(30) -.0017(17) 0.0028(18) 0
+Na1 Na1+ 0.0175(19) 0.0090(17) 0.0157(19) 0 0.0044(16) 0
+Na2 Na1+ 0.0298(36) 0.0060(24) 0.0214(32) 0 0.0055(17) 0
+Na3 Na1+ 0.0196(20) 0.0155(20) 0.0151(20) 0 -.0083(28) 0
+#End of TTdata_38382-ICSD

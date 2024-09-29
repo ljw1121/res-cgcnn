@@ -1,0 +1,72 @@
+
+data_419337-ICSD
+_database_code_ICSD 419337
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Rubidium lanthanum tetracyanamidosilicate'
+_chemical_formula_structural 'Rb La (Si (C N2)4)'
+_chemical_formula_sum 'C4 La1 N8 Rb1 Si1'
+_exptl_crystal_density_diffrn 2.73
+_cell_measurement_temperature 293.
+_cell_length_a 8.556(1)
+_cell_length_b 8.556(1)
+_cell_length_c 6.852(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 501.6
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.0272
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Rb1+ 1
+Si4+ 4
+N3- -3
+C4+ 4
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 2 d 0.5 1. 1.25 0.01474(13) 1 0
+Rb1 Rb1+ 2 a 0. 1. 1. 0.0603(4) 1 0
+Si1 Si4+ 2 c 0.5 1. 0.75 0.0153(4) 1 0
+N1 N3- 8 g 0.6182(11) 0.9028(11) 0.9123(7) 0.0220(14) 1 0
+C1 C4+ 8 g 0.6926(14) 0.7789(11) 0.8675(10) 0.026(3) 1 0
+N2 N3- 8 g 0.3349(10) 0.7602(9) 1.1669(11) 0.037(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.01719(16) 0.01719(16) 0.00984(19) 0. 0. 0.
+Rb1 Rb1+ 0.0435(5) 0.0435(5) 0.0940(13) 0. 0. 0.
+Si1 Si4+ 0.0183(6) 0.0183(6) 0.0094(7) 0. 0. 0.
+N1 N3- 0.026(4) 0.029(4) 0.0118(18) 0.008(3) -0.001(3) -0.002(3)
+C1 C4+ 0.020(3) 0.045(8) 0.012(2) 0.005(5) 0.000(3) 0.002(3)
+N2 N3- 0.044(5) 0.043(4) 0.025(3) -0.028(3) -0.001(3) -0.006(3)

@@ -1,0 +1,101 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1047-ICSD
+_database_code_ICSD 1047
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Tetrachlorophosphorus(V) pentachlorovanadate(IV)'
+_chemical_formula_structural '(P Cl4) (V Cl5)'
+_chemical_formula_sum 'Cl9 P1 V1'
+_exptl_crystal_density_diffrn 2.22
+_publ_section_title
+
+;
+Die Molekuel- und Kristallstruktur von
+Tetrachlorophosphonium-pentachlorovanadat(IV) (P Cl4) (V Cl5)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische
+Chemie (2,1947-32,1977)
+; 1977 32 18 21 ZENBAX
+loop_
+_publ_author_name
+'Ziegler, M.L.'
+'Nuber, B.'
+'Weidenhammer, K.'
+'Hoch, G.'
+_cell_length_a 6.2120(11)
+_cell_length_b 11.8162(66)
+_cell_length_c 16.3071(74)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1196.98
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'A b m 2'
+_symmetry_Int_Tables_number 39
+_refine_ls_R_factor_all 0.049
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, y+1/2, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x, -y, z+1/2'
+6 '-x, y, z+1/2'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+P5+ 5
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 4 c 0.6191(4) 0.25 0.2816(9) . 1. 0
+P1 P5+ 4 a 0 0 0.034 . 1. 0
+Cl1 Cl1- 8 d 0.2266(6) 0.5857(3) 0.2799(10) . 1. 0
+Cl2 Cl1- 4 c 0.7327(6) 0.75 0.2833(13) . 1. 0
+Cl3 Cl1- 4 c 0.6176(23) 0.25 0.4219(8) . 1. 0
+Cl4 Cl1- 4 c 0.6246(19) 0.25 0.1399(8) . 1. 0
+Cl5 Cl1- 8 d 0.1789(18) 0.4068(7) 0.0989(9) . 1. 0
+Cl6 Cl1- 8 d 0.1800(22) 0.4052(9) 0.4621(9) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V4+ 0.0300(12) 0.0391(13) 0.0222(11) 0 -.0030(31) 0
+P1 P5+ 0.0504(22) 0.0406(20) 0.0266(19) -.0031(65) 0 0
+Cl1 Cl1- 0.0700(21) 0.0517(18) 0.0540(19) -.0215(16) -.0071(54) 0.0012(44)
+Cl2 Cl1- 0.0317(19) 0.0828(32) 0.0421(23) 0 0.0034(60) 0
+Cl3 Cl1- 0.0664(73) 0.1200(95) 0.0149(38) 0 0.0012(41) 0
+Cl4 Cl1- 0.0503(57) 0.0662(58) 0.0220(37) 0 0.0022(36) 0
+Cl5 Cl1- 0.0760(55) 0.0509(34) 0.0496(35) 0.0273(61) -.0038(37) -.0038(37)
+Cl6 Cl1- 0.0927(72) 0.0888(53) 0.0377(32) 0.0253(59) 0.0100(41) -.0021(44)
+#End of TTdata_1047-ICSD

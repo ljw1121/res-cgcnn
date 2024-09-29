@@ -1,0 +1,99 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_21087-ICSD
+_database_code_ICSD 21087
+_audit_creation_date 1980-01-01
+_audit_update_record 1987-02-20
+_chemical_name_systematic 'Rubidium thallium(III) sulfate'
+_chemical_formula_structural 'Rb Tl (S O4)2'
+_chemical_formula_sum 'O8 Rb1 S2 Tl1'
+_exptl_crystal_density_diffrn 4.55
+_publ_section_title
+
+;
+Mise en evidence d'une nouvelle famille A B (S O4)2 avec A = K, N H4, Rb et B
+= In, Tl. Essai de comparaison des sulfates doubles anhydres dans le groupe
+III b.
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Bulletin de la Societe Chimique de France (Vol=Year)' 1972 1972 485 490
+BSCFAS
+loop_
+_publ_author_name
+'Pannetier, G.'
+'Manoli, J.M.'
+'Herpin, P.'
+_cell_length_a 4.930(1)
+_cell_length_b 4.930(1)
+_cell_length_c 25.08(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 527.9
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R 3 2 H'
+_symmetry_Int_Tables_number 155
+_refine_ls_R_factor_all 0.055
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+2/3, -x+y+1/3, -z+1/3'
+8 'x-y+2/3, -y+1/3, -z+1/3'
+9 'y+2/3, x+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+1/3, -x+y+2/3, -z+2/3'
+14 'x-y+1/3, -y+2/3, -z+2/3'
+15 'y+1/3, x+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Tl3+ 3
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 3 a 0 0 0 . 1. 0
+Tl1 Tl3+ 3 b 0 0 0.5 . 1. 0
+S1 S6+ 6 c 0 0 0.2395(4) 1.27 1. 0
+O1 O2- 6 c 0 0 0.2985(12) 1.59 1. 0
+O2 O2- 18 f 0.2758(67) -.0051(62) 0.2203(8) 2.43 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Rb1 Rb1+ 0.0305(42) 0.0305(42) 0.0008(1) 0.0152(21) 0 0
+Tl1 Tl3+ 0.0127(16) 0.0127(16) 0.0004(3) 0.0063(8) 0 0
+#End of TTdata_21087-ICSD

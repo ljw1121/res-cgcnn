@@ -1,0 +1,78 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_659621-ICSD
+_database_code_ICSD 659621
+_audit_creation_date 2013-08-01
+_chemical_name_systematic 'Cadmium potassium nitride (1/2/12)'
+_chemical_formula_structural 'Cd K2 (N3)4'
+_chemical_formula_sum 'Cd1 K2 N12'
+_exptl_crystal_density_diffrn 2.49
+_publ_section_title
+
+;
+Darstellung, Roentgen-Pulverdaten und Gitterkonstanten von K2 Cd (N3)4 und Tl2
+Cd (N3)4
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1980
+463 75 77 ZAACAB
+loop_
+_publ_author_name
+'Haselmair, H.'
+'Krischner, H.'
+_cell_length_a 14.254(3)
+_cell_length_b 3.785(1)
+_cell_length_c 8.883(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.9(1)
+_cell_angle_gamma 90.
+_cell_volume 478.64
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Cd2+ 2
+N0+ -0.333
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 i 0.847 0 0.826 . 1. 0
+Cd1 Cd2+ 2 c 0.5 0.5 0.5 . 1. 0
+N1 N0+ 4 i 0.398 0 0.497 . 1. 0
+N2 N0+ 4 i 0.328 0 0.416 . 1. 0
+N3 N0+ 4 i 0.259 0 0.343 . 1. 0
+N4 N0+ 4 i 0.5 0.5 0.762 . 1. 0
+N5 N0+ 4 i 0.568 0.5 0.844 . 1. 0
+N6 N0+ 4 i 0.633 0.5 0.93 . 1. 0
+#End of TTdata_659621-ICSD

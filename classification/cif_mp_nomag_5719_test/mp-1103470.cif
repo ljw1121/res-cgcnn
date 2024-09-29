@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_VNiP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.49161576
+_cell_length_b   5.84784987
+_cell_length_c   6.83813904
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VNiP
+_chemical_formula_sum   'V4 Ni4 P4'
+_cell_volume   139.62416431
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.75000000  0.47451198  0.66316482  1
+  V  V1  1  0.75000000  0.97451198  0.83683518  1
+  V  V2  1  0.25000000  0.52548802  0.33683518  1
+  V  V3  1  0.25000000  0.02548802  0.16316482  1
+  Ni  Ni4  1  0.75000000  0.35413617  0.06655539  1
+  Ni  Ni5  1  0.75000000  0.85413617  0.43344461  1
+  Ni  Ni6  1  0.25000000  0.64586383  0.93344461  1
+  Ni  Ni7  1  0.25000000  0.14586383  0.56655539  1
+  P  P8  1  0.75000000  0.73258659  0.12681571  1
+  P  P9  1  0.75000000  0.23258659  0.37318429  1
+  P  P10  1  0.25000000  0.26741341  0.87318429  1
+  P  P11  1  0.25000000  0.76741341  0.62681571  1

@@ -1,0 +1,78 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_36380-ICSD
+_database_code_ICSD 36380
+_audit_creation_date 1984-12-31
+_chemical_name_systematic 'Dipotassium sodium trioxoferrate(III)'
+_chemical_formula_structural 'K2 Na (Fe O3)'
+_chemical_formula_sum 'Fe1 K2 Na1 O3'
+_exptl_crystal_density_diffrn 2.98
+_publ_section_title 'Das erste Oxoferrat(III) mit Tetraederketten K2 Na (Fe O3)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Naturwissenschaften 1984 71 264 265 NATWAY
+loop_
+_publ_author_name
+'Luge, R.'
+'Hoppe, R.'
+_cell_length_a 11.012(2)
+_cell_length_b 6.197(1)
+_cell_length_c 6.706(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 457.63
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m m a'
+_symmetry_Int_Tables_number 67
+_refine_ls_R_factor_all 0.092
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z'
+2 'x+1/2, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z'
+6 '-x+1/2, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x, y+1/2, -z'
+10 'x, -y+1/2, z'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 '-x, -y+1/2, z'
+14 '-x, y+1/2, -z'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 g 0 0.75 0.1632 . 1. 0
+K1 K1+ 4 g 0 0.25 0.3425(12) . 1. 0
+K2 K1+ 4 a 0.25 0.5 0 . 1. 0
+Na1 Na1+ 4 b 0.25 0 0.5 . 1. 0
+O1 O2- 8 n 0.6405(9) 0.25 0.3091(18) . 1. 0
+O2 O2- 4 c 0 0 0 . 1. 0
+#End of TTdata_36380-ICSD

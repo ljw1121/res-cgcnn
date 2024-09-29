@@ -1,0 +1,81 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_413194-ICSD
+_database_code_ICSD 413194
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Platinum silicon antimonide (1/1/1)'
+_chemical_formula_structural 'Pt Si Sb'
+_chemical_formula_sum 'Pt1 Sb1 Si1'
+_chemical_name_structure_type NiAs2
+_exptl_crystal_density_diffrn 10.06
+_cell_measurement_temperature 295.
+_publ_section_title 'Platinum silicon antimonide (Pt Si Sb)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2003 175 231 236 JSSCBI
+loop_
+_publ_author_name
+'Wang, M.'
+'Morgan, M.G.'
+'Mar, A.'
+_cell_length_a 6.3128(8)
+_cell_length_b 6.3347(8)
+_cell_length_c 11.3945(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 455.66
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pt0+ 0
+Sb0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pt1 Pt0+ 8 c 0.00952(6) 0.11584(6) 0.10741(3) 0.00475(15) 1. 0
+Sb1 Sb0+ 8 c 0.11706(11) 0.00222(12) 0.32746(6) 0.00615(17) 1. 0
+Si1 Si0+ 8 c 0.3546(5) 0.2616(5) 0.0752(3) 0.0062(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pt1 Pt0+ 0.00430(19) 0.0063(2) 0.0036(2) -0.00007(11) -0.00001(11) -0.00022(12)
+Sb1 Sb0+ 0.0052(3) 0.0078(3) 0.0055(3) -0.0004(2) -0.0006(2) 0.0007(3)
+Si1 Si0+ 0.0050(11) 0.0075(12) 0.0062(11) -0.0023(9) 0.0001(9) -0.0001(10)
+#End of TTdata_413194-ICSD

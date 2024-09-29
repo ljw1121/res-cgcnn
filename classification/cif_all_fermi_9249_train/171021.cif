@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_171021-ICSD
+_database_code_ICSD 171021
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Strontium chlorate(III)'
+_chemical_formula_structural 'Sr (Cl O2)2'
+_chemical_formula_sum 'Cl2 O4 Sr1'
+_chemical_name_structure_type Pb(ClO2)2
+_exptl_crystal_density_diffrn 3.24
+_publ_section_title
+'Strontium chlorite, Sr (Cl O2)2, from x-ray powder diffraction data'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E. Structure Reports Online' 2005 61
+i249 i250 ACSEBH
+loop_
+_publ_author_name
+'Smolentsev, A.I.'
+'Naumov, D.Yu.'
+_cell_length_a 5.9799(12)
+_cell_length_b 12.7519(16)
+_cell_length_c 5.9787(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 455.91
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C c c a Z'
+_symmetry_Int_Tables_number 68
+_refine_ls_R_factor_all 0.055
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y+1/2, -z'
+2 '-x+1/2, y+1/2, -z+1/2'
+3 'x+1/2, -y, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, -y+1/2, z'
+6 'x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y, z+1/2'
+8 'x, y, z'
+9 'x+1/2, y, -z'
+10 '-x, y, -z+1/2'
+11 'x, -y+1/2, -z+1/2'
+12 '-x+1/2, -y+1/2, -z'
+13 '-x+1/2, -y, z'
+14 'x, -y, z+1/2'
+15 '-x, y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Cl3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 4 a 0. 0.25 0.25 0.0105(4) 1. 0
+Cl1 Cl3+ 8 f 0.5 0.07460(16) 0.25 0.0215(7) 1. 0
+O1 O2- 16 i 0.3443(10) 0.1447(4) 0.1005(10) 0.050(2) 1. 0
+#End of TTdata_171021-ICSD

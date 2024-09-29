@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_183999-ICSD
+_database_code_ICSD 183999
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Trilithium dinickel antimony hexaoxide'
+_chemical_formula_structural 'Li3 Ni2 Sb O6'
+_chemical_formula_sum 'Li3 Ni2 O6 Sb1'
+_chemical_name_structure_type Na5ReO6
+_exptl_crystal_density_diffrn 5.24
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Monoclinic honeycomb-layered compound Li3 Ni2 Sb O6 : preparation, crystal
+structure and magnetic properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2012 41 572 580 DTARAF
+loop_
+_publ_author_name
+'Zvereva, E.A.'
+'Evstigneeva, M.A.'
+'Nalbandyan, V.B.'
+'Savelieva, O.A.'
+'Ibragimov, S.A.'
+'Volkova, O.S.'
+'Medvedeva, L.I.'
+'Vasiliev, A.N.'
+'Klingeler, R.'
+'Buechner, B.'
+_cell_length_a 5.1828(2)
+_cell_length_b 8.9678(3)
+_cell_length_c 5.1578(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.695(2)
+_cell_angle_gamma 90.
+_cell_volume 225.7
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0491
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sb5+ 5
+Ni2+ 2
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sb1 Sb5+ 2 a 0. 0. 0. 0.0109(4) 1. 0
+Ni1 Ni2+ 4 g 0. 0.3337(3) 0. 0.0058(4) 1. 0
+Li1 Li1+ 4 h 0. 0.164(3) 0.5 0.050(7) 1. 0
+Li2 Li1+ 2 d 0. 0.5 0.5 0.012(6) 1. 0
+O1 O2- 4 i 0.7632(20) 0. 0.2290(15) 0.0056(21) 1. 0
+O2 O2- 8 j 0.2478(17) 0.1605(6) 0.2283(9) 0.0116(12) 1. 0
+#End of TTdata_183999-ICSD

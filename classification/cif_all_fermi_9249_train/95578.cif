@@ -1,0 +1,90 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_95578-ICSD
+_database_code_ICSD 95578
+_audit_creation_date 2003-10-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Yttrium vanadate(III)'
+_chemical_formula_structural 'Y (V O3)'
+_chemical_formula_sum 'O3 V1 Y1'
+_chemical_name_structure_type YVO3
+_exptl_crystal_density_diffrn 5.59
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Neutron diffraction, X-ray diffraction and specific heat studies oforbital
+ordering in Y V O3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review, Serie 3. B - Condensed Matter (18,1978-)' 2002 65
+1741121 1741129 PRBMDO
+loop_
+_publ_author_name
+'Blake, G.R.'
+'Palstra, T.T.M.'
+'Ren, Y.'
+'Nugroho, A.A.'
+'Menovsky, A.A.'
+_cell_length_a 5.61940(3)
+_cell_length_b 5.27272(3)
+_cell_length_c 7.53499(4)
+_cell_angle_alpha 90
+_cell_angle_beta 89.979(9)
+_cell_angle_gamma 90
+_cell_volume 223.26
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0129
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+V3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 e 0.07051(6) 0.97967(6) 0.2496(2) . 1. 0
+V1 V3+ 2 c 0.5 0 0 0.003 1. 0
+V2 V3+ 2 b 0 0.5 0.5 0.003 1. 0
+O1 O2- 4 e 0.46064(7) 0.11131(7) 0.2501(4) . 1. 0
+O2 O2- 4 e 0.3088(2) 0.6947(2) 0.0561(4) . 1. 0
+O3 O2- 4 e 0.7001(2) 0.3142(2) 0.5573(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.0028(1) 0.0029(1) 0.0023(1) 0.0000(1) -0.0018(2) -0.0007(9)
+O1 O2- 0.0043(1) 0.0032(1) 0.0026(1) -0.0006(1) -0.0011(5) 0.0005(4)
+O2 O2- 0.0045(3) 0.0033(3) 0.0034(4) 0.0002(2) -0.0009(3) 0.0012(3)
+O3 O2- 0.0032(3) 0.0030(3) 0.0040(4) -0.0012(2) 0.0008(3) 0.0002(3)
+#End of TTdata_95578-ICSD

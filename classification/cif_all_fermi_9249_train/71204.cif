@@ -1,0 +1,103 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_71204-ICSD
+_database_code_ICSD 71204
+_audit_creation_date 1993-01-06
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Potassium copper telluride (2/5/5)'
+_chemical_formula_structural 'K2 Cu5 Te5'
+_chemical_formula_sum 'Cu5 K2 Te5'
+_exptl_crystal_density_diffrn 5.61
+_publ_section_title
+
+;
+K2Cu5Te5, eine neuartige gemischtvalente Schichtverbindung mit metallischen
+Eigenschaften
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie (German Edition)' 1991 103 1404 1407 ANCEAD
+loop_
+_publ_author_name
+'Park, Y.'
+'Degroot, D.C.'
+'Schindler, J.L.'
+'Kannewurf, C.R.'
+'Kanatzidis, M.G.'
+_cell_length_a 4.130(3)
+_cell_length_b 16.004(2)
+_cell_length_c 18.533(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1224.97
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te2- -2
+Cu1+ 1.6
+K1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te2- 8 f 0 0.12811(3) 0.51974(4) . 1. 0
+Te2 Te2- 8 f 0.5 0.30524(3) 0.67015(4) . 1. 0
+Te3 Te2- 4 c 0 0.07738(5) 0.75 . 1. 0
+Cu1 Cu1+ 8 f 0 0.19941(7) 0.64842(8) . 1. 0
+Cu2 Cu1+ 8 f 0 0.27787(7) 0.46035(8) . 1. 0
+Cu3 Cu1+ 4 c 0.5 0.1698(1) 0.75 . 1. 0
+K1 K1+ 8 f 0.5 -.0186(1) 0.6172(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Te1 Te2- 0.0170(4) 0.0145(4) 0.0178(5) 0 0 -.0002(2)
+Te2 Te2- 0.0196(4) 0.0164(4) 0.0187(5) 0 0 0.0025(2)
+Te3 Te2- 0.0153(5) 0.0168(4) 0.0183(6) 0 0 0
+Cu1 Cu1+ 0.0241(7) 0.0292(7) 0.0213(9) 0 0 -.0006(5)
+Cu2 Cu1+ 0.0161(6) 0.0244(6) 0.045(1) 0 0 0.0039(6)
+Cu3 Cu1+ 0.0172(8) 0.0200(8) 0.031(1) 0 0 0
+K1 K1+ 0.020(1) 0.030(1) 0.032(2) 0 0 0.000(1)
+#End of TTdata_71204-ICSD

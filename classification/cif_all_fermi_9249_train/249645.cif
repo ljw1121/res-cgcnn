@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_249645-ICSD
+_database_code_ICSD 249645
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Potassium auride stannide (1/3/3)'
+_chemical_formula_structural 'K Au3 Sn3'
+_chemical_formula_sum 'Au3 K1 Sn3'
+_chemical_name_structure_type SrAu3In3
+_exptl_crystal_density_diffrn 9.89
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Similar K@ Au10 Sn10 polyhedra in the markedly different structures of K Au4
+Sn6 and K Au3 Sn3. Syntheses and characterization
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2008 47 3610 3616 INOCAJ
+loop_
+_publ_author_name
+'Li Bin'
+'Corbett, J.D.'
+_cell_length_a 4.6614(9)
+_cell_length_b 7.659(2)
+_cell_length_c 9.271(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 330.99
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m m n Z'
+_symmetry_Int_Tables_number 59
+_refine_ls_R_factor_all 0.0406
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y+1/2, -z'
+2 '-x, y+1/2, -z'
+3 'x+1/2, -y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y+1/2, z'
+6 'x, -y+1/2, z'
+7 '-x+1/2, y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au0+ 0
+Sn0+ 0
+K0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au0+ 2 a 0.25 0.25 0.07099(12) 0.0249(4) 1 0
+Au2 Au0+ 4 e 0.25 0.53952(11) 0.58090(9) 0.0257(3) 1 0
+Sn1 Sn0+ 2 a 0.25 0.25 0.3860(2) 0.0228(5) 1 0
+Sn2 Sn0+ 4 e 0.25 0.54660(18) 0.87845(15) 0.0231(4) 1 0
+K1 K0+ 2 b 0.25 0.75 0.2598(7) 0.0286(14) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au1 Au0+ 0.0222(6) 0.0259(6) 0.0265(6) 0. 0. 0.
+Au2 Au0+ 0.0212(5) 0.0284(5) 0.0274(5) 0. 0. -0.0036(3)
+Sn1 Sn0+ 0.0190(9) 0.0221(9) 0.0272(10) 0. 0. 0.
+Sn2 Sn0+ 0.0210(7) 0.0221(7) 0.0262(7) 0. 0. 0.0006(5)
+K1 K0+ 0.029(3) 0.025(3) 0.032(3) 0. 0. 0.
+#End of TTdata_249645-ICSD

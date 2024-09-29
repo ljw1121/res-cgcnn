@@ -1,0 +1,92 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_54102-ICSD
+_database_code_ICSD 54102
+_audit_creation_date 1999-06-02
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Dipotassium tetrasilver selenide'
+_chemical_formula_structural 'K2 Ag4 Se3'
+_chemical_formula_sum 'Ag4 K2 Se3'
+_chemical_name_structure_type Ag4K2S3
+_exptl_crystal_density_diffrn 5.58
+_publ_section_title 'K2 Ag4 Se3, Darstellung und Struktur'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1982 83 287 291 JCOMAH
+loop_
+_publ_author_name
+'Bronger, W.'
+'Schils, H.'
+_cell_length_a 17.770(10)
+_cell_length_b 4.447(3)
+_cell_length_c 11.856(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.4(1)
+_cell_angle_gamma 90.
+_cell_volume 889.
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.072
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Ag1+ 1
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 i 0.3344(8) 0 0.161(1) . 1. 0
+K2 K1+ 4 i 0.1866(8) 0 0.344(1) . 1. 0
+Ag1 Ag1+ 4 i 0.0066(3) 0 0.8776(5) . 1. 0
+Ag2 Ag1+ 4 i 0.0171(3) 0 0.6298(4) . 1. 0
+Ag3 Ag1+ 4 i 0.5910(3) 0 0.0891(5) . 1. 0
+Ag4 Ag1+ 4 i 0.5921(3) 0 0.5171(4) . 1. 0
+Se1 Se2- 4 i 0.1446(4) 0 0.0403(5) . 1. 0
+Se2 Se2- 4 i 0.1615(4) 0 0.6161(5) . 1. 0
+Se3 Se2- 4 i 0.4659(3) 0 0.7223(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0014(4) 0.024(7) 0.0029(8) 0 0.0013(4) 0
+K2 K1+ 0.0011(3) 0.039(8) 0.0017(7) 0 0.0010(4) 0
+Ag1 Ag1+ 0.0016(1) 0.033(3) 0.0031(3) 0 0.0003(2) 0
+Ag2 Ag1+ 0.0018(1) 0.028(3) 0.0041(3) 0 0.0021(2) 0
+Ag3 Ag1+ 0.0032(2) 0.022(3) 0.0051(3) 0 0.0027(2) 0
+Ag4 Ag1+ 0.0018(1) 0.018(2) 0.0026(3) 0 0.0006(2) 0
+Se1 Se2- 0.0012(2) 0.019(3) 0.0018(3) 0 0.0005(2) 0
+Se2 Se2- 0.0013(2) 0.016(3) 0.0027(3) 0 0.0013(2) 0
+Se3 Se2- 0.0014(2) 0.013(3) 0.0010(3) 0 0.0006(2) 0
+#End of TTdata_54102-ICSD

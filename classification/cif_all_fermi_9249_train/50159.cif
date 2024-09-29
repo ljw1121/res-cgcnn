@@ -1,0 +1,88 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_50159-ICSD
+_database_code_ICSD 50159
+_audit_creation_date 1999-01-19
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Barium diiridium silicide'
+_chemical_formula_structural 'Ba Ir2 Si2'
+_chemical_formula_sum 'Ba1 Ir2 Si2'
+_chemical_name_structure_type BaRh2Si2
+_exptl_crystal_density_diffrn 9.48
+_publ_section_title
+
+;
+Die isotypen Verbindungen Ba Rh2 Si2, Ba Ir2 Si2 und Ba Pt2 Ga2 - eine
+monokline Verzerrungsvariante der Ca Rh2 B2-Struktur
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1997
+623 1561 1566 ZAACAB
+loop_
+_publ_author_name
+'Langen, D.'
+'Schoolaert, S.'
+'Ploss, H.'
+'Jung, W.'
+_cell_length_a 7.9247(6)
+_cell_length_b 6.6428(6)
+_cell_length_c 7.7222(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.181(7)
+_cell_angle_gamma 90.
+_cell_volume 406.22
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Ir3+ 3
+Si4- -4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 e 0.23432(8) 0.88143(9) 0.4987(1) . 1. 0
+Ir1 Ir3+ 4 e 0.86031(5) 0.66765(6) 0.33065(7) . 1. 0
+Ir2 Ir3+ 4 e 0.62243(5) 0.89520(6) 0.11169(6) . 1. 0
+Si1 Si4- 4 e 0.5616(4) 0.8515(4) 0.8115(5) . 1. 0
+Si2 Si4- 4 e 0.9275(4) 0.9202(4) 0.1296(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0079(2) 0.0060(2) 0.0100(4) -0.0001(2) -0.0003(2) -0.0009(2)
+Ir1 Ir3+ 0.0037(1) 0.0036(1) 0.0063(2) 0.0003(1) -0.0006(2) 0.0005(1)
+Ir2 Ir3+ 0.0034(1) 0.0035(1) 0.0058(2) 0.0004(1) -0.0005(1) 0.0002(1)
+Si1 Si4- 0.0053(11) 0.0047(10) 0.0073(18) 0.0006(9) -0.0010(13) -0.0022(11)
+Si2 Si4- 0.0043(11) 0.0046(10) 0.0061(17) -0.0001(19) -0.0020(12) 0.0013(10)
+#End of TTdata_50159-ICSD

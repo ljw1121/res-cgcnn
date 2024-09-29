@@ -1,0 +1,83 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79541-ICSD
+_database_code_ICSD 79541
+_audit_creation_date 1996-10-14
+_audit_update_record 2000-12-16
+_chemical_name_systematic 'Lanthanum rhodium germanide (3/4/4)'
+_chemical_formula_structural 'La3 Rh4 Ge4'
+_chemical_formula_sum 'Ge4 La3 Rh4'
+_chemical_name_structure_type Ni4U3Si4
+_exptl_crystal_density_diffrn 8.26
+_publ_section_title 'La3 Rh4 Ge4 of orthorhombic U3 Ni4 Si4 type'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1982 38 1803 1805 ACBCAR
+loop_
+_publ_author_name
+'Hovestreydt, E.'
+'Klepp, K.O.'
+'Parthe, E.'
+_cell_length_a 4.1746(3)
+_cell_length_b 4.2412(2)
+_cell_length_c 25.2340(30)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 446.78
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m m m'
+_symmetry_Int_Tables_number 71
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 'x, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x, -y, z'
+6 '-x, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x+1/2, y+1/2, -z+1/2'
+10 'x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 '-x+1/2, -y+1/2, z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rh1+ 1.75
+Ge4- -4
+La3+ 3
+Rh1+ 1.75
+Ge4- -4
+La3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rh1 Rh1+ 4 j 0.5 0 0.10010(7) 0.014(1) 1. 0
+Ge1 Ge4- 4 j 0.5 0 0.1984(1) 0.011(1) 1. 0
+La1 La3+ 4 j 0.5 0 0.35455(5) 0.0110(7) 1. 0
+Rh2 Rh1+ 4 i 0 0 0.24976(7) 0.0090(8) 1. 0
+Ge2 Ge4- 4 i 0 0 0.4502(1) 0.012(1) 1. 0
+La2 La3+ 2 a 0 0 0 0.0107(9) 1. 0
+#End of TTdata_79541-ICSD

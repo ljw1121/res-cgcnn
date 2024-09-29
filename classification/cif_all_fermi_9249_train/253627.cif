@@ -1,0 +1,74 @@
+
+data_253627-ICSD
+_database_code_ICSD 253627
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Strontium iridium indide germanide (1/4/2/4)'
+_chemical_formula_structural 'Sr Ir4 In2 Ge4'
+_chemical_formula_sum 'Ge4 In2 Ir4 Sr1'
+_exptl_crystal_density_diffrn 11.05
+_cell_measurement_temperature 293.
+_cell_length_a 6.9004(5)
+_cell_length_b 6.9004(5)
+_cell_length_c 8.7120(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 414.82
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4 2 m'
+_symmetry_Int_Tables_number 121
+_refine_ls_R_factor_all 0.0205
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x, z'
+2 'y, x, z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, -z'
+6 '-x, y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y+1/2, x+1/2, z+1/2'
+11 'y+1/2, -x+1/2, -z+1/2'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir3+ 3
+Sr2+ 2
+In3- -3
+Ge2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir3+ 8 i 0.15715(3) 0.84285(3) 0.60206(4) 0.00350(12) 1 0
+Sr1 Sr2+ 2 a 1. 1. 1. 0.0075(3) 1 0
+In1 In3- 4 c 1. 0.5 0.5 0.00763(17) 1 0
+Ge1 Ge2- 8 i 0.81599(10) 0.81599(10) 0.69412(12) 0.00500(18) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ir1 Ir3+ 0.00363(12) 0.00363(12) 0.00323(15) -0.00028(9) -0.00080(6) 0.00080(6)
+Sr1 Sr2+ 0.0072(4) 0.0072(4) 0.0082(7) 0. 0. 0.
+In1 In3- 0.0076(3) 0.0033(3) 0.0120(4) 0. 0. 0.
+Ge1 Ge2- 0.0057(2) 0.0057(2) 0.0037(4) -0.0011(3) 0.0013(2) 0.0013(2)

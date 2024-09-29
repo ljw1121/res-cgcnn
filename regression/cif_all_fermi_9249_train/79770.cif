@@ -1,0 +1,50 @@
+
+data_79770-ICSD
+_database_code_ICSD 79770
+_audit_creation_date 1996-10-14
+_chemical_name_systematic 'Silver sulfide (8/1)'
+_chemical_formula_structural 'Ag8 S'
+_chemical_formula_sum 'Ag8 S1'
+_exptl_crystal_density_diffrn 9.05
+_cell_length_a 5.9
+_cell_length_b 6.4
+_cell_length_c 8.7
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 328.51
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m m 2'
+_symmetry_Int_Tables_number 44
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ag0+ 0.25
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ag1 Ag0+ 4 d 0 0.25 0.375 . 1. 0
+Ag2 Ag0+ 4 d 0 0.75 0.875 . 1. 0
+Ag3 Ag0+ 4 c 0.25 0 0.625 . 1. 0
+Ag4 Ag0+ 4 c 0.75 0 0.125 . 1. 0
+S1 S2- 2 a 0 0 0 . 1. 0

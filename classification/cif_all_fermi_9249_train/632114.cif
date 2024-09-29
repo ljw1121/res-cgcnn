@@ -1,0 +1,55 @@
+
+data_632114-ICSD
+_database_code_ICSD 632114
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Iron germanium scandium (1/1/1)'
+_chemical_formula_structural 'Fe Ge Sc'
+_chemical_formula_sum 'Fe1 Ge1 Sc1'
+_chemical_name_structure_type ZrNiAl-Fe2P
+_exptl_crystal_density_diffrn 5.97
+_cell_length_a 6.547(1)
+_cell_length_b 6.547(1)
+_cell_length_c 3.895(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 144.58
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P -6 2 m'
+_symmetry_Int_Tables_number 189
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z'
+5 'x-y, -y, z'
+6 'y, x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe0+ 0
+Sc0+ 0
+Ge0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe0+ 3 f 0.237 0 0 . 1. 0
+Sc1 Sc0+ 3 g 0.577 0 0.5 . 1. 0
+Ge1 Ge0+ 2 c 0.3333 0.6667 0 . 1. 0
+Ge2 Ge0+ 1 b 0 0 0.5 . 1. 0

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Tb2Ga3Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38391050
+_cell_length_b   4.38397133
+_cell_length_c   7.23249962
+_cell_angle_alpha   89.99951272
+_cell_angle_beta   90.00053225
+_cell_angle_gamma   120.01420651
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tb2Ga3Cu
+_chemical_formula_sum   'Tb2 Ga3 Cu1'
+_cell_volume   120.36112722
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.99999419  0.00000514  0.73160773  1
+  Tb  Tb1  1  0.99999224  0.00000628  0.26043867  1
+  Ga  Ga2  1  0.33337357  0.66662996  0.47555443  1
+  Ga  Ga3  1  0.33334156  0.66666260  0.04586243  1
+  Ga  Ga4  1  0.66665456  0.33334296  0.95067835  1
+  Cu  Cu5  1  0.66664387  0.33335307  0.53585839  1

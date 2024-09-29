@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_425552-ICSD
+_database_code_ICSD 425552
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Vanadyl(V) phosphate'
+_chemical_formula_structural '(V O) (P O4)'
+_chemical_formula_sum 'O5 P1 V1'
+_exptl_crystal_density_diffrn 3.3
+_cell_measurement_temperature 553.
+_publ_section_title
+
+;
+DFT-assisted structure determination of alpha1- and alpha2 - V O P O4 : new
+insights into the understanding of the catalytic performances of vanadium
+phosphates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2013 42 8124 8131 DTARAF
+loop_
+_publ_author_name
+'Gautier, Romain'
+'Gautier, Regis'
+'Hernandez, Olivier'
+'Audebrand, Nathalie'
+'Bataille, Thierry'
+'Roiland, Claire'
+'Elkaim, Erik'
+'Le Polles, Laurent'
+'Furet, Eric'
+'Le Fur, Eric'
+_cell_length_a 8.73186(14)
+_cell_length_b 6.20548(5)
+_cell_length_c 6.20902(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.448(2)
+_cell_angle_gamma 90.
+_cell_volume 325.8
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0686
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+P5+ 5
+V5+ 5
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 4 i 0.1236(2) 0.5 0.2226(10) 0.0143(3) 1. 0
+O2 O2- 4 i 0.3668(3) 0.5 0.6140(3) 0.0143(3) 1. 0
+O3 O2- 8 j 0.1443(3) 0.3170(2) 0.7060(6) 0.0143(3) 1. 0
+O4 O2- 4 i 0.1479(4) 0 0.0246(2) 0.0143(3) 1. 0
+P1 P5+ 4 i 0.25090(18) 0.5 0.7486(3) 0.0143(3) 1. 0
+V1 V5+ 4 i 0.31745(15) 0.5 0.2812(2) 0.0143(3) 1. 0
+#End of TTdata_425552-ICSD

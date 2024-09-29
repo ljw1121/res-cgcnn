@@ -1,0 +1,74 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_108983-ICSD
+_database_code_ICSD 108983
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Oxovanadium(IV) phosphate(V) - alphaI'
+_chemical_formula_structural '(V O) (P O4)'
+_chemical_formula_sum 'O5 P1 V1'
+_chemical_name_structure_type VOSO4-alpha
+_exptl_crystal_density_diffrn 3.4
+_publ_section_title
+
+;
+A structural explanation for the polymorphism of the alpha-form of anhydrous
+vanadyl phosphate
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1981 40 280 283 JSSCBI
+loop_
+_publ_author_name
+'Tachez, M.'
+'Theobald, F.R.'
+'Bordes, E.'
+_cell_length_a 6.2
+_cell_length_b 6.2
+_cell_length_c 4.11
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 157.99
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n S'
+_symmetry_Int_Tables_number 85
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, -x+1/2, z'
+2 '-y+1/2, x+1/2, z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 '-x+1/2, -y+1/2, -z'
+6 'x+1/2, y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+O2- -2
+P6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 2 c 0 0.5 0.6176 0.4 1. 0
+O1 O2- 2 c 0 0.5 0.22 0.4 1. 0
+P1 P6+ 2 b 0 0 0.5 0.4 1. 0
+O2 O2- 8 g 0.538 0.683 0.285 0.4 1. 0
+#End of TTdata_108983-ICSD

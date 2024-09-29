@@ -1,0 +1,56 @@
+
+data_189973-ICSD
+_database_code_ICSD 189973
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Dimagnesium silicate'
+_chemical_formula_structural 'Mg2 (Si O4)'
+_chemical_formula_sum 'Mg2 O4 Si1'
+_chemical_name_mineral Forsterite
+_exptl_crystal_density_diffrn 4.56
+_cell_measurement_pressure 58200000.
+_cell_length_a 2.640(2)
+_cell_length_b 8.596(8)
+_cell_length_c 9.04(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 205.15
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+_refine_ls_R_factor_all 0.052
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg2+ 4 a 0.5 0.373(12) 0.350(13) 0.009(8) 1. 0
+Mg2 Mg2+ 4 a 0.5 0.889(5) 0.622(14) 0.012(8) 1. 0
+Si1 Si4+ 4 a 0 0.857(16) 0.000(15) 0.018(8) 1. 0
+O1 O2- 4 a 0.5 0.983(60) 0.46(15) 0.022(14) 1. 0
+O2 O2- 4 a 0.5 0.231(14) 0.572(55) 0.004(12) 1. 0
+O3 O2- 4 a 0.5 0.706(14) 0.271(44) 0.023(25) 1. 0
+O4 O2- 4 a 0.5 0.466(16) 0.181(91) 0.011(14) 1. 0

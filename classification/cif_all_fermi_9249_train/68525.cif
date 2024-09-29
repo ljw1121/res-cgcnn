@@ -1,0 +1,80 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68525-ICSD
+_database_code_ICSD 68525
+_audit_creation_date 1991-07-10
+_audit_update_record 2004-04-01
+_chemical_name_systematic 'Scandium iron phosphide (1/4/2)'
+_chemical_formula_structural 'Sc Fe4 P2'
+_chemical_formula_sum 'Fe4 P2 Sc1'
+_chemical_name_structure_type Fe4Si2Zr
+_exptl_crystal_density_diffrn 6.25
+_publ_section_title
+'Phosphides and arsenides with the Zr Fe4 Si2-type structure'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1990 161 125 134 JCOMAH
+loop_
+_publ_author_name
+'Jeitschko, W.'
+'Terbuechte, L.J.'
+'Reinbold, E.J.'
+'Pollmeier, P.G.'
+'Vomhof, T.'
+_cell_length_a 6.962(3)
+_cell_length_b 6.962(3)
+_cell_length_c 3.622(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 175.56
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_symmetry_Int_Tables_number 136
+_refine_ls_R_factor_all 0.014
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x+1/2, -z+1/2'
+2 'y+1/2, -x+1/2, -z+1/2'
+3 'y, x, -z'
+4 '-y, -x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-y, -x, z'
+8 'y, x, z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, y, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc0+ 0
+Fe0+ 0
+P0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc0+ 2 b 0 0 0.5 0.460(7) 1. 0
+Fe1 Fe0+ 8 i 0.08342(4) 0.34098(4) 0 0.377(3) 1. 0
+P1 P0+ 4 g 0.21754(9) -.2175 0 0.397(7) 1. 0
+#End of TTdata_68525-ICSD

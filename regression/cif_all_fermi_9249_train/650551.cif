@@ -1,0 +1,68 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_650551-ICSD
+_database_code_ICSD 650551
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Zirconium rhodium (3/1)'
+_chemical_formula_structural 'Zr3 Rh'
+_chemical_formula_sum 'Rh1 Zr3'
+_exptl_crystal_density_diffrn 7.58
+_publ_section_title 'Crystallization of amorphous Zr2 Pd and Zr3 Rh alloys'
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Applied Physics' 1985 57 545 553 JAPIAU
+loop_
+_publ_author_name
+'Cantrell, J.S.'
+'Wagner, J.E.'
+'Bowman, R.C.'
+_cell_length_a 10.802(4)
+_cell_length_b 10.802(4)
+_cell_length_c 5.629(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 656.81
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr0+ 0
+Rh0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr0+ 8 g 0.077 0.112 0.239 . 1. 0
+Zr2 Zr0+ 8 g 0.365 0.032 0.976 . 1. 0
+Zr3 Zr0+ 8 g 0.169 0.22 0.748 . 1. 0
+Rh1 Rh0+ 8 g 0.286 0.049 0.481 . 1. 0
+#End of TTdata_650551-ICSD

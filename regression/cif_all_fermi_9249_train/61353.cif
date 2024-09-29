@@ -1,0 +1,76 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_61353-ICSD
+_database_code_ICSD 61353
+_audit_creation_date 1987-03-16
+_chemical_name_systematic 'Ditantalum platinum heptaselenide'
+_chemical_formula_structural 'Ta2 Pt Se7'
+_chemical_formula_sum 'Pt1 Se7 Ta2'
+_chemical_name_structure_type NiTa2Se7
+_exptl_crystal_density_diffrn 8.48
+_cell_measurement_temperature 123.
+_publ_section_title
+'Synthesis, structure and transport properties of Ta2 Ni Se7 and Ta2 Pt Se7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1986 25 4355 4358 INOCAJ
+loop_
+_publ_author_name
+'Sunshine, S.A.'
+'Ibers, J.A.'
+_cell_length_a 13.954(13)
+_cell_length_b 3.530(3)
+_cell_length_c 18.694(17)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.28(3)
+_cell_angle_gamma 90.
+_cell_volume 869.18
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.043
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta5+ 5
+Pt4+ 4
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ta1 Ta5+ 4 i 0.150920(73) 0 0.398870(51) 0.28(2) 1. 0
+Ta2 Ta5+ 4 i 0.231070(75) 0 0.091870(51) 0.32(2) 1. 0
+Pt1 Pt4+ 4 i 0.688090(69) 0 0.207920(48) 0.31(2) 1. 0
+Se1 Se2- 4 i 0.36037(18) 0 0.01177(12) 0.40(4) 1. 0
+Se2 Se2- 4 i 0.56567(18) 0 0.29387(13) 0.44(4) 1. 0
+Se3 Se2- 4 i 0.57446(18) 0.5 0.12719(12) 0.40(4) 1. 0
+Se4 Se2- 4 i 0.85187(18) 0 0.17162(12) 0.50(4) 1. 0
+Se5 Se2- 4 i 0.02316(18) 0.5 0.41909(12) 0.39(4) 1. 0
+Se6 Se2- 4 i 0.20037(18) 0 -.44735(12) 0.36(4) 1. 0
+Se7 Se2- 4 i 0.26458(18) 0 0.30378(12) 0.35(4) 1. 0
+#End of TTdata_61353-ICSD

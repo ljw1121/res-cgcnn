@@ -1,0 +1,107 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_170062-ICSD
+_database_code_ICSD 170062
+_audit_creation_date 2005-10-01
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Scandium tin (1/2)'
+_chemical_formula_structural 'Sc Sn2'
+_chemical_formula_sum 'Sc1 Sn2'
+_chemical_name_structure_type ScSn2
+_exptl_crystal_density_diffrn 6.74
+_publ_section_title 'Two new scandium phases: Sc Sn2 and Sc6 Pb5'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1995 51 1725 1728 ACSCEE
+loop_
+_publ_author_name
+'Pani, M.'
+'Manfrinetti, P.'
+'Fornasini, M.L.'
+_cell_length_a 4.2330(10)
+_cell_length_b 4.2330(10)
+_cell_length_c 31.039(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 556.17
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I 41/a m d Z'
+_symmetry_Int_Tables_number 141
+_refine_ls_R_factor_all 0.078
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/4, x+3/4, -z+1/4'
+2 'y+1/4, -x+3/4, -z+1/4'
+3 'x, y+1/2, -z'
+4 'x, -y, -z'
+5 '-y+3/4, x+3/4, -z+1/4'
+6 '-y+3/4, -x+3/4, -z+1/4'
+7 '-x, y+1/2, -z'
+8 '-x, -y, -z'
+9 '-y+3/4, -x+1/4, z+3/4'
+10 '-y+3/4, x+1/4, z+3/4'
+11 '-x, -y+1/2, z'
+12 '-x, y, z'
+13 'y+1/4, -x+1/4, z+3/4'
+14 'y+1/4, x+1/4, z+3/4'
+15 'x, -y+1/2, z'
+16 'x, y, z'
+17 'y+3/4, x+1/4, -z+3/4'
+18 'y+3/4, -x+1/4, -z+3/4'
+19 'x+1/2, y, -z+1/2'
+20 'x+1/2, -y+1/2, -z+1/2'
+21 '-y+1/4, x+1/4, -z+3/4'
+22 '-y+1/4, -x+1/4, -z+3/4'
+23 '-x+1/2, y, -z+1/2'
+24 '-x+1/2, -y+1/2, -z+1/2'
+25 '-y+1/4, -x+3/4, z+1/4'
+26 '-y+1/4, x+3/4, z+1/4'
+27 '-x+1/2, -y, z+1/2'
+28 '-x+1/2, y+1/2, z+1/2'
+29 'y+3/4, -x+3/4, z+1/4'
+30 'y+3/4, x+3/4, z+1/4'
+31 'x+1/2, -y, z+1/2'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc0+ 0
+Sn0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc0+ 8 e 0. 0.25 0.2016(2) 0.0112(8) 1 0
+Sn1 Sn0+ 8 e 0. 0.25 0.03320(10) 0.0112(5) 1 0
+Sn2 Sn0+ 4 b 0. 0.25 0.375 0.0127(6) 1 0
+Sn3 Sn0+ 4 a 0. 0.75 0.125 0.0126(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sc1 Sc0+ 0.014(3) 0.013(3) 0.006(2) 0. 0. 0.
+Sn1 Sn0+ 0.0137(12) 0.0117(12) 0.0081(7) 0. 0. 0.
+Sn2 Sn0+ 0.0141(7) 0.0141(7) 0.0098(10) 0. 0. 0.
+Sn3 Sn0+ 0.0142(7) 0.0142(7) 0.0093(10) 0. 0. 0.
+#End of TTdata_170062-ICSD

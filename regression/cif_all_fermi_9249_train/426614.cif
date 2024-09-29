@@ -1,0 +1,88 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_426614-ICSD
+_database_code_ICSD 426614
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Strontium platinum magnesium (1/1/1)'
+_chemical_formula_structural 'Sr Pt Mg'
+_chemical_formula_sum 'Mg1 Pt1 Sr1'
+_chemical_name_structure_type TiNiSi-MgSrSi
+_exptl_crystal_density_diffrn 7.11
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Magnesium and cadmium in covalently bonded networks. Synthesis and structure
+of AETMg and AETCd (AE = Ca, Sr; T = Pd, Ag, Pt, Au) with TiNiSi type
+structure and the solid solution Yb(2-x)PtMg(x)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - Crystalline Materials' 2013 228 635
+642 ZKCMAJ
+loop_
+_publ_author_name
+'Kersting, Marcel'
+'Johnscher, Michael'
+'Poettgen, Rainer'
+_cell_length_a 7.564(1)
+_cell_length_b 4.4232(7)
+_cell_length_c 8.570(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 286.72
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0191
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr0+ 0
+Pt0+ 0
+Mg0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr0+ 4 c 0.02641(7) 0.25 0.67786(6) 0.01175(12) 1 0
+Pt1 Pt0+ 4 c 0.27996(3) 0.25 0.38271(2) 0.01192(10) 1 0
+Mg1 Mg0+ 4 c 0.1382(3) 0.25 0.0630(2) 0.0135(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr0+ 0.0118(2) 0.0111(2) 0.0123(2) 0. -0.00049(14) 0.
+Pt1 Pt0+ 0.01151(13) 0.00988(13) 0.01438(13) 0. 0.00062(6) 0.
+Mg1 Mg0+ 0.0126(8) 0.0138(8) 0.0140(8) 0. 0.0014(6) 0.
+#End of TTdata_426614-ICSD

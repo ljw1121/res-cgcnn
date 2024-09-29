@@ -1,0 +1,93 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_51013-ICSD
+_database_code_ICSD 51013
+_audit_creation_date 2001-07-16
+_chemical_name_systematic 'Manganese bis(rhenate(VII)) dihydrate'
+_chemical_formula_structural 'Mn (Re O4)2 (H2 O)2'
+_chemical_formula_sum 'H4 Mn1 O10 Re2'
+_exptl_crystal_density_diffrn 4.4
+_publ_section_title
+
+;
+The crystal structures of Mn (Re O4)2.2H2O and the anhydrous perrhenates M (Re
+O4)2 of divalent manganese, cobalt, and zinc
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1998 138 232 237 JSSCBI
+loop_
+_publ_author_name
+'Butz, A.'
+'Miehe, G.'
+'Paulus, H.'
+'Strauss, P.'
+'Fuess, H.'
+_cell_length_a 14.710(11)
+_cell_length_b 5.861(6)
+_cell_length_c 5.537(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.87(4)
+_cell_angle_gamma 90.
+_cell_volume 446.05
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.079
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re7+ 7
+Mn2+ 2
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re7+ 4 i 0.6338(1) 0 0.3492(4) . 1. 0
+Mn1 Mn2+ 2 a 0 0 0 . 1. 0
+O1 O2- 8 j 0.5653(2) 0.7578(4) 0.3415(5) . 1. 0
+O2 O2- 4 i 0.7459(3) 0 0.6128(8) . 1. 0
+O3 O2- 4 i 0.8780(2) 0 0.1511(7) . 1. 0
+O4 O2- 4 i 0.6858(5) 0 0.1079(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re7+ 0.028(1) 0.024(1) 0.028(1) 0 0.008(1) 0
+Mn1 Mn2+ 0.048(7) 0.034(6) 0.032(6) 0 0.005(3) 0
+O1 O2- 0.059(2) 0.040(2) 0.075(2) -.027(2) 0.022(3) 0.005(2)
+O2 O2- 0.045(3) 0.093(4) 0.07(3) 0 0.006(3) 0
+O3 O2- 0.008(3) 0.070(3) 0.056(2) 0 0.001(2) 0
+O4 O2- 0.129(5) 0.043(3) 0.146(5) 0 0.109(4) 0
+#End of TTdata_51013-ICSD

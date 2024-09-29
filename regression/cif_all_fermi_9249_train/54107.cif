@@ -1,0 +1,79 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_54107-ICSD
+_database_code_ICSD 54107
+_audit_creation_date 1999-06-02
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Scandium chromium silicide (2/4/5)'
+_chemical_formula_structural 'Sc2 Cr4 Si5'
+_chemical_formula_sum 'Cr4 Sc2 Si5'
+_chemical_name_structure_type V6Si5
+_exptl_crystal_density_diffrn 4.82
+_publ_section_title 'Sc2 Cr4 Si5 with the V6 Si5 (Nb2 Cr4 Si5) structure type'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1982 83 29 31 JCOMAH
+loop_
+_publ_author_name
+'Kotur, B.Ya.'
+'Sikirica, M.'
+_cell_length_a 7.5850(3)
+_cell_length_b 16.1380(50)
+_cell_length_c 4.932(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 603.71
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I b a m'
+_symmetry_Int_Tables_number 72
+_refine_ls_R_factor_all 0.06
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, z+1/2'
+2 'x, -y, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'x, -y, -z+1/2'
+6 '-x, y, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, z'
+10 'x+1/2, -y+1/2, z'
+11 'x+1/2, y+1/2, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z'
+14 '-x+1/2, y+1/2, -z'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc0+ 0
+Cr0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc0+ 8 j 0.1181(5) 0.1421(2) 0 0.11(7) 1. 0
+Cr1 Cr0+ 8 j 0.2460(5) 0.4380(2) 0 0.10(7) 1. 0
+Cr2 Cr0+ 8 g 0 0.3093(2) 0.25 0.10(7) 1. 0
+Si1 Si0+ 8 j 0.2947(8) 0.2888(4) 0 0.39(10) 1. 0
+Si2 Si0+ 8 j 0.4223(8) 0.0638(4) 0 0.52(10) 1. 0
+Si3 Si0+ 4 a 0 0 0.25 0.24(13) 1. 0
+#End of TTdata_54107-ICSD

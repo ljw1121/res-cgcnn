@@ -1,0 +1,107 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_419475-ICSD
+_database_code_ICSD 419475
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Yttrium copper magnesium (1/1/4)'
+_chemical_formula_structural 'Y Cu Mg4'
+_chemical_formula_sum 'Cu1 Mg4 Y1'
+_chemical_name_structure_type TbCuMg4
+_exptl_crystal_density_diffrn 3.08
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Inhomogeneous 2D linear intergrowth structures among novel Y-Cu-Mg ternary
+compounds with yttrium/copper equiatomic ratio
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2009 11 801 811 SSSCFJ
+loop_
+_publ_author_name
+'Solokha, P.'
+'de Negri, S.'
+'Pavlyuk, V.'
+'Saccone, A.'
+_cell_length_a 13.5754(4)
+_cell_length_b 20.3153(6)
+_cell_length_c 3.9060(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1077.23
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C m m m'
+_symmetry_Int_Tables_number 65
+_refine_ls_R_factor_all 0.018
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'x+1/2, -y+1/2, z'
+10 '-x+1/2, y+1/2, z'
+11 'x+1/2, y+1/2, -z'
+12 '-x+1/2, -y+1/2, -z'
+13 '-x+1/2, y+1/2, -z'
+14 'x+1/2, -y+1/2, -z'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y0+ 0
+Cu0+ 0
+Mg0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y0+ 4 i 0. 0.36750(2) 0. 0.01291(15) 1 0
+Y2 Y0+ 4 g 0.30162(4) 0. 0. 0.01262(14) 1 0
+Cu1 Cu0+ 8 q 0.34145(3) 0.10511(2) 0.5 0.01473(14) 1 0
+Mg1 Mg0+ 8 q 0.11806(10) 0.25603(6) 0.5 0.0183(3) 1 0
+Mg2 Mg0+ 2 a 0. 0. 0. 0.0215(6) 1 0
+Mg3 Mg0+ 2 c 0.5 0. 0.5 0.0157(5) 1 0
+Mg4 Mg0+ 8 p 0.24549(9) 0.16855(6) 0. 0.0167(3) 1 0
+Mg5 Mg0+ 8 q 0.13243(10) 0.07945(6) 0.5 0.0190(3) 1 0
+Mg6 Mg0+ 4 i 0. 0.16481(9) 0. 0.0202(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y0+ 0.0116(3) 0.0155(3) 0.0116(2) 0. 0. 0.
+Y2 Y0+ 0.0145(3) 0.0115(2) 0.0119(2) 0. 0. 0.
+Cu1 Cu0+ 0.0149(2) 0.0151(3) 0.0142(2) -0.0013(2) 0. 0.
+Mg1 Mg0+ 0.0174(7) 0.0151(6) 0.0223(7) -0.0001(6) 0. 0.
+Mg2 Mg0+ 0.0253(15) 0.0192(13) 0.0199(13) 0. 0. 0.
+Mg3 Mg0+ 0.0166(13) 0.0168(13) 0.0137(12) 0. 0. 0.
+Mg4 Mg0+ 0.0158(6) 0.0143(6) 0.0201(7) 0.0007(6) 0. 0.
+Mg5 Mg0+ 0.0156(6) 0.0182(7) 0.0231(7) -0.0004(6) 0. 0.
+Mg6 Mg0+ 0.0161(9) 0.0205(10) 0.0240(10) 0. 0. 0.
+#End of TTdata_419475-ICSD

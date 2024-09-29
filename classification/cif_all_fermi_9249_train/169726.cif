@@ -1,0 +1,80 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_169726-ICSD
+_database_code_ICSD 169726
+_audit_creation_date 2011-08-01
+_chemical_name_systematic 'Tricalcium nitride - anti-B type'
+_chemical_formula_structural 'Ca3 N2'
+_chemical_formula_sum 'Ca3 N2'
+_chemical_name_structure_type Sm2O3
+_exptl_crystal_density_diffrn 3.26
+_cell_measurement_pressure 15600000.
+_publ_section_title
+'Experimental determinations of the high-pressure crystal structures of Ca3 N2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physical Chemistry C' 2010 114 16750 16755 JPCCCK
+loop_
+_publ_author_name
+'Hao, J.'
+'Li, Y.-W.'
+'Wang, J.-S.'
+'Ma, C.-L.'
+'Huang, L.-Y.'
+'Liu, R.'
+'Cui, Q.-L.'
+'Zou, G.-T.'
+'Liu, J.'
+'Li, X.-D.'
+_cell_length_a 14.095(1)
+_cell_length_b 3.651(7)
+_cell_length_c 8.910(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 98.252(3)
+_cell_angle_gamma 90.
+_cell_volume 453.77
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 i 0.328(3) 0.5 0.035(5) 0.0016(7) 1. 0
+Ca2 Ca2+ 4 i 0.299(9) 0.5 0.371(6) 0.0094(4) 1. 0
+Ca3 Ca2+ 4 i 0.131(7) 0 0.285(8) 0.0065(8) 1. 0
+Ca4 Ca2+ 4 i 0.474(9) 0 0.342(4) 0.0027(1) 1. 0
+Ca5 Ca2+ 2 b 0 0.5 0 0.0025 1. 0
+N1 N3- 4 i 0.141(3) 0.5 0.492(1) 0.0035(8) 1. 0
+N2 N3- 4 i 0.180(5) 0.5 0.132(4) 0.0052(1) 1. 0
+N3 N3- 4 i 0.465(6) 0.5 0.193(2) 0.0018(5) 1. 0
+#End of TTdata_169726-ICSD

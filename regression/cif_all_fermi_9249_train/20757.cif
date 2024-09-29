@@ -1,0 +1,73 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20757-ICSD
+_database_code_ICSD 20757
+_audit_creation_date 1980-01-01
+_audit_update_record 1985-05-07
+_chemical_name_systematic 'Potassium tetrakis(thiocyanato)mercurate'
+_chemical_formula_structural 'K2 Hg (N C S)4'
+_chemical_formula_sum 'C4 Hg1 K2 N4 S4'
+_exptl_crystal_density_diffrn 2.64
+_publ_section_title
+
+;
+The crystal structure of rhodanides. 6. The crystal structure of complex
+tetrarhodanides of zink, cadmium and mercury
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Fizicheskoi Khimii' 1952 26 1798 1803 ZFKHA9
+loop_
+_publ_author_name
+'Zvonkova, Z.V.'
+_cell_length_a 11.04
+_cell_length_b 9.22
+_cell_length_c 13.18
+_cell_angle_alpha 90.
+_cell_angle_beta 106.5
+_cell_angle_gamma 90.
+_cell_volume 1286.33
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+K1+ 1
+S2- -2
+N3- -3
+C4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg2+ 4 e 0 0 0.25 . 1. 0
+K1 K1+ 8 f 0.166 0.463 0.425 . 1. 0
+S1 S2- 8 f 0.109 0.171 0.403 . 1. 0
+S2 S2- 8 f 0.183 0.85 0.232 . 1. 0
+#End of TTdata_20757-ICSD

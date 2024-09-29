@@ -1,0 +1,103 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_67845-ICSD
+_database_code_ICSD 67845
+_audit_creation_date 1995-01-10
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Tetralithium trivanadium(IV) oxide'
+_chemical_formula_structural 'Li4 V3 O8'
+_chemical_formula_sum 'Li4 O8 V3'
+_exptl_crystal_density_diffrn 3.31
+_publ_section_title
+
+;
+Structural characterization of Li1+x V3 O8 insertion electrodes by
+single-crystal X-ray diffraction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Ionics' 1993 62 297 307 SSIOD3
+loop_
+_publ_author_name
+'de Picciotto, L.A.'
+'Adendorff, K.T.'
+'Liles, D.C.'
+'Thackeray, M.M.'
+_cell_length_a 6.955
+_cell_length_b 3.911
+_cell_length_c 11.915
+_cell_angle_alpha 90.
+_cell_angle_beta 107.03
+_cell_angle_gamma 90.
+_cell_volume 309.89
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.124
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+Li1+ 1
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 2 e 0.8680(11) 0.25 0.5446(4) . 1. 0
+V2 V4+ 2 e 0.18881(10) 0.25 0.053(4) . 1. 0
+V3 V4+ 2 e 0.0492(10) 0.25 0.8059(4) . 1. 0
+Li1 Li1+ 2 e 0.289(12) 0.25 0.333(6) 0.055(17) 1. 0
+Li2 Li1+ 2 e 0.648(8) 0.25 0.061(4) 0.02(1) 1. 0
+Li3 Li1+ 2 e 0.775(13) 0.25 0.310(7) 0.062(19) 1. 0
+O1 O2- 2 e 0.074(4) 0.25 0.451(2) . 1. 0
+O2 O2- 2 e 0.876(4) 0.25 0.933(1) . 1. 0
+O3 O2- 2 e 0.766(5) 0.25 0.685(2) . 1. 0
+O4 O2- 2 e 0.452(5) 0.25 0.179(2) . 1. 0
+O5 O2- 2 e 0.617(13) 0.25 0.443(1) . 1. 0
+O6 O2- 2 e 0.305(3) 0.25 0.946(2) . 1. 0
+O7 O2- 2 e 0.213(4) 0.25 0.701(2) . 1. 0
+O8 O2- 2 e 0.972(4) 0.25 0.177(2) . 1. 0
+Li4 Li1+ 2 e 0.426 0.25 0.59 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V4+ 0.0681(41) 0.031(3) 0.041(3) 0 0.0043(3) 0
+V2 V4+ 0.053(4) 0.021(3) 0.014(3) 0 0.012(3) 0
+V3 V4+ 0.042(3) 0.033(3) 0.014(3) 0 0.007(2) 0
+O1 O2- 0.046(13) 0.057(16) 0.019(11) 0 0.002(9) 0
+O2 O2- 0.049(13) 0.030(12) 0.002(9) 0 0.008(8) 0
+O3 O2- 0.093(19) 0.037(13) 0.003(9) 0 0.008(10) 0
+O4 O2- 0.122(23) 0.041(14) 0.018(11) 0 0.039(13) 0
+O5 O2- 0.023(10) 0.034(12) 0.013(9) 0 0.003(7) 0
+O6 O2- 0.036(11) 0.043(13) 0.017(10) 0 0.011(9) 0
+O7 O2- 0.053(13) 0.031(12) 0.021(10) 0 0.027(9) 0
+O8 O2- 0.059(15) 0.045(14) 0.004(9) 0 0.014(9) 0
+#End of TTdata_67845-ICSD

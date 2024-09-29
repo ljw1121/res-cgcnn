@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_430917-ICSD
+_database_code_ICSD 430917
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Yttrium niobate(V) - t-YNbO4-phase'
+_chemical_formula_structural 'Y Nb O4'
+_chemical_formula_sum 'Nb1 O4 Y1'
+_chemical_name_structure_type Scheelite-CaWO4
+_exptl_crystal_density_diffrn 5.43
+_cell_measurement_temperature 1131.
+_publ_section_title
+
+;
+High-temperature properties and ferroelastic phase transitions in rare-earth
+niobates (Ln Nb O4)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Ceramic Society' 2014 97 3307 3319 JACTAW
+loop_
+_publ_author_name
+'Sarin, Pankaj'
+'Hughes, Robert W.'
+'Lowry, Daniel R.'
+'Apostolov, Zlatomir D.'
+'Kriven, Waltraud M.'
+_cell_length_a 5.21459
+_cell_length_b 5.21459
+_cell_length_c 11.06295(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 300.82
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 41/a Z'
+_symmetry_Int_Tables_number 88
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+3/4, x+3/4, -z+3/4'
+2 'y+1/4, -x+3/4, -z+3/4'
+3 'x, y+1/2, -z'
+4 '-x, -y, -z'
+5 'y+1/4, -x+1/4, z+1/4'
+6 '-y+3/4, x+1/4, z+1/4'
+7 '-x, -y+1/2, z'
+8 'x, y, z'
+9 '-y+1/4, x+1/4, -z+1/4'
+10 'y+3/4, -x+1/4, -z+1/4'
+11 'x+1/2, y, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'y+3/4, -x+3/4, z+3/4'
+14 '-y+1/4, x+3/4, z+3/4'
+15 '-x+1/2, -y, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 b 0. 0.25 0.625 0.08029 1. 0
+Nb1 Nb5+ 4 a 0. 0.25 0.125 0.09634 1. 0
+O1 O2- 16 f 0.2790(19) 0.4383(14) 0.2128(5) 0.0959(20) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.0920(9) 0.0920(9) 0.0568(13) 0. 0. 0.
+Nb1 Nb5+ 0.0978(9) 0.0978(9) 0.0935(15) 0. 0. 0.
+#End of TTdata_430917-ICSD

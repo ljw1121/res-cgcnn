@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_93006-ICSD
+_database_code_ICSD 93006
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Nickel bismuth sulfide (3/2/2)'
+_chemical_formula_structural 'Ni3 Bi2 S2'
+_chemical_formula_sum 'Bi2 Ni3 S2'
+_chemical_name_mineral Parkerite
+_exptl_crystal_density_diffrn 8.54
+_publ_section_title 'Crystal and electronic structure of Ni3 Bi2 S2 (parkerite)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Izvestiya Akad. Nauk, Seriya Khimicheskaya' 2001 50 337 342 IASKEA
+loop_
+_publ_author_name
+'Baranov, A.I.'
+'Olenev, A.V.'
+'Popovkin, B.A.'
+_cell_length_a 11.065(2)
+_cell_length_b 8.078(2)
+_cell_length_c 11.451(2)
+_cell_angle_alpha 90
+_cell_angle_beta 89.98(2)
+_cell_angle_gamma 90
+_cell_volume 1023.53
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.057
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi0+ 0
+Ni0+ 0
+S0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi0+ 4 i 0.1246(1) 0 0.3766(1) 0.0013(1) 1. 0
+Bi2 Bi0+ 4 i 0.3756(1) 0 0.1234(1) 0.0013(1) 1. 0
+Bi3 Bi0+ 4 i 0.6228(1) 0 0.3853(1) 0.0025(1) 1. 0
+Bi4 Bi0+ 4 i 0.8764(1) 0 0.1182(1) 0.0007(1) 1. 0
+Ni1 Ni0+ 4 e 0.25 0.75 0 0.0017(1) 1. 0
+Ni2 Ni0+ 4 f 0.25 0.25 0.5 0.0017(1) 1. 0
+Ni3 Ni0+ 4 h 0.5 0.7376(5) 0.5 0.0016(1) 1. 0
+Ni4 Ni0+ 4 g 0 0.7365(5) 0 0.0016(1) 1. 0
+Ni5 Ni0+ 4 i 0.3757(4) 0 0.3588(4) 0.0017(1) 1. 0
+Ni6 Ni0+ 4 i 0.1246(4) 0 0.1403(4) 0.0017(1) 1. 0
+S1 S0+ 8 j 0.3748(6) 0.7291(7) 0.3531(6) 0.0016(1) 1. 0
+S2 S0+ 8 j 0.1260(6) 0.7292(7) 0.1468(6) 0.0014(1) 1. 0
+#End of TTdata_93006-ICSD

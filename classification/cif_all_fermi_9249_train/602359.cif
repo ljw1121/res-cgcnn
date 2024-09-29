@@ -1,0 +1,103 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_602359-ICSD
+_database_code_ICSD 602359
+_audit_creation_date 2013-02-01
+_chemical_name_systematic 'Barium hafnium sulfide (4/3/10)'
+_chemical_formula_structural 'Ba4 Hf3 S10'
+_chemical_formula_sum 'Ba4 Hf3 S10'
+_chemical_name_structure_type Ba4Zr3S10
+_exptl_crystal_density_diffrn 5.37
+_publ_section_title
+
+;
+Preparation of new Ba4 M3 S10 phases (M = Zr, Hf) and single crystal structure
+determination of Ba4 Zr3 S10
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1993 103 75 80 JSSCBI
+loop_
+_publ_author_name
+'Chen, B.-H.'
+'Wong-Ng, W.'
+'Eichhorn, B.W.'
+_cell_length_a 6.989(3)
+_cell_length_b 7.022(2)
+_cell_length_c 35.428(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1738.69
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'F m m m'
+_symmetry_Int_Tables_number 69
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 'x, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x, -y, z'
+6 '-x, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x, y+1/2, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x, y+1/2, z+1/2'
+12 '-x, -y+1/2, -z+1/2'
+13 '-x, -y+1/2, z+1/2'
+14 '-x, y+1/2, -z+1/2'
+15 'x, -y+1/2, -z+1/2'
+16 'x, y+1/2, z+1/2'
+17 'x+1/2, y, -z+1/2'
+18 'x+1/2, -y, z+1/2'
+19 '-x+1/2, y, z+1/2'
+20 '-x+1/2, -y, -z+1/2'
+21 '-x+1/2, -y, z+1/2'
+22 '-x+1/2, y, -z+1/2'
+23 'x+1/2, -y, -z+1/2'
+24 'x+1/2, y, z+1/2'
+25 'x+1/2, y+1/2, -z'
+26 'x+1/2, -y+1/2, z'
+27 '-x+1/2, y+1/2, z'
+28 '-x+1/2, -y+1/2, -z'
+29 '-x+1/2, -y+1/2, z'
+30 '-x+1/2, y+1/2, -z'
+31 'x+1/2, -y+1/2, -z'
+32 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hf4+ 4
+Ba2+ 2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hf1 Hf4+ 4 a 0 0 0 . 1. 0
+Hf2 Hf4+ 8 i 0 0 0.1422 . 1. 0
+Ba1 Ba2+ 8 i 0.5 0 0.0698 . 1. 0
+Ba2 Ba2+ 8 i 0.5 0 0.2008 . 1. 0
+S1 S2- 8 i 0 0 0.0702 . 1. 0
+S2 S2- 8 i 0 0 0.2124 . 1. 0
+S3 S2- 8 e 0.25 0.25 0 . 1. 0
+S4 S2- 16 j 0.25 0.25 0.1392 . 1. 0
+#End of TTdata_602359-ICSD

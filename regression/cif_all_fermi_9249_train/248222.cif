@@ -1,0 +1,96 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_248222-ICSD
+_database_code_ICSD 248222
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Barium bismuth(III) thioborate sulfide'
+_chemical_formula_structural 'Ba Bi (B S3) S'
+_chemical_formula_sum 'B1 Ba1 Bi1 S4'
+_exptl_crystal_density_diffrn 4.65
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Ba M (B S3) S (M = Sb, Bi): Two new thioborate compounds with one-dimensional
+polymeric chain structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2010 49 6609 6615 INOCAJ
+loop_
+_publ_author_name
+'Geng Lei'
+'Cheng Wen Dan'
+'Zhang Wei Long'
+'Lin Chen Sheng'
+'Zhang Hao'
+'Li Yeyu'
+'He Zhang Zhen'
+_cell_length_a 14.9890(17)
+_cell_length_b 6.2457(6)
+_cell_length_c 7.5591(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 101.604(5)
+_cell_angle_gamma 90.
+_cell_volume 693.2
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0325
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Ba2+ 2
+S2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 i 0.45350(3) 0. 0.74270(6) 0.0144(2) 1 0
+Ba1 Ba2+ 4 i 0.31908(5) -0.5 1.30774(9) 0.0134(2) 1 0
+S1 S2- 4 i 0.3411(2) 0. 0.4503(4) 0.0159(6) 1 0
+S2 S2- 4 i 0.4657(2) -0.5 0.6805(4) 0.0153(7) 1 0
+S3 S2- 8 j 0.35958(14) 0.2514(4) 1.9312(3) 0.0140(5) 1 0
+B1 B3+ 4 i 0.3969(9) -0.5 1.8444(17) 0.010(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0155(3) 0.0178(3) 0.0096(3) 0. 0.00177(19) 0.
+Ba1 Ba2+ 0.0139(4) 0.0140(5) 0.0115(4) 0. 0.0007(3) 0.
+S1 S2- 0.0240(14) 0.0115(16) 0.0095(14) 0. -0.0030(12) 0.
+S2 S2- 0.0183(15) 0.0200(17) 0.0077(14) 0. 0.0028(12) 0.
+S3 S2- 0.0201(10) 0.0093(11) 0.0141(10) -0.0013(8) 0.0070(8) -0.0016(8)
+B1 B3+ 0.012(6) 0.013(7) 0.005(6) 0. 0.004(5) 0.
+#End of TTdata_248222-ICSD

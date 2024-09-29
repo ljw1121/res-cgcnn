@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74969-ICSD
+_database_code_ICSD 74969
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Hexarubidium dialuminate'
+_chemical_formula_structural 'Rb6 (Al2 O6)'
+_chemical_formula_sum 'Al2 O6 Rb6'
+_chemical_name_structure_type K6Fe2O6
+_exptl_crystal_density_diffrn 4.03
+_publ_section_title
+'Darstellung und Kristallstruktur von K6(Al2O6) und Rb6(Al2O6)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1994
+620 882 887 ZAACAB
+loop_
+_publ_author_name
+'Schlaeger, M.'
+'Hoppe, R.'
+_cell_length_a 7.2592
+_cell_length_b 11.4333
+_cell_length_c 6.7806
+_cell_angle_alpha 90.
+_cell_angle_beta 104.05
+_cell_angle_gamma 90.
+_cell_volume 545.93
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.072
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Al3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 4 g 0 0.2685(1) 0 . 1. 0
+Rb2 Rb1+ 4 h 0 0.1981(1) 0.5 . 1. 0
+Rb3 Rb1+ 4 i 0.3692(1) 0 0.6534(1) . 1. 0
+Al1 Al3+ 4 i 0.1559(3) 0 0.1460(4) . 1. 0
+O1 O2- 4 i 0.9028(3) 0 0.130(1) . 1. 0
+O2 O2- 8 j 0.2721(6) 0.1258(4) 0.2608(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0502(6) 0.0252(4) 0.0197(5) 0 0.0094(4) 0
+Rb2 Rb1+ 0.0199(4) 0.0247(4) 0.0309(5) 0 0.0132(3) 0
+Rb3 Rb1+ 0.0172(4) 0.0370(4) 0.0195(4) 0 0.0112(3) 0
+Al1 Al3+ 0.0116(10) 0.0184(10) 0.0118(11) 0 0.0076(8) 0
+O1 O2- 0.0137(27) 0.0492(37) 0.014(3) 0 0.0087(22) 0
+O2 O2- 0.0244(22) 0.0211(19) 0.0240(25) 0.0017(16) 0.0029(18) -.0053(16)
+#End of TTdata_74969-ICSD

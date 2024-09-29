@@ -1,0 +1,70 @@
+
+data_362-ICSD
+_database_code_ICSD 362
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Cesium potassium (6/7)'
+_chemical_formula_structural 'Cs6 K7'
+_chemical_formula_sum 'Cs6 K7'
+_chemical_name_structure_type Cs6K7
+_exptl_crystal_density_diffrn 1.51
+_cell_length_a 9.078
+_cell_length_b 9.078
+_cell_length_c 32.95
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 2351.62
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.129
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs0+ 0
+K0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs0+ 2 c 0.33333 0.6667 0.25 1.8 1. 0
+Cs2 Cs0+ 2 b 0 0 0.25 2.3 1. 0
+Cs3 Cs0+ 4 f 0.33333 0.6667 0.9769(7) 1.8 1. 0
+Cs4 Cs0+ 4 f 0.33333 0.6667 0.8208(10) 4.7 1. 0
+K1 K0+ 2 a 0 0 0 1.8 1. 0
+K2 K0+ 12 k 0.166667 0.33334 0.115(1) 2.7 1. 0

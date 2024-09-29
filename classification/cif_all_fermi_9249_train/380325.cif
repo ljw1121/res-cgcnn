@@ -1,0 +1,97 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_380325-ICSD
+_database_code_ICSD 380325
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Strontium thallide (3/5)'
+_chemical_formula_structural 'Sr3 Tl5'
+_chemical_formula_sum 'Sr3 Tl5'
+_chemical_name_structure_type Pu3Pd5
+_exptl_crystal_density_diffrn 8.47
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Influence of element substitution on the cluster arrangement in the novel
+structures Ca3 Tl5, Sr Tl5, and Sr3 Sn(5-x) Tl(x) (x = 1.8 and 2.2)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2009
+635 1925 1932 ZAACAB
+loop_
+_publ_author_name
+'Kim Sung Jin'
+'Faessler, T.F.'
+_cell_length_a 10.592(5)
+_cell_length_b 8.667(5)
+_cell_length_c 10.973(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1007.33
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0368
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl0+ 0
+Sr0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl0+ 4 c 0.5 0.5015(3) 0.25 0.0258(6) 1 0
+Tl2 Tl0+ 8 g 0.29488(15) 0.22625(18) 0.25 0.0234(5) 1 0
+Tl3 Tl0+ 8 f 0.5 0.19576(18) 0.45098(14) 0.0212(5) 1 0
+Sr1 Sr0+ 4 c 0.5 0.1150(6) 0.75 0.0199(12) 1 0
+Sr2 Sr0+ 8 e 0.2083(3) 0. 0.5 0.0178(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl0+ 0.0324(15) 0.0228(13) 0.0222(12) 0. 0. 0.
+Tl2 Tl0+ 0.0275(10) 0.0283(10) 0.0144(7) 0.0023(7) 0. 0.
+Tl3 Tl0+ 0.0215(9) 0.0218(9) 0.0204(8) 0. 0. 0.0010(7)
+Sr1 Sr0+ 0.022(3) 0.020(3) 0.017(3) 0. 0. 0.
+Sr2 Sr0+ 0.017(2) 0.0166(18) 0.0193(17) 0. 0. -0.0023(15)
+#End of TTdata_380325-ICSD

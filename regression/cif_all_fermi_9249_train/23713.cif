@@ -1,0 +1,106 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_23713-ICSD
+_database_code_ICSD 23713
+_audit_creation_date 1980-01-01
+_audit_update_record 2007-04-01
+_chemical_name_systematic 'Iridium phosphide (1/3) - I'
+_chemical_formula_structural 'Ir P3'
+_chemical_formula_sum 'Ir1 P3'
+_chemical_name_structure_type Skutterudite-CoAs3
+_exptl_crystal_density_diffrn 7.38
+_publ_section_title 'Structure and bonding in skutterudite-type phosphides'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Arkiv foer Kemi' 1969 30 103 115 ARKEAD
+loop_
+_publ_author_name
+'Rundqvist, S.'
+'Ersson, N.O.'
+_cell_length_a 8.0151(4)
+_cell_length_b 8.0151(4)
+_cell_length_c 8.0151(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 514.9
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I m -3'
+_symmetry_Int_Tables_number 204
+_refine_ls_R_factor_all 0.129
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, x, y'
+2 'z, x, -y'
+3 'z, -x, y'
+4 '-z, -x, -y'
+5 'y, -z, x'
+6 '-y, z, x'
+7 'y, z, -x'
+8 '-y, -z, -x'
+9 'x, y, -z'
+10 'x, -y, z'
+11 '-x, y, z'
+12 '-x, -y, -z'
+13 'z, -x, -y'
+14 '-z, -x, y'
+15 '-z, x, -y'
+16 'z, x, y'
+17 '-y, z, -x'
+18 'y, -z, -x'
+19 '-y, -z, x'
+20 'y, z, x'
+21 '-x, -y, z'
+22 '-x, y, -z'
+23 'x, -y, -z'
+24 'x, y, z'
+25 '-z+1/2, x+1/2, y+1/2'
+26 'z+1/2, x+1/2, -y+1/2'
+27 'z+1/2, -x+1/2, y+1/2'
+28 '-z+1/2, -x+1/2, -y+1/2'
+29 'y+1/2, -z+1/2, x+1/2'
+30 '-y+1/2, z+1/2, x+1/2'
+31 'y+1/2, z+1/2, -x+1/2'
+32 '-y+1/2, -z+1/2, -x+1/2'
+33 'x+1/2, y+1/2, -z+1/2'
+34 'x+1/2, -y+1/2, z+1/2'
+35 '-x+1/2, y+1/2, z+1/2'
+36 '-x+1/2, -y+1/2, -z+1/2'
+37 'z+1/2, -x+1/2, -y+1/2'
+38 '-z+1/2, -x+1/2, y+1/2'
+39 '-z+1/2, x+1/2, -y+1/2'
+40 'z+1/2, x+1/2, y+1/2'
+41 '-y+1/2, z+1/2, -x+1/2'
+42 'y+1/2, -z+1/2, -x+1/2'
+43 '-y+1/2, -z+1/2, x+1/2'
+44 'y+1/2, z+1/2, x+1/2'
+45 '-x+1/2, -y+1/2, z+1/2'
+46 '-x+1/2, y+1/2, -z+1/2'
+47 'x+1/2, -y+1/2, -z+1/2'
+48 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir0+ 0
+P0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir0+ 8 c 0.25 0.25 0.25 0.5 1. 0
+P1 P0+ 24 g 0 0.354 0.1393 0.5 1. 0
+#End of TTdata_23713-ICSD

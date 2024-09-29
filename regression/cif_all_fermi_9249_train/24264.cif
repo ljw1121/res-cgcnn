@@ -1,0 +1,54 @@
+
+data_24264-ICSD
+_database_code_ICSD 24264
+_audit_creation_date 2008-07-07
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Lead iodide'
+_chemical_formula_structural 'Pb I2'
+_chemical_formula_sum 'I2 Pb1'
+_chemical_name_structure_type CdI2(hP9,P3m1)
+_exptl_crystal_density_diffrn 6.1
+_cell_length_a 4.557
+_cell_length_b 4.557
+_cell_length_c 20.937
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 376.53
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P 3 m 1'
+_symmetry_Int_Tables_number 156
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, z'
+2 'x, x-y, z'
+3 '-y, -x, z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 1 a 0 0 0 . 1. 0
+Pb2 Pb2+ 1 a 0 0 0.3333 . 1. 0
+Pb3 Pb2+ 1 c 0.6667 0.3333 0.6667 . 1. 0
+I1 I1- 1 b 0.3333 0.6667 0.088 . 1. 0
+I2 I1- 1 c 0.6667 0.3333 0.245 . 1. 0
+I3 I1- 1 b 0.3333 0.6667 0.421 . 1. 0
+I4 I1- 1 a 0 0 0.579 . 1. 0
+I5 I1- 1 b 0.3333 0.6667 0.755 . 1. 0
+I6 I1- 1 c 0.6667 0.3333 0.912 . 1. 0

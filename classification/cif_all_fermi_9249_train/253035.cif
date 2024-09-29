@@ -1,0 +1,104 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253035-ICSD
+_database_code_ICSD 253035
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Titanium bismuthide (1/2)'
+_chemical_formula_structural 'Ti Bi2'
+_chemical_formula_sum 'Bi2 Ti1'
+_chemical_name_structure_type CuMg2
+_exptl_crystal_density_diffrn 10.68
+_cell_measurement_temperature 298.
+_publ_section_title 'Crystal structure of TiBi2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E. Structure Reports Online' 2016 72
+1254 1256 ACSEBH
+loop_
+_publ_author_name
+'Watanabe, Kei'
+'Yamane, Hisanori'
+_cell_length_a 5.7654(4)
+_cell_length_b 10.3155(6)
+_cell_length_c 19.4879(12)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1159.
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'F d d d Z'
+_symmetry_Int_Tables_number 70
+_refine_ls_R_factor_all 0.0242
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+3/4, y+3/4, -z'
+2 'x+3/4, -y, z+3/4'
+3 '-x, y+3/4, z+3/4'
+4 '-x, -y, -z'
+5 '-x+1/4, -y+1/4, z'
+6 '-x+1/4, y, -z+1/4'
+7 'x, -y+1/4, -z+1/4'
+8 'x, y, z'
+9 'x+3/4, y+1/4, -z+1/2'
+10 'x+3/4, -y+1/2, z+1/4'
+11 '-x, y+1/4, z+1/4'
+12 '-x, -y+1/2, -z+1/2'
+13 '-x+1/4, -y+3/4, z+1/2'
+14 '-x+1/4, y+1/2, -z+3/4'
+15 'x, -y+3/4, -z+3/4'
+16 'x, y+1/2, z+1/2'
+17 'x+1/4, y+3/4, -z+1/2'
+18 'x+1/4, -y, z+1/4'
+19 '-x+1/2, y+3/4, z+1/4'
+20 '-x+1/2, -y, -z+1/2'
+21 '-x+3/4, -y+1/4, z+1/2'
+22 '-x+3/4, y, -z+3/4'
+23 'x+1/2, -y+1/4, -z+3/4'
+24 'x+1/2, y, z+1/2'
+25 'x+1/4, y+1/4, -z'
+26 'x+1/4, -y+1/2, z+3/4'
+27 '-x+1/2, y+1/4, z+3/4'
+28 '-x+1/2, -y+1/2, -z'
+29 '-x+3/4, -y+3/4, z'
+30 '-x+3/4, y+1/2, -z+1/4'
+31 'x+1/2, -y+3/4, -z+1/4'
+32 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi2- -2
+Ti4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi2- 16 g 0.125 0.125 0.04615(2) 0.0064(2) 1 0
+Bi2 Bi2- 16 f 0.125 0.45710(4) 0.125 0.0066(2) 1 0
+Ti1 Ti4+ 16 g 0.125 0.125 0.49898(10) 0.0050(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi2- 0.0035(3) 0.0076(3) 0.0082(3) 0.00176(15) 0. 0.
+Bi2 Bi2- 0.0058(3) 0.0080(3) 0.0060(3) 0. -0.00212(15) 0.
+Ti1 Ti4+ 0.0039(9) 0.0060(9) 0.0051(8) 0.0005(8) 0. 0.
+#End of TTdata_253035-ICSD

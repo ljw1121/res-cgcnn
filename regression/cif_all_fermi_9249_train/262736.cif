@@ -1,0 +1,98 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_262736-ICSD
+_database_code_ICSD 262736
+_audit_creation_date 2012-08-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Calcium trigermanide'
+_chemical_formula_structural 'Ca Ge3'
+_chemical_formula_sum 'Ca1 Ge3'
+_chemical_name_structure_type CaGe3
+_exptl_crystal_density_diffrn 5.11
+_cell_measurement_temperature 293.
+_publ_section_title
+'Dumbbells of five-connected Ge atoms and superconductivity in Ca Ge3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2012 51 5509 5511 INOCAJ
+loop_
+_publ_author_name
+'Schnelle, W.'
+'Ormeci, A.'
+'Wosylus, A.'
+'Meier, K.'
+'Grin', Yu.'
+'Schwarz, U.'
+_cell_length_a 7.6920(4)
+_cell_length_b 7.6920(4)
+_cell_length_c 11.3314(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 670.44
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I 4/m m m'
+_symmetry_Int_Tables_number 139
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z'
+2 '-y, -x, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z'
+10 'y, x, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 'x, -y, z'
+14 '-x, y, z'
+15 '-x, -y, z'
+16 'x, y, z'
+17 'y+1/2, x+1/2, -z+1/2'
+18 '-y+1/2, -x+1/2, -z+1/2'
+19 '-y+1/2, x+1/2, -z+1/2'
+20 'y+1/2, -x+1/2, -z+1/2'
+21 '-x+1/2, y+1/2, -z+1/2'
+22 'x+1/2, -y+1/2, -z+1/2'
+23 'x+1/2, y+1/2, -z+1/2'
+24 '-x+1/2, -y+1/2, -z+1/2'
+25 '-y+1/2, -x+1/2, z+1/2'
+26 'y+1/2, x+1/2, z+1/2'
+27 'y+1/2, -x+1/2, z+1/2'
+28 '-y+1/2, x+1/2, z+1/2'
+29 'x+1/2, -y+1/2, z+1/2'
+30 '-x+1/2, y+1/2, z+1/2'
+31 '-x+1/2, -y+1/2, z+1/2'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Ge0+ -0.67
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 e 0 0 0.1655(2) 0.0055(7) 1. 0
+Ca2 Ca2+ 4 d 0.5 0 0.25 0.0090(8) 1. 0
+Ge1 Ge0+ 8 i 0.3343(1) 0 0 0.0066(3) 1. 0
+Ge2 Ge0+ 16 m 0.31649(6) 0.31649(6) 0.11470(5) 0.0128(2) 1. 0
+#End of TTdata_262736-ICSD

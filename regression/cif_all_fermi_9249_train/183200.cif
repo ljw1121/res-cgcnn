@@ -1,0 +1,80 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_183200-ICSD
+_database_code_ICSD 183200
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Dirubidium tungstate'
+_chemical_formula_structural 'Rb2 (W O4)'
+_chemical_formula_sum 'O4 Rb2 W1'
+_chemical_name_structure_type K2MoO4
+_exptl_crystal_density_diffrn 4.88
+_cell_measurement_temperature 290.
+_publ_section_title 'Structure and phase transitions in Rb2 Mo O4 and Rb2 W O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Ferroelectrics 2011 414 195 200 FEROA8
+loop_
+_publ_author_name
+'Shigematsu, H.'
+'Nomura, K.'
+'Nishiyama, K.'
+'Tojo, T.'
+'Kawaji, H.'
+'Atake, T.'
+'Kawamura, Y.'
+'Miyoshi, T.'
+'Matsushita, Y.'
+'Tanaka, M.'
+'Mashiyama, H.'
+_cell_length_a 12.8338(5)
+_cell_length_b 6.2827(2)
+_cell_length_c 7.8505(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.794(2)
+_cell_angle_gamma 90.
+_cell_volume 569.92
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+W6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 4 i 0.5088(3) 0 0.2367(4) 1.56(8) 1. 0
+Rb2 Rb1+ 4 i 0.8442(3) 0 0.2572(4) 2.04(8) 1. 0
+W1 W6+ 4 i 0.1761(4) 0 0.2256(6) 1.56(11) 1. 0
+O1 O2- 4 i 0.3255(3) 0 0.3760(5) 2.19(10) 1. 0
+O2 O2- 4 i 0.0903(3) 0 0.3533(5) 2.15(9) 1. 0
+O3 O2- 8 j 0.1429(2) 0.2312(4) 0.0807(3) 1.88(8) 1. 0
+#End of TTdata_183200-ICSD

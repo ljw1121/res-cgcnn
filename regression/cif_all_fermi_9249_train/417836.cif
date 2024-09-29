@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_417836-ICSD
+_database_code_ICSD 417836
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Strontium iridium indide (1/1/4)'
+_chemical_formula_structural 'Sr Ir In4'
+_chemical_formula_sum 'In4 Ir1 Sr1'
+_chemical_name_structure_type LaCoAl4
+_exptl_crystal_density_diffrn 8.56
+_cell_measurement_temperature 293.
+_publ_section_title
+'Centered indium cubes as structural motifs in Sr Rh2 In8 and Sr Ir In4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2007
+633 2234 2237 ZAACAB
+loop_
+_publ_author_name
+'Muts, I.R.'
+'Zaremba, V.I.'
+'Poettgen, R.'
+_cell_length_a 8.678(2)
+_cell_length_b 4.3233(9)
+_cell_length_c 7.654(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 287.16
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m m a'
+_symmetry_Int_Tables_number 51
+_refine_ls_R_factor_all 0.0228
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, -y, z'
+2 'x+1/2, -y, -z'
+3 'x, -y, z'
+4 '-x, -y, -z'
+5 'x+1/2, y, -z'
+6 '-x+1/2, y, z'
+7 '-x, y, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr0+ 0
+Ir0+ 0
+In0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr0+ 2 e 0.25 0. 0.39394(12) 0.00922(18) 1 0
+Ir1 Ir0+ 2 e 0.25 0. 0.81061(5) 0.00379(10) 1 0
+In1 In0+ 2 a 0. 0. 0. 0.00908(15) 1 0
+In2 In0+ 2 f 0.25 0.5 0.05852(9) 0.00652(14) 1 0
+In3 In0+ 4 j 0.06644(6) 0.5 0.69049(7) 0.00692(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr0+ 0.0148(4) 0.0068(3) 0.0060(4) 0. 0. 0.
+Ir1 Ir0+ 0.00318(16) 0.00396(14) 0.00422(16) 0. 0. 0.
+In1 In0+ 0.0048(3) 0.0114(3) 0.0110(3) 0. 0.0040(2) 0.
+In2 In0+ 0.0089(3) 0.0048(2) 0.0059(3) 0. 0. 0.
+In3 In0+ 0.0070(2) 0.00640(19) 0.0073(2) 0. -0.00190(15) 0.
+#End of TTdata_417836-ICSD

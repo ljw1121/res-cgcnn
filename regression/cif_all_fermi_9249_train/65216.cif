@@ -1,0 +1,100 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65216-ICSD
+_database_code_ICSD 65216
+_audit_creation_date 1989-12-04
+_chemical_name_systematic 'Calcium nitride iodide'
+_chemical_formula_structural 'Ca2 N I'
+_chemical_formula_sum 'Ca2 I1 N1'
+_exptl_crystal_density_diffrn 2.68
+_publ_section_title
+
+;
+Darstellung und Kristallstruktur der Calciumpnictidiodide Ca2 N I, Ca2 P I und
+Ca2 As I
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1988
+558 35 40 ZAACAB
+loop_
+_publ_author_name
+'Hadenfeldt, C.'
+'Herdejuergen, H.'
+_cell_length_a 3.8095(2)
+_cell_length_b 3.8095(2)
+_cell_length_c 21.795(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 273.92
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.071
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+N3- -3
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 f 0.3333 0.6667 0.0826(4) . 1. 0
+N1 N3- 2 a 0 0 0 . 1. 0
+I1 I1- 2 d 0.3333 0.6667 0.75 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.007(2) 0.007(2) 0.008(2) 0.0035(10) 0 0
+N1 N3- 0.007(11) 0.007(11) 0.010(15) 0.0035(60) 0 0
+I1 I1- 0.007(1) 0.007(1) 0.012(1) 0.0035(5) 0 0
+#End of TTdata_65216-ICSD

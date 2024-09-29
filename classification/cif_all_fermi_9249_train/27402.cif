@@ -1,0 +1,66 @@
+
+data_27402-ICSD
+_database_code_ICSD 27402
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Trimercury ditelluride dibromide'
+_chemical_formula_structural 'Hg3 Te2 Br2'
+_chemical_formula_sum 'Br2 Hg3 Te2'
+_chemical_name_structure_type Hg3S2Cl2
+_exptl_crystal_density_diffrn 7.78
+_cell_length_a 9.54
+_cell_length_b 9.54
+_cell_length_c 9.54
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 868.25
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 21 3'
+_symmetry_Int_Tables_number 199
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+13 '-z, -x+1/2, y'
+14 '-y, -z+1/2, x'
+15 '-x, -y+1/2, z'
+16 '-z+1/2, x, -y'
+17 '-y+1/2, z, -x'
+18 '-x+1/2, y, -z'
+19 'z, -x, -y+1/2'
+20 'y, -z, -x+1/2'
+21 'x, -y, -z+1/2'
+22 'z+1/2, x+1/2, y+1/2'
+23 'y+1/2, z+1/2, x+1/2'
+24 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+Te2- -2
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg2+ 12 b 0.304 0 0.25 . 1. 0
+Te1 Te2- 8 a 0.274 0.274 0.274 . 1. 0
+Br1 Br1- 8 a 0.02 0.02 0.02 . 1. 0

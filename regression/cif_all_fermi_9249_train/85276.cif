@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_85276-ICSD
+_database_code_ICSD 85276
+_audit_creation_date 1999-06-02
+_chemical_name_systematic 'Yttrium dibarium tricopper copper(III) oxide'
+_chemical_formula_structural 'Y Ba2 Cu4 O8'
+_chemical_formula_sum 'Ba2 Cu4 O8 Y1'
+_chemical_name_structure_type YBa2Cu4O8
+_exptl_crystal_density_diffrn 6.09
+_publ_section_title
+
+;
+Single-crystal growth and characterization of Zn- and Ni-substituted Y Ba2 Cu4
+O8
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physica C, Superconductivity' 1997 291 287 296 PHYCE6
+loop_
+_publ_author_name
+'Dabrowski, B.'
+'Rogacki, K.'
+'Zheng, C.'
+'Hinks, D.G.'
+_cell_length_a 3.8467(3)
+_cell_length_b 3.8778(3)
+_cell_length_c 27.258(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 406.6
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'A m m m'
+_symmetry_Int_Tables_number 65
+_refine_ls_R_factor_all 0.04
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 'x, y, -z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x, y, -z'
+6 '-x, -y, z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x, -y+1/2, z+1/2'
+10 'x, y+1/2, -z+1/2'
+11 '-x, y+1/2, z+1/2'
+12 '-x, -y+1/2, -z+1/2'
+13 '-x, y+1/2, -z+1/2'
+14 '-x, -y+1/2, z+1/2'
+15 'x, -y+1/2, -z+1/2'
+16 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Ba2+ 2
+Cu2+ 2.25
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 2 c 0.5 0.5 0 0.011(1) 1. 0
+Ba1 Ba2+ 4 j 0.5 0.5 0.1349(1) 0.013(1) 1. 0
+Cu1 Cu2+ 4 i 0 0 0.2129(1) 0.013(1) 1. 0
+Cu2 Cu2+ 4 i 0 0 0.0616(1) 0.012(1) 1. 0
+O1 O2- 4 i 0 0 0.1455(3) 0.018(2) 1. 0
+O2 O2- 4 j 0.5 0 0.0526(3) 0.009(2) 1. 0
+O4 O2- 4 i 0 0.5 0.2178(3) 0.024(3) 1. 0
+#End of TTdata_85276-ICSD

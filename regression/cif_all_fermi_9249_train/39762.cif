@@ -1,0 +1,71 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_39762-ICSD
+_database_code_ICSD 39762
+_audit_creation_date 1994-06-30
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Oxovanadium(IV) bis(catena-phosphate(V))'
+_chemical_formula_structural '(V O) (P O3)2'
+_chemical_formula_sum 'O7 P2 V1'
+_chemical_name_structure_type VO(PO3)3
+_exptl_crystal_density_diffrn 3.06
+_publ_section_title 'The crystal structure of vanadyl polyphosphate V O (P O3)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1994 39 145 146 KRISAJ
+loop_
+_publ_author_name
+'Murashova, E.V.'
+'Chudinova, N.N.'
+_cell_length_a 15.140(3)
+_cell_length_b 4.195(1)
+_cell_length_c 9.573(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 126.54(2)
+_cell_angle_gamma 90.
+_cell_volume 488.49
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.058
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 4 e 0 0.2509(4) 0.25 0.69(4) 1. 0
+P1 P5+ 8 f 0.3287(1) 0.0035(3) 0.8468(2) 0.26(4) 1. 0
+O1 O2- 8 f 0.4099(3) 0.166(1) 0.8329(5) 0.6(1) 1. 0
+O2 O2- 8 f 0.2374(3) 0.250(1) 0.8068(5) 0.6(1) 1. 0
+O3 O2- 8 f 0.3671(3) -.150(1) 0.0129(5) 0.6(1) 1. 0
+O4 O2- 4 e 0 -.139(1) 0.25 1.0(2) 1. 0
+#End of TTdata_39762-ICSD

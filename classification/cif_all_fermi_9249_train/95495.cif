@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_95495-ICSD
+_database_code_ICSD 95495
+_audit_creation_date 2003-10-01
+_chemical_name_systematic 'Barium magnesium tantalum oxide (1/0.33/0.67/3)'
+_chemical_formula_structural 'Ba (Mg0.333 Ta0.667) O3'
+_chemical_formula_sum 'Ba1 Mg0.333 O3 Ta0.667'
+_chemical_name_structure_type Ba3SrTa2O9
+_exptl_crystal_density_diffrn 7.64
+_publ_section_title 'Structural analysis of Ba Mg1/3 (Ta, Nb)2/3 O3 ceramics'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Letters' 2002 55 414 419 MLETDJ
+loop_
+_publ_author_name
+'Janaswamy, S.'
+'Murthy, G.S.'
+'Dias, E.D.'
+'Murthy, V.R.K.'
+_cell_length_a 5.7736(1)
+_cell_length_b 5.7736(1)
+_cell_length_c 7.0932(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 204.77
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.0282
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Mg2+ 2
+Ta5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 1 a 0 0 0 0.09(2) 1. 0
+Ba2 Ba2+ 2 d 0.3333 0.6667 0.6656(4) 0.35(3) 1. 0
+Mg1 Mg2+ 1 b 0 0 0.5 0.13(4) 1. 0
+Ta1 Ta5+ 2 d 0.3333 0.6667 0.1775(3) 0.10(3) 1. 0
+O1 O2- 6 i 0.171(1) 0.829(1) 0.334(2) 1.2(1) 1. 0
+O2 O2- 3 e 0.5 0 0 0.8(2) 1. 0
+#End of TTdata_95495-ICSD

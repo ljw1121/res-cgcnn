@@ -1,0 +1,122 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_38138-ICSD
+_database_code_ICSD 38138
+_audit_creation_date 1986-09-23
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Potassium peroxide - alpha'
+_chemical_formula_structural 'K O2'
+_chemical_formula_sum 'K1 O2'
+_chemical_name_structure_type KO2
+_exptl_crystal_density_diffrn 2.17
+_publ_section_title 'The crystal structure of alpha-potassium superoxide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica (1,1948-23,1967)' 1955 8 503 506 ACCRA9
+loop_
+_publ_author_name
+'Abrahams, S.C.'
+'Kalnajs, J.'
+_cell_length_a 5.704(5)
+_cell_length_b 5.704
+_cell_length_c 6.699(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 217.96
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'F 4/m m m'
+_symmetry_Int_Tables_number 139
+_refine_ls_R_factor_all 0.076
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, -z'
+2 'y, -x, -z'
+3 'y, x, -z'
+4 '-x, -y, -z'
+5 '-x, y, -z'
+6 '-y, x, -z'
+7 '-y, -x, -z'
+8 'x, y, -z'
+9 'x, -y, z'
+10 'y, -x, z'
+11 'y, x, z'
+12 '-x, -y, z'
+13 '-x, y, z'
+14 '-y, x, z'
+15 '-y, -x, z'
+16 'x, y, z'
+17 'x, -y+1/2, -z+1/2'
+18 'y, -x+1/2, -z+1/2'
+19 'y, x+1/2, -z+1/2'
+20 '-x, -y+1/2, -z+1/2'
+21 '-x, y+1/2, -z+1/2'
+22 '-y, x+1/2, -z+1/2'
+23 '-y, -x+1/2, -z+1/2'
+24 'x, y+1/2, -z+1/2'
+25 'x, -y+1/2, z+1/2'
+26 'y, -x+1/2, z+1/2'
+27 'y, x+1/2, z+1/2'
+28 '-x, -y+1/2, z+1/2'
+29 '-x, y+1/2, z+1/2'
+30 '-y, x+1/2, z+1/2'
+31 '-y, -x+1/2, z+1/2'
+32 'x, y+1/2, z+1/2'
+33 'x+1/2, -y, -z+1/2'
+34 'y+1/2, -x, -z+1/2'
+35 'y+1/2, x, -z+1/2'
+36 '-x+1/2, -y, -z+1/2'
+37 '-x+1/2, y, -z+1/2'
+38 '-y+1/2, x, -z+1/2'
+39 '-y+1/2, -x, -z+1/2'
+40 'x+1/2, y, -z+1/2'
+41 'x+1/2, -y, z+1/2'
+42 'y+1/2, -x, z+1/2'
+43 'y+1/2, x, z+1/2'
+44 '-x+1/2, -y, z+1/2'
+45 '-x+1/2, y, z+1/2'
+46 '-y+1/2, x, z+1/2'
+47 '-y+1/2, -x, z+1/2'
+48 'x+1/2, y, z+1/2'
+49 'x+1/2, -y+1/2, -z'
+50 'y+1/2, -x+1/2, -z'
+51 'y+1/2, x+1/2, -z'
+52 '-x+1/2, -y+1/2, -z'
+53 '-x+1/2, y+1/2, -z'
+54 '-y+1/2, x+1/2, -z'
+55 '-y+1/2, -x+1/2, -z'
+56 'x+1/2, y+1/2, -z'
+57 'x+1/2, -y+1/2, z'
+58 'y+1/2, -x+1/2, z'
+59 'y+1/2, x+1/2, z'
+60 '-x+1/2, -y+1/2, z'
+61 '-x+1/2, y+1/2, z'
+62 '-y+1/2, x+1/2, z'
+63 '-y+1/2, -x+1/2, z'
+64 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+O0+ -0.5
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 b 0 0 0.5 3.42(30) 1. 0
+O1 O0+ 8 e 0 0 0.0955(17) 3.29(13) 1. 0
+#End of TTdata_38138-ICSD

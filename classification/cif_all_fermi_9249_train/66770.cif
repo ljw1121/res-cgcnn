@@ -1,0 +1,99 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_66770-ICSD
+_database_code_ICSD 66770
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Calcium rhodium boride (3/8/6)'
+_chemical_formula_structural 'Ca3 Rh8 B6'
+_chemical_formula_sum 'B6 Ca3 Rh8'
+_chemical_name_structure_type La3Ru8B6
+_exptl_crystal_density_diffrn 7.26
+_publ_section_title
+
+;
+AnRh3n-1B2n mit A= Ca und Sr, eine homologe Reihe ternaerer
+Erdalkali-Rhodiumboride aus Bauelementen der CeCo3B2-und der CaRh2B2-Struktur
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1984 97 253 263 JCOMAH
+loop_
+_publ_author_name
+'Jung, W.'
+_cell_length_a 5.500(1)
+_cell_length_b 9.698(1)
+_cell_length_c 17.047(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 909.27
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'F m m m'
+_symmetry_Int_Tables_number 69
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 'x, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x, -y, z'
+6 '-x, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x, y+1/2, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x, y+1/2, z+1/2'
+12 '-x, -y+1/2, -z+1/2'
+13 '-x, -y+1/2, z+1/2'
+14 '-x, y+1/2, -z+1/2'
+15 'x, -y+1/2, -z+1/2'
+16 'x, y+1/2, z+1/2'
+17 'x+1/2, y, -z+1/2'
+18 'x+1/2, -y, z+1/2'
+19 '-x+1/2, y, z+1/2'
+20 '-x+1/2, -y, -z+1/2'
+21 '-x+1/2, -y, z+1/2'
+22 '-x+1/2, y, -z+1/2'
+23 'x+1/2, -y, -z+1/2'
+24 'x+1/2, y, z+1/2'
+25 'x+1/2, y+1/2, -z'
+26 'x+1/2, -y+1/2, z'
+27 '-x+1/2, y+1/2, z'
+28 '-x+1/2, -y+1/2, -z'
+29 '-x+1/2, -y+1/2, z'
+30 '-x+1/2, y+1/2, -z'
+31 'x+1/2, -y+1/2, -z'
+32 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rh1+ 1.5
+Ca2+ 2
+B3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rh1 Rh1+ 8 i 0 0 0.08623(6) . 1. 0
+Rh2 Rh1+ 16 j 0.25 0.25 0.08492(4) . 1. 0
+Rh3 Rh1+ 8 f 0.25 0.25 0.25 . 1. 0
+Ca1 Ca2+ 4 b 0 0 0.5 . 1. 0
+Ca2 Ca2+ 8 i 0 0 0.3182(2) . 1. 0
+B1 B3- 8 h 0 0.166(2) 0 . 1. 0
+B2 B3- 16 m 0 0.161(1) 0.1713(5) . 1. 0
+#End of TTdata_66770-ICSD

@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_404507-ICSD
+_database_code_ICSD 404507
+_audit_creation_date 1996-10-14
+_audit_update_record 2000-07-15
+_chemical_name_systematic 'Trisodium dicadmium iridate(V)'
+_chemical_formula_structural 'Na3 Cd2 (Ir O6)'
+_chemical_formula_sum 'Cd2 Ir1 Na3 O6'
+_chemical_name_structure_type Na5ReO6
+_exptl_crystal_density_diffrn 6.54
+_publ_section_title
+'Zur Kristallchemie eines Natrium-Cadmium-Oxoiridats: Na3 Cd2 Ir O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 1996 51 822 825
+ZNBSEN
+loop_
+_publ_author_name
+'Mueller Buschbaum, H.'
+'Frenzen, S.'
+_cell_length_a 5.663(2)
+_cell_length_b 9.783(3)
+_cell_length_c 5.689(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.95(2)
+_cell_angle_gamma 90.
+_cell_volume 296.26
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0333
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir5+ 5
+Cd2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir5+ 2 a 0 0 0 . 1. 0
+Cd1 Cd2+ 4 g 0 0.66744(3) 0 . 1. 0
+Na1 Na1+ 2 d 0 0.5 0.5 . 1. 0
+Na2 Na1+ 4 h 0 0.8322(2) 0.5 . 1. 0
+O1 O2- 8 j 0.2827(5) 0.3535(3) 0.7847(5) . 1. 0
+O2 O2- 4 i 0.2788(6) 0.5 0.2054(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ir1 Ir5+ 0.00981(7) 0.00748(8) 0.01019(7) 0 0.00384(6) 0
+Cd1 Cd2+ 0.01467(14) 0.0118(2) 0.01671(14) 0 0.00572(12) 0
+Na1 Na1+ 0.0157(11) 0.0111(12) 0.0139(11) 0 -.0034(9) 0
+Na2 Na1+ 0.0167(9) 0.0165(12) 0.0127(9) 0 0.0063(8) 0
+O1 O2- 0.0117(8) 0.0126(8) 0.0124(8) -.0001(8) 0.0031(7) -.0026(8)
+O2 O2- 0.0140(12) 0.0117(13) 0.0128(11) 0 0.0041(9) 0
+#End of TTdata_404507-ICSD

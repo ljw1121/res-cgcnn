@@ -1,0 +1,53 @@
+
+data_24664-ICSD
+_database_code_ICSD 24664
+_audit_creation_date 1980-01-01
+_audit_update_record 1985-05-13
+_chemical_name_systematic 'Sodium catena-silicate'
+_chemical_formula_structural 'Na2 Si O3'
+_chemical_formula_sum 'Na2 O3 Si1'
+_chemical_name_structure_type Na2SiO3
+_exptl_crystal_density_diffrn 2.68
+_cell_length_a 10.43
+_cell_length_b 6.02
+_cell_length_c 4.81
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 302.01
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+_refine_ls_R_factor_all 0.27
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 b 0.166 0.339 0 . 1. 0
+Si1 Si4+ 4 a 0 0.166 0.563 . 1. 0
+O1 O2- 4 a 0 0.077 0.895 . 1. 0
+O2 O2- 8 b 0.13 0.286 0.5 . 1. 0

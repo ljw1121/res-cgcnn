@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_24968-ICSD
+_database_code_ICSD 24968
+_audit_creation_date 1980-01-01
+_audit_update_record 1987-10-07
+_chemical_name_systematic
+'Trihydrogen potassium dicobalt decaoxodimolybdate - phix'
+_chemical_formula_structural 'H3 K Co2 Mo2 O10'
+_chemical_formula_sum 'H3 Co2 K1 Mo2 O10'
+_chemical_name_structure_type NaCu2OH(SO4)2H2O
+_exptl_crystal_density_diffrn 3.87
+_publ_section_title
+
+;
+Problemes de non-stoechiometrie dans certains molybdates hydrates de zinc,
+cobalt et nickel
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Bulletin de la Societe Francaise de Mineralogie et de Cristallographie
+(72,1949-100,1977)
+; 1967 90 549 557 BUFCAE
+loop_
+_publ_author_name
+'Pezerat, H.'
+_cell_length_a 9.58
+_cell_length_b 6.5
+_cell_length_c 7.85
+_cell_angle_alpha 90.
+_cell_angle_beta 116.08
+_cell_angle_gamma 90.
+_cell_volume 439.05
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.07
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Co2+ 2
+Mo6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 2 d 0 0.5 0.5 . 1. 0
+Co1 Co2+ 4 e 0.25 0.25 0 . 1. 0
+Mo1 Mo6+ 4 i 0.08 0 0.279 . 1. 0
+O1 O2- 8 j 0.464 0.287 0.229 . 1. 0
+O2 O2- 4 i 0.182 0 0.132 . 1. 0
+O3 O2- 4 i 0.348 0 -.088 . 1. 0
+O4 O2- 4 i 0.217 0 0.521 . 1. 0
+#End of TTdata_24968-ICSD

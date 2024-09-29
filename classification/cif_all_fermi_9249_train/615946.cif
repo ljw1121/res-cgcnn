@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_615946-ICSD
+_database_code_ICSD 615946
+_audit_creation_date 2013-02-01
+_chemical_name_systematic 'Barium lithium antimonide (3/4/4)'
+_chemical_formula_structural 'Ba3 Li4 Sb4'
+_chemical_formula_sum 'Ba3 Li4 Sb4'
+_exptl_crystal_density_diffrn 4.74
+_publ_section_title
+'Darstellung und Kristallstruktur von Sr3 Li4 Sb4 und Ba3 Li4 Sb4'
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische
+Chemie (2,1947-32,1977)
+; 1970 25 650 651 ZENBAX
+loop_
+_publ_author_name
+'Liebrich, O.'
+'Schaefer, H.'
+'Weiss, A.'
+_cell_length_a 17.18(3)
+_cell_length_b 4.91(2)
+_cell_length_c 7.70(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 649.52
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m m m'
+_symmetry_Int_Tables_number 71
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 'x, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x, -y, z'
+6 '-x, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x+1/2, y+1/2, -z+1/2'
+10 'x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 '-x+1/2, -y+1/2, z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba0+ 0
+Sb0+ 0
+Li0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba0+ 2 d 0.5 0 0.5 . 1. 0
+Ba2 Ba0+ 4 e 0.631 0 0 . 1. 0
+Sb1 Sb0+ 4 i 0 0 0.312 . 1. 0
+Sb2 Sb0+ 4 f 0.212 0.5 0 . 1. 0
+Li1 Li0+ 8 m 0.18 0 0.19 . 1. 0
+#End of TTdata_615946-ICSD

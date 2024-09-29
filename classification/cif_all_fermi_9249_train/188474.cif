@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_188474-ICSD
+_database_code_ICSD 188474
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Chromium boride (2/1)'
+_chemical_formula_structural 'Cr2 B'
+_chemical_formula_sum 'B1 Cr2'
+_exptl_crystal_density_diffrn 6.19
+_publ_section_title
+'Characterization of borides in Co - Re - Cr-based high-temperature alloys'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2013 569 82 87 JALCEU
+loop_
+_publ_author_name
+'Paulisch, M.C.'
+'Wanderka, N.'
+'Miehe, G.'
+'Mukherji, D.'
+'Rosler, J.'
+'Banhart, J.'
+_cell_length_a 4.36(4)
+_cell_length_b 7.55(6)
+_cell_length_c 14.98(15)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 493.11
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'C 2 2 2'
+_symmetry_Int_Tables_number 21
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, -y, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr0+ 0
+B0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr0+ 4 g 0 0.333 0 . 1. 0
+Cr2 Cr0+ 4 h 0 0.833 0.5 . 1. 0
+Cr3 Cr0+ 8 l 0.25 0.583 0.25 . 1. 0
+Cr4 Cr0+ 4 i 0 0 0.083 . 1. 0
+Cr5 Cr0+ 4 k 0.25 0.25 0.167 . 1. 0
+Cr6 Cr0+ 4 j 0 0.5 0.583 . 1. 0
+Cr7 Cr0+ 4 k 0.25 0.25 0.333 . 1. 0
+B1 B0+ 4 i 0 0 0.375 . 1. 0
+B2 B0+ 4 k 0.25 0.25 0.875 . 1. 0
+B3 B0+ 4 j 0 0.5 0.875 . 1. 0
+B4 B0+ 4 k 0.25 0.25 0.625 . 1. 0
+#End of TTdata_188474-ICSD

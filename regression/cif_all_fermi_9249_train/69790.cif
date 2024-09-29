@@ -1,0 +1,71 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_69790-ICSD
+_database_code_ICSD 69790
+_audit_creation_date 1993-01-06
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Calcium palladium silicide (1/1/1)'
+_chemical_formula_structural 'Ca Pd Si'
+_chemical_formula_sum 'Ca1 Pd1 Si1'
+_chemical_name_structure_type CaPdSi
+_exptl_crystal_density_diffrn 4.95
+_publ_section_title
+
+;
+Topological relation between the LaIrSi- and the EuNiGe- type structures in
+ternary phases M Pd Si (M= Ca, Eu, Sr, Ba)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1991 91 250 263 JSSCBI
+loop_
+_publ_author_name
+'Evers, J.'
+'Oehlinger, G.'
+'Polborn, K.'
+'Sendlinger, B.'
+_cell_length_a 5.882(1)
+_cell_length_b 5.753(1)
+_cell_length_c 7.347(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.63(1)
+_cell_angle_gamma 90.
+_cell_volume 234.17
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca0+ 0
+Pd0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca0+ 4 e 0.3185(3) 0.1281(3) 0.1151(2) 0.0084(4) 1. 0
+Pd1 Pd0+ 4 e 0.9223(1) 0.1098(1) 0.30997(8) 0.0075(1) 1. 0
+Si1 Si0+ 4 e 0.3271(4) 0.1194(4) 0.5450(3) 0.0084(5) 1. 0
+#End of TTdata_69790-ICSD

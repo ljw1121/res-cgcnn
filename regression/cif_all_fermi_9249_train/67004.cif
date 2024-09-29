@@ -1,0 +1,48 @@
+
+data_67004-ICSD
+_database_code_ICSD 67004
+_audit_creation_date 1990-12-27
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Zirconium oxide'
+_chemical_formula_structural 'Zr O2'
+_chemical_formula_sum 'O2 Zr1'
+_chemical_name_structure_type ZrO2(oP12)
+_chemical_name_mineral Zirconia
+_exptl_crystal_density_diffrn 6.05
+_cell_length_a 5.068(1)
+_cell_length_b 5.260(1)
+_cell_length_c 5.077(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 135.34
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c 21'
+_symmetry_Int_Tables_number 29
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, z'
+2 'x, -y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr4+ 4 a 0.267(1) 0.030(1) 0.250(1) 0.4(1) 1. 0
+O1 O2- 4 a 0.068(1) 0.361(1) 0.106(1) 0.8(1) 1. 0
+O2 O2- 4 a 0.537(1) 0.229(1) 0 0.2(1) 1. 0

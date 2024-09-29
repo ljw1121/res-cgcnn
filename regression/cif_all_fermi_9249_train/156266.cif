@@ -1,0 +1,56 @@
+
+data_156266-ICSD
+_database_code_ICSD 156266
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Zirconium platinum aluminium (1/1/1)'
+_chemical_formula_structural 'Zr Pt Al'
+_chemical_formula_sum 'Al1 Pt1 Zr1'
+_chemical_name_structure_type Mg2Ga
+_exptl_crystal_density_diffrn 9.9
+_cell_length_a 7.1042(1)
+_cell_length_b 7.1042(1)
+_cell_length_c 7.2145(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 315.33
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P -6 2 c'
+_symmetry_Int_Tables_number 190
+_refine_ls_R_factor_all 0.0549
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z+1/2'
+5 'x-y, -y, z+1/2'
+6 'y, x, z+1/2'
+7 '-x+y, -x, -z+1/2'
+8 '-y, x-y, -z+1/2'
+9 'x, y, -z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr0+ 0
+Pt0+ 0
+Al0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr0+ 6 h 0.4100(7) 0.3919(7) 0.25 0.55(9) 1. 0
+Pt2 Pt0+ 4 f 0.3333 0.6667 0.0253(3) 0.55(6) 1. 0
+Pt1 Pt0+ 2 b 0 0 0.25 0.38(8) 1. 0
+Al1 Al0+ 6 g 0.2527(17) 0 0 1.1(3) 1. 0

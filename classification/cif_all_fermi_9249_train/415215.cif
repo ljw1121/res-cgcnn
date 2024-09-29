@@ -1,0 +1,93 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_415215-ICSD
+_database_code_ICSD 415215
+_audit_creation_date 2007-08-01
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Tetracesium di-mue-selenido-bis(diselenidogermanate)'
+_chemical_formula_structural 'Cs4 (Se2 (Ge Se2)2)'
+_chemical_formula_sum 'Cs4 Ge2 Se6'
+_chemical_name_structure_type Rb4Si2S6
+_exptl_crystal_density_diffrn 4.23
+_publ_section_title
+
+;
+Methanolothermal synthesis and structures of the quaternary group 14 - group
+15 cesium selenidometalates Cs3 As Ge Se5 and Cs4 Ge2 Se6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2005
+631 1746 1748 ZAACAB
+loop_
+_publ_author_name
+'Van Almsick, T.'
+'Sheldrick, W.S.'
+_cell_length_a 14.252(5)
+_cell_length_b 7.400(3)
+_cell_length_c 10.335(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 124.07(4)
+_cell_angle_gamma 90.
+_cell_volume 902.89
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0972
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Se2- -2
+Ge4+ 4
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 i 0.19799(17) 0. 0.8193(2) 0.0413(6) 1 0
+Cs2 Cs1+ 4 i 0.41642(15) 0. 0.6377(2) 0.0336(5) 1 0
+Se1 Se2- 4 i 0.1079(2) 0. 0.3973(3) 0.0302(7) 1 0
+Ge1 Ge4+ 4 i 0.1159(2) 0. 0.1819(3) 0.0222(7) 1 0
+Se2 Se2- 4 i 0.2924(2) 0. 0.2258(3) 0.0342(7) 1 0
+Se3 Se2- 4 g 0. 0.2391(3) 0. 0.0338(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0415(12) 0.0407(10) 0.0390(12) 0. 0.0209(10) 0.
+Cs2 Cs1+ 0.0282(10) 0.0331(9) 0.0328(10) 0. 0.0130(8) 0.
+Se1 Se2- 0.0314(16) 0.0341(14) 0.0258(14) 0. 0.0165(13) 0.
+Ge1 Ge4+ 0.0223(15) 0.0194(12) 0.0219(14) 0. 0.0105(12) 0.
+Se2 Se2- 0.0258(16) 0.0452(15) 0.0314(15) 0. 0.0158(13) 0.
+Se3 Se2- 0.0372(16) 0.0169(12) 0.0292(14) 0. 0.0076(13) 0.
+#End of TTdata_415215-ICSD

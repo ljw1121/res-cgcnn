@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_406949-ICSD
+_database_code_ICSD 406949
+_audit_creation_date 1998-06-26
+_chemical_name_systematic 'Bismuth ruthenium iodide (4/1/2)'
+_chemical_formula_structural 'Bi4 Ru I2'
+_chemical_formula_sum 'Bi4 I2 Ru1'
+_exptl_crystal_density_diffrn 8.43
+_publ_section_title
+
+;
+Bi4 Ru Br2 und Bi4 Ru I2: Zwei Varianten einer Kolumnarstruktur mit
+flaechenverknuepften quadratischen (Ru Bi8/2)-Antiprismen
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1997
+623 1583 1590 ZAACAB
+loop_
+_publ_author_name
+'Ruck, M.'
+_cell_length_a 11.839(2)
+_cell_length_b 11.839(2)
+_cell_length_c 6.697(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 938.66
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 4/m'
+_symmetry_Int_Tables_number 87
+_refine_ls_R_factor_all 0.0453
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'y, -x, z'
+6 '-y, x, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, x+1/2, -z+1/2'
+10 'y+1/2, -x+1/2, -z+1/2'
+11 'x+1/2, y+1/2, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'y+1/2, -x+1/2, z+1/2'
+14 '-y+1/2, x+1/2, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi1+ 1
+Bi0+ 0
+Ru0+ 0
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi1+ 8 h 0.43315(4) 0.33033(4) 0.5 . 1. 0
+Bi2 Bi0+ 8 h 0.32034(4) 0.40841(4) 0 . 1. 0
+Ru1 Ru0+ 4 e 0 0 0.2883(2) . 1. 0
+I1 I1- 8 h 0.39144(9) 0.14307(8) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi1+ 0.0243(3) 0.0168(3) 0.0192(3) -.0032(2) 0 0
+Bi2 Bi0+ 0.0167(3) 0.0202(3) 0.0205(3) -.0032(3) 0 0
+Ru1 Ru0+ 0.0154(5) 0.0154(5) 0.0123(8) 0 0 0
+I1 I1- 0.0334(6) 0.0209(5) 0.0515(7) -.0064(5) 0 0
+#End of TTdata_406949-ICSD

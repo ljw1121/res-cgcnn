@@ -1,0 +1,90 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74854-ICSD
+_database_code_ICSD 74854
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Calcium phosphide (5/8)'
+_chemical_formula_structural 'Ca5 P8'
+_chemical_formula_sum 'Ca5 P8'
+_exptl_crystal_density_diffrn 2.55
+_publ_section_title
+
+;
+Pentacalciumhexaphosphahypodiphosphat, Ca5P8: eine Verbindung mit isolierten
+Anionen P8(10-) mit der gestaffelten Konformation von Ethan
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1994
+620 1247 1252 ZAACAB
+loop_
+_publ_author_name
+'Hadenfeldt, C.'
+'Bartels, F.'
+_cell_length_a 6.899(4)
+_cell_length_b 11.883(4)
+_cell_length_c 7.484(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.25(2)
+_cell_angle_gamma 90.
+_cell_volume 582.68
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+P2- -2
+P1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 2 d 0 0.5 0.5 . 1. 0
+Ca2 Ca2+ 4 h 0 0.17580(7) 0.5 . 1. 0
+Ca3 Ca2+ 4 g 0 0.66539(7) 0 . 1. 0
+P1 P2- 4 i 0.7785(2) 0 0.2415(1) . 1. 0
+P2 P2- 8 j 0.2313(1) 0.15253(6) 0.23948(9) . 1. 0
+P3 P1+ 4 i 0.0519(1) 0 0.1618(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.0103(5) 0.0087(5) 0.0114(5) 0 -.0023(4) 0
+Ca2 Ca2+ 0.0086(3) 0.0101(4) 0.0090(3) 0 0.0043(3) 0
+Ca3 Ca2+ 0.0079(3) 0.0093(4) 0.0075(3) 0 0.0026(2) 0
+P1 P2- 0.0060(4) 0.0102(5) 0.0077(4) 0 0.0030(4) 0
+P2 P2- 0.0071(3) 0.0075(3) 0.0071(3) -.0012(3) 0.0026(2) 0.0000(3)
+P3 P1+ 0.0046(4) 0.0065(4) 0.0047(4) 0 0.0009(3) 0
+#End of TTdata_74854-ICSD

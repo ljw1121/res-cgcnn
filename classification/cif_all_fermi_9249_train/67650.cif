@@ -1,0 +1,76 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_67650-ICSD
+_database_code_ICSD 67650
+_audit_creation_date 1994-01-19
+_chemical_name_systematic 'Bismuth(II) sulfide'
+_chemical_formula_structural 'Bi S'
+_chemical_formula_sum 'Bi1 S1'
+_exptl_crystal_density_diffrn 3.93
+_publ_section_title
+
+;
+The Layered Composite Crystal Structure of the Ternary Sulfide, (BiS)1.07TaS2
+"BiTaS/3"
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Japanese Journal of Applied Physics, Part 1' 1992 31 3946 3950 JAPNDE
+loop_
+_publ_author_name
+'Gotoh, Y.'
+'Onoda, M.'
+'Akimoto, J.'
+'Goto, M.'
+'Oosawa, Y.'
+_cell_length_a 5.732(4)
+_cell_length_b 15.368(6)
+_cell_length_c 23.135(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2037.95
+_cell_formula_units_Z 20
+_symmetry_space_group_name_H-M 'B 2 m m'
+_symmetry_Int_Tables_number 38
+_refine_ls_R_factor_all 0.124
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 'x, -y, z'
+3 'x, -y, -z'
+4 'x, y, z'
+5 'x+1/2, y, -z+1/2'
+6 'x+1/2, -y, z+1/2'
+7 'x+1/2, -y, -z+1/2'
+8 'x+1/2, y, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi2+ 2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi2+ 4 e 0.027 0.5 0.1867(8) 1.7(4) 1. 0
+Bi2 Bi2+ 8 f 0.018(6) 0.2972(5) 0.3163(6) 1.4(3) 1. 0
+Bi3 Bi2+ 8 f 0.028(9) 0.1015(4) 0.1824(5) 1.5(3) 1. 0
+S1 S2- 4 e 0.018(25) 0.5 0.294(4) 0.90(23) 1. 0
+S2 S2- 8 f 0.004(24) 0.318(3) 0.201(3) 1.30(19) 1. 0
+S3 S2- 8 f 0.027(28) 0.1206(28) 0.2980(27) 1.10(13) 1. 0
+#End of TTdata_67650-ICSD

@@ -1,0 +1,78 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_424397-ICSD
+_database_code_ICSD 424397
+_audit_creation_date 2013-02-01
+_chemical_name_systematic 'Dibismuth iridium'
+_chemical_formula_structural 'Bi2 Ir'
+_chemical_formula_sum 'Bi2 Ir1'
+_chemical_name_structure_type FeAsS-CoSb2
+_exptl_crystal_density_diffrn 13.9
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Semimetallic paramagnetic nano-Bi2Ir and superconducting ferromagnetic
+nano-Bi3Ni by microwave-assisted synthesis and room temperature
+pseudomorphosis
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2012
+638 2035 2043 ZAACAB
+loop_
+_publ_author_name
+'Boldt, R.'
+'Grigas, A.'
+'Heise, M.'
+'Herrmannsdoerfer, T.'
+'Isaeva, A.'
+'Kaskel, S.'
+'Koehler, D.'
+'Ruck, M.'
+'Skrotzki, R.'
+'Wosnitza, J.'
+_cell_length_a 6.9011(1)
+_cell_length_b 6.7885(1)
+_cell_length_c 6.9617(1)
+_cell_angle_alpha 90
+_cell_angle_beta 116.454(1)
+_cell_angle_gamma 90
+_cell_volume 291.99
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0556
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi0+ 0
+Ir0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi0+ 4 e 0.3450(2) 0.3599(2) 0.1732(2) 0.023(3) 1 0
+Bi2 Bi0+ 4 e 0.1455(2) 0.6394(2) 0.3756(2) 0.023(3) 1 0
+Ir1 Ir0+ 4 e 0.2727(3) -0.0032(4) 0.2883(2) 0.030(3) 1 0
+#End of TTdata_424397-ICSD

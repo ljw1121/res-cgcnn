@@ -1,0 +1,78 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_189658-ICSD
+_database_code_ICSD 189658
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Bismuth phosphate'
+_chemical_formula_structural 'Bi (P O4)'
+_chemical_formula_sum 'Bi1 O4 P1'
+_chemical_name_structure_type SbPO4
+_exptl_crystal_density_diffrn 6.16
+_cell_measurement_temperature 873.
+_publ_section_title
+
+;
+Experimental and theoretical investigations on the polymorphism and
+metastability of Bi P O4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2013 42 14999 15015 DTARAF
+loop_
+_publ_author_name
+'S. N. Achary'
+'D. Errandonea'
+'A. Munoz'
+'P. Rodriguez-Hernandez'
+'F.J. Manjon'
+'P.S.R. Krishna'
+'S.J. Patwe'
+'V. Grover'
+'A.K. Tyagi'
+_cell_length_a 4.8930(5)
+_cell_length_b 7.1088(8)
+_cell_length_c 4.7342(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 95.653(9)
+_cell_angle_gamma 90.
+_cell_volume 163.87
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.068
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 2 e 0.1452(9) 0.25 0.1668(9) 1.9(2) 1. 0
+P1 P5+ 2 e 0.3739(9) 0.75 0.3089(10) 1.9(2) 1. 0
+O1 O2- 2 e 0.674(1) 0.75 0.230(2) 1.9(2) 1. 0
+O2 O2- 2 e 0.618(2) 0.25 0.363(1) 1.9(2) 1. 0
+O3 O2- 4 f 0.203(5) 0.581(1) 0.202(6) 1.9(2) 1. 0
+#End of TTdata_189658-ICSD

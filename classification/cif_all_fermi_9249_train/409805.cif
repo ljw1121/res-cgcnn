@@ -1,0 +1,113 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_409805-ICSD
+_database_code_ICSD 409805
+_audit_creation_date 2005-10-01
+_audit_update_record 2006-10-01
+_chemical_name_systematic 'Barium nitride indide (6/1/5)'
+_chemical_formula_structural 'Ba6 N In5'
+_chemical_formula_sum 'Ba6 In5 N1'
+_chemical_name_structure_type Sr6NGa5
+_exptl_crystal_density_diffrn 5.43
+_publ_section_title
+'Crystal structure of hexabarium mononitride pentaindide, (Ba6 N) (In5)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 2004 219
+349 350 ZKNSFT
+loop_
+_publ_author_name
+'Schlechte, A.'
+'Prots', Yu.M.'
+'Niewa, R.'
+_cell_length_a 8.234(3)
+_cell_length_b 8.234(3)
+_cell_length_c 44.12(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 2590.53
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 c H'
+_symmetry_Int_Tables_number 167
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+5/6'
+14 '-x+2/3, -x+y+1/3, -z+5/6'
+15 'y+2/3, x+1/3, -z+5/6'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+5/6'
+20 'x+2/3, x-y+1/3, z+5/6'
+21 '-y+2/3, -x+1/3, z+5/6'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+1/6'
+26 '-x+1/3, -x+y+2/3, -z+1/6'
+27 'y+1/3, x+2/3, -z+1/6'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+1/6'
+32 'x+1/3, x-y+2/3, z+1/6'
+33 '-y+1/3, -x+2/3, z+1/6'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba0+ 0
+In0+ 0
+N0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba0+ 36 f 0.10028(4) 0.31724(4) 0.035077(6) 0.01873(9) 1 0
+In1 In0+ 18 e 0.21465(5) 0. 0.25 0.01912(11) 1 0
+In2 In0+ 12 c 0. 0. 0.193478(12) 0.01930(12) 1 0
+N1 N0+ 6 b 0. 0. 0. 0.0239(18) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba0+ 0.01714(13) 0.01988(13) 0.01946(14) 0.00947(10) -0.00062(8) -0.00081(9)
+In1 In0+ 0.01620(14) 0.0248(2) 0.0192(2) 0.01242(11) -0.00083(8) -0.00165(15)
+In2 In0+ 0.02131(16) 0.02131(16) 0.0153(2) 0.01066(8) 0. 0.
+N1 N0+ 0.023(3) 0.023(3) 0.025(5) 0.0116(13) 0. 0.
+#End of TTdata_409805-ICSD

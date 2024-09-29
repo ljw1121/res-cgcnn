@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_644598-ICSD
+_database_code_ICSD 644598
+_audit_creation_date 2013-08-01
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Nickel tantalum nitride (2/4/5)'
+_chemical_formula_structural 'Ni2 Ta4 N5'
+_chemical_formula_sum 'N5 Ni2 Ta4'
+_exptl_crystal_density_diffrn 12.63
+_publ_section_title
+
+;
+An X-ray investigation on ternary phases in the Ta-Me-N systems (Me = Ti, Cr,
+Mn, Fe, Co, Ni)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica (1-27,1973-42,1988)' 1954 8 213 220 ACSAA4
+loop_
+_publ_author_name
+'Schoenberg, Nils'
+_cell_length_a 5.168
+_cell_length_b 5.168
+_cell_length_c 10.36
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 239.63
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -6 2 m'
+_symmetry_Int_Tables_number 189
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z'
+5 'x-y, -y, z'
+6 'y, x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+Ta2+ 2
+Ta3+ 3
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 4 h 0.3333 0.6667 0.25 . 1. 0
+Ta1 Ta2+ 2 e 0 0 0.25 . 1. 0
+Ta2 Ta3+ 3 f 0.333 0 0 . 1. 0
+Ta3 Ta3+ 3 g 0.667 0 0.5 . 1. 0
+#End of TTdata_644598-ICSD

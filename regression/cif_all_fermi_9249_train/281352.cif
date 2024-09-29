@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281352-ICSD
+_database_code_ICSD 281352
+_audit_creation_date 2004-04-01
+_audit_update_record 2005-04-01
+_chemical_name_systematic 'Tetracesium di-mue-dithio-bis(dithiogermanate)'
+_chemical_formula_structural 'Cs4 ((S2)2 (Ge S2)2)'
+_chemical_formula_sum 'Cs4 Ge2 S8'
+_chemical_name_structure_type Cs2GeSe4
+_exptl_crystal_density_diffrn 3.45
+_publ_section_title 'Cs4 Ge2 S8'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E. Structure Reports Online' 2003 59
+i137 i138 ACSEBH
+loop_
+_publ_author_name
+'Wu, Y.-D.'
+'Naether, C.'
+'Bensch, W.'
+_cell_length_a 14.721(2)
+_cell_length_b 7.364(1)
+_cell_length_c 9.820(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 122.43(1)
+_cell_angle_gamma 90.
+_cell_volume 898.52
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Ge4+ 4
+S2- -2
+S1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 i 0.16369(2) 0 0.28823(4) 0.03154(9) 1. 0
+Cs2 Cs1+ 4 i 0.41590(2) 0 0.15007(3) 0.03007(9) 1. 0
+Ge1 Ge4+ 4 i 0.15583(4) 0 0.70131(5) 0.02168(10) 1. 0
+S1 S2- 4 i 0.31312(10) 0 0.73583(14) 0.0323(2) 1. 0
+S2 S2- 4 i 0.12490(9) 0 0.89111(13) 0.0283(2) 1. 0
+S3 S1- 8 j 0.07944(6) 0.24278(10) 0.53104(9) 0.02617(15) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.03182(15) 0.03397(15) 0.03260(15) 0 0.01977(13) 0
+Cs2 Cs1+ 0.02964(15) 0.03338(14) 0.02519(14) 0 0.01336(11) 0
+Ge1 Ge4+ 0.0223(2) 0.02382(19) 0.0194(2) 0 0.01150(17) 0
+S1 S2- 0.0250(5) 0.0424(6) 0.0321(6) 0 0.0170(5) 0
+S2 S2- 0.0293(5) 0.0352(5) 0.0237(5) 0 0.0165(4) 0
+S3 S1- 0.0263(4) 0.0251(3) 0.0265(3) -0.0016(3) 0.0138(3) 0.0019(3)
+#End of TTdata_281352-ICSD

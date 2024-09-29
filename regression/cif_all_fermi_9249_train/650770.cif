@@ -1,0 +1,69 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_650770-ICSD
+_database_code_ICSD 650770
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Yttrium ruthenium (5/2)'
+_chemical_formula_structural 'Y5 Ru2'
+_chemical_formula_sum 'Ru2 Y5'
+_chemical_name_structure_type Pd5B2
+_exptl_crystal_density_diffrn 5.92
+_publ_section_title 'Dy5 Ru2 and Y5 Ru2 with Mn5 C2 - type structure'
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1980 36 1631 1634 ACBCAR
+loop_
+_publ_author_name
+'Cenzual, K.'
+'Palenzona, A.'
+'Parthe, E.'
+_cell_length_a 15.769(6)
+_cell_length_b 6.341(2)
+_cell_length_c 7.320(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 97.20(4)
+_cell_angle_gamma 90.
+_cell_volume 726.16
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y0+ 0
+Ru0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y0+ 8 f 0.093 0.116 0.416 . 1. 0
+Y2 Y0+ 8 f 0.218 0.577 0.314 . 1. 0
+Y3 Y0+ 4 e 0 0.584 0.25 . 1. 0
+Ru1 Ru0+ 8 f 0.11 0.2892 0.076 . 1. 0
+#End of TTdata_650770-ICSD

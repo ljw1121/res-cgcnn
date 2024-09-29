@@ -1,0 +1,88 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_414544-ICSD
+_database_code_ICSD 414544
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Potassium lanthanum tetrathiosilicate'
+_chemical_formula_structural 'K La (Si S4)'
+_chemical_formula_sum 'K1 La1 S4 Si1'
+_chemical_name_structure_type K2ZnBr4
+_exptl_crystal_density_diffrn 3.13
+_publ_section_title
+
+;
+Thiosilicate der Selten-Erd-Elemente: III. K La (Si S4) und Rb La (Si S4) -
+ein struktureller Vergleich
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2005
+631 1365 1370 ZAACAB
+loop_
+_publ_author_name
+'Hartenbach, I.'
+'Schleid, T.'
+_cell_length_a 6.5335(6)
+_cell_length_b 6.5723(6)
+_cell_length_c 8.6702(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.496(9)
+_cell_angle_gamma 90.
+_cell_volume 355.08
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.066
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+La3+ 3
+Si4+ 4
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 2 e 0.7200(4) 0.25 0.9329(3) 0.0357(5) 1 0
+La1 La3+ 2 e 0.76845(9) 0.25 0.44939(6) 0.02278(18) 1 0
+Si1 Si4+ 2 e 0.2102(4) 0.25 0.3110(3) 0.0186(4) 1 0
+S1 S2- 2 e 0.4065(4) 0.25 0.1611(3) 0.0241(4) 1 0
+S2 S2- 2 e 0.3872(4) 0.25 0.5602(3) 0.0292(5) 1 0
+S3 S2- 4 f 0.0002(2) -0.00128(18) 0.27145(18) 0.0227(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0489(14) 0.0297(9) 0.0324(11) 0. 0.0179(10) 0.
+La1 La3+ 0.0210(3) 0.0228(2) 0.0254(3) 0. 0.00836(18) 0.
+Si1 Si4+ 0.0211(12) 0.0125(8) 0.0236(10) 0. 0.0087(9) 0.
+S1 S2- 0.0232(11) 0.0264(9) 0.0244(10) 0. 0.0099(8) 0.
+S2 S2- 0.0245(12) 0.0412(11) 0.0222(10) 0. 0.0076(9) 0.
+S3 S2- 0.0266(8) 0.0136(5) 0.0288(7) -0.0037(5) 0.0094(6) -0.0004(5)
+#End of TTdata_414544-ICSD

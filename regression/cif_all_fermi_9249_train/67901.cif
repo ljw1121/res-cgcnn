@@ -1,0 +1,68 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_67901-ICSD
+_database_code_ICSD 67901
+_audit_creation_date 1995-01-10
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Magnesium tungstate'
+_chemical_formula_structural 'Mg (W O4)'
+_chemical_formula_sum 'Mg1 O4 W1'
+_chemical_name_structure_type Wolframite-NiWO4
+_chemical_name_mineral Huanzalaite
+_exptl_crystal_density_diffrn 6.85
+_cell_measurement_pressure 100.
+_publ_section_title
+'The crystal structure of wolframite type tungstates at high pressure'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1993 207 193 208 ZEKRDZ
+loop_
+_publ_author_name
+'Macavei, J.'
+'Schulz, H.'
+_cell_length_a 4.696(2)
+_cell_length_b 5.683(2)
+_cell_length_c 4.945(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.83(5)
+_cell_angle_gamma 90.
+_cell_volume 131.96
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2/c 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.0245
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+W6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg2+ 2 f 0.5 0.6742(6) 0.25 0.0079(6) 1. 0
+W1 W6+ 2 e 0 0.1819(1) 0.25 0.0052(2) 1. 0
+O1 O2- 4 g 0.216(1) 0.107(1) 0.937(1) 0.0084(9) 1. 0
+O2 O2- 4 g 0.256(1) 0.3766(9) 0.397(1) 0.0070(9) 1. 0
+#End of TTdata_67901-ICSD

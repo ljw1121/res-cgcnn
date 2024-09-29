@@ -1,0 +1,104 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_249399-ICSD
+_database_code_ICSD 249399
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Tantalum aluminium carbide (3/1/2)'
+_chemical_formula_structural 'Ta3 Al C2'
+_chemical_formula_sum 'C2 Al1 Ta3'
+_chemical_name_structure_type Ti3C2Si
+_exptl_crystal_density_diffrn 12.34
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Ta3 Al C2 and Ta 4Al C3 - Single crystal investigations of two new ternary
+carbides of tantalum synthesized by the molten metal technique
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2007 46 1410 1418 INOCAJ
+loop_
+_publ_author_name
+'Etzkorn, J.'
+'Ade, M.'
+'Hillebrecht, H.'
+_cell_length_a 3.1004(4)
+_cell_length_b 3.1004(4)
+_cell_length_c 19.200(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 159.83
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.0603
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta0+ 0
+Al0+ 0
+C0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ta1 Ta0+ 4 f 0.6667 0.3333 0.63423(6) 0.0095(3) 1 0
+Ta2 Ta0+ 2 a 0. 1. 0.5 0.0088(3) 1 0
+Al1 Al0+ 2 b 0. 1. 0.75 0.014(2) 1 0
+C1 C0+ 4 f 0.3333 0.6667 0.5675(11) 0.008(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ta1 Ta0+ 0.0080(3) 0.0080(3) 0.0124(4) 0.00400(15) 0. 0.
+Ta2 Ta0+ 0.0075(3) 0.0075(3) 0.0113(7) 0.00377(17) 0. 0.
+Al1 Al0+ 0.011(3) 0.011(3) 0.022(6) 0.0053(13) 0. 0.
+C1 C0+ 0.010(5) 0.010(5) 0.005(9) 0.005(2) 0. 0.
+#End of TTdata_249399-ICSD

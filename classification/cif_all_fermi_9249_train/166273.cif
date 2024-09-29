@@ -1,0 +1,44 @@
+
+data_166273-ICSD
+_database_code_ICSD 166273
+_audit_creation_date 2010-08-01
+_chemical_name_systematic 'Magnesium oxide'
+_chemical_formula_structural 'Mg O'
+_chemical_formula_sum 'Mg1 O1'
+_exptl_crystal_density_diffrn 3.5
+_cell_measurement_temperature 1163.
+_cell_length_a 3.0026
+_cell_length_b 3.0026
+_cell_length_c 2.4516
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 19.14
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 3'
+_symmetry_Int_Tables_number 143
+_refine_ls_R_factor_all 0.0109
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, z'
+2 '-y, x-y, z'
+3 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg2+ 1 a 0 0 0 0.36(27) 1. 0
+O1 O2- 1 b 0.3333 0.6667 0.5 1.50(19) 1. 0

@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_38381-ICSD
+_database_code_ICSD 38381
+_audit_creation_date 1984-12-31
+_chemical_name_systematic 'Lithium hexaoxorhenate'
+_chemical_formula_structural 'Li5 Re O6'
+_chemical_formula_sum 'Li5 O6 Re1'
+_chemical_name_structure_type Na5ReO6
+_exptl_crystal_density_diffrn 5.04
+_publ_section_title
+'Zur Kenntnis von Li5 Re O6 und Na5 Re O6 - mit einer Bemerkung ueber Na5 I O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1984
+512 19 33 ZAACAB
+loop_
+_publ_author_name
+'Betz, T.'
+'Hoppe, R.'
+_cell_length_a 5.0679(6)
+_cell_length_b 8.7315(8)
+_cell_length_c 5.0293(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.24(1)
+_cell_angle_gamma 90.
+_cell_volume 208.81
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.07
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re7+ 7
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re7+ 2 a 0 0 0 . 1. 0
+O1 O2- 8 j 0.2706(18) 0.3478(9) 0.7639(19) . 1. 0
+O2 O2- 4 i 0.2756(27) 0.5 0.2277(29) . 1. 0
+Li1 Li1+ 4 g 0 0.6686(33) 0 0.0118(47) 1. 0
+Li2 Li1+ 2 d 0 0.5 0.5 0.026(10) 1. 0
+Li3 Li1+ 4 h 0.5 0.3238(44) 0.5 0.0238(68) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re7+ 0.0072(4) 0.0105(4) 0.0080(4) 0 0.0022(3) 0
+O1 O2- 0.0142(33) 0.0103(30) 0.0108(38) -.0026(24) 0.0042(30) -.0006(26)
+O2 O2- 0.0155(49) 0.0157(48) 0.0116(56) 0 0.0055(44) 0
+#End of TTdata_38381-ICSD

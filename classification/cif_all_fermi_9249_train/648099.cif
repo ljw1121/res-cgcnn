@@ -1,0 +1,54 @@
+
+data_648099-ICSD
+_database_code_ICSD 648099
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Scandium phosphide (7/3)'
+_chemical_formula_structural 'Sc7 P3'
+_chemical_formula_sum 'P3 Sc7'
+_chemical_name_structure_type Fe3Th7
+_exptl_crystal_density_diffrn 3.42
+_cell_length_a 8.9340(2)
+_cell_length_b 8.9340(2)
+_cell_length_c 5.7349(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 396.41
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P0+ 0
+Sc0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P0+ 6 c .814 .186 .32 . 1. 0
+Sc1 Sc0+ 2 b .3333 .6667 .064 . 1. 0
+Sc2 Sc0+ 6 c .124 .876 .25 . 1. 0
+Sc3 Sc0+ 6 c .544 .456 .049 . 1. 0

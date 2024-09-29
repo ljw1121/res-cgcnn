@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_163594-ICSD
+_database_code_ICSD 163594
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Dilanthanum dihydroxoheptaoxoditantalate'
+_chemical_formula_structural 'La2 (Ta2 O7 (O H)2)'
+_chemical_formula_sum 'H2 La2 O9 Ta2'
+_exptl_crystal_density_diffrn 6.97
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Aqueous synthesis and structural comparison of rare earth niobates and
+tantalates: (La, K, vac)2 Nb2 O7-x (O H)2 and Ln2 Ta2 O7 (O H)2 (vac= vacancy;
+Ln= La-Sm)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2009 21 2201 2208 CMATEX
+loop_
+_publ_author_name
+'Nyman, M.'
+'Rodriguez, M.A.'
+'Alam, T.M.'
+'Anderson, T.M.'
+'Ambrosini, A.'
+_cell_length_a 14.17107(6)
+_cell_length_b 3.93027(2)
+_cell_length_c 6.72014(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.0849(4)
+_cell_angle_gamma 90.
+_cell_volume 374.22
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Ta5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 e 0.29908(3) 0.0051(7) 0.50163(6) 0.00397(5) 1. 0
+Ta1 Ta5+ 4 e 0.53758(2) 0.4942(4) 0.72935(4) 0.00397(5) 1. 0
+O1 O2- 4 e 0.5793(2) 0.486(4) 0.4181(5) 0.00397(5) 1. 0
+O2 O2- 4 e 0.54400(25) 0.0234(22) 0.7137(6) 0.00397(5) 1. 0
+O3 O2- 2 b 0.5 0.5 0. 0.00397(5) 1. 0
+O4 O2- 4 e 0.17413(23) 0.0208(30) 0.2522(5) 0.00397(5) 1. 0
+O5 O2- 4 e 0.19797(24) 0.517(4) 0.6249(6) 0.00397(5) 1. 0
+#End of TTdata_163594-ICSD

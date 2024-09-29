@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73094-ICSD
+_database_code_ICSD 73094
+_audit_creation_date 1994-06-30
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Disodium trithiocarbonate - beta'
+_chemical_formula_structural 'Na2 (C S3)'
+_chemical_formula_sum 'C1 Na2 S3'
+_chemical_name_structure_type Na2CS3
+_exptl_crystal_density_diffrn 1.98
+_publ_section_title
+'Modifizierte Darstellung und Kristallstrukturbestimmung von beta-Na2 C S3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1993
+619 1203 1208 ZAACAB
+loop_
+_publ_author_name
+'Henseler, U.'
+'Jansen, M.'
+_cell_length_a 10.036(1)
+_cell_length_b 6.337(1)
+_cell_length_c 8.555(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.05(1)
+_cell_angle_gamma 90.
+_cell_volume 517.31
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S2- -2
+Na1+ 1
+C4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+S1 S2- 8 f 0.36869(3) 0.44635(4) 0.11014(4) . 1. 0
+S2 S2- 4 e 0 0.35419(6) 0.25 . 1. 0
+Na1 Na1+ 8 f 0.36581(6) 0.19919(8) 0.38766(7) . 1. 0
+C1 C4+ 4 e 0 0.0831(2) 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+S1 S2- 0.0235(1) 0.0291(1) 0.0302(1) -.0029(1) 0.0044(1) -.0001(1)
+S2 S2- 0.0626(3) 0.0189(2) 0.0359(2) 0 0.0224(2) 0
+Na1 Na1+ 0.0502(4) 0.0390(3) 0.0409(3) -.0111(2) 0.0232(3) -.0031(2)
+C1 C4+ 0.0226(6) 0.0215(5) 0.0245(6) 0 0.0123(5) 0
+#End of TTdata_73094-ICSD

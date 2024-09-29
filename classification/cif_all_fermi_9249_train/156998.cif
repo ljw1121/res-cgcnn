@@ -1,0 +1,83 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_156998-ICSD
+_database_code_ICSD 156998
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Lanthanum palladium silicide (3/4/4)'
+_chemical_formula_structural 'La3 Pd4 Si4'
+_chemical_formula_sum 'La3 Pd4 Si4'
+_chemical_name_structure_type Ni4U3Si4
+_exptl_crystal_density_diffrn 7.13
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Structure and superconductivity of the ternary intermetallics of La3 Ni4 Si4,
+La3 Ni4 Ge4 and La3 Pd4 Si4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics: Condensed Matter' 2006 18 8037 8047 JCOMEL
+loop_
+_publ_author_name
+'Fujii, H.'
+_cell_length_a 4.2254(3)
+_cell_length_b 4.2871(3)
+_cell_length_c 24.551(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 444.73
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m m m'
+_symmetry_Int_Tables_number 71
+_refine_ls_R_factor_all 0.2144
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 'x, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x, -y, z'
+6 '-x, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x+1/2, y+1/2, -z+1/2'
+10 'x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 '-x+1/2, -y+1/2, z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+Pd0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 2 a 0 0 0 1. 1. 0
+La2 La0+ 4 j 0.5 0 0.3535(3) 1. 1. 0
+Pd1 Pd0+ 4 j 0.5 0 0.0969(3) 1. 1. 0
+Pd2 Pd0+ 4 i 0 0 0.2473(4) 1. 1. 0
+Si1 Si0+ 4 j 0.5 0 0.199(1) 1. 1. 0
+Si2 Si0+ 4 i 0 0 0.456(1) 1. 1. 0
+#End of TTdata_156998-ICSD

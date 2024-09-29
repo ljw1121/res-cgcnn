@@ -1,0 +1,93 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65438-ICSD
+_database_code_ICSD 65438
+_audit_creation_date 1989-12-04
+_chemical_name_systematic 'Ammonium dicopper hydroxide bis(selenate) hydrate'
+_chemical_formula_structural '(N H4) Cu2 (O H) (Se O4)2 (H2 O)'
+_chemical_formula_sum 'H7 Cu2 N1 O10 Se2'
+_exptl_crystal_density_diffrn 3.65
+_publ_section_title
+
+;
+The crystal structures of Ag(+) Cu2 (O H) (S O4)2 (H2 O) and Me(+) Cu2 (O H)
+(Se O4)2 (H2 O) (Me(+) = Ag, Tl, N H4), four new representatives of the
+natrochalcite type, with a note on natural natrochalcite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1989 187 239 247 ZEKRDZ
+loop_
+_publ_author_name
+'Giester, G.'
+_cell_length_a 9.230(1)
+_cell_length_b 6.496(1)
+_cell_length_c 7.903(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.39(1)
+_cell_angle_gamma 90.
+_cell_volume 424.47
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+N3- -3
+Cu2+ 2
+Se6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+N1 N3- 2 d 0 0.5 0.5 . 1. 0
+Cu1 Cu2+ 4 e 0.25 0.25 0 . 1. 0
+Se1 Se6+ 4 i 0.07368(3) 0 0.28122(4) . 1. 0
+O1 O2- 4 i 0.1893(3) 0 0.1706(4) . 1. 0
+O2 O2- 4 i 0.1825(3) 0 0.5075(3) . 1. 0
+O3 O2- 8 j -.0406(2) 0.2096(3) 0.2183(3) . 1. 0
+O4 O2- 4 i 0.1572(3) 0.5 0.0722(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+N1 N3- 0.0131(13) 0.0181(17) 0.0152(14) 0 0.0025(11) 0
+Cu1 Cu2+ 0.0089(1) 0.0097(1) 0.0136(1) 0.0000(1) 0.0023(1) -.0007(1)
+Se1 Se6+ 0.0084(1) 0.0094(1) 0.0096(1) 0 0.0020(1) 0
+O1 O2- 0.0140(8) 0.0150(9) 0.0180(9) 0 0.0087(7) 0
+O2 O2- 0.0172(10) 0.0315(15) 0.0083(8) 0 -.0003(7) 0
+O3 O2- 0.0135(6) 0.0107(6) 0.0169(6) 0.0034(5) 0.0020(5) -.0014(5)
+O4 O2- 0.0119(8) 0.0128(9) 0.0163(9) 0 0.0052(7) 0
+#End of TTdata_65438-ICSD

@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_12112-ICSD
+_database_code_ICSD 12112
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic
+'Dicesium trans-tetraaquadichlorovanadium(III) trichloride'
+_chemical_formula_structural 'Cs2 (V Cl2 (H2 O)4) Cl3'
+_chemical_formula_sum 'H8 Cl5 Cs2 O4 V1'
+_chemical_name_structure_type Cs2VCl5(H2O)4
+_exptl_crystal_density_diffrn 2.54
+_publ_section_title
+
+;
+Crystal and molecular structures of aquahalogenovanadium (III) complexes. Part
+II. X-ray crystal structure of dicesium
+trans-tetrakisaquadichlorovanadium(III) trichloride, and the isomorphous
+bromo-compound
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Journal of the Chemical Society. Dalton Transactions, Inorganic Chemistry
+(1972-)
+; 1976 1976 1741 1743 JCDTBI
+loop_
+_publ_author_name
+'Donovan, W.F.'
+'Podmore, L.P.'
+'Smith, P.W.'
+_cell_length_a 17.745(8)
+_cell_length_b 6.183(5)
+_cell_length_c 7.019(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.4(5)
+_cell_angle_gamma 90.
+_cell_volume 738.77
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.106
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V3+ 3
+Cs1+ 1
+Cl1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V3+ 2 a 0 0 0 0.98 1. 0
+Cs1 Cs1+ 4 i 0.2980(1) 0 0.2442(1) 0.71 1. 0
+Cl1 Cl1- 4 i 0.1098(2) 0 -.1275(5) 1.35 1. 0
+Cl2 Cl1- 4 i 0.3072(2) 0 0.7518(6) 1.76 1. 0
+Cl3 Cl1- 2 d 0 0.5 0.5 1.86 1. 0
+O1 O2- 8 j 0.056(1) 0.209(2) 0.206(1) 2.99 1. 0
+#End of TTdata_12112-ICSD

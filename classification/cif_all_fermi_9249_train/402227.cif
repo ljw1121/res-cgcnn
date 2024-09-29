@@ -1,0 +1,70 @@
+
+data_402227-ICSD
+_database_code_ICSD 402227
+_audit_creation_date 1996-10-14
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Sodium barium phosphide'
+_chemical_formula_structural 'Na Ba P'
+_chemical_formula_sum 'Ba1 Na1 P1'
+_chemical_name_structure_type ZrNiAl-Fe2P
+_exptl_crystal_density_diffrn 3.73
+_cell_length_a 7.940(1)
+_cell_length_b 7.940(1)
+_cell_length_c 4.676(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 255.3
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P -6 2 m'
+_symmetry_Int_Tables_number 189
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z'
+5 'x-y, -y, z'
+6 'y, x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ba2+ 2
+P3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 3 f 0.238(1) 0 0 . 1. 0
+Ba1 Ba2+ 3 g 0.58525(10) 0 0.5 . 1. 0
+P1 P3- 2 c 0.33333 0.66667 0 . 1. 0
+P2 P3- 1 b 0 0 0.5 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0244(29) 0.0238(30) 0.0171(28) 0.0119(15) 0 0
+Ba1 Ba2+ 0.01482(53) 0.01238(56) 0.01413(59) 0.00619(28) 0 0
+P1 P3- 0.0162(17) 0.0162(17) 0.0128(19) 0.00812(85) 0 0
+P2 P3- 0.0166(21) 0.0166(21) 0.0142(27) 0.0083(11) 0 0

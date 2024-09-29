@@ -1,0 +1,55 @@
+
+data_651970-ICSD
+_database_code_ICSD 651970
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Vanadium tantalum selenide (1/3/6)'
+_chemical_formula_structural 'V Ta3 Se6'
+_chemical_formula_sum 'Se6 Ta3 V1'
+_chemical_name_structure_type CoNb3S6
+_exptl_crystal_density_diffrn 9.04
+_cell_length_a 5.961(2)
+_cell_length_b 5.961(2)
+_cell_length_c 12.743(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 392.14
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 2 2'
+_symmetry_Int_Tables_number 182
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 '-x, -x+y, -z'
+8 'x-y, -y, -z'
+9 'y, x, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V3+ 3
+Ta3+ 3
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V3+ 2 c 0.3333 0.6667 0.25 . 1. 0
+Ta1 Ta3+ 2 a 0 0 0 . 1. 0
+Ta2 Ta3+ 4 f 0.3333 0.6667 0.506 . 1. 0
+Se1 Se2- 12 i 0.332 0.001 0.131 . 1. 0

@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_95177-ICSD
+_database_code_ICSD 95177
+_audit_creation_date 2003-10-01
+_chemical_name_systematic 'Yttrium copper phosphide (1/1/2)'
+_chemical_formula_structural 'Y Cu P2'
+_chemical_formula_sum 'Cu1 P2 Y1'
+_chemical_name_structure_type CuHoP2
+_exptl_crystal_density_diffrn 5.2
+_publ_section_title 'Y - Cu - P system'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2002 345 170 174 JALCEU
+loop_
+_publ_author_name
+'Demchyna, R.O.'
+'Chikhrii, S.I.'
+'Kuz'ma, Yu.B.'
+_cell_length_a 5.28918(4)
+_cell_length_b 5.34627(4)
+_cell_length_c 9.69225(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 274.07
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m m a'
+_symmetry_Int_Tables_number 67
+_refine_ls_R_factor_all 0.048
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z'
+2 'x+1/2, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z'
+6 '-x+1/2, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x, y+1/2, -z'
+10 'x, -y+1/2, z'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 '-x, -y+1/2, z'
+14 '-x, y+1/2, -z'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y0+ 0
+Cu0+ 0
+P0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y0+ 4 g 0 0.25 0.23416(5) 0.66(1) 1. 0
+Cu1 Cu0+ 4 b 0.25 0 0.5 0.90(2) 1. 0
+P1 P0+ 4 a 0.25 0 0 1.19(3) 1. 0
+P2 P0+ 4 g 0 0.25 0.6586(1) 0.99(3) 1. 0
+#End of TTdata_95177-ICSD

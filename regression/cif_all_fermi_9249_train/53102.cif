@@ -1,0 +1,55 @@
+
+data_53102-ICSD
+_database_code_ICSD 53102
+_audit_creation_date 2002-04-01
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Indium niobium selenide (1/1/2)'
+_chemical_formula_structural 'In Nb Se2'
+_chemical_formula_sum 'In1 Nb1 Se2'
+_chemical_name_structure_type InTaS2
+_exptl_crystal_density_diffrn 6.35
+_cell_length_a 3.45
+_cell_length_b 3.45
+_cell_length_c 9.27
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 95.55
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -6 m 2'
+_symmetry_Int_Tables_number 187
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z'
+2 '-x+y, y, -z'
+3 '-y, -x, -z'
+4 'x, x-y, z'
+5 '-x+y, y, z'
+6 '-y, -x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In1+ 1
+Nb3+ 3
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In1+ 1 a 0 0 0 . 1. 0
+Nb1 Nb3+ 1 d 0.3333 0.6667 0.5 . 1. 0
+Se1 Se2- 2 g 0 0 0.31 . 1. 0

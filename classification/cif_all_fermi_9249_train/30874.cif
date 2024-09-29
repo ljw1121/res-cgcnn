@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_30874-ICSD
+_database_code_ICSD 30874
+_audit_creation_date 1985-03-07
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Gold silver telluride (1/1/4)'
+_chemical_formula_structural 'Au Ag Te4'
+_chemical_formula_sum 'Ag1 Au1 Te4'
+_chemical_name_structure_type AuAgTe4
+_chemical_name_mineral Sylvanite
+_exptl_crystal_density_diffrn 8.13
+_publ_section_title
+
+;
+Kristallchemie natuerlicher Telluride. I: Verfeinerung der Kristallstruktur
+des Sylvanits, Au Ag Te4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+'TMPM. Tschermaks Mineralogische und Petrographische Mitteilungen (1979-)' 1984 33 203 212 TTMMDZ
+loop_
+_publ_author_name
+'Pertlik, F.'
+_cell_length_a 8.95(1)
+_cell_length_b 4.478(5)
+_cell_length_c 14.62(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 145.35(5)
+_cell_angle_gamma 90.
+_cell_volume 333.14
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2/c 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.072
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au3+ 3
+Ag1+ 1
+Te1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au3+ 2 a 0 0 0 . 1. 0
+Ag1 Ag1+ 2 e 0 0.5182(4) 0.25 . 1. 0
+Te1 Te1- 4 g 0.2992(3) 0.0278(2) 0.0003(2) . 1. 0
+Te2 Te1- 4 g 0.2821(3) 0.4045(2) 0.2366(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Au1 Au3+ 0.0054(4) 0.0096(4) 0.0025(2) -.0020(3) 0.0027(2) -.0011(2)
+Ag1 Ag1+ 0.0040(7) 0.0125(7) 0.0027(3) 0 0.0032(4) 0
+Te1 Te1- 0.0078(6) 0.0140(5) 0.0038(2) 0.0006(3) 0.0043(3) 0.0005(2)
+Te2 Te1- 0.0060(5) 0.0124(4) 0.0032(2) 0.0001(3) 0.0033(3) -.0003(2)
+#End of TTdata_30874-ICSD

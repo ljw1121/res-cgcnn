@@ -1,0 +1,57 @@
+
+data_311-ICSD
+_database_code_ICSD 311
+_audit_creation_date 1984-09-10
+_audit_update_record 2011-08-01
+_chemical_name_systematic 'Phosphorus iodide'
+_chemical_formula_structural 'P I3'
+_chemical_formula_sum 'I3 P1'
+_exptl_crystal_density_diffrn 4.19
+_cell_length_a 7.133(2)
+_cell_length_b 7.133(2)
+_cell_length_c 7.414(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 326.68
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+I1- -1
+P3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+I1 I1- 6 c 0.0337(3) 0.3475(2) 0 . 1. 0
+P1 P3+ 2 b 0.3333 0.6667 0.146(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+I1 I1- 0.0193(3) 0.0188(3) 0.0249(4) 0.0048(2) 0.003(1) 0.0034(6)
+P1 P3+ 0.045(5) 0.045(5) 0.006(2) 0.023(4) 0 0

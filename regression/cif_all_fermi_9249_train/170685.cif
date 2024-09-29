@@ -1,0 +1,86 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_170685-ICSD
+_database_code_ICSD 170685
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Manganese rhenium(VI) oxide'
+_chemical_formula_structural 'Mn Re O4'
+_chemical_formula_sum 'Mn1 O4 Re1'
+_chemical_name_structure_type Wolframite-NiWO4
+_exptl_crystal_density_diffrn 7.38
+_cell_measurement_temperature 304.
+_publ_section_title
+
+;
+Preparation, crystal structure and magnetic properties of the high-pressure
+phase Mn Re O4 with wolframite-type structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2005 61 246 249
+ASBSDK
+loop_
+_publ_author_name
+'Bramnik, K.G.'
+'Ehrenberg, H.'
+'Buhre, S.'
+'Fuess, H.'
+_cell_length_a 4.8022(5)
+_cell_length_b 5.6318(6)
+_cell_length_c 5.0803(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.762(9)
+_cell_angle_gamma 90.
+_cell_volume 137.24
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2/c 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.0293
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re6+ 6
+Mn2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re6+ 2 e 0. 0.16966(10) 0.25 0.0067(4) 1 0
+Mn1 Mn2+ 2 f 0.5 0.6811(4) 0.25 0.0082(5) 1 0
+O1 O2- 4 g 0.2078(16) 0.1056(14) 0.9375(15) 0.0076(15) 1 0
+O2 O2- 4 g 0.2595(18) 0.3712(13) 0.3881(16) 0.0092(16) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re6+ 0.0069(5) 0.0060(4) 0.0074(4) 0. 0.0013(2) 0.
+Mn1 Mn2+ 0.0077(13) 0.0081(12) 0.0091(12) 0. 0.0038(10) 0.
+O1 O2- 0.007(4) 0.009(3) 0.006(3) -0.005(3) 0.001(3) 0.001(3)
+O2 O2- 0.016(4) 0.005(3) 0.007(3) -0.004(3) 0.005(3) 0.000(3)
+#End of TTdata_170685-ICSD

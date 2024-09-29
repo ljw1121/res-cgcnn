@@ -1,0 +1,86 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_428170-ICSD
+_database_code_ICSD 428170
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Barium iron(II) sulfide oxide (1/2/2/1)'
+_chemical_formula_structural 'Ba Fe2 S2 O'
+_chemical_formula_sum 'Ba1 Fe2 O1 S2'
+_exptl_crystal_density_diffrn 4.36
+_cell_measurement_temperature 295.
+_publ_section_title 'S = 2 spin ladders in the sulfide oxide Ba Fe2 S2 O'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry  (online)' 2014 2014 6150 6155
+EJICFO
+loop_
+_publ_author_name
+'Valldor, Martin'
+'Adler, Peter'
+'Prots, Yurii'
+'Burkhardt, Ulrich'
+'Tjeng, Liu Hao'
+_cell_length_a 4.0171(7)
+_cell_length_b 9.6076(4)
+_cell_length_c 6.5033(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 250.99
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m m n S'
+_symmetry_Int_Tables_number 59
+_refine_ls_R_factor_all 0.0235
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, -z'
+2 'x+1/2, y+1/2, -z'
+3 'x, -y, z'
+4 '-x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Fe2+ 2
+S2- -2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 2 a 0 0 0.02796(5) 0.01248(11) 1 0
+Fe1 Fe2+ 4 e 0 0.33213(6) 0.37947(9) 0.01319(17) 1 0
+S1 S2- 4 e 0 0.28873(10) 0.73502(16) 0.0125(3) 1 0
+O1 O2- 2 b 0 0.5 0.2321(7) 0.0126(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0118(2) 0.01250(18) 0.0131(2) 0 0 0
+Fe1 Fe2+ 0.0146(3) 0.0129(3) 0.0120(3) 0 0 0.0031(2)
+S1 S2- 0.0126(5) 0.0136(4) 0.0111(5) 0 0 -0.0013(3)
+O1 O2- 0.0164(19) 0.0089(16) 0.013(2) 0 0 0
+#End of TTdata_428170-ICSD

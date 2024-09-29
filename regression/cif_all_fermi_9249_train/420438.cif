@@ -1,0 +1,93 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_420438-ICSD
+_database_code_ICSD 420438
+_audit_creation_date 2010-08-01
+_chemical_name_systematic 'Scandium platinum silicide (4/7/2)'
+_chemical_formula_structural 'Sc4 Pt7 Si2'
+_chemical_formula_sum 'Pt7 Sc4 Si2'
+_chemical_name_structure_type Al2Ca5Bi6
+_exptl_crystal_density_diffrn 12.73
+_cell_measurement_temperature 293.
+_publ_section_title
+'Sc4 Pt7 Si2 - An intergrowth structure of Sc Pt Si and Sc Pt related slabs'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2010
+636 972 976 ZAACAB
+loop_
+_publ_author_name
+'Harmening, T.'
+'van Wuellen, L.'
+'Eckert, H.'
+'Rodewald, U.C.'
+'Poettgen, R.'
+_cell_length_a 6.476(1)
+_cell_length_b 16.171(3)
+_cell_length_c 3.9896(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 417.8
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+_refine_ls_R_factor_all 0.0243
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc0+ 0
+Pt0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc0+ 4 g 0.7855(6) 0.0391(2) 0. 0.0057(6) 1 0
+Sc2 Sc0+ 4 g 0.0257(6) 0.2092(2) 0. 0.0050(6) 1 0
+Pt1 Pt0+ 4 g 0.40750(11) 0.11747(4) 0. 0.00354(13) 1 0
+Pt2 Pt0+ 4 h 0.09614(12) 0.07861(4) 0.5 0.00424(13) 1 0
+Pt3 Pt0+ 2 d 0. 0.5 0.5 0.00388(18) 1 0
+Pt4 Pt0+ 4 h 0.71354(10) 0.16701(4) 0.5 0.00436(14) 1 0
+Si1 Si0+ 4 h 0.3400(8) 0.1933(3) 0.5 0.0049(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sc1 Sc0+ 0.0052(14) 0.0055(13) 0.0062(11) 0.0005(13) 0. 0.
+Sc2 Sc0+ 0.0046(13) 0.0057(14) 0.0047(12) -0.0006(11) 0. 0.
+Pt1 Pt0+ 0.0042(3) 0.0037(3) 0.0027(2) 0.0004(2) 0. 0.
+Pt2 Pt0+ 0.0038(3) 0.0037(3) 0.0053(2) -0.0005(2) 0. 0.
+Pt3 Pt0+ 0.0050(4) 0.0035(4) 0.0032(3) -0.0010(3) 0. 0.
+Pt4 Pt0+ 0.0036(3) 0.0043(3) 0.0052(2) 0.0001(2) 0. 0.
+Si1 Si0+ 0.006(2) 0.005(2) 0.0033(16) -0.0003(18) 0. 0.
+#End of TTdata_420438-ICSD

@@ -1,0 +1,76 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_28438-ICSD
+_database_code_ICSD 28438
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Tetraamminenickel bis(isothiocyanate)'
+_chemical_formula_structural '(Ni (N H3)4) (N C S)2'
+_chemical_formula_sum 'C2 H12 N6 Ni1 S2'
+_chemical_name_structure_type Ni(NH3)4(NCS)2
+_exptl_crystal_density_diffrn 1.56
+_publ_section_title
+
+;
+Structural features of crystals of some rhodanide compounds with divalent
+nickel and copper
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Strukturnoi Khimii (Issue-No. from 1981)' 1963 4 584 593 ZSTKAI
+loop_
+_publ_author_name
+'Porai Koshits, M.A.'
+_cell_length_a 11.48
+_cell_length_b 8.2
+_cell_length_c 5.69
+_cell_angle_alpha 90.
+_cell_angle_beta 105.
+_cell_angle_gamma 90.
+_cell_volume 517.38
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.193
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+N3- -3
+C4+ 4
+S2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 2 a 0 0 0 . 1. 0
+N1 N3- 8 j 0.083 0.188 0.83 . 1. 0
+N2 N3- 4 i 0.152 0 0.293 . 1. 0
+C1 C4+ 4 i 0.24 0 0.462 . 1. 0
+S1 S2- 4 i 0.358 0 0.69 . 1. 0
+#End of TTdata_28438-ICSD

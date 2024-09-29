@@ -1,0 +1,97 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_237618-ICSD
+_database_code_ICSD 237618
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Dibismuth trimercury disulfo octachloride'
+_chemical_formula_structural 'Bi2 Hg3 S2 Cl8'
+_chemical_formula_sum 'Bi2 Cl8 Hg3 S2'
+_exptl_crystal_density_diffrn 5.73
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Mercury bismuth chalcohalides, Hg3 Q2 Bi2 Cl8 (Q = S, Se, Te): Syntheses,
+crystal structures, band structures, and optical properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2013 52 2973 2979 INOCAJ
+loop_
+_publ_author_name
+'Wibowo, Arief C.'
+'Malliakas, Christos D.'
+'Chung, Duck Young'
+'Im, Jino'
+'Freeman, Arthur J.'
+'Kanatzidis, Mercouri G.'
+_cell_length_a 12.945(5)
+_cell_length_b 7.3875(15)
+_cell_length_c 9.2658(19)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.64(4)
+_cell_angle_gamma 90.
+_cell_volume 792.03
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0299
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Hg2+ 2
+Cl1- -1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 i 0.12713(2) 0. 0.42622(3) 0.01719(8) 1 0
+Hg1 Hg2+ 4 e 0.25 0.25 0. 0.02487(9) 1 0
+Hg2 Hg2+ 2 b 0. 0.5 0. 0.02682(11) 1 0
+Cl1 Cl1- 4 h 0. -0.2438(3) 0.5 0.0280(4) 1 0
+Cl2 Cl1- 8 j 0.19305(13) 0.2669(2) 0.28703(18) 0.0269(3) 1 0
+Cl3 Cl1- 4 i -0.04919(18) 0. 0.1494(3) 0.0325(5) 1 0
+S1 S2- 4 i 0.12487(15) 0.5 -0.1249(2) 0.0190(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.01453(11) 0.02096(13) 0.01645(11) 0. 0.00729(8) 0.
+Hg1 Hg2+ 0.02447(14) 0.01653(14) 0.03564(17) 0.00318(9) 0.01528(12) 0.00042(11)
+Hg2 Hg2+ 0.02078(17) 0.0268(2) 0.0393(2) 0. 0.01919(17) 0.
+Cl1 Cl1- 0.0312(9) 0.0185(8) 0.0420(11) 0. 0.0233(9) 0.
+Cl2 Cl1- 0.0303(6) 0.0292(7) 0.0220(5) -0.0057(5) 0.0125(5) 0.0025(5)
+Cl3 Cl1- 0.0215(8) 0.0289(10) 0.0289(9) 0. -0.0048(7) 0.
+S1 S2- 0.0179(7) 0.0189(8) 0.0204(7) 0. 0.0088(6) 0.
+#End of TTdata_237618-ICSD

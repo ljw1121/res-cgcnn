@@ -1,0 +1,86 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_641596-ICSD
+_database_code_ICSD 641596
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Lanthanum nickel stannide (3/2/7)'
+_chemical_formula_structural 'La3 Ni2 Sn7'
+_chemical_formula_sum 'La3 Ni2 Sn7'
+_exptl_crystal_density_diffrn 7.84
+_publ_section_title
+
+;
+Properties of new stannides of rare-earth metals with the structure type La3
+Co2 Sn7
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Ukrains'kii Fizichnii Zhurnal (Ukrainian Edition)' 1987 32 729 732
+UFZHAT
+loop_
+_publ_author_name
+'Skolozdra, R.V.'
+'Yasnitskaya, I.V.'
+'Aksel'rud, L.G.'
+_cell_length_a 4.584(2)
+_cell_length_b 27.51(1)
+_cell_length_c 4.587(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 578.45
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C m m m'
+_symmetry_Int_Tables_number 65
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'x+1/2, -y+1/2, z'
+10 '-x+1/2, y+1/2, z'
+11 'x+1/2, y+1/2, -z'
+12 '-x+1/2, -y+1/2, -z'
+13 '-x+1/2, y+1/2, -z'
+14 'x+1/2, -y+1/2, -z'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2.5
+La3+ 3
+Sn2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 4 j 0 0.372 0.5 . 1. 0
+La1 La3+ 2 c 0.5 0 0.5 . 1. 0
+La2 La3+ 4 i 0 0.184 0 . 1. 0
+Sn1 Sn2- 2 a 0 0 0 . 1. 0
+Sn2 Sn2- 4 j 0 0.41 0.5 . 1. 0
+Sn3 Sn2- 4 j 0 0.091 0.5 . 1. 0
+Sn4 Sn2- 4 j 0 0.282 0.5 . 1. 0
+#End of TTdata_641596-ICSD

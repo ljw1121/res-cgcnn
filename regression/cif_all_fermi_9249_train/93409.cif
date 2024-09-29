@@ -1,0 +1,61 @@
+
+data_93409-ICSD
+_database_code_ICSD 93409
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Dicopper(I) zinc germanium selenide'
+_chemical_formula_structural 'Cu2 Zn Ge Se4'
+_chemical_formula_sum 'Cu2 Ge1 Se4 Zn1'
+_chemical_name_structure_type Stannite-Cu2FeSnS4
+_exptl_crystal_density_diffrn 5.55
+_cell_length_a 5.61043(8)
+_cell_length_b 5.61043(8)
+_cell_length_c 11.0457(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 347.68
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4 2 m'
+_symmetry_Int_Tables_number 121
+_refine_ls_R_factor_all 0.067
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x, z'
+2 'y, x, z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, -z'
+6 '-x, y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y+1/2, x+1/2, z+1/2'
+11 'y+1/2, -x+1/2, -z+1/2'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu1+ 1
+Zn2+ 2
+Ge4+ 4
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu1+ 4 d 0.5 0 0.25 1.0(2) 1. 0
+Zn1 Zn2+ 2 a 0 0 0 0.4(3) 1. 0
+Ge1 Ge4+ 2 b 0 0 0.5 0.8(3) 1. 0
+Se1 Se2- 8 i 0.2557(3) 0.2557(3) 0.1237(6) 0.16(5) 1. 0

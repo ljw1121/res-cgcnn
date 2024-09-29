@@ -1,0 +1,69 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_610598-ICSD
+_database_code_ICSD 610598
+_audit_creation_date 2012-02-01
+_chemical_name_systematic 'Germanium arsenide (1/1)'
+_chemical_formula_structural 'Ge As'
+_chemical_formula_sum 'As1 Ge1'
+_chemical_name_structure_type GaTe
+_exptl_crystal_density_diffrn 5.34
+_publ_section_title 'The crystal structures of Si P2, Si As2, and Ge P'
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica (1-27,1973-42,1988)' 1967 21 593 594 ACSAA4
+loop_
+_publ_author_name
+'Wadsten, T.'
+_cell_length_a 15.59
+_cell_length_b 3.792
+_cell_length_c 9.49
+_cell_angle_alpha 90.
+_cell_angle_beta 101.3
+_cell_angle_gamma 90.
+_cell_volume 550.15
+_cell_formula_units_Z 12
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge3+ 3
+As3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ge1 Ge3+ 4 i 0.372 0 0.076 . 1. 0
+Ge2 Ge3+ 4 i 0.255 0 0.214 . 1. 0
+Ge3 Ge3+ 4 i 0.431 0.5 0.411 . 1. 0
+As1 As3- 4 i 0.468 0.5 0.167 . 1. 0
+As2 As3- 4 i 0.154 0.5 0.187 . 1. 0
+As3 As3- 4 i 0.34 0 0.458 . 1. 0
+#End of TTdata_610598-ICSD

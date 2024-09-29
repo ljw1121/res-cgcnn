@@ -1,0 +1,52 @@
+
+data_85674-ICSD
+_database_code_ICSD 85674
+_audit_creation_date 1999-11-30
+_chemical_name_systematic 'Manganese digallium selenide'
+_chemical_formula_structural 'Mn Ga2 Se4'
+_chemical_formula_sum 'Ga2 Mn1 Se4'
+_chemical_name_structure_type Al2CdS4
+_exptl_crystal_density_diffrn 4.89
+_cell_length_a 5.677(1)
+_cell_length_b 5.677(1)
+_cell_length_c 10.761(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 346.81
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.062
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mn2+ 2
+Ga3+ 3
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mn1 Mn2+ 2 a 0 0 0 0.63(3) 1. 0
+Ga1 Ga3+ 2 b 0 0 0.5 0.63(3) 1. 0
+Ga2 Ga3+ 2 c 0 0.5 0.25 0.63(3) 1. 0
+Se1 Se2- 8 g 0.2692(4) 0.2487(5) 0.1369(1) 0.63(3) 1. 0

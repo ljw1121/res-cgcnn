@@ -1,0 +1,91 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_418027-ICSD
+_database_code_ICSD 418027
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Hafnium palladium germanide'
+_chemical_formula_structural 'Hf Pd Ge'
+_chemical_formula_sum 'Ge1 Hf1 Pd1'
+_chemical_name_structure_type Rh4Si5
+_exptl_crystal_density_diffrn 11.88
+_cell_measurement_temperature 293.
+_publ_section_title 'Crystal structure and twinning of Hf Pd Ge'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 2007 222
+513 520 ZKNSFT
+loop_
+_publ_author_name
+'Prots', Yu.'
+'Demchyna, R.'
+'Burkhardt, U.'
+'Schwarz, U.'
+_cell_length_a 6.6573(1)
+_cell_length_b 3.9359(1)
+_cell_length_c 11.4411(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.102(1)
+_cell_angle_gamma 90.
+_cell_volume 299.78
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hf0+ 0
+Pd0+ 0
+Ge0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hf1 Hf0+ 2 e 0.02940(10) 0.25 0.70759(5) 0.00803(12) 1 0
+Hf2 Hf0+ 2 e 0.53199(11) 0.25 0.62227(6) 0.00791(14) 1 0
+Hf3 Hf0+ 2 e 0.66126(12) 0.25 0.92068(6) 0.00912(16) 1 0
+Pd1 Pd0+ 2 e 0.0033(2) 0.25 0.09096(10) 0.0079(3) 1 0
+Pd2 Pd0+ 2 e 0.1424(2) 0.25 0.45860(10) 0.0071(3) 1 0
+Pd3 Pd0+ 2 e 0.62862(17) 0.25 0.20585(10) 0.0088(2) 1 0
+Ge1 Ge0+ 2 e 0.2505(4) 0.25 0.9158(2) 0.0066(2) 1 0
+Ge2 Ge0+ 2 e 0.2610(2) 0.25 0.25013(13) 0.0083(3) 1 0
+Ge3 Ge0+ 2 e 0.7519(3) 0.25 0.4159(2) 0.0063(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hf1 Hf0+ 0.0082(3) 0.0090(3) 0.0069(2) 0. 0.0002(2) 0.
+Hf2 Hf0+ 0.0086(3) 0.0081(3) 0.0070(3) 0. -0.0001(2) 0.
+Hf3 Hf0+ 0.0089(3) 0.0095(3) 0.0090(3) 0. 0.0001(3) 0.
+Pd1 Pd0+ 0.0081(5) 0.0074(6) 0.0082(6) 0. 0.0002(4) 0.
+Pd2 Pd0+ 0.0066(5) 0.0059(6) 0.0087(6) 0. -0.0017(5) 0.
+Pd3 Pd0+ 0.0108(5) 0.0101(5) 0.0054(4) 0. 0.0010(4) 0.
+Ge1 Ge0+ 0.0067(8) 0.0067(5) 0.0064(8) 0. -0.0022(10) 0.
+Ge2 Ge0+ 0.0104(7) 0.0058(5) 0.0087(6) 0. 0.0007(6) 0.
+Ge3 Ge0+ 0.0033(8) 0.0064(5) 0.0093(8) 0. 0.0004(10) 0.
+#End of TTdata_418027-ICSD

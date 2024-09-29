@@ -1,0 +1,64 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_58847-ICSD
+_database_code_ICSD 58847
+_audit_creation_date 2004-04-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Bismuth platinum (2/1) - HT'
+_chemical_formula_structural 'Bi2 Pt'
+_chemical_formula_sum 'Bi2 Pt1'
+_exptl_crystal_density_diffrn 13.26
+_publ_section_title
+'Strukturuntersuchungen in den Mischungen Pt - Tl - Pb und Pt - Pb - Bi'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1969 19 223 243 JCOMAH
+loop_
+_publ_author_name
+'Biswas, T.'
+'Schubert, K.'
+_cell_length_a 6.57
+_cell_length_b 6.57
+_cell_length_c 6.16
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 230.27
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P -3'
+_symmetry_Int_Tables_number 147
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi0+ 0
+Pt0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi0+ 6 g 0.05 0.365 0.26 . 1. 0
+Pt1 Pt0+ 1 a 0 0 0 . 1. 0
+Pt2 Pt0+ 2 d 0.3333 0.6667 0.92 . 1. 0
+#End of TTdata_58847-ICSD

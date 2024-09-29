@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_49746-ICSD
+_database_code_ICSD 49746
+_audit_creation_date 1986-04-14
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Pentasodium hexaoxoosmate'
+_chemical_formula_structural 'Na5 (Os O6)'
+_chemical_formula_sum 'Na5 O6 Os1'
+_chemical_name_structure_type Na5ReO6
+_exptl_crystal_density_diffrn 4.6
+_publ_section_title 'Ueber Oxoosmate(VII) Na5 (Os O6) und Li5 (Os O6)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1985
+524 17 25 ZAACAB
+loop_
+_publ_author_name
+'Betz, T.'
+'Hoppe, R.'
+_cell_length_a 5.6810(4)
+_cell_length_b 9.7500(6)
+_cell_length_c 5.5965(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.
+_cell_angle_gamma 90.
+_cell_volume 289.4
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Os7+ 7
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Os1 Os7+ 2 a 0 0 0 . 1. 0
+Na1 Na1+ 4 g 0 0.6687(4) 0 . 1. 0
+Na2 Na1+ 2 d 0 0.5 0.5 . 1. 0
+Na3 Na1+ 4 h 0.5 0.3237(4) 0.5 . 1. 0
+O1 O2- 8 j 0.2895(9) 0.3607(5) 0.7841(10) . 1. 0
+O2 O2- 4 i 0.3016(13) 0.5 0.2030(14) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Os1 Os7+ 0.0048(2) 0.0078(2) 0.0101(3) 0 0.0046(2) 0
+Na1 Na1+ 0.0119(17) 0.0140(17) 0.0162(19) 0 0.0071(15) 0
+Na2 Na1+ 0.0273(33) 0.0123(26) 0.0225(32) 0 -.0026(27) 0
+Na3 Na1+ 0.0147(18) 0.0211(20) 0.0182(20) 0 0.0092(16) 0
+O1 O2- 0.0092(20) 0.0123(21) 0.0161(24) -.0012(17) 0.0054(19) -.0021(16)
+O2 O2- 0.0145(31) 0.0129(30) 0.0176(34) 0 0.0108(28) 0
+#End of TTdata_49746-ICSD

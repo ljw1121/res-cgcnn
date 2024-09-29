@@ -1,0 +1,79 @@
+
+data_69870-ICSD
+_database_code_ICSD 69870
+_audit_creation_date 1993-01-06
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Dicalcium iron(III) trioxide chloride'
+_chemical_formula_structural 'Ca2 Fe O3 Cl'
+_chemical_formula_sum 'Ca2 Cl1 Fe1 O3'
+_exptl_crystal_density_diffrn 3.61
+_cell_length_a 3.848(2)
+_cell_length_b 3.848(2)
+_cell_length_c 13.65(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 202.12
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4'
+_symmetry_Int_Tables_number 75
+_refine_ls_R_factor_all 0.054
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, z'
+2 'y, -x, z'
+3 '-x, -y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Ca2+ 2
+Cl1- -1
+Ca2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 1 a 0 0 0 . 1. 0
+Fe2 Fe3+ 1 b 0.5 0.5 0.41858(27) . 1. 0
+Ca1 Ca2+ 1 a 0 0 0.54999(50) . 1. 0
+Ca2 Ca2+ 1 a 0 0 0.30939(62) . 1. 0
+Cl1 Cl1- 1 a 0 0 0.77633(91) . 1. 0
+Cl2 Cl1- 1 b 0.5 0.5 0.63152(70) . 1. 0
+Ca3 Ca2+ 1 b 0.5 0.5 0.86553(75) . 1. 0
+Ca4 Ca2+ 1 b 0.5 0.5 0.12206(57) . 1. 0
+O1 O2- 2 c 0 0.5 0.9726(14) . 1. 0
+O2 O2- 2 c 0 0.5 0.4405(11) . 1. 0
+O3 O2- 1 a 0 0 0.1240(30) . 1. 0
+O4 O2- 1 b 0.5 0.5 0.2794(11) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.0003(7) 0.0003(7) 0.0085(17) 0 0 0
+Fe2 Fe3+ 0.0031(11) 0.0031(11) 0.0285(27) 0 0 0
+Ca1 Ca2+ 0.0041(12) 0.0041(12) 0.0072(26) 0 0 0
+Ca2 Ca2+ 0.0177(18) 0.0177(18) 0.0146(37) 0 0 0
+Cl1 Cl1- 0.0191(19) 0.0191(19) 0.0402(42) 0 0 0
+Cl2 Cl1- 0.0147(19) 0.0147(19) 0.0112(23) 0 0 0
+Ca3 Ca2+ 0.0220(23) 0.0220(23) 0.0479(57) 0 0 0
+Ca4 Ca2+ 0.0136(20) 0.0136(20) 0.0104(22) 0 0 0
+O1 O2- 0.0190(33) 0.0083(27) 0.0393(82) 0.0004(17) 0 0
+O2 O2- 0.0213(35) 0.0302(42) 0.0361(105) 0.0004(23) 0 0
+O3 O2- 0.0076(69) 0.0076(69) 0.4001(642) 0 0 0
+O4 O2- 0.0271(49) 0.0271(49) 0.0001(64) 0 0 0

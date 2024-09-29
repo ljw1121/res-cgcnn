@@ -1,0 +1,105 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_171229-ICSD
+_database_code_ICSD 171229
+_audit_creation_date 2006-10-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Silver tribismuth sulfide'
+_chemical_formula_structural 'Ag Bi3 S5'
+_chemical_formula_sum 'Ag1 Bi3 S5'
+_chemical_name_structure_type AgBi3S5
+_exptl_crystal_density_diffrn 6.72
+_publ_section_title
+
+;
+Crystal growth, thermoelectric properties, and electronic structure of Ag Bi3
+S5 and Ad Sb(x) Bi(3-x) S5 (x= 0.3)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2005 17 3606 3614 CMATEX
+loop_
+_publ_author_name
+'Kim, J.-H.'
+'Chung, D.-Y.'
+'Bilc, D.'
+'Loo, S.'
+'Short, J.'
+'Mahanti, S.D.'
+'Hogan, T.'
+'Kanatzidis, M.G.'
+_cell_length_a 13.345(3)
+_cell_length_b 4.0416(8)
+_cell_length_c 16.439(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 94.158(3)
+_cell_angle_gamma 90.
+_cell_volume 884.31
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0317
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Ag1+ 1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 i 0.73921(4) 0. 0.11099(3) 0.01972(18) 1 0
+Bi2 Bi3+ 4 i 0.97401(4) -0.5 0.21651(3) 0.02122(19) 1 0
+Bi3 Bi3+ 4 i 1.21985(4) -1. 0.38938(3) 0.02492(19) 1 0
+Ag1 Ag1+ 2 a 1. -1. 0. 0.0398(5) 1 0
+Ag2 Ag1+ 2 d 1. -0.5 0.5 0.0304(4) 1 0
+S1 S2- 4 i 0.8625(2) -0.5 0.0551(2) 0.0189(7) 1 0
+S2 S2- 4 i 0.8426(3) 0. 0.2590(2) 0.0188(7) 1 0
+S3 S2- 4 i 0.5992(3) -0.5 0.1519(3) 0.0347(10) 1 0
+S4 S2- 4 i 1.0768(3) -0.5 0.3617(2) 0.0229(8) 1 0
+S5 S2- 4 i 1.1508(2) -1. 0.5338(2) 0.0156(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0189(3) 0.0194(3) 0.0207(3) 0. -0.0003(2) 0.
+Bi2 Bi3+ 0.0206(3) 0.0207(3) 0.0221(3) 0. 0.0000(2) 0.
+Bi3 Bi3+ 0.0278(3) 0.0274(3) 0.0201(3) 0. 0.0052(2) 0.
+Ag1 Ag1+ 0.0348(10) 0.0453(12) 0.0394(11) 0. 0.0035(8) 0.
+Ag2 Ag1+ 0.0222(8) 0.0355(10) 0.0346(9) 0. 0.0099(7) 0.
+S1 S2- 0.0176(16) 0.0208(18) 0.0177(17) 0. -0.0032(13) 0.
+S2 S2- 0.0198(16) 0.0223(18) 0.0142(15) 0. 0.0012(13) 0.
+S3 S2- 0.030(2) 0.020(2) 0.058(3) 0. 0.023(2) 0.
+S4 S2- 0.0217(17) 0.0195(18) 0.0255(18) 0. -0.0112(14) 0.
+S5 S2- 0.0165(14) 0.0171(16) 0.0131(14) 0. 0.0006(12) 0.
+#End of TTdata_171229-ICSD

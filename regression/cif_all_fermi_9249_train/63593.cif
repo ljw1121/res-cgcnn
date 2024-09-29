@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_63593-ICSD
+_database_code_ICSD 63593
+_audit_creation_date 1988-12-19
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Pentastrontium ditin hexaphosphide'
+_chemical_formula_structural 'Sr5 Sn2 P6'
+_chemical_formula_sum 'P6 Sn2 Sr5'
+_chemical_name_structure_type Ca5Ga2As6
+_exptl_crystal_density_diffrn 4.13
+_publ_section_title
+
+;
+Phasen im Grenzbereich der Zintelkonzeption: Zur Kenntnis von Sr5 Sn2 P6 und
+Sr Sn P
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1986 116 251 258 JCOMAH
+loop_
+_publ_author_name
+'Eisenmann, B.'
+'Jordan, H.'
+'Schaefer, H.'
+_cell_length_a 13.842(6)
+_cell_length_b 12.161(6)
+_cell_length_c 4.118(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 693.19
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+_refine_ls_R_factor_all 0.07
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Sn4+ 4
+P3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 4 g 0.2600(2) 0.3811(2) 0 . 1. 0
+Sr2 Sr2+ 2 a 0 0 0 . 1. 0
+Sr3 Sr2+ 4 g 0.4297(2) 0.1266(2) 0 . 1. 0
+Sn1 Sn4+ 4 h 0.1035(1) 0.2158(1) 0.5 . 1. 0
+P1 P3- 4 h 0.9248(4) 0.1707(5) 0.5 . 1. 0
+P2 P3- 4 h 0.1061(5) 0.4206(5) 0.5 . 1. 0
+P3 P3- 4 g 0.1931(5) 0.1358(5) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr2+ 0.0078(9) 0.0093(10) 0.0094(10) 0.0021(8) 0 0
+Sr2 Sr2+ 0.0097(13) 0.0074(13) 0.0060(13) -.0023(11) 0 0
+Sr3 Sr2+ 0.009(1) 0.0115(11) 0.0137(11) -.0011(8) 0 0
+Sn1 Sn4+ 0.0068(7) 0.0097(7) 0.0070(7) 0.0008(6) 0 0
+P1 P3- 0.0088(26) 0.0124(29) 0.0078(26) 0.0031(22) 0 0
+P2 P3- 0.0133(28) 0.0132(28) 0.0115(29) 0.0064(24) 0 0
+P3 P3- 0.0110(27) 0.0103(28) 0.0089(27) -.0014(23) 0 0
+#End of TTdata_63593-ICSD

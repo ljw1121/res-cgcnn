@@ -1,0 +1,72 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_162404-ICSD
+_database_code_ICSD 162404
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Palladium tin telluride (1/1/1)'
+_chemical_formula_structural 'Pd Sn Te'
+_chemical_formula_sum 'Pd1 Sn1 Te1'
+_chemical_name_structure_type NiAs2
+_exptl_crystal_density_diffrn 8.38
+_cell_measurement_temperature 293.
+_publ_section_title 'Synthesis and crystal structure of Pd Sn Te'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2009 468 69 72 JALCEU
+loop_
+_publ_author_name
+'Laufek, F.'
+'Vymazalova, A.'
+'Navratil, J.'
+'Drabek, M.'
+'Plasil, J.'
+'Plechacek. T.'
+_cell_length_a 6.5687(2)
+_cell_length_b 6.6028(2)
+_cell_length_c 12.8849(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 558.84
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pd0+ 0
+Sn0+ 0
+Te0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pd1 Pd0+ 8 c 0.0049(5) 0.3205(3) 0.6286(3) 0.86(4) 1. 0
+Sn1 Sn0+ 8 c 0.1407(4) 0.6835(3) 0.5660(2) 1.06(4) 1. 0
+Te1 Te0+ 8 c 0.1269(3) 0.4472(3) 0.8217(3) 1.11(4) 1. 0
+#End of TTdata_162404-ICSD

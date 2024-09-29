@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80771-ICSD
+_database_code_ICSD 80771
+_audit_creation_date 1997-05-13
+_chemical_name_systematic 'Barium trinitridomangante(III)'
+_chemical_formula_structural 'Ba3 (Mn N3)'
+_chemical_formula_sum 'Ba3 Mn1 N3'
+_chemical_name_structure_type Ba3FeN3
+_exptl_crystal_density_diffrn 5.39
+_publ_section_title
+
+;
+Sr3 (Mn N3) und Ba3 (Mn N3), die ersten Nitridomanganate(III):
+trigonal-planare Anionen (Mn(III) N3)(6-)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 1993 48 794 796
+ZNBSEN
+loop_
+_publ_author_name
+'Tennstedt, A.'
+'Roehr, C.'
+'Kniep, R.'
+_cell_length_a 8.050(2)
+_cell_length_b 8.050(2)
+_cell_length_c 5.586(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 313.49
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Mn3+ 3
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 6 h 0.3561(1) 0.2681(1) 0.25 . 1. 0
+Mn1 Mn3+ 2 c 0.3333 0.6667 0.25 . 1. 0
+N1 N3- 6 h 0.1258(17) 0.4431(17) 0.25 0.0110(22) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0142(4) 0.0119(4) 0.0101(4) 0.0095(3) 0 0
+Mn1 Mn3+ 0.0054(8) 0.0054(8) 0.0094(15) 0.0027(4) 0 0
+#End of TTdata_80771-ICSD

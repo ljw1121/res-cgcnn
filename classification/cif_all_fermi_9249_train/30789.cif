@@ -1,0 +1,67 @@
+
+data_30789-ICSD
+_database_code_ICSD 30789
+_audit_creation_date 1982-12-31
+_chemical_name_systematic Tetraiodomethane
+_chemical_formula_structural 'C I4'
+_chemical_formula_sum 'C1 I4'
+_exptl_crystal_density_diffrn 4.4
+_cell_measurement_temperature 293.
+_cell_length_a 6.409(4)
+_cell_length_b 6.409(4)
+_cell_length_c 9.558(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 392.6
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4 2 m'
+_symmetry_Int_Tables_number 121
+_refine_ls_R_factor_all 0.039
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x, z'
+2 'y, x, z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, -z'
+6 '-x, y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y+1/2, x+1/2, z+1/2'
+11 'y+1/2, -x+1/2, -z+1/2'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+C4+ 4
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+C1 C4+ 2 a 0 0 0 3.2 1. 0
+I1 I1- 8 i 0.1938(2) 0.1938 0.1305(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+I1 I1- 5.0(1) 5. 4.7(1) -.074(7) -1.19(5) -1.19

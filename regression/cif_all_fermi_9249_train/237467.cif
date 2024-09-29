@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_237467-ICSD
+_database_code_ICSD 237467
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Gold gallium sodium (2/4/1)'
+_chemical_formula_structural 'Au2 Ga4 Na'
+_chemical_formula_sum 'Au2 Ga4 Na1'
+_chemical_name_structure_type NdRh2Sn4
+_exptl_crystal_density_diffrn 8.66
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Polyclusters and substitution effects in the Na-Au-Ga system: Remarkable
+sodium bonding characteristics in polar intermetallics
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2013 52 12502 12510 INOCAJ
+loop_
+_publ_author_name
+'Smetana, Volodymyr'
+'Miller, Gordon J.'
+'Corbett, John D.'
+_cell_length_a 16.733(3)
+_cell_length_b 4.3330(9)
+_cell_length_c 7.3580(15)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 533.48
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0487
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au0+ 0
+Ga0+ 0
+Na0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au0+ 4 c 0.47695(11) 0.25 0.7588(4) 0.0169(7) 1 0
+Au2 Au0+ 4 c 0.21916(11) 0.25 0.5016(4) 0.0212(7) 1 0
+Ga1 Ga0+ 4 c 0.3156(3) 0.25 0.8054(10) 0.0127(15) 1 0
+Ga2 Ga0+ 4 c 0.4358(3) -0.25 0.9440(9) 0.0178(17) 1 0
+Ga3 Ga0+ 4 c 0.4521(3) -0.25 0.5574(9) 0.0150(17) 1 0
+Ga4 Ga0+ 4 c 0.3009(3) -0.25 0.5729(10) 0.0183(17) 1 0
+Na1 Na0+ 4 c 0.3760(12) 0.25 0.256(4) 0.031(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au1 Au0+ 0.0155(10) 0.0164(12) 0.0186(15) 0. 0.0005(10) 0.
+Au2 Au0+ 0.0147(9) 0.0147(14) 0.0340(15) 0. 0.0014(12) 0.
+Ga1 Ga0+ 0.011(2) 0.010(4) 0.017(4) 0. 0.005(3) 0.
+Ga2 Ga0+ 0.012(3) 0.022(4) 0.020(5) 0. 0.005(3) 0.
+Ga3 Ga0+ 0.013(2) 0.016(4) 0.016(5) 0. 0.004(3) 0.
+Ga4 Ga0+ 0.011(3) 0.012(4) 0.032(4) 0. -0.004(3) 0.
+Na1 Na0+ 0.030(10) 0.041(15) 0.021(14) 0. 0.004(12) 0.
+#End of TTdata_237467-ICSD

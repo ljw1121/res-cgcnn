@@ -1,0 +1,78 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_193223-ICSD
+_database_code_ICSD 193223
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Lanthanum indium silicide (2/1/2)'
+_chemical_formula_structural 'La2 In Si2'
+_chemical_formula_sum 'In1 La2 Si2'
+_exptl_crystal_density_diffrn 5.92
+_publ_section_title
+
+;
+New members of the A2 M' M2'' structure family (A = Ca, Sr, Yb, La; M' = In,
+Sn, Pb; M'' = Si, Ge)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2015 221 351 363 JSSCBI
+loop_
+_publ_author_name
+'Jehle, Michael'
+'Duerr, Ines'
+'Fink, Saskia'
+'Lang, Britta'
+'Langenmaier, Michael'
+'Steckhan, Julia'
+'Roehr, Caroline'
+_cell_length_a 7.6201(13)
+_cell_length_b 14.9438(6)
+_cell_length_c 4.421(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 503.43
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+_refine_ls_R_factor_all 0.0331
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+In0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 4 h 0.24941(10) 0.46570(5) 0.5 0.0234(2) 1. 0
+La2 La0+ 4 h 0.11132(9) 0.21725(6) 0.5 0.0232(2) 1. 0
+In1 In0+ 4 g 0.43479(15) 0.12381(8) 0 0.0279(3) 1. 0
+Si1 Si0+ 4 g 0.0520(5) 0.0753(3) 0 0.0247(8) 1. 0
+Si2 Si0+ 4 g 0.3205(5) 0.3158(2) 0 0.0178(7) 1. 0
+#End of TTdata_193223-ICSD

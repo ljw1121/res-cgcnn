@@ -1,0 +1,83 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_154360-ICSD
+_database_code_ICSD 154360
+_audit_creation_date 2007-04-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Dirubidium diantimono(III)dialuminate'
+_chemical_formula_structural 'Rb2 (Sb2 Al2 O7)'
+_chemical_formula_sum 'Al2 O7 Rb2 Sb2'
+_chemical_name_structure_type Rb2Al3Sb2O7
+_exptl_crystal_density_diffrn 4.15
+_publ_section_title
+
+;
+Aluminat-Pentelate(III) A(I)2 M2 Al2 O7 und A(II) M2 Al2 O7 (A(I) = Rb, Cs;
+A(II) = Ba; M = As, Sb)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 2005 60 419 425
+ZNBSEN
+loop_
+_publ_author_name
+'Emmerling, F.'
+'Reinhard, C.'
+'Zimper, S.'
+'Roehr, C.'
+_cell_length_a 5.6604(9)
+_cell_length_b 5.6604(9)
+_cell_length_c 8.368(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 232.19
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.0511
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Sb3+ 3
+Al3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 2 d 0.3333 0.6667 0.5908(3) 0.0175(7) 1. 0
+Sb1 Sb3+ 2 d 0.3333 0.6667 0.1510(2) 0.0122(6) 1. 0
+Al1 Al3+ 2 c 0 0 0.2030(9) 0.0097(15) 1. 0
+O1 O2- 1 a 0 0 0 0.0298(75) 1. 0
+O2 O2- 6 i 0.1690(11) -0.1690(11) 0.2792(12) 0.0149(21) 1. 0
+#End of TTdata_154360-ICSD

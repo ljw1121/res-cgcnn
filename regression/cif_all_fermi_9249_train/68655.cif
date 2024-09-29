@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68655-ICSD
+_database_code_ICSD 68655
+_audit_creation_date 1991-07-10
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Bis(trichloroselenium) hexachlororhenate(IV)'
+_chemical_formula_structural '(Se Cl3)2 (Re Cl6)'
+_chemical_formula_sum 'Cl12 Re1 Se2'
+_chemical_name_structure_type (SeCl3)2ReCl6
+_exptl_crystal_density_diffrn 3.28
+_publ_section_title 'X-ray investigation of chalcogenide complexes of rhenium'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Koordinatsionnaya Khimiya (= Coordination Chemistry (USSR))' 1989 15
+1535 1539 KOKHDC
+loop_
+_publ_author_name
+'Rybakov, V.B.'
+'Aslanov, L.A.'
+'Volkov, S.V.'
+'Kolesnichenko, V.E.'
+'Timoshchenko, N.I.'
+_cell_length_a 12.638(2)
+_cell_length_b 11.496(2)
+_cell_length_c 21.432(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 3113.78
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+_refine_ls_R_factor_all 0.048
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re4+ 4
+Se4+ 4
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re4+ 8 a 0 0 0.6667 1.23(6) 1. 0
+Se1 Se4+ 16 b -.0296(7) -.2586(9) 0.4992(4) 1.9(2) 1. 0
+Cl1 Cl1- 16 b 0.0782(20) -.1175(20) 0.5954(9) 2.1(4) 1. 0
+Cl2 Cl1- 16 b 0.1528(20) 0.1154(20) 0.6707(9) 1.8(4) 1. 0
+Cl3 Cl1- 16 b -.0743(20) 0.1176(20) 0.7516(9) 2.8(5) 1. 0
+Cl4 Cl1- 16 b -.084(2) -.3668(20) 0.4243(9) 2.6(4) 1. 0
+Cl5 Cl1- 16 b -.1516(20) -.1312(30) 0.4983(10) 4.4(7) 1. 0
+Cl6 Cl1- 16 b -.0898(20) -.3665(30) 0.5805(10) 4.1(6) 1. 0
+#End of TTdata_68655-ICSD

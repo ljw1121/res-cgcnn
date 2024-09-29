@@ -1,0 +1,76 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_26515-ICSD
+_database_code_ICSD 26515
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Vanadium sulfide (3/1) - alpha'
+_chemical_formula_structural 'V3 S'
+_chemical_formula_sum 'S1 V3'
+_chemical_name_structure_type V3S
+_exptl_crystal_density_diffrn 5.97
+_publ_section_title 'The crystal structures of alpha-V3 S and beta-V3 S'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica (1,1948-23,1967)' 1959 12 1022 1027 ACCRA9
+loop_
+_publ_author_name
+'Pedersen, B.'
+'Gronvold, F.'
+_cell_length_a 9.47
+_cell_length_b 9.47
+_cell_length_c 4.589
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 411.55
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I -4 2 m'
+_symmetry_Int_Tables_number 121
+_refine_ls_R_factor_all 0.13
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x, z'
+2 'y, x, z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, -z'
+6 '-x, y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y+1/2, x+1/2, z+1/2'
+11 'y+1/2, -x+1/2, -z+1/2'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V0+ 0.667
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V0+ 8 i 0.0932 0.0932 0.75 . 1. 0
+V2 V0+ 8 i 0.2 0.2 0.25 . 1. 0
+V3 V0+ 8 f 0.355 0 0 . 1. 0
+S1 S2- 8 g 0.2851 0 0.5 . 1. 0
+#End of TTdata_26515-ICSD

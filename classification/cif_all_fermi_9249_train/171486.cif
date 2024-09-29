@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_171486-ICSD
+_database_code_ICSD 171486
+_audit_creation_date 2006-10-01
+_chemical_name_systematic 'Lanthanum palladium gallium (2/1/12)'
+_chemical_formula_structural 'La2 Pd Ga12'
+_chemical_formula_sum 'Ga12 La2 Pd1'
+_chemical_name_structure_type Ce2CuGa12
+_exptl_crystal_density_diffrn 6.99
+_publ_section_title
+
+;
+A comparison of the structure and localized magnetism in Ce3 Pd Ga12 with
+heavy fermion Ce Pd Ga6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2005 178 3547 3553 JSSCBI
+loop_
+_publ_author_name
+'Macaluso, R.T.'
+'Millican, J.N.'
+'Nakatsuji, S.'
+'Lee, H.-O.'
+'Carter, B.'
+'Moreno, N.O.'
+'Fisk, Z.'
+'Chan, J.-Y.'
+_cell_length_a 6.1080(6)
+_cell_length_b 6.1080(6)
+_cell_length_c 15.5540(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 580.28
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n b m Z'
+_symmetry_Int_Tables_number 125
+_refine_ls_R_factor_all 0.0415
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, z'
+2 'y, -x+1/2, z'
+3 '-y+1/2, x, z'
+4 '-y, -x, z'
+5 '-y+1/2, -x+1/2, -z'
+6 '-y, x+1/2, -z'
+7 'y+1/2, -x, -z'
+8 'y, x, -z'
+9 'x+1/2, y+1/2, -z'
+10 '-x+1/2, y, -z'
+11 'x, -y+1/2, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, -y+1/2, z'
+14 'x+1/2, -y, z'
+15 '-x, y+1/2, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+Pd0+ 0
+Ga0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 4 h 0.75 0.25 0.2465(5) 0.0105(3) 1. 0
+Pd1 Pd0+ 2 c 0.75 0.25 0 0.0105(3) 1. 0
+Ga1 Ga0+ 4 g 0.75 0.75 0.1840(1) 0.0170(4) 1. 0
+Ga2 Ga0+ 4 g 0.75 0.75 0.3418(1) 0.0134(4) 1. 0
+Ga3 Ga0+ 8 m 0.5004(2) 0.0004(2) -0.0877(7) 0.0135(4) 1. 0
+Ga4 Ga0+ 8 m 0.5704(2) 0.0704(2) 0.4289(8) 0.0268(5) 1. 0
+#End of TTdata_171486-ICSD

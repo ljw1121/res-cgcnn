@@ -1,0 +1,68 @@
+
+data_93898-ICSD
+_database_code_ICSD 93898
+_audit_creation_date 2003-04-01
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Nickel phosphide sulfide (1/1/1)'
+_chemical_formula_structural 'Ni P S'
+_chemical_formula_sum 'Ni1 P1 S1'
+_chemical_name_structure_type NiSSb
+_exptl_crystal_density_diffrn 4.76
+_cell_length_a 5.5386(7)
+_cell_length_b 5.5386(7)
+_cell_length_c 5.5386(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 169.9
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 3'
+_symmetry_Int_Tables_number 198
+_refine_ls_R_factor_all 0.014
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni3+ 3
+P2- -2
+S1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni3+ 4 a 0.0000(2) 0.0000(2) 0.0000(2) 0.00516(5) 1. 0
+P1 P2- 4 a 0.6118(4) 0.6118(4) 0.6118(4) 0.0048(6) 1. 0
+S1 S1- 4 a 0.3882(4) 0.3882(4) 0.3882(4) 0.0071(6) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni1 Ni3+ 0.00516(5) 0.00516(5) 0.00516(5) 0.00002(3) 0.00002(3) 0.00002(3)
+P1 P2- 0.0048(6) 0.0048(6) 0.0048(6) 0.0002(4) 0.0002(4) 0.0002(4)
+S1 S1- 0.0071(6) 0.0071(6) 0.0071(6) 0.0003(4) 0.0003(4) 0.0003(4)

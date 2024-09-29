@@ -1,0 +1,71 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_4207-ICSD
+_database_code_ICSD 4207
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Dilithium potassium hydroxide'
+_chemical_formula_structural '(Li O H)2 K O H'
+_chemical_formula_sum 'H3 K1 Li2 O3'
+_exptl_crystal_density_diffrn 1.92
+_publ_section_title
+
+;
+X-ray diffraction investigation of the structure of the compound (Li O H)2 K O
+H
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1974 19 998 1001 KRISAJ
+loop_
+_publ_author_name
+'Rannev, N.V.'
+'Demidova, T.A.'
+'Zavodnik, V.E.'
+_cell_length_a 6.134(3)
+_cell_length_b 5.810(5)
+_cell_length_c 5.197(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 103.2(2)
+_cell_volume 180.32
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 1 21/m'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.097
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z+1/2'
+2 '-x, -y, -z'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Li1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 2 e 0.2647(2) 0.1519(2) 0.75 1.73(2) 1. 0
+Li1 Li1+ 4 f 0.1852(9) 0.6511(9) 0.0044(9) 1.39(2) 1. 0
+O1 O2- 2 e 0.0745(5) 0.3833(5) 0.25 1.17(2) 1. 0
+O2 O2- 2 e 0.2059(5) 0.9097(6) 0.25 1.36(2) 1. 0
+O3 O2- 2 e 0.4125(6) 0.6692(6) 0.75 1.96(2) 1. 0
+#End of TTdata_4207-ICSD

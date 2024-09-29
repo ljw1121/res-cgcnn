@@ -1,0 +1,67 @@
+
+data_192439-ICSD
+_database_code_ICSD 192439
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Potassium zinc bismuthide (4/1/2)'
+_chemical_formula_structural 'K4 Zn Bi2'
+_chemical_formula_sum 'Bi2 K4 Zn1'
+_exptl_crystal_density_diffrn 3.72
+_cell_measurement_temperature 293.
+_cell_length_a 6.176(7)
+_cell_length_b 10.596(15)
+_cell_length_c 17.466(17)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1142.99
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 2 2 21'
+_symmetry_Int_Tables_number 20
+_refine_ls_R_factor_all 0.0881
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 'x, -y, -z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3- -3
+Zn2+ 2
+K1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3- 8 c 0.0653(2) 0.16972(11) 0.39430(7) 0.0488(4) 1 0
+Zn1 Zn2+ 4 b 0. 0.1641(6) 0.25 0.0429(12) 1 0
+K1 K1+ 8 c 0.0583(13) -0.1622(7) 0.3950(5) 0.060(2) 1 0
+K2 K1+ 4 a 0.062(3) 0.5 0.5 0.065(3) 1 0
+K3 K1+ 4 b 0. 0.4917(15) 0.25 0.069(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3- 0.0521(6) 0.0595(7) 0.0347(6) 0.0049(6) -0.0015(6) -0.0012(7)
+Zn1 Zn2+ 0.044(3) 0.048(3) 0.037(3) 0. -0.0009(18) 0.
+K1 K1+ 0.049(4) 0.066(5) 0.066(5) 0.005(4) 0.019(5) 0.025(6)
+K2 K1+ 0.088(8) 0.063(7) 0.043(6) 0. 0. -0.008(6)
+K3 K1+ 0.068(7) 0.061(7) 0.077(8) 0. 0.034(6) 0.

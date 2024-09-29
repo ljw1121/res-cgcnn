@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_407159-ICSD
+_database_code_ICSD 407159
+_audit_creation_date 1999-06-02
+_chemical_name_systematic 'Sodium boride (3/20)'
+_chemical_formula_structural 'Na3 B20'
+_chemical_formula_sum 'B20 Na3'
+_exptl_crystal_density_diffrn 2.14
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Synthesis, characterization, and crystal structure of Na3 B20, determined and
+refined from x-ray and neutron powder data
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1999
+625 709 713 ZAACAB
+loop_
+_publ_author_name
+'Albert, B.'
+'Hofmann, K.'
+_cell_length_a 18.69449(60)
+_cell_length_b 5.7009(2)
+_cell_length_c 4.1506(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 442.35
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C m m m'
+_symmetry_Int_Tables_number 65
+_refine_ls_R_factor_all 0.0666
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'x+1/2, -y+1/2, z'
+10 '-x+1/2, y+1/2, z'
+11 'x+1/2, y+1/2, -z'
+12 '-x+1/2, -y+1/2, -z'
+13 '-x+1/2, y+1/2, -z'
+14 'x+1/2, -y+1/2, -z'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na0+ 0
+B0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na0+ 2 a 0 0 0 3.49(19) 1. 0
+Na2 Na0+ 4 g -.13654(17) 0.5 0 2.83(13) 1. 0
+B1 B0+ 8 o -.17335(39) 0 0.2079(11) 0.49(7) 1. 0
+B2 B0+ 4 l 0 0.5 0.2028(20) 0.49(7) 1. 0
+B3 B0+ 8 q -.04720(32) 0.3436(9) 0.5 0.49(7) 1. 0
+B4 B0+ 8 q -.11518(33) 0.1507(9) 0.5 0.49(7) 1. 0
+B5 B0+ 8 q -.20185(29) 0.2245(11) 0.5 0.49(7) 1. 0
+B6 B0+ 4 h -.25569(45) 0 0.5 0.49(7) 1. 0
+#End of TTdata_407159-ICSD

@@ -1,0 +1,79 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_626114-ICSD
+_database_code_ICSD 626114
+_audit_creation_date 2012-02-01
+_chemical_name_systematic 'Chromium titanium germanide (2/4/5)'
+_chemical_formula_structural 'Cr2 Ti4 Ge5'
+_chemical_formula_sum 'Cr2 Ge5 Ti4'
+_chemical_name_structure_type V6Si5
+_exptl_crystal_density_diffrn 6.48
+_publ_section_title
+'Etude structurale des deux nouveaux composes V6 Si5 et Ti6 Ge5'
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Annales de Chimie (Paris) (Vol=Year)' 1971 6 321 330 ANCPAC
+loop_
+_publ_author_name
+'Hallais, J.'
+_cell_length_a 16.694
+_cell_length_b 7.868
+_cell_length_c 5.143
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 675.52
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I b a m'
+_symmetry_Int_Tables_number 72
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, z+1/2'
+2 'x, -y, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'x, -y, -z+1/2'
+6 '-x, y, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, z'
+10 'x+1/2, -y+1/2, z'
+11 'x+1/2, y+1/2, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z'
+14 '-x+1/2, y+1/2, -z'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti0+ 0
+Cr0+ 0
+Ge0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti0+ 8 j 0.141 0.115 0 . 1. 0
+Ti2 Ti0+ 8 j 0.438 0.242 0 . 1. 0
+Cr1 Cr0+ 8 f 0.309 0 0.25 . 1. 0
+Ge1 Ge0+ 8 j 0.289 0.299 0 . 1. 0
+Ge2 Ge0+ 8 j 0.068 0.404 0 . 1. 0
+Ge3 Ge0+ 4 a 0 0 0.25 . 1. 0
+#End of TTdata_626114-ICSD

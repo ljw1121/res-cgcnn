@@ -1,0 +1,63 @@
+
+data_165608-ICSD
+_database_code_ICSD 165608
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Copper(I) aluminium boride - alpha'
+_chemical_formula_structural 'Cu Al Br4'
+_chemical_formula_sum 'Al1 Br4 Cu1'
+_exptl_crystal_density_diffrn 3.91
+_cell_measurement_temperature 293.
+_cell_length_a 5.73210(20)
+_cell_length_b 5.73210(20)
+_cell_length_c 10.6046(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 348.44
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -4 2 c'
+_symmetry_Int_Tables_number 112
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, z+1/2'
+2 '-y, -x, z+1/2'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, -z+1/2'
+6 '-x, y, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu1+ 1
+Al3+ 3
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu1+ 2 f .5 .5 .5 .0350(7) 1. 0
+Al1 Al3+ 2 b .5 . .25 .0183(19) 1. 0
+Br1 Br1- 8 n .74091(11) .22883(12) .37257(5) .0260(4) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu1+ .0335(8) .0335 .0379(10) . . .
+Al1 Al3+ .0180(21) .0205(21) .0163(16) . . .
+Br1 Br1- .0203(4) .0281(5) .0295(4) .00064(24) -.00328(24) -.0110(3)

@@ -1,0 +1,93 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_410813-ICSD
+_database_code_ICSD 410813
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Trirhodium tetrasulfide'
+_chemical_formula_structural 'Rh3 S4'
+_chemical_formula_sum 'Rh3 S4'
+_exptl_crystal_density_diffrn 6.62
+_publ_section_title
+
+;
+Ein 'altes' Rhodiumsulfid mit ueberraschender Struktur: Synthese,
+Kristallstruktur und elektronische Eigenschaften von Rh3S4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2000
+626 72 79 ZAACAB
+loop_
+_publ_author_name
+'Beck, J.'
+'Hilbert, T.'
+_cell_length_a 10.286(16)
+_cell_length_b 10.669(10)
+_cell_length_c 6.212(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.700(11)
+_cell_angle_gamma 90.
+_cell_volume 649.44
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0475
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rh3+ 3
+S2- -2.25
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rh1 Rh3+ 8 j 0.36278(7) 0.14491(7) 0.45010(11) . 1. 0
+Rh2 Rh3+ 4 i 0.35085(10) 0 0.0546(2) . 1. 0
+Rh3 Rh3+ 2 c 0 0 0.5 . 1. 0
+Rh4 Rh3+ 4 g 0 0.15961(10) 0 . 1. 0
+S1 S2- 4 i 0.4165(3) 0 0.7291(5) . 1. 0
+S2 S2- 8 j 0.1262(2) 0.1582(2) 0.3854(3) . 1. 0
+S3 S2- 4 i 0.1182(3) 0 0.8883(5) . 1. 0
+S4 S2- 8 j 0.3493(2) 0.2111(2) 0.0990(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rh1 Rh3+ 0.0112(4) 0.0087(4) 0.0089(4) -.0004(2) 0.0021(2) 0.0003(2)
+Rh2 Rh3+ 0.0105(5) 0.0072(5) 0.0090(5) 0 0.0019(3) 0
+Rh3 Rh3+ 0.0100(6) 0.0084(7) 0.0090(7) 0 0.0028(5) 0
+Rh4 Rh3+ 0.0096(4) 0.0070(5) 0.0087(5) 0 0.0020(3) 0
+S1 S2- 0.0112(14) 0.0099(15) 0.0087(14) 0 0.0012(11) 0
+S2 S2- 0.0122(9) 0.0107(11) 0.0069(9) 0.0001(8) 0.0023(7) 0.0014(7)
+S3 S2- 0.0099(13) 0.0089(15) 0.0091(13) 0 0.0026(10) 0
+S4 S2- 0.0116(10) 0.0082(11) 0.0108(9) 0.0014(8) 0.0037(7) 0.0013(8)
+#End of TTdata_410813-ICSD

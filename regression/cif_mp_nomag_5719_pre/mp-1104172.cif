@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Er3Ga8Ag3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.38193307
+_cell_length_b   8.28215332
+_cell_length_c   8.28215332
+_cell_angle_alpha   70.36109526
+_cell_angle_beta   74.66033778
+_cell_angle_gamma   74.66033778
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er3Ga8Ag3
+_chemical_formula_sum   'Er3 Ga8 Ag3'
+_cell_volume   267.85222215
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.50000000  0.50000000  0.50000000  1
+  Er  Er1  1  0.20466102  0.79533898  0.79533898  1
+  Er  Er2  1  0.79533898  0.20466102  0.20466102  1
+  Ga  Ga3  1  0.35819224  0.36105334  0.92256218  1
+  Ga  Ga4  1  0.64180776  0.63894666  0.07743782  1
+  Ga  Ga5  1  0.35819224  0.92256218  0.36105334  1
+  Ga  Ga6  1  0.64180776  0.07743782  0.63894666  1
+  Ga  Ga7  1  0.15733763  0.47363102  0.21169372  1
+  Ga  Ga8  1  0.84266237  0.52636898  0.78830628  1
+  Ga  Ga9  1  0.15733763  0.21169372  0.47363102  1
+  Ga  Ga10  1  0.84266237  0.78830628  0.52636898  1
+  Ag  Ag11  1  0.50000000  0.00000000  0.00000000  1
+  Ag  Ag12  1  -0.00000000  0.81274148  0.18725852  1
+  Ag  Ag13  1  -0.00000000  0.18725852  0.81274148  1

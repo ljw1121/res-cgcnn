@@ -1,0 +1,74 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_103555-ICSD
+_database_code_ICSD 103555
+_audit_creation_date 2004-10-01
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Iron nickel (1/1)'
+_chemical_formula_structural 'Fe Ni'
+_chemical_formula_sum 'Fe1 Ni1'
+_chemical_name_structure_type AuCu
+_chemical_name_mineral Tetrataenite
+_exptl_crystal_density_diffrn 8.28
+_publ_section_title 'Tetrataenite-ordered Fe Ni, a new mineral in meteorites'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1980 65 624 630 AMMIAY
+loop_
+_publ_author_name
+'Clarke, Roy S.'
+'Scott, Edward R.D.'
+_cell_length_a 2.533(2)
+_cell_length_b 2.533
+_cell_length_c 3.582(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 22.98
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 4/m m m'
+_symmetry_Int_Tables_number 123
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z'
+2 '-y, -x, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z'
+10 'y, x, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 'x, -y, z'
+14 '-x, y, z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe0+ 0
+Ni0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe0+ 1 a 0 0 0 . 1. 0
+Ni1 Ni0+ 1 d 0.5 0.5 0.5 . 1. 0
+#End of TTdata_103555-ICSD

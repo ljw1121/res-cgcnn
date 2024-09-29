@@ -1,0 +1,90 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35182-ICSD
+_database_code_ICSD 35182
+_audit_creation_date 1982-12-31
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Dilithium plumbate'
+_chemical_formula_structural 'Li2 (Pb O3)'
+_chemical_formula_sum 'Li2 O3 Pb1'
+_chemical_name_structure_type Li2PbO3
+_exptl_crystal_density_diffrn 6.94
+_publ_section_title
+'Ueber Oxoplumbate(IV). Die Kristallstruktur von TT-Li2 Pb O3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische
+Chemie (33,1978-41,1986)
+; 1982 37 1369 1374 ZNBAD2
+loop_
+_publ_author_name
+'Brazel, B.'
+'Hoppe, R.'
+_cell_length_a 5.4452(7)
+_cell_length_b 9.2612(7)
+_cell_length_c 5.4756(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.216(13)
+_cell_angle_gamma 90.
+_cell_volume 257.41
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0486
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb4+ 4
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb4+ 4 e 0 0.0897(1) 0.25 . 1. 0
+Li1 Li1+ 4 e 0 0.4268(32) 0.25 . 1. 0
+Li2 Li1+ 4 e 0 0.7618(52) 0.25 . 1. 0
+O1 O2- 8 f 0.2381(21) 0.0793(9) 0.0135(21) . 1. 0
+O2 O2- 4 d 0.25 0.25 0.5 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb4+ 0.0062(3) 0.0054(3) 0.0046(3) 0 0.0018(2) 0
+Li1 Li1+ 0.0101(62) 0.0082(61) 0.0177(64) 0 -.0098(61) 0
+Li2 Li1+ 0.0392(66) 0.0549(68) 0.0427(67) 0 0.0239(64) 0
+O1 O2- 0.0133(34) 0.0114(35) 0.0102(33) -.0005(24) 0.0044(29) 0.0005(24)
+O2 O2- 0.0167(45) 0.0140(45) 0.0149(44) 0.0020(38) 0.0041(39) -.0013(39)
+#End of TTdata_35182-ICSD

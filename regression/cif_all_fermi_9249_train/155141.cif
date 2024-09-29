@@ -1,0 +1,71 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_155141-ICSD
+_database_code_ICSD 155141
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Barium molybdate - HP'
+_chemical_formula_structural 'Ba (Mo O4)'
+_chemical_formula_sum 'Ba1 Mo1 O4'
+_chemical_name_structure_type YNbO4(mS24)
+_exptl_crystal_density_diffrn 5.58
+_cell_measurement_pressure 7200000.
+_publ_section_title
+'Raman and X-ray diffraction investigations on Ba Mo O4 under high pressures'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics: Condensed Matter' 2006 18 3917 3929 JCOMEL
+loop_
+_publ_author_name
+'Panchal, V.'
+'Garg, N.'
+'Sharma, S.M.'
+_cell_length_a 5.425(1)
+_cell_length_b 12.397(3)
+_cell_length_c 5.260(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 89.530(1)
+_cell_angle_gamma 90.
+_cell_volume 353.74
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 1 2/a 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.066
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y, -z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 '-x, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 e 0.25 0.6242(4) 0 . 1. 0
+Mo1 Mo6+ 4 e 0.25 0.1280(8) 0 . 1. 0
+O1 O2- 8 f 0.8584(2) 0.9451(6) 0.2490(2) . 1. 0
+O2 O2- 8 f 0.4973(1) 0.1998(1) 0.8836(1) . 1. 0
+#End of TTdata_155141-ICSD

@@ -1,0 +1,61 @@
+
+data_184255-ICSD
+_database_code_ICSD 184255
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Cobalt germanium (5/7)'
+_chemical_formula_structural 'Co5 Ge7'
+_chemical_formula_sum 'Co5 Ge7'
+_chemical_name_structure_type Co5Ge7
+_exptl_crystal_density_diffrn 7.91
+_cell_measurement_temperature 293.
+_cell_length_a 7.6263(8)
+_cell_length_b 7.6263(8)
+_cell_length_c 5.7986(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 337.25
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 4 m m'
+_symmetry_Int_Tables_number 107
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, z'
+2 'y, -x, z'
+3 '-y, -x, z'
+4 'y, x, z'
+5 'x, -y, z'
+6 '-x, y, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, x+1/2, z+1/2'
+10 'y+1/2, -x+1/2, z+1/2'
+11 '-y+1/2, -x+1/2, z+1/2'
+12 'y+1/2, x+1/2, z+1/2'
+13 'x+1/2, -y+1/2, z+1/2'
+14 '-x+1/2, y+1/2, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co0+ 0
+Ge0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co0+ 2 a 0 0 0.5 . 1. 0
+Co2 Co0+ 8 c 0.72 0.72 0 . 1. 0
+Ge1 Ge0+ 2 a 0 0 0.94 . 1. 0
+Ge2 Ge0+ 4 b 0 0.5 0.96 . 1. 0
+Ge3 Ge0+ 8 d 0.243 0 0.21 . 1. 0

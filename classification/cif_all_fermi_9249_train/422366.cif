@@ -1,0 +1,97 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_422366-ICSD
+_database_code_ICSD 422366
+_audit_creation_date 2011-08-01
+_chemical_name_systematic
+catena-(ruthenium(II)-mue-3:3-cyclo-octatellurium)-dichloride
+_chemical_formula_structural '(Ru (Te8)) Cl2'
+_chemical_formula_sum 'Cl2 Ru1 Te8'
+_exptl_crystal_density_diffrn 6.19
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Neutral tellurium rings in the coordination polymers [Ru (Te9)] (In Cl4)2, [Ru
+(Te8)] Cl2, and [Rh (Te6)] Cl3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry - A European Journal' 2011 17 6382 6388 CEUJED
+loop_
+_publ_author_name
+'Guenther, A.'
+'Isaeva, A.'
+'Baranov, A.I.'
+'Ruck, M.'
+_cell_length_a 9.217(1)
+_cell_length_b 14.409(1)
+_cell_length_c 10.499(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 113.341(8)
+_cell_angle_gamma 90.
+_cell_volume 1280.24
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0233
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ru2+ 2
+Te0+ 0
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ru1 Ru2+ 4 a 0. 0. 0. 0.01334(11) 1 0
+Te1 Te0+ 8 f 0.06217(4) -0.15419(2) 0.14766(3) 0.01576(9) 1 0
+Te2 Te0+ 8 f 0.13203(4) 0.11325(2) 0.21202(3) 0.01735(9) 1 0
+Te3 Te0+ 8 f 0.27163(4) 0.01943(2) 0.47086(3) 0.01684(8) 1 0
+Te4 Te0+ 8 f 0.34990(4) -0.14173(3) 0.36764(4) 0.02678(10) 1 0
+Cl1 Cl1- 4 e 0.5 0.09234(19) 0.25 0.0460(6) 1 0
+Cl2 Cl1- 4 d 0.25 0.25 0.5 0.0316(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ru1 Ru2+ 0.0151(2) 0.0140(2) 0.0118(2) 0.00000(17) 0.00623(18) 0.00016(19)
+Te1 Te0+ 0.01845(15) 0.01562(15) 0.01415(15) 0.00005(10) 0.00746(11) 0.00016(11)
+Te2 Te0+ 0.02251(16) 0.01571(15) 0.01412(15) -0.00297(11) 0.00758(12)
+-0.00086(12)
+Te3 Te0+ 0.01526(14) 0.01866(16) 0.01641(15) -0.00131(10) 0.00605(11)
+-0.00139(12)
+Te4 Te0+ 0.01876(16) 0.02523(18) 0.0300(2) 0.00533(12) 0.00287(13) -0.00585(15)
+Cl1 Cl1- 0.0715(17) 0.0365(12) 0.0349(12) 0. 0.0262(12) 0.
+Cl2 Cl1- 0.0470(11) 0.0252(9) 0.0337(10) -0.0074(8) 0.0280(9) -0.0070(8)
+#End of TTdata_422366-ICSD

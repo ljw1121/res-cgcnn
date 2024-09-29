@@ -1,0 +1,49 @@
+
+data_190588-ICSD
+_database_code_ICSD 190588
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Disilver zinc tetraiodide'
+_chemical_formula_structural 'Ag2 Zn I4'
+_chemical_formula_sum 'Ag2 I4 Zn1'
+_exptl_crystal_density_diffrn 5.4
+_cell_measurement_temperature 295.
+_cell_length_a 8.799(1)
+_cell_length_b 7.6220(9)
+_cell_length_c 7.2362(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 485.3
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m n 21'
+_symmetry_Int_Tables_number 31
+_refine_ls_R_factor_all 0.0162
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ag1+ 1
+Zn2+ 2
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ag1 Ag1+ 4 b 0.2499(7) 0.1668(11) 0.1268(11) 0.047(3) 1. 0
+Zn1 Zn2+ 2 a 0 0.6877(8) 0.1185(15) 0.018(1) 1. 0
+I1 I1- 2 a 0 0.3427(12) 0.9921(13) 0.039(5) 1. 0
+I2 I1- 2 a 0 0.6682(13) 0.5034(13) 0.019(5) 1. 0
+I3 I1- 4 b 0.2535(6) 0.8308(9) 0 0.042(5) 1. 0

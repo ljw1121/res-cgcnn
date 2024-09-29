@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253638-ICSD
+_database_code_ICSD 253638
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Copper bismuth selenide (1/1/2)'
+_chemical_formula_structural 'Cu Bi Se2'
+_chemical_formula_sum 'Bi1 Cu1 Se2'
+_chemical_name_structure_type CuBiS2
+_chemical_name_mineral Grundmannite
+_exptl_crystal_density_diffrn 6.58
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Grundmannite, CuBiSe2, the Se-analogue of emplectite, a new mineral from the
+El Dragon mine, Potosi, Bolivia
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Mineralogy' 2016 28 467 477 EJMIER
+loop_
+_publ_author_name
+'Foerster, Hans-Juergen'
+'Bindi, Luca'
+'Stanley, Chris J.'
+_cell_length_a 6.6362(5)
+_cell_length_b 4.2581(3)
+_cell_length_c 15.3691(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 434.29
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0247
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu1+ 1
+Bi3+ 3
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu1+ 4 c 0.22875(10) 0.25 0.82957(5) 0.02068(13) 1 0
+Bi1 Bi3+ 4 c 0.23364(3) 0.25 0.069531(15) 0.02469(8) 1 0
+Se1 Se2- 4 c 0.64523(9) 0.25 0.10055(4) 0.03118(12) 1 0
+Se2 Se2- 4 c 0.85020(10) 0.25 0.82089(5) 0.03310(13) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu1+ 0.0216(2) 0.0217(3) 0.0188(3) 0. -0.0003(2) 0.
+Bi1 Bi3+ 0.02550(11) 0.02555(11) 0.02303(11) 0. 0.00010(6) 0.
+Se1 Se2- 0.0319(2) 0.0322(2) 0.0294(3) 0. -0.0001(2) 0.
+Se2 Se2- 0.0335(3) 0.0345(3) 0.0314(3) 0. -0.0001(2) 0.
+#End of TTdata_253638-ICSD

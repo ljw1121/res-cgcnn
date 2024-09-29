@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_423989-ICSD
+_database_code_ICSD 423989
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Dipotassium trioxosulfidomolybdate'
+_chemical_formula_structural 'K2 Mo O3 S'
+_chemical_formula_sum 'K2 Mo1 O3 S1'
+_chemical_name_structure_type K2MoO4
+_exptl_crystal_density_diffrn 2.96
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Gemischte Alkalimetall-Thiooxomolybdate A2 [Mo O(x) S(4-x)] (x = 1, 2, 3; A =
+K, Rb, Cs, NH4). Synthesen, Kristallstrukturen und Eigenschaften
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 2012 67 127 148
+ZNBSEN
+loop_
+_publ_author_name
+'Lehner, A.J.'
+'Kraut, K.'
+'Roehr, C.'
+_cell_length_a 12.887(3)
+_cell_length_b 6.1570(17)
+_cell_length_c 7.6222(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.590(14)
+_cell_angle_gamma 90.
+_cell_volume 569.78
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0736
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Mo6+ 6
+S2- -2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 i 0.4915(3) 0. 0.2067(5) 0.0445(8) 1 0
+K2 K1+ 4 i 0.1722(3) 0. 0.7314(5) 0.0454(8) 1 0
+Mo1 Mo6+ 4 i 0.15061(9) 0. 0.20951(15) 0.0352(5) 1 0
+S1 S2- 4 i 0.3193(3) 0. 0.4182(5) 0.0436(9) 1 0
+O1 O2- 4 i 0.0516(9) 0. 0.3206(15) 0.049(3) 1 0
+O2 O2- 8 j 0.1350(6) 0.2330(15) 0.0704(10) 0.0490(18) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0433(16) 0.0513(18) 0.0388(15) 0. 0.0135(12) 0.
+K2 K1+ 0.0425(16) 0.0471(18) 0.0486(17) 0. 0.0180(13) 0.
+Mo1 Mo6+ 0.0339(7) 0.0383(7) 0.0334(7) 0. 0.0115(5) 0.
+S1 S2- 0.0371(17) 0.053(2) 0.0401(17) 0. 0.0118(13) 0.
+O1 O2- 0.035(5) 0.071(8) 0.044(5) 0. 0.020(4) 0.
+O2 O2- 0.048(4) 0.051(4) 0.044(4) 0.001(4) 0.010(3) 0.005(4)
+#End of TTdata_423989-ICSD

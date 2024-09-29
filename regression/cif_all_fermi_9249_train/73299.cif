@@ -1,0 +1,105 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73299-ICSD
+_database_code_ICSD 73299
+_audit_creation_date 1994-06-30
+_audit_update_record 2014-02-01
+_chemical_name_systematic 'Cesium bromate(VII)'
+_chemical_formula_structural 'Cs (Br O4)'
+_chemical_formula_sum 'Br1 Cs1 O4'
+_chemical_name_structure_type CsReO4
+_exptl_crystal_density_diffrn 3.75
+_publ_section_title 'On the space group of cesium perbromate, Cs Br O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 1993 48 235 236
+ZNBSEN
+loop_
+_publ_author_name
+'Roegner, P.'
+'Schiessl, U.'
+'Range, K.J.'
+_cell_length_a 5.751(4)
+_cell_length_b 5.751(4)
+_cell_length_c 14.821(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 490.19
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 41/a m d S'
+_symmetry_Int_Tables_number 141
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, -x+1/2, z+1/4'
+2 '-y, x+1/2, z+1/4'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 '-y, -x+1/2, z+1/4'
+6 'y, x+1/2, z+1/4'
+7 '-y, -x, -z'
+8 'y, x, -z'
+9 'x, -y+1/2, -z+1/4'
+10 '-x, y+1/2, -z+1/4'
+11 'x, -y, z'
+12 '-x, y, z'
+13 '-x, -y+1/2, -z+1/4'
+14 'x, y+1/2, -z+1/4'
+15 '-x, -y, z'
+16 'x, y, z'
+17 'y+1/2, -x, z+3/4'
+18 '-y+1/2, x, z+3/4'
+19 'y+1/2, -x+1/2, -z+1/2'
+20 '-y+1/2, x+1/2, -z+1/2'
+21 '-y+1/2, -x, z+3/4'
+22 'y+1/2, x, z+3/4'
+23 '-y+1/2, -x+1/2, -z+1/2'
+24 'y+1/2, x+1/2, -z+1/2'
+25 'x+1/2, -y, -z+3/4'
+26 '-x+1/2, y, -z+3/4'
+27 'x+1/2, -y+1/2, z+1/2'
+28 '-x+1/2, y+1/2, z+1/2'
+29 '-x+1/2, -y, -z+3/4'
+30 'x+1/2, y, -z+3/4'
+31 '-x+1/2, -y+1/2, z+1/2'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Br7+ 7
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 a 0 0 0 . 1. 0
+Br1 Br7+ 4 b 0 0 0.5 . 1. 0
+O1 O2- 16 h 0 0.2304 0.4391 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.03 0.03 0.029 0 0 0
+Br1 Br7+ 0.029 0.029 0.028 0 0 0
+O1 O2- 0.048 0.054 0.085 0 0 0.046
+#End of TTdata_73299-ICSD

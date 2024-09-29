@@ -1,0 +1,71 @@
+
+data_155043-ICSD
+_database_code_ICSD 155043
+_audit_creation_date 2007-04-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Silver lead oxide (5/2/6)'
+_chemical_formula_structural 'Ag5 (Pb2 O6)'
+_chemical_formula_sum 'Ag5 O6 Pb2'
+_chemical_name_structure_type Ag5Pb2O6
+_exptl_crystal_density_diffrn 8.92
+_publ_section_title 'Synthesis and physical properties of Ag5 Pb2 O6 compound'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Crystallography Reports' 2005 50 S136 S140 CYSTE3
+loop_
+_publ_author_name
+'Akimov, A.I.'
+'Savchuk, G.K.'
+_cell_length_a 5.933
+_cell_length_b 5.933
+_cell_length_c 6.4106
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 195.42
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 1 m'
+_symmetry_Int_Tables_number 162
+_refine_ls_R_factor_all 0.055
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, -z'
+2 'x, x-y, -z'
+3 '-y, -x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, -y, z'
+8 '-x, -x+y, z'
+9 'y, x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ag1+ 1
+Pb3+ 3.5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ag1 Ag1+ 2 e 0 0 0.242 . 1. 0
+Ag2 Ag1+ 3 f 0.5 0 0 . 1. 0
+Pb1 Pb3+ 2 d 0.6667 0.3333 0.5 . 1. 0
+O1 O2- 6 k 0.6224 0 0.689 . 1. 0

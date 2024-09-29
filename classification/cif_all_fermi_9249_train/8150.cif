@@ -1,0 +1,88 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_8150-ICSD
+_database_code_ICSD 8150
+_audit_creation_date 1980-01-01
+_audit_update_record 2004-10-01
+_chemical_name_systematic 'Yttrium titanium(III) oxide'
+_chemical_formula_structural 'Y Ti O3'
+_chemical_formula_sum 'O3 Ti1 Y1'
+_chemical_name_structure_type Perovskite-GdFeO3
+_exptl_crystal_density_diffrn 5.34
+_publ_section_title
+
+;
+Crystal structures and crystal chemistry of the Re Ti O3 perovskites. RE = La,
+ND, Sm, Gd, Y
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1979 30 35 44 JSSCBI
+loop_
+_publ_author_name
+'MacLean, D.A.'
+'Ng, H.N.'
+'Greedan, J.E.'
+_cell_length_a 5.316(2)
+_cell_length_b 5.679(2)
+_cell_length_c 7.611(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 229.77
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b n m'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, z'
+2 'x, y, -z+1/2'
+3 'x+1/2, -y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Ti3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 c 0.97925(14) 0.07294(12) 0.25 . 1. 0
+Ti1 Ti3+ 4 b 0 0.5 0 . 1. 0
+O1 O2- 4 c 0.1213(10) 0.4580(9) 0.25 . 1. 0
+O2 O2- 8 d 0.6909(6) 0.3095(7) 0.0579(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Y1 Y3+ 0.0063(4) 0.0037(4) 0.0064(4) -.0006(3) 0 0
+Ti1 Ti3+ 0.0058(6) 0.0037(6) 0.0030(6) 0.0001(5) -.0010(6) -.0001(3)
+O1 O2- 0.0065(24) 0.0043(26) 0.0080(26) 0.0012(21) 0 0
+O2 O2- 0.0071(18) 0.0054(19) 0.0078(18) -.0022(14) -.0008(14) -.0008(15)
+#End of TTdata_8150-ICSD

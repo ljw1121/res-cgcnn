@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaAlCu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98079516
+_cell_length_b   4.98076915
+_cell_length_c   8.09193668
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   61.14926876
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaAlCu
+_chemical_formula_sum   'Ta4 Al4 Cu4'
+_cell_volume   175.82963336
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.33478287  0.33478105  0.56184819  1
+  Ta  Ta1  1  0.66311455  0.66311392  0.43372354  1
+  Ta  Ta2  1  0.66311455  0.66311392  0.06627646  1
+  Ta  Ta3  1  0.33478287  0.33478105  0.93815181  1
+  Al  Al4  1  0.99481440  0.99481494  0.48702448  1
+  Al  Al5  1  0.99481440  0.99481494  0.01297552  1
+  Al  Al6  1  0.83322240  0.34956407  0.75000000  1
+  Al  Al7  1  0.34956656  0.83321846  0.75000000  1
+  Cu  Cu8  1  0.83654408  0.83654029  0.75000000  1
+  Cu  Cu9  1  0.17263185  0.65129327  0.25000000  1
+  Cu  Cu10  1  0.65129161  0.17263583  0.25000000  1
+  Cu  Cu11  1  0.17131984  0.17132824  0.25000000  1

@@ -1,0 +1,92 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_36364-ICSD
+_database_code_ICSD 36364
+_audit_creation_date 1985-10-02
+_audit_update_record 2015-02-01
+_chemical_name_systematic
+'Pentacalcium catena-mue-perbismuthido-bis(dibismuthidoaluminium'
+_chemical_formula_structural 'Ca5 Al2 Bi6'
+_chemical_formula_sum 'Al2 Bi6 Ca5'
+_chemical_name_structure_type Al2Ca5Bi6
+_exptl_crystal_density_diffrn 6.25
+_publ_section_title
+'Ca3 Al Sb3 und Ca5 Al2 Bi6 zwei neue Zintlphasen mit kettenfoermigen Anionen'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische
+Chemie (33,1978-41,1986)
+; 1984 39 727 732 ZNBAD2
+loop_
+_publ_author_name
+'Cordier, D.'
+'Schaefer, H.'
+'Stelter, M.'
+_cell_length_a 23.333(8)
+_cell_length_b 7.582(3)
+_cell_length_c 4.529(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 801.23
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+_refine_ls_R_factor_all 0.083
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi0+ 0
+Ca0+ 0
+Al0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi0+ 4 h 0.4965(1) 0.2904(2) 0.5 . 1. 0
+Bi2 Bi0+ 4 h 0.3121(1) 0.4844(2) 0.5 . 1. 0
+Bi3 Bi0+ 4 g 0.8634(1) 0.5342(2) 0 . 1. 0
+Ca1 Ca0+ 2 c 0 0.5 0 0.059(20) 1. 0
+Ca2 Ca0+ 4 g 0.7463(4) 0.7726(11) 0 0.068(14) 1. 0
+Ca3 Ca0+ 4 g 0.0875(4) 0.0416(12) 0 0.104(16) 1. 0
+Al1 Al0+ 4 h 0.8791(6) 0.3217(19) 0.5 0.0115(26) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi0+ 0.063(6) 0.086(7) 0.087(6) 0 0 -.023(5)
+Bi2 Bi0+ 0.057(6) 0.0456 0.041(6) 0 0 0
+Bi3 Bi0+ 0.012(6) 0.021(6) 0.096(7) 0 0 0
+#End of TTdata_36364-ICSD

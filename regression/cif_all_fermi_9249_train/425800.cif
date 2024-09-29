@@ -1,0 +1,110 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_425800-ICSD
+_database_code_ICSD 425800
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Yttrium zinc germanide (4/5/6)'
+_chemical_formula_structural 'Y4 Zn5 Ge6'
+_chemical_formula_sum 'Ge6 Y4 Zn5'
+_chemical_name_structure_type Tm4Zn5Ge6
+_exptl_crystal_density_diffrn 6.2
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Rare earth-zinc-germanides RE4 Zn5 Ge6 (RE = Y, Dy, Ho, Er) and RE5 Zn4-x Ge6
+(RE = Er, Tm, Lu)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Intermetallics 2013 38 36 43 IERME5
+loop_
+_publ_author_name
+'Reker, Bastian'
+'Johrendt, Dirk'
+'Poettgen, Rainer'
+_cell_length_a 4.2284(4)
+_cell_length_b 18.5630(10)
+_cell_length_c 15.271(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1198.65
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+_refine_ls_R_factor_all 0.0187
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y0+ 0
+Zn0+ 0
+Ge0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y0+ 4 a 0 0.01767(4) 0.26244 0.0073(2) 1 0
+Y2 Y0+ 4 a 0 0.17556(5) 0.81806(8) 0.0070(2) 1 0
+Y3 Y0+ 4 a 0 0.16790(5) 0.45883(8) 0.0069(2) 1 0
+Y4 Y0+ 4 a 0 0.03228(4) 0.00000(7) 0.00605(19) 1 0
+Zn1 Zn0+ 4 a 0 0.34427(6) 0.49010(11) 0.0100(3) 1 0
+Zn2 Zn0+ 4 a 0 0.30018(4) 0.13858(11) 0.0127(2) 1 0
+Zn3 Zn0+ 4 a 0 0.65026(6) 0.28163(10) 0.0103(3) 1 0
+Zn4 Zn0+ 4 a 0 0.15204(4) 0.13595(11) 0.0111(2) 1 0
+Zn5 Zn0+ 4 a 0 0.43451(5) 0.07947(8) 0.0115(3) 1 0
+Ge1 Ge0+ 4 a 0 0.22771(5) -0.00243(10) 0.0071(2) 1 0
+Ge2 Ge0+ 4 a 0 0.43135(5) 0.35674(10) 0.0070(2) 1 0
+Ge3 Ge0+ 4 a 0 0.22253(5) 0.27651(9) 0.0072(3) 1 0
+Ge4 Ge0+ 4 a 0 0.55948(5) 0.40850(9) 0.0066(2) 1 0
+Ge5 Ge0+ 4 a 0 0.56708(4) 0.13355(10) 0.00739(17) 1 0
+Ge6 Ge0+ 4 a 0 0.11272(4) 0.64483(8) 0.0079(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y0+ 0.0066(4) 0.0083(3) 0.0071(4) 0 0 0.0013(3)
+Y2 Y0+ 0.0075(5) 0.0065(3) 0.0071(3) 0 0 0.0003(3)
+Y3 Y0+ 0.0065(4) 0.0073(3) 0.0069(3) 0 0 -0.0002(3)
+Y4 Y0+ 0.0048(4) 0.0077(3) 0.0057(3) 0 0 -0.0004(3)
+Zn1 Zn0+ 0.0072(6) 0.0080(4) 0.0147(5) 0 0 0.0007(4)
+Zn2 Zn0+ 0.0194(4) 0.0094(3) 0.0093(3) 0 0 0.0007(5)
+Zn3 Zn0+ 0.0079(6) 0.0091(4) 0.0139(5) 0 0 0.0015(4)
+Zn4 Zn0+ 0.0163(4) 0.0083(3) 0.0086(3) 0 0 0.0000(5)
+Zn5 Zn0+ 0.0075(5) 0.0115(4) 0.0156(4) 0 0 0.0041(3)
+Ge1 Ge0+ 0.0056(5) 0.0086(4) 0.0069(4) 0 0 0.0000(4)
+Ge2 Ge0+ 0.0060(5) 0.0061(3) 0.0089(4) 0 0 -0.0007(3)
+Ge3 Ge0+ 0.0057(5) 0.0084(4) 0.0074(4) 0 0 0.0003(3)
+Ge4 Ge0+ 0.0060(5) 0.0066(4) 0.0072(4) 0 0 -0.0001(3)
+Ge5 Ge0+ 0.0059(3) 0.0095(3) 0.0068(3) 0 0 -0.0012(4)
+Ge6 Ge0+ 0.0066(3) 0.0110(3) 0.0061(5) 0 0 0.0000(3)
+#End of TTdata_425800-ICSD

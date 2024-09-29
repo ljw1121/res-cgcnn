@@ -1,0 +1,57 @@
+
+data_85966-ICSD
+_database_code_ICSD 85966
+_audit_creation_date 1999-11-30
+_chemical_name_systematic 'Hafnium nickel antimonide (8/1/2)'
+_chemical_formula_structural 'Hf6 Ni Sb2'
+_chemical_formula_sum 'Hf6 Ni1 Sb2'
+_chemical_name_structure_type InMg2
+_exptl_crystal_density_diffrn 12.41
+_cell_measurement_temperature 295.
+_cell_length_a 7.656(1)
+_cell_length_b 7.656(1)
+_cell_length_c 3.6210(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 183.81
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -6 2 m'
+_symmetry_Int_Tables_number 189
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z'
+5 'x-y, -y, z'
+6 'y, x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hf0+ 0
+Ni0+ 0
+Sb0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hf1 Hf0+ 3 f 0.3995(2) 0 0 0.0070(3) 1. 0
+Hf2 Hf0+ 3 g 0.7582(1) 0 0.5 0.0056(3) 1. 0
+Ni1 Ni0+ 1 a 0 0 0 0.005(1) 1. 0
+Sb1 Sb0+ 2 d 0.3333 0.6667 0.5 0.0045(5) 1. 0

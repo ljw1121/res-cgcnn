@@ -1,0 +1,50 @@
+
+data_24651-ICSD
+_database_code_ICSD 24651
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Iron nitride (2/1) - epsilon'
+_chemical_formula_structural 'Fe2 N'
+_chemical_formula_sum 'Fe2 N1'
+_chemical_name_structure_type BiI3(P3-1m)
+_chemical_name_mineral Siderazot
+_exptl_crystal_density_diffrn 7.14
+_cell_length_a 4.787
+_cell_length_b 4.787
+_cell_length_c 4.42
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 87.72
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P 3 1 2'
+_symmetry_Int_Tables_number 149
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z'
+2 '-x+y, y, -z'
+3 '-y, -x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe0+ 0
+N0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe0+ 6 l 0 0.6667 0.25 . 1. 0
+N1 N0+ 1 e 0.6667 0.3333 0 . 1. 0
+N2 N0+ 1 d 0.3333 0.6667 0.5 . 1. 0
+N3 N0+ 1 a 0 0 0 . 1. 0

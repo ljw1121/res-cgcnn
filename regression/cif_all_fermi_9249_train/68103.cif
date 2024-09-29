@@ -1,0 +1,75 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68103-ICSD
+_database_code_ICSD 68103
+_audit_creation_date 1991-07-10
+_chemical_name_systematic 'Niobium palladium telluride (1/1/5)'
+_chemical_formula_structural 'Nb Pd Te5'
+_chemical_formula_sum 'Nb1 Pd1 Te5'
+_exptl_crystal_density_diffrn 7.48
+_publ_section_title
+
+;
+Synthesis, structure and conductivity of the new ternary chalcogenide Nb Pd
+Te5
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1988 77 141 147 JSSCBI
+loop_
+_publ_author_name
+'Liimatta, E.W.'
+'Ibers, J.A.'
+_cell_length_a 15.673(9)
+_cell_length_b 3.728(2)
+_cell_length_c 12.720(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 743.22
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.097
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te0+ 0
+Pd0+ 0
+Nb0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te0+ 4 c 0.179320(76) 0.25 0.1323(1) 0.46(2) 1. 0
+Te2 Te0+ 4 c 0.235850(74) 0.75 0.35541(10) 0.39(2) 1. 0
+Te3 Te0+ 4 c -.05760(7) 0.75 0.131360(98) 0.39(2) 1. 0
+Te4 Te0+ 4 c 0.008330(74) 0.25 0.34811(10) 0.40(2) 1. 0
+Te5 Te0+ 4 c 0.348230(79) 0.75 0.080940(97) 0.44(2) 1. 0
+Pd1 Pd0+ 4 c 0.091600(89) 0.75 0.23878(12) 0.42(13) 1. 0
+Nb1 Nb0+ 4 c 0.34193(10) 0.25 0.24856(13) 0.29(3) 1. 0
+#End of TTdata_68103-ICSD

@@ -1,0 +1,74 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_15006-ICSD
+_database_code_ICSD 15006
+_audit_creation_date 1980-01-01
+_audit_update_record 1987-04-16
+_chemical_name_systematic 'Mercury(I) selenate'
+_chemical_formula_structural 'Hg2 Se O4'
+_chemical_formula_sum 'Hg2 O4 Se1'
+_chemical_name_structure_type Hg2SO4
+_exptl_crystal_density_diffrn 7.3
+_publ_section_title 'The crystal structure of mercury(I) sulfate and selenate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica (1-27,1973-42,1988)' 1969 23 1607 1615 ACSAA4
+loop_
+_publ_author_name
+'Dorm, E.'
+_cell_length_a 6.3507(8)
+_cell_length_b 4.5870(7)
+_cell_length_c 8.499(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.98
+_cell_angle_gamma 90.
+_cell_volume 247.55
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2/c 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.106
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg1+ 1
+Se6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg1+ 4 g 0.1939(9) 0.0419(7) 0.0138(3) . 1. 0
+Se1 Se6+ 2 f 0.5 0.551(2) 0.75 1.8 1. 0
+O1 O2- 4 g 0.72(1) 0.38(1) 0.259(5) 3.1 1. 0
+O2 O2- 4 g 0.506(9) 0.769(8) 0.093(4) 1.9 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Hg1 Hg1+ 0.020(3) 0.048(2) 0.0109(4) -.00015(15) 0.00030(5) -.00030(5)
+#End of TTdata_15006-ICSD

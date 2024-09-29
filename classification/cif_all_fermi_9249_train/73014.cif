@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73014-ICSD
+_database_code_ICSD 73014
+_audit_creation_date 1994-06-30
+_chemical_name_systematic 'Titanium germanium telluride (1/1/6)'
+_chemical_formula_structural 'Ti Ge Te6'
+_chemical_formula_sum 'Ge1 Te6 Ti1'
+_exptl_crystal_density_diffrn 6.39
+_cell_measurement_temperature 113.
+_publ_section_title
+
+;
+The layered ternary germanium tellurides ZrGeTe4, HfGeTe4 and TiGeTe6:
+structure, bonding and physical properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 1993 115 3227 3238 JACSAT
+loop_
+_publ_author_name
+'Mar, A.'
+'Ibers, J.A.'
+_cell_length_a 13.972(26)
+_cell_length_b 3.909(9)
+_cell_length_c 17.454(32)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.95(5)
+_cell_angle_gamma 90.
+_cell_volume 921.01
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti0+ 0
+Ge0+ 0
+Te0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti0+ 4 i 0.73569(50) 0 0.25818(32) 1.1(2) 1. 0
+Ge1 Ge0+ 4 i 0.2807(3) 0 0.59393(20) 1.1(1) 1. 0
+Te1 Te0+ 4 i 0.08321(18) 0 0.25398(12) 0.99(7) 1. 0
+Te2 Te0+ 4 i 0.12288(20) 0 0.46440(13) 0.96(6) 1. 0
+Te3 Te0+ 4 i 0.15309(19) 0 0.01542(12) 1.17(7) 1. 0
+Te4 Te0+ 4 i 0.31975(19) 0 0.17835(13) 1.15(7) 1. 0
+Te5 Te0+ 4 i 0.37422(19) 0 0.34513(12) 1.11(7) 1. 0
+Te6 Te0+ 4 i 0.58733(19) 0 0.11361(13) 1.12(7) 1. 0
+#End of TTdata_73014-ICSD

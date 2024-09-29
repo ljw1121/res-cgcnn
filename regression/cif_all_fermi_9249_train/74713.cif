@@ -1,0 +1,76 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74713-ICSD
+_database_code_ICSD 74713
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Diammineplatinum tetrachloride'
+_chemical_formula_structural '(Pt (N H3)2) Cl4'
+_chemical_formula_sum 'H6 Cl4 N2 Pt1'
+_exptl_crystal_density_diffrn 3.54
+_publ_section_title
+
+;
+Crystal structure and normal coordinate analysis of
+tetrachlorodiamineplatinum(IV)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Wuji Huaxue Xuebao' 1993 9 187 193 WHUXEO
+loop_
+_publ_author_name
+'Shao, W.-P.'
+'Jiang, L.-J.'
+'Li, C.-D.'
+'Men, Z.-Y.'
+'Tang, W.-X.'
+_cell_length_a 6.097(3)
+_cell_length_b 10.188(7)
+_cell_length_c 11.264(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 95.97(4)
+_cell_angle_gamma 90.
+_cell_volume 695.88
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.068
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pt4+ 4
+Cl1- -1
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pt1 Pt4+ 4 e 0 0.5340(1) 0.75 0.014(1) 1. 0
+Cl1 Cl1- 8 f 0.3227(5) 0.5356(4) 0.8791(3) 0.026(1) 1. 0
+Cl2 Cl1- 8 f 0.8619(6) 0.6938(4) 0.8684(4) 0.026(1) 1. 0
+N1 N3- 8 f 0.8678(20) 0.3939(13) 0.8534(11) 0.021(3) 1. 0
+#End of TTdata_74713-ICSD

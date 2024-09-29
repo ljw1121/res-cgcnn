@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_245333-ICSD
+_database_code_ICSD 245333
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Diyttrium dioxide carbodiimide'
+_chemical_formula_structural 'Y2 O2 (C N2)'
+_chemical_formula_sum 'C1 N2 O2 Y2'
+_exptl_crystal_density_diffrn 4.29
+_publ_section_title
+'Synthese von Y2 O2 (C N2) und Leuchtstoffeigenschaften von Y2 O2 (C N2):Eu'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2007
+633 1686 1690 ZAACAB
+loop_
+_publ_author_name
+'Sindlinger, J.'
+'Glaser, J.'
+'Bettentrup, H.'
+'Juestel, T.'
+'Meyer, H.J.'
+_cell_length_a 3.7356(3)
+_cell_length_b 3.7356(3)
+_cell_length_c 16.021(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 193.62
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.0378
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+O2- -2
+C4+ 4
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 f 0.6667 0.3333 0.0885(1) 1.61(5) 1. 0
+O1 O2- 4 f 0.3333 0.6667 0.0680(7) 0.5(2) 1. 0
+C1 C4+ 2 b 0 0 0.25 1.7(6) 1. 0
+N1 N3- 4 e 0 0 0.843(1) 2.2(4) 1. 0
+#End of TTdata_245333-ICSD

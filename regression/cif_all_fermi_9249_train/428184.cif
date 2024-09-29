@@ -1,0 +1,63 @@
+
+data_428184-ICSD
+_database_code_ICSD 428184
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Aluminium thiophosphate'
+_chemical_formula_structural 'Al (P S4)'
+_chemical_formula_sum 'Al1 P1 S4'
+_exptl_crystal_density_diffrn 2.1
+_cell_measurement_temperature 298.
+_cell_length_a 5.6572(9)
+_cell_length_b 5.6572(9)
+_cell_length_c 9.2198(16)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 295.07
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -4 2 c'
+_symmetry_Int_Tables_number 112
+_refine_ls_R_factor_all 0.0249
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, z+1/2'
+2 '-y, -x, z+1/2'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, -z+1/2'
+6 '-x, y, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+S2- -2
+Al3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 2 b 0.5 0. 0.25 0.0258(2) 1 0
+S1 S2- 8 n 0.29574(9) 0.22789(10) 0.12770(6) 0.03522(17) 1 0
+Al1 Al3+ 2 c 0.5 0.5 0.25 0.0280(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P5+ 0.0285(5) 0.0179(4) 0.0309(5) 0. 0. 0.
+S1 S2- 0.0361(3) 0.0291(2) 0.0404(3) -0.00085(19) -0.0106(2) 0.0034(2)
+Al1 Al3+ 0.0303(6) 0.0175(5) 0.0363(6) 0. 0. 0.

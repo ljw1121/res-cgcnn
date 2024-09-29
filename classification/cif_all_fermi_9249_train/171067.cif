@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_171067-ICSD
+_database_code_ICSD 171067
+_audit_creation_date 2006-04-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Iron hydroxide sulfate'
+_chemical_formula_structural 'Fe (S O4)2 H'
+_chemical_formula_sum 'H1 Fe1 O8 S2'
+_exptl_crystal_density_diffrn 4.91
+_cell_measurement_temperature 493.
+_publ_section_title
+
+;
+The order-disorder character of Fe O H S O4 obtained from the thermal
+decomposition of metahohmannite, Fe(3+)2 (H2 O)4 [O (S O4)2]
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 2005 90 679 686 AMMIAY
+loop_
+_publ_author_name
+'Ventruti, G.'
+'Scordari, F.'
+'Schingaro, E.'
+'Gualtieri, A.'
+'Meneghini, C.'
+_cell_length_a 3.668(1)
+_cell_length_b 6.418(1)
+_cell_length_c 7.159(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 168.53
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m m m'
+_symmetry_Int_Tables_number 71
+_refine_ls_R_factor_all 0.0477
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 'x, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x, -y, z'
+6 '-x, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x+1/2, y+1/2, -z+1/2'
+10 'x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 '-x+1/2, -y+1/2, z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 2 a 0 0 0 0.013 1. 0
+S1 S6+ 4 j 0 0.5 0.881(1) 0.028 1. 0
+O1 O2- 4 g 0 0.683(1) 0 0.023 1. 0
+O2 O2- 8 m 0.170(1) 0 0.264(1) 0.023 1. 0
+O3 O2- 4 j 0 0.5 0.401(1) 0.023 1. 0
+#End of TTdata_171067-ICSD

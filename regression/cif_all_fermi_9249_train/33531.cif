@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_33531-ICSD
+_database_code_ICSD 33531
+_audit_creation_date 1982-12-31
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Dithallium ditin sulfide'
+_chemical_formula_structural 'Tl2 Sn2 S3'
+_chemical_formula_sum 'S3 Sn2 Tl2'
+_exptl_crystal_density_diffrn 6.55
+_publ_section_title
+'Structure Cristalline du Sulfure d'Etain(II) et de Thallium(I) Tl2Sn2S3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1982
+487 199 206 ZAACAB
+loop_
+_publ_author_name
+'del Bucchia, S.'
+'Jumas, J.C.'
+'Philippot, E.'
+'Maurin, M.'
+_cell_length_a 13.887(7)
+_cell_length_b 7.742(4)
+_cell_length_c 7.267(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.39(3)
+_cell_angle_gamma 90.
+_cell_volume 753.28
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.086
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+Sn2+ 2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 8 f 0.6189(3) 0.6168(6) 0.0302(6) . 1. 0
+Sn1 Sn2+ 8 f 0.8831(3) 0.6547(6) 0.5271(5) . 1. 0
+S1 S2- 4 e 0.5 0.898(6) 0.75 . 1. 0
+S2 S2- 8 f 0.739(1) 0.916(3) 0.179(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl1+ 0.069(2) 0.054(2) 0.063(3) 0.006(3) 0.023(2) 0.003(2)
+Sn1 Sn2+ 0.012(2) 0.025(3) 0.008(21) -.001(2) 0.001(1) -.001(2)
+S1 S2- 0.055(17) 0.062(22) 0.024(14) 0 0.011(13) 0
+S2 S2- 0.040(9) 0.035(15) 0.029(11) 0.004(9) 0.014(9) -.005(8)
+#End of TTdata_33531-ICSD

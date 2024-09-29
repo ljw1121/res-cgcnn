@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_654993-ICSD
+_database_code_ICSD 654993
+_audit_creation_date 2008-07-07
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Aluminium carbide nitride (6/3/2)'
+_chemical_formula_structural 'Al6 C3 N2'
+_chemical_formula_sum 'C3 Al6 N2'
+_chemical_name_structure_type Al4Zr2C5
+_exptl_crystal_density_diffrn 3.08
+_publ_section_title 'The structures of the aluminum carbonitrides. II'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica (1,1948-23,1967)' 1966 20 538 547 ACCRA9
+loop_
+_publ_author_name
+'Jeffrey, G.A.'
+'Wu, Viktor Y.'
+_cell_length_a 3.248
+_cell_length_b 3.248
+_cell_length_c 40.03
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 365.72
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R 3 m H'
+_symmetry_Int_Tables_number 160
+_refine_ls_R_factor_all 0.18
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, z'
+2 'x, x-y, z'
+3 '-y, -x, z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+y+2/3, y+1/3, z+1/3'
+8 'x+2/3, x-y+1/3, z+1/3'
+9 '-y+2/3, -x+1/3, z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+y+1/3, y+2/3, z+2/3'
+14 'x+1/3, x-y+2/3, z+2/3'
+15 '-y+1/3, -x+2/3, z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al0+ 0
+C0+ 0
+N0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al0+ 3 a 0 0 0.6910(8) 0.2(4) 1 0
+Al2 Al0+ 3 a 0 0 0.0850(8) 0.7(4) 1 0
+Al3 Al0+ 3 a 0 0 0.8069(8) 0.6(4) 1 0
+Al4 Al0+ 3 a 0 0 0.1911(8) 0.1(4) 1 0
+Al5 Al0+ 3 a 0 0 0.9137(8) 0.8(4) 1 0
+Al6 Al0+ 3 a 0 0 0.3092(8) 0.4(4) 1 0
+C1 C0+ 3 a 0 0 0.0000(15) 0.2(6) 1 0
+C2 C0+ 3 a 0 0 0.1351(15) 0.6(6) 1 0
+C3 C0+ 3 a 0 0 0.8641(15) 1.2(6) 1 0
+N1 N0+ 3 a 0 0 0.7406(15) 0.2(6) 1 0
+N2 N0+ 3 a 0 0 0.2597(15) 1.0(6) 1 0
+#End of TTdata_654993-ICSD

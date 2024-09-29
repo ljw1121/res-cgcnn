@@ -1,0 +1,95 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_41165-ICSD
+_database_code_ICSD 41165
+_audit_creation_date 1999-11-30
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Barium dialuminum telluride'
+_chemical_formula_structural 'Ba Al2 Te4'
+_chemical_formula_sum 'Al2 Ba1 Te4'
+_exptl_crystal_density_diffrn 4.79
+_publ_section_title
+
+;
+Neue ternaere Varianten der Tl Se-Struktur: zur Kenntnis von Ba Al2 Te4(II),
+Sr Ga2 Te4, Sr In2 Te4 und Ba In2 Te4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Revue de Chimie Minerale' 1982 19 263 273 RVCMA8
+loop_
+_publ_author_name
+'Eisenmann, B.'
+'Jakowski, M.'
+'Schaefer, H.'
+_cell_length_a 8.516(4)
+_cell_length_b 8.516(4)
+_cell_length_c 6.713(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 486.84
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n b m Z'
+_symmetry_Int_Tables_number 125
+_refine_ls_R_factor_all 0.051
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, z'
+2 'y, -x+1/2, z'
+3 '-y+1/2, x, z'
+4 '-y, -x, z'
+5 '-y+1/2, -x+1/2, -z'
+6 '-y, x+1/2, -z'
+7 'y+1/2, -x, -z'
+8 'y, x, -z'
+9 'x+1/2, y+1/2, -z'
+10 '-x+1/2, y, -z'
+11 'x, -y+1/2, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, -y+1/2, z'
+14 'x+1/2, -y, z'
+15 '-x, y+1/2, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Al3+ 3
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 2 a 0.25 0.25 0 . 1. 0
+Al1 Al3+ 2 c 0.75 0.25 0 . 1. 0
+Al2 Al3+ 2 d 0.75 0.25 0.5 . 1. 0
+Te1 Te2- 8 m 0.9180(1) 0.0820(1) 0.7484(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0136(4) 0.0136(4) 0.0248(8) 0 0 0
+Al1 Al3+ 0.0140(21) 0.0140(21) 0.0114(33) 0 0 0
+Al2 Al3+ 0.0159(22) 0.0159(22) 0.008(3) 0 0 0
+Te1 Te2- 0.0135(3) 0.0135(3) 0.0129(4) 0.0024(3) 0.0008(2) 0.0008(2)
+#End of TTdata_41165-ICSD

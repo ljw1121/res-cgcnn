@@ -1,0 +1,50 @@
+
+data_30265-ICSD
+_database_code_ICSD 30265
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Copper(I) tetraiodomercurate'
+_chemical_formula_structural 'Cu2 Hg I4'
+_chemical_formula_sum 'Cu2 Hg1 I4'
+_chemical_name_structure_type CdIn2Se4
+_exptl_crystal_density_diffrn 6.12
+_cell_length_a 6.08(1)
+_cell_length_b 6.08(1)
+_cell_length_c 6.135(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 226.79
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -4 2 m'
+_symmetry_Int_Tables_number 111
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x, z'
+2 'y, x, z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, -z'
+6 '-x, y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+Cu1+ 1
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg2+ 1 a 0 0 0 . 1. 0
+Cu1 Cu1+ 2 f 0 0.5 0.5 . 1. 0
+I1 I1- 4 n 0.255(5) 0.255(5) 0.275(5) . 1. 0

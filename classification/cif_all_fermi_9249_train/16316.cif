@@ -1,0 +1,83 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_16316-ICSD
+_database_code_ICSD 16316
+_audit_creation_date 1980-01-01
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Molybdenum selenide (3/4)'
+_chemical_formula_structural 'Mo3 Se4'
+_chemical_formula_sum 'Mo3 Se4'
+_chemical_name_structure_type Mo3Se4
+_exptl_crystal_density_diffrn 6.8
+_publ_section_title
+
+;
+Etude structurale de combinaisons sulfurees et seleniees du molybdene: I.
+Structure cristalline de Mo3Se4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1973 6 48 57 JSSCBI
+loop_
+_publ_author_name
+'Bars, Mme O.'
+'Guillevic, J.'
+'Grandjean, D.'
+_cell_length_a 6.658
+_cell_length_b 6.658
+_cell_length_c 6.658
+_cell_angle_alpha 91.58
+_cell_angle_beta 91.58
+_cell_angle_gamma 91.58
+_cell_volume 294.79
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'R -3 R'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.045
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, -x, -y'
+2 '-y, -z, -x'
+3 '-x, -y, -z'
+4 'z, x, y'
+5 'y, z, x'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo2+ 2.67
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo2+ 6 f 0.22304(10) 0.41298(10) 0.54608(10) . 1. 0
+Se1 Se2- 6 f 0.37917(13) 0.12741(13) 0.74470(13) . 1. 0
+Se2 Se2- 2 c 0.21373(13) 0.21373(13) 0.21373(13) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Mo1 Mo2+ 0.00375(18) 0.00365(17) 0.00345(18) -.00008(9) -.00017(9) -.00039(9)
+Se1 Se2- 0.00535(21) 0.00319(21) 0.00421(20) -.00013(12) 0.00030(12) 0.00010(11)
+Se2 Se2- 0.00473(15) 0.00473(15) 0.00473(15) -.00087(11) -.00087(11) -.00087(11)
+#End of TTdata_16316-ICSD

@@ -1,0 +1,99 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280701-ICSD
+_database_code_ICSD 280701
+_audit_creation_date 2002-10-01
+_chemical_name_systematic 'Cesium phyllo-triselenidozirconocuprate(I)'
+_chemical_formula_structural 'Cs (Zr Cu Se3)'
+_chemical_formula_sum 'Cs1 Cu1 Se3 Zr1'
+_chemical_name_structure_type KCuZrS3
+_exptl_crystal_density_diffrn 5.52
+_cell_measurement_temperature 153.
+_publ_section_title
+
+;
+New layered materials: syntheses, structures, and optical and magnetic
+properties of Cs Gd Zn S3, Cs Zr Cu Se3, Cs U Cu Se3, and Ba Gd Cu Se3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2001 40 5123 5126 INOCAJ
+loop_
+_publ_author_name
+'Huang, F.-Q.'
+'Mitchell, K.'
+'Ibers, J.A.'
+_cell_length_a 3.903(2)
+_cell_length_b 15.841(10)
+_cell_length_c 10.215(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 631.57
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0284
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Zr4+ 4
+Cu1+ 1
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 c 0 0.74457(4) 0.25 . 1. 0
+Zr1 Zr4+ 4 a 0 0 0 . 1. 0
+Cu1 Cu1+ 4 c 0 0.46521(9) 0.25 . 1. 0
+Se1 Se2- 8 f 0 0.38538(5) 0.04890(7) . 1. 0
+Se2 Se2- 4 c 0 0.05833(7) 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0118(5) 0.0117(5) 0.0138(6) 0 0 0
+Zr1 Zr4+ 0.0087(6) 0.0098(7) 0.0075(7) 0 0 -.0001(4)
+Cu1 Cu1+ 0.0140(7) 0.0118(8) 0.0096(9) 0 0 0
+Se1 Se2- 0.0093(5) 0.0092(6) 0.0081(6) 0 0 0.0002(3)
+Se2 Se2- 0.0100(6) 0.0111(7) 0.0058(7) 0 0 0
+#End of TTdata_280701-ICSD

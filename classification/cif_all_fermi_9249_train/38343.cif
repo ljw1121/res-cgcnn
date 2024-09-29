@@ -1,0 +1,73 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_38343-ICSD
+_database_code_ICSD 38343
+_audit_creation_date 1984-12-31
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Calcium nickel hydride (1/5/1.1) - beta'
+_chemical_formula_structural 'Ca Ni5 H1.06'
+_chemical_formula_sum 'H1.06 Ca1 Ni5'
+_exptl_crystal_density_diffrn 6.47
+_publ_section_title
+'Crystal structure of Ca Ni5 H using X-Ray diffraction with in situ hydriding'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1984 19 107 113 MRBUAC
+loop_
+_publ_author_name
+'Calvert, L.D.'
+'Murray, J.J.'
+'Gainsford, G.J.'
+'Taylor, J.B.'
+_cell_length_a 8.6044(22)
+_cell_length_b 5.0965(12)
+_cell_length_c 7.8395(16)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 343.78
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I m 2 m'
+_symmetry_Int_Tables_number 44
+_refine_ls_R_factor_all 0.069
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 '-x, y, z'
+3 '-x, y, -z'
+4 'x, y, z'
+5 'x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca0+ 0
+Ni0+ 0
+H0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca0+ 2 a 0 0.98(3) 0 0.08(3) 1. 0
+Ca2 Ca0+ 2 b 0 0.01(1) 0.5 0.02(2) 1. 0
+Ni1 Ni0+ 4 d 0.339(3) 0.023(5) 0 0.004(8) 1. 0
+Ni2 Ni0+ 4 d 0.334(2) 0.953(7) 0.5 0.007(7) 1. 0
+Ni3 Ni0+ 4 c 0.5 0.929(6) 0.231(5) 0.001(7) 1. 0
+Ni4 Ni0+ 8 e 0.246(4) 0.207(8) 0.267(3) 0.007(4) 1. 0
+#End of TTdata_38343-ICSD

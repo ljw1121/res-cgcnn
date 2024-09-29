@@ -1,0 +1,71 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_150227-ICSD
+_database_code_ICSD 150227
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Magnesium palladium (1/2)'
+_chemical_formula_structural 'Mg Pd2'
+_chemical_formula_sum 'Mg1 Pd2'
+_chemical_name_structure_type Co2Si
+_exptl_crystal_density_diffrn 8.67
+_publ_section_title
+
+;
+Structure and thermal stability of the new intermetallics Mg Pd2, Mg Pd3 and
+Mg3 Pd5 and the kinetics of the iodine-catalyzed formation of Mg Pd2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2001 159 113 120 JSSCBI
+loop_
+_publ_author_name
+'Wannek, C.'
+'Harbrecht, B.'
+_cell_length_a 5.4421(2)
+_cell_length_b 4.1673(2)
+_cell_length_c 8.0129(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 181.72
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg0+ 0
+Pd0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg0+ 4 c 0.327(2) 0.25 0.1025(9) 0.7(2) 1. 0
+Pd1 Pd0+ 4 c 0.3370(4) 0.25 0.4285(3) 1.54(5) 1. 0
+Pd2 Pd0+ 4 c 0.4398(4) 0.25 0.7659(2) 1.64(6) 1. 0
+#End of TTdata_150227-ICSD

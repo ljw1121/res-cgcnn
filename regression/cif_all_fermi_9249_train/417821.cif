@@ -1,0 +1,71 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_417821-ICSD
+_database_code_ICSD 417821
+_audit_creation_date 2009-02-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Dicadmium hexacyanoosmate(II)'
+_chemical_formula_structural 'Cd2 (Os (C N)6)'
+_chemical_formula_sum 'C6 Cd2 N6 Os1'
+_chemical_name_structure_type Cd2Os(CN)6
+_exptl_crystal_density_diffrn 4.09
+_cell_measurement_temperature 298.
+_publ_section_title
+'Crystal structures of hexcyanometallates with bifurcated cyano groups'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics D, Applied Physics' 2007 40 6076 6082 JPAPBE
+loop_
+_publ_author_name
+'Rodriguez Hernandez, J.'
+'Gomez, A.'
+'Reguera, E.'
+_cell_length_a 6.3757(2)
+_cell_length_b 6.3757(2)
+_cell_length_c 6.5884(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 231.94
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3'
+_symmetry_Int_Tables_number 147
+_refine_ls_R_factor_all 0.0562
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+Os2+ 2
+C0+ 0
+N1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cd1 Cd2+ 2 d 0.33333 0.66667 0.5068(12) 0.0131(2) 1. 0
+Os1 Os2+ 1 a 0. 0. 0. 0.0104(4) 1. 0
+C1 C0+ 6 g 0.032(2) 0.266(2) 0.164(3) 0.0154(6) 1. 0
+N1 N1- 6 g 0.003(6) 0.399(9) 0.259(3) 0.0154(6) 1. 0
+#End of TTdata_417821-ICSD

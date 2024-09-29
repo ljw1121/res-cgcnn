@@ -1,0 +1,83 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65510-ICSD
+_database_code_ICSD 65510
+_audit_creation_date 1990-06-08
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Dipotassium hexaiodotechnetate(IV)'
+_chemical_formula_structural 'K2 (Tc I6)'
+_chemical_formula_sum 'I6 K2 Tc1'
+_chemical_name_structure_type K2SnCl6(LT)
+_exptl_crystal_density_diffrn 4.49
+_publ_section_title
+'Crystal and molecular structure of potassium hexaiodotechnetate(IV)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Neorganicheskoi Khimii' 1987 32 2944 2947 ZNOKAQ
+loop_
+_publ_author_name
+'Kryuchkov, S.V.'
+'Grigor'ev, M.S.'
+'Kuzina, A.F.'
+'Spitsyn, V.I.'
+_cell_length_a 11.352(2)
+_cell_length_b 7.846(2)
+_cell_length_c 13.817(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 145.63(5)
+_cell_angle_gamma 90.
+_cell_volume 694.74
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0298
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tc4+ 4
+I1- -1
+K1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tc1 Tc4+ 2 a 0 0 0 . 1. 0
+I1 I1- 4 e 0.28597(4) 0.00278(7) 0.04802(4) . 1. 0
+I2 I1- 4 e 0.25604(5) 0.20264(6) 0.28121(4) . 1. 0
+I3 I1- 4 e -.18259(5) 0.21770(6) 0.29874(4) . 1. 0
+K1 K1+ 4 e 0.7640(2) 0.4595(3) 0.0153(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Tc1 Tc4+ 0.1207(5) 0.00804(9) 0.00780(4) -.00055(5) 0.00821(3) -.00025(5)
+I1 I1- 0.02022(3) 0.01905(9) 0.01761(2) -.00126(5) 0.01737(2) -.00097(4)
+I2 I1- 0.01929(4) 0.01125(6) 0.00994(3) -.00356(5) 0.01096(2) -.00321(4)
+I3 I1- 0.01996(4) 0.01015(6) 0.01141(3) -.00261(5) 0.01189(2) -.00301(4)
+K1 K1+ 0.0349(2) 0.0255(4) 0.0243(1) -.0054(3) 0.0252(1) -.0069(3)
+#End of TTdata_65510-ICSD

@@ -1,0 +1,105 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_427410-ICSD
+_database_code_ICSD 427410
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Heptalead tetrabismuth tridecaselenide'
+_chemical_formula_structural 'Pb7 Bi4 Se13'
+_chemical_formula_sum 'Bi4 Pb7 Se13'
+_exptl_crystal_density_diffrn 8.06
+_cell_measurement_temperature 100.
+_publ_section_title
+'Pb7 Bi4 Se13: a lillianite homologue with promising thermoelectric properties'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 746 755 INOCAJ
+loop_
+_publ_author_name
+'Olvera, Alan'
+'Shi, Guangsha'
+'Djieutedjeu, Honore'
+'Page, Alexander'
+'Uher, Ctirad'
+'Kioupakis, Emmanouil'
+'Poudeu, Pierre F.P.'
+_cell_length_a 13.9328(11)
+_cell_length_b 4.2455(3)
+_cell_length_c 23.2960(19)
+_cell_angle_alpha 90.
+_cell_angle_beta 97.954(6)
+_cell_angle_gamma 90.
+_cell_volume 1364.74
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0292
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Pb2+ 2
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 i 0.24808(10) 0. 0.08594(5) 0.0086(2) 1 0
+Bi2 Bi3+ 4 i 0.56082(10) 0.5 0.37740(5) 0.0119(3) 1 0
+Pb1 Pb2+ 2 b 0.5 0. 0. 0.0110(4) 1 0
+Pb2 Pb2+ 4 i 0.85308(10) 0.5 0.45652(5) 0.0094(3) 1 0
+Pb3 Pb2+ 4 i 0.49082(9) 0.5 0.16252(5) 0.0102(3) 1 0
+Pb4 Pb2+ 4 i 0.76779(12) 0. 0.28003(7) 0.0220(4) 1 0
+Se1 Se2- 4 i 0.3710(3) 0.5 0.04056(13) 0.0072(5) 1 0
+Se2 Se2- 4 i 0.6232(3) 0. 0.12058(15) 0.0137(7) 1 0
+Se3 Se2- 4 i 0.7134(3) 0. 0.41325(15) 0.0118(6) 1 0
+Se4 Se2- 4 i 0.3617(2) 0. 0.19475(13) 0.0097(6) 1 0
+Se5 Se2- 4 i 0.9191(3) 0.5 0.34761(13) 0.0094(6) 1 0
+Se6 Se2- 2 c 0. 0. 0.5 0.0071(8) 1 0
+Se7 Se2- 4 i 0.6227(3) 0.5 0.26902(13) 0.0114(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0093(6) 0.0060(5) 0.0107(5) 0. 0.0016(4) 0.
+Bi2 Bi3+ 0.0143(7) 0.0092(6) 0.0118(5) 0. 0.0010(4) 0.
+Pb1 Pb2+ 0.0123(8) 0.0088(8) 0.0125(7) 0. 0.0041(6) 0.
+Pb2 Pb2+ 0.0110(5) 0.0056(5) 0.0119(5) 0. 0.0027(4) 0.
+Pb3 Pb2+ 0.0124(6) 0.0070(5) 0.0113(5) 0. 0.0022(4) 0.
+Pb4 Pb2+ 0.0219(8) 0.0115(7) 0.0339(8) 0. 0.0084(6) 0.
+Se1 Se2- 0.0074(12) 0.0045(12) 0.0100(12) 0. 0.0021(10) 0.
+Se2 Se2- 0.0117(16) 0.0056(15) 0.0264(17) 0. 0.0122(13) 0.
+Se3 Se2- 0.0098(15) 0.0084(14) 0.0169(14) 0. 0.0007(11) 0.
+Se4 Se2- 0.0132(16) 0.0079(15) 0.0080(13) 0. 0.0019(11) 0.
+Se5 Se2- 0.0142(16) 0.0054(14) 0.0083(13) 0. 0.0013(11) 0.
+Se6 Se2- 0.009(2) 0.0030(19) 0.0077(17) 0. -0.0031(15) 0.
+Se7 Se2- 0.0130(16) 0.0084(15) 0.0123(14) 0. 0.0001(12) 0.
+#End of TTdata_427410-ICSD

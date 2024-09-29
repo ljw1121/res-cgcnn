@@ -1,0 +1,88 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_87985-ICSD
+_database_code_ICSD 87985
+_audit_creation_date 2001-07-16
+_chemical_name_systematic 'Sodium manganese telluride (3/4/6)'
+_chemical_formula_structural 'Na3 Mn4 Te6'
+_chemical_formula_sum 'Mn4 Na3 Te6'
+_exptl_crystal_density_diffrn 3.95
+_publ_section_title
+
+;
+Synthesis and structures of new layered ternary manganese tellurides: A Mn Te2
+(A = K, Rb, Cs), Na3 Mn4 Te6 and Na Mn1.56 Te2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1999 38 235 242 INOCAJ
+loop_
+_publ_author_name
+'Kim, J.-Y.'
+'Wang, C.-C.'
+'Hughbanks, T.'
+_cell_length_a 8.274(4)
+_cell_length_b 14.083(6)
+_cell_length_c 7.608(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.97(4)
+_cell_angle_gamma 90.
+_cell_volume 885.98
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.054
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mn2+ 2.25
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 g 0 0.3422(16) 0 . 1. 0
+Na2 Na1+ 2 a 0 0 0 . 1. 0
+Mn1 Mn2+ 8 j 0.1668(8) 0.1646(3) 0.6279(7) . 1. 0
+Te1 Te2- 4 i 0.3022(5) 0 0.7673(6) . 1. 0
+Te2 Te2- 8 j 0.1524(4) 0.1763(2) 0.2612(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.083(27) 0.063(14) 0.055(17) 0 -.028(13) 0
+Na2 Na1+ 0.069(34) 0.055(19) 0.049(24) 0 -.014(23) 0
+Mn1 Mn2+ 0.039(5) 0.031(2) 0.034(3) 0.000(2) -.005(3) 0.001(2)
+Te1 Te2- 0.039(2) 0.039(1) 0.025(1) -.010(1) 0.003(1) -.006(1)
+Te2 Te2- 0.029(3) 0.034(2) 0.062(3) 0 0.001(2) 0
+#End of TTdata_87985-ICSD

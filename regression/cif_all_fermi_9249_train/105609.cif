@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_105609-ICSD
+_database_code_ICSD 105609
+_audit_creation_date 2004-10-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Lead rhodium (5/4)'
+_chemical_formula_structural 'Pb5 Rh4'
+_chemical_formula_sum 'Pb5 Rh4'
+_exptl_crystal_density_diffrn 12.84
+_publ_section_title 'Die Kristallstruktur von Rh4 Pb5'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1973 33 91 98 JCOMAH
+loop_
+_publ_author_name
+'Mayer, H.W.'
+'Schubert, K.'
+_cell_length_a 9.840(3)
+_cell_length_b 5.711(1)
+_cell_length_c 26.510(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1489.76
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F m m m'
+_symmetry_Int_Tables_number 69
+_refine_ls_R_factor_all 0.21
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 'x, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x, -y, z'
+6 '-x, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x, y+1/2, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x, y+1/2, z+1/2'
+12 '-x, -y+1/2, -z+1/2'
+13 '-x, -y+1/2, z+1/2'
+14 '-x, y+1/2, -z+1/2'
+15 'x, -y+1/2, -z+1/2'
+16 'x, y+1/2, z+1/2'
+17 'x+1/2, y, -z+1/2'
+18 'x+1/2, -y, z+1/2'
+19 '-x+1/2, y, z+1/2'
+20 '-x+1/2, -y, -z+1/2'
+21 '-x+1/2, -y, z+1/2'
+22 '-x+1/2, y, -z+1/2'
+23 'x+1/2, -y, -z+1/2'
+24 'x+1/2, y, z+1/2'
+25 'x+1/2, y+1/2, -z'
+26 'x+1/2, -y+1/2, z'
+27 '-x+1/2, y+1/2, z'
+28 '-x+1/2, -y+1/2, -z'
+29 '-x+1/2, -y+1/2, z'
+30 '-x+1/2, y+1/2, -z'
+31 'x+1/2, -y+1/2, -z'
+32 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb0+ 0
+Rh0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb0+ 8 g 0.164 0 0 0.9 1. 0
+Pb2 Pb0+ 8 i 0 0 0.412 0.9 1. 0
+Pb3 Pb0+ 8 i 0 0 0.287 0.9 1. 0
+Pb4 Pb0+ 16 n 0.167 0 0.166 0.9 1. 0
+Rh1 Rh0+ 8 f 0.25 0.25 0.25 0.9 1. 0
+Rh2 Rh0+ 8 i 0 0 0.084 0.9 1. 0
+Rh3 Rh0+ 16 j 0.25 0.25 0.082 0.9 1. 0
+#End of TTdata_105609-ICSD

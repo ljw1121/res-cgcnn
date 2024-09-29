@@ -1,0 +1,69 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_96418-ICSD
+_database_code_ICSD 96418
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Palladium nitride (2/1)'
+_chemical_formula_structural 'Pd2 N'
+_chemical_formula_sum 'N1 Pd2'
+_chemical_name_structure_type Fe2C
+_exptl_crystal_density_diffrn 12.29
+_publ_section_title
+
+;
+Facile synthesis of interstitial metal nitrides with the filled beta-manganese
+structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2003 172 138 147 JSSCBI
+loop_
+_publ_author_name
+'Prior, T.J.'
+'Battle, P.D.'
+_cell_length_a 2.808(1)
+_cell_length_b 4.863(2)
+_cell_length_c 4.4869(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 61.27
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m n n'
+_symmetry_Int_Tables_number 58
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z+1/2'
+2 'x+1/2, y+1/2, -z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+N0+ 0
+Pd0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+N1 N0+ 2 a 0 0 0 . 1. 0
+Pd1 Pd0+ 4 g 0 0.351(4) 0.242(5) . 1. 0
+#End of TTdata_96418-ICSD

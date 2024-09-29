@@ -1,0 +1,72 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_76567-ICSD
+_database_code_ICSD 76567
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Niobium sulfide (3/4)'
+_chemical_formula_structural 'Nb3 S4'
+_chemical_formula_sum 'Nb3 S4'
+_chemical_name_structure_type Nb3Te4
+_exptl_crystal_density_diffrn 5.04
+_publ_section_title
+'Preparation, structure and properties of triniobium tetrasulphide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1968 24 1614 1619 ACBCAR
+loop_
+_publ_author_name
+'Ruysink, A.F.J.'
+'Kadijk, F.'
+'Wagner, A.J.'
+'Jellinek, F.'
+_cell_length_a 9.5806(4)
+_cell_length_b 9.5806(4)
+_cell_length_c 3.3747(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 268.26
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb2+ 2.67
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb2+ 6 h 0.48538(2) 0.11392(2) 0.25 . 1. 0
+S1 S2- 2 c 0.3333 0.6667 0.25 . 1. 0
+S2 S2- 6 h 0.34495(7) 0.28723(7) 0.25 . 1. 0
+#End of TTdata_76567-ICSD

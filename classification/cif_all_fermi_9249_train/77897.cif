@@ -1,0 +1,51 @@
+
+data_77897-ICSD
+_database_code_ICSD 77897
+_audit_creation_date 2003-04-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Palladium selenide (7/4)'
+_chemical_formula_structural 'Pd7 Se4'
+_chemical_formula_sum 'Pd7 Se4'
+_chemical_name_structure_type Pd7Se4
+_exptl_crystal_density_diffrn 9.4
+_cell_length_a 10.162(1)
+_cell_length_b 6.863(1)
+_cell_length_c 5.375(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 374.86
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 21 21 2'
+_symmetry_Int_Tables_number 18
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z'
+2 'x+1/2, -y+1/2, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pd0+ 0
+Se0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pd1 Pd0+ 4 c 0.0846(2) 0.3122(2) 0.3492(4) 0.0082 1. 0
+Pd2 Pd0+ 4 c 0.2744(2) 0.4155(2) 0.0041(4) 0.0089 1. 0
+Pd3 Pd0+ 4 c 0.3681(2) 0.1277(2) 0.3378(4) 0.0082 1. 0
+Pd4 Pd0+ 2 a 0 0 0.6757(5) 0.0088 1. 0
+Se1 Se0+ 4 c 0.2208(2) 0.1755(3) 0.6830(4) 0.0056 1. 0
+Se2 Se0+ 2 a 0 0 0.1705(7) 0.0061 1. 0
+Se3 Se0+ 2 b 0 0.5 0.9989(6) 0.006 1. 0

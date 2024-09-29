@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_421854-ICSD
+_database_code_ICSD 421854
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Lithium aluminide (9/4)'
+_chemical_formula_structural 'Li9 Al4'
+_chemical_formula_sum 'Al4 Li9'
+_chemical_name_structure_type Al4Li9
+_exptl_crystal_density_diffrn 1.27
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+A new phase in the system Lithium - Aluminum: Characterization of orthorhombic
+Li2 Al
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2010 183 2528 2533 JSSCBI
+loop_
+_publ_author_name
+'Puhakainen, K.'
+'Bostroem, M.'
+'Groy, T.L.'
+'Haeussermann, U.'
+_cell_length_a 18.916(4)
+_cell_length_b 4.5041(11)
+_cell_length_c 5.4249(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.19(3)
+_cell_angle_gamma 90.
+_cell_volume 446.05
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.017
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al0+ 0
+Li0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al0+ 4 i 0.349703(18) 0.5 0.78622(6) 0.01579(14) 1 0
+Al2 Al0+ 4 i 0.385380(14) 0. 0.06429(5) 0.01656(14) 1 0
+Li1 Li0+ 2 a 0.5 0.5 0. 0.0263(7) 1 0
+Li2 Li0+ 4 i 0.41440(11) 0.5 0.3590(4) 0.0186(4) 1 0
+Li3 Li0+ 4 i 0.23302(10) 0. 0.8431(4) 0.0301(6) 1 0
+Li4 Li0+ 4 i 0.30810(11) 0. 0.4765(4) 0.0215(5) 1 0
+Li5 Li0+ 4 i 0.45656(12) 0. 0.6745(4) 0.0266(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al1 Al0+ 0.0191(2) 0.0115(2) 0.0166(2) 0. 0.00445(16) 0.
+Al2 Al0+ 0.0214(2) 0.0114(2) 0.0168(2) 0. 0.00487(17) 0.
+Li1 Li0+ 0.0187(15) 0.0292(16) 0.0300(16) 0. 0.0047(12) 0.
+Li2 Li0+ 0.0252(11) 0.0138(9) 0.0169(10) 0. 0.0060(8) 0.
+Li3 Li0+ 0.0280(14) 0.0321(14) 0.0308(13) 0. 0.0089(11) 0.
+Li4 Li0+ 0.0237(11) 0.0182(10) 0.0233(11) 0. 0.0074(9) 0.
+Li5 Li0+ 0.0275(11) 0.0270(12) 0.0267(11) 0. 0.0095(9) 0.
+#End of TTdata_421854-ICSD

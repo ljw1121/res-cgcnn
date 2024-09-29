@@ -1,0 +1,96 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_41166-ICSD
+_database_code_ICSD 41166
+_audit_creation_date 1999-11-30
+_audit_update_record 2002-04-01
+_chemical_name_systematic 'Strontium digallium telluride'
+_chemical_formula_structural 'Sr Ga2 Te4'
+_chemical_formula_sum 'Ga2 Sr1 Te4'
+_chemical_name_structure_type BaGe2Se4
+_exptl_crystal_density_diffrn 5.38
+_publ_section_title
+
+;
+Neue ternaere Varianten der Tl Se-Struktur: zur Kenntnis von Ba Al2 Te4(II),
+Sr Ga2 Te4, Sr In2 Te4 und Ba In2 Te4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Revue de Chimie Minerale' 1982 19 263 273 RVCMA8
+loop_
+_publ_author_name
+'Eisenmann, B.'
+'Jakowski, M.'
+'Schaefer, H.'
+_cell_length_a 6.740(5)
+_cell_length_b 11.621(5)
+_cell_length_c 11.634(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 911.24
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C c c m'
+_symmetry_Int_Tables_number 66
+_refine_ls_R_factor_all 0.0793
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, z+1/2'
+2 'x, -y, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'x, -y, -z+1/2'
+6 '-x, y, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, z+1/2'
+10 'x+1/2, -y+1/2, z+1/2'
+11 'x+1/2, y+1/2, -z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, -z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Ga3+ 3
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 4 b 0 0.5 0.25 . 1. 0
+Ga1 Ga3+ 8 l 0.9988(8) 0.2423(5) 0 . 1. 0
+Te1 Te2- 8 l 0.2404(5) 0.4233(2) 0 . 1. 0
+Te2 Te2- 8 k 0.25 0.25 0.3261(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr2+ 0.0239(27) 0.0180(25) 0.0200(26) 0 0 0
+Ga1 Ga3+ 0.0032(15) 0.0132(20) 0.0096(17) 0.0002(25) 0 0
+Te1 Te2- 0.0156(11) 0.0124(10) 0.0166(11) 0.0022(14) 0 0
+Te2 Te2- 0.0141(10) 0.0180(11) 0.0141(10) 0.0033(12) 0 0
+#End of TTdata_41166-ICSD

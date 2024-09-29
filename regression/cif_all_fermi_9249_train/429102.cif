@@ -1,0 +1,90 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_429102-ICSD
+_database_code_ICSD 429102
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Tetralanthanum dimanganese pentaarsenide'
+_chemical_formula_structural 'La4 Mn2 As5'
+_chemical_formula_sum 'As5 La4 Mn2'
+_exptl_crystal_density_diffrn 5.99
+_cell_measurement_temperature 296.
+_publ_section_title 'Rare-earth manganese arsenides RE4 Mn2 As5 (RE = La - Pr)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2015 636 187 190 JALCEU
+loop_
+_publ_author_name
+'Tabassum, Danisa'
+'Lin, Xinsong'
+'Mar, Arthur'
+_cell_length_a 4.3275(14)
+_cell_length_b 4.3275(14)
+_cell_length_c 17.792(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 288.56
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.0434
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Mn1+ 1.5
+As3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 2 d 0.3333 0.6667 0.09916(7) 0.0096(3) 1 0
+La2 La3+ 2 c 0. 0. 0.29720(8) 0.0125(3) 1 0
+Mn1 Mn1+ 2 d 0.3333 0.6667 0.5495(2) 0.0186(8) 1 0
+As1 As3- 2 d 0.3333 0.6667 0.40509(13) 0.0118(5) 1 0
+As2 As3- 2 d 0.3333 0.6667 0.79834(12) 0.0084(5) 1 0
+As3 As3- 1 a 0. 0. 0. 0.0094(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.0089(4) 0.0089(4) 0.0111(6) 0.00444(19) 0. 0.
+La2 La3+ 0.0109(4) 0.0109(4) 0.0156(7) 0.0054(2) 0. 0.
+Mn1 Mn1+ 0.0176(12) 0.0176(12) 0.020(2) 0.0088(6) 0. 0.
+As1 As3- 0.0108(7) 0.0108(7) 0.0136(12) 0.0054(4) 0. 0.
+As2 As3- 0.0075(7) 0.0075(7) 0.0103(12) 0.0037(3) 0. 0.
+As3 As3- 0.0084(9) 0.0084(9) 0.0114(17) 0.0042(5) 0. 0.
+#End of TTdata_429102-ICSD

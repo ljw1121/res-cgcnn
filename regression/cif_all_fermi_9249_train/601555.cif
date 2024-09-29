@@ -1,0 +1,70 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_601555-ICSD
+_database_code_ICSD 601555
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Vanadium iridium boride (2/1/2)'
+_chemical_formula_structural 'V2 Ir B2'
+_chemical_formula_sum 'B2 Ir1 V2'
+_chemical_name_structure_type Y3Co2
+_exptl_crystal_density_diffrn 10.21
+_publ_section_title 'Neue Phasen mit Mo2 Ir B2 - Typ'
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Revue de Chimie Minerale' 1974 11 547 555 RVCMA8
+loop_
+_publ_author_name
+'Rogl, P.'
+'Nowotny, H.'
+_cell_length_a 9.221
+_cell_length_b 7.145
+_cell_length_c 3.126
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 205.95
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n n m'
+_symmetry_Int_Tables_number 58
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 'x+1/2, -y+1/2, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir0+ 0
+V0+ 0
+B0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir0+ 4 g 0.109 0.122 0 . 1. 0
+V1 V0+ 4 g 0.368 0.312 0 . 1. 0
+V2 V0+ 4 g 0.64 0.07 0 . 1. 0
+B1 B0+ 4 g 0.035 0.616 0 . 1. 0
+B2 B0+ 4 g 0.228 0.655 0 . 1. 0
+#End of TTdata_601555-ICSD

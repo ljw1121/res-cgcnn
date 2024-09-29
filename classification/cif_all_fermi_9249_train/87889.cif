@@ -1,0 +1,55 @@
+
+data_87889-ICSD
+_database_code_ICSD 87889
+_audit_creation_date 2001-07-16
+_chemical_name_systematic 'Manganese mercury tetrathiocyanate'
+_chemical_formula_structural 'Mn Hg (S C N)4'
+_chemical_formula_sum 'C4 Hg1 Mn1 N4 S4'
+_chemical_name_structure_type CoHg(SCN)4
+_exptl_crystal_density_diffrn 2.96
+_cell_length_a 11.324(3)
+_cell_length_b 11.324(3)
+_cell_length_c 4.270(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 547.55
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+Mn2+ 2
+S2- -2
+C4+ 4
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg2+ 2 a 0 0 0 0.030(1) 1. 0
+Mn1 Mn2+ 2 d 0 0.5 0.75 0.033(1) 1. 0
+S1 S2- 8 g 0.1299(2) 0.1471(2) 0.3003(5) 0.033(1) 1. 0
+C1 C4+ 8 g 0.0835(7) 0.2690(7) 0.1231(22) 0.030(2) 1. 0
+N1 N3- 8 g 0.0518(6) 0.3540(5) 0.0076(55) 0.041(2) 1. 0

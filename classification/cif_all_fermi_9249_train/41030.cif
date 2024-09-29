@@ -1,0 +1,48 @@
+
+data_41030-ICSD
+_database_code_ICSD 41030
+_audit_creation_date 2000-07-15
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Vanadium oxide'
+_chemical_formula_structural 'V2 O5'
+_chemical_formula_sum 'O5 V2'
+_chemical_name_structure_type V2O5
+_chemical_name_mineral Shcherbinaite
+_exptl_crystal_density_diffrn 3.36
+_cell_length_a 11.555(1)
+_cell_length_b 4.371(1)
+_cell_length_c 3.557(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 179.65
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m n 21'
+_symmetry_Int_Tables_number 31
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V5+ 4 b 0.1487 0.1086 0 . 1. 0
+O1 O2- 4 b 0.1468(4) 0.466(13) 0.0320(49) . 1. 0
+O2 O2- 4 b 0.1813(3) -.0056(20) 0.5069(74) . 1. 0
+O3 O2- 2 a 0 -.003(4) 0.002(9) . 1. 0

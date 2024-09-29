@@ -1,0 +1,57 @@
+
+data_89611-ICSD
+_database_code_ICSD 89611
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Magnesium rhodium arsenide (1/6/4)'
+_chemical_formula_structural 'Mg Rh6 As4'
+_chemical_formula_sum 'As4 Mg1 Rh6'
+_chemical_name_structure_type LiCo6P4
+_exptl_crystal_density_diffrn 9.34
+_cell_length_a 7.271(1)
+_cell_length_b 7.271(1)
+_cell_length_c 3.612(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 165.37
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -6 m 2'
+_symmetry_Int_Tables_number 187
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z'
+2 '-x+y, y, -z'
+3 '-y, -x, -z'
+4 'x, x-y, z'
+5 '-x+y, y, z'
+6 '-y, -x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg0+ 0
+Rh0+ 0
+As0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg0+ 1 a 0 0 0 0.010(2) 1. 0
+Rh1 Rh0+ 3 j 0.5346(1) 0.4654(1) 0 0.0032(3) 1. 0
+Rh2 Rh0+ 3 k 0.1939(1) 0.8061(1) 0.5 0.0042(3) 1. 0
+As1 As0+ 1 c 0.3333 0.6667 0 0.0031(5) 1. 0
+As2 As0+ 3 k 0.8133(1) 0.1867(1) 0.5 0.0035(4) 1. 0

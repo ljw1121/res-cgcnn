@@ -1,0 +1,99 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_420833-ICSD
+_database_code_ICSD 420833
+_audit_creation_date 2010-08-01
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Barium cadmium arsenide (2/2/3)'
+_chemical_formula_structural 'Ba2 Cd2 As3'
+_chemical_formula_sum 'As3 Ba2 Cd2'
+_chemical_name_structure_type Sr2Zn2As3
+_exptl_crystal_density_diffrn 6.03
+_cell_measurement_temperature 170.
+_publ_section_title
+
+;
+Synthesis, crystallographic and theoretical studies of the new Zintl phases
+Ba2 Cd2 Pn3 (Pn= As, Sb) and the solid solutions (Ba1-x Srx)2 Cd2 Sb3 and Ba2
+Cd2 (Sb1-x Asx)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2010 39 1063 1070 DTARAF
+loop_
+_publ_author_name
+'Saparov, B.'
+'He Hua'
+'Zhang Xiaohang'
+'Greene, R.'
+'Bobev, S.'
+_cell_length_a 17.1877(17)
+_cell_length_b 4.5472(4)
+_cell_length_c 12.7253(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 126.6390(10)
+_cell_angle_gamma 90.
+_cell_volume 798.04
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0158
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Cd2+ 2
+As2- -2
+As3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 i 0.268933(19) 0. 0.66833(3) 0.00939(8) 1 0
+Ba2 Ba2+ 4 i 0.39225(2) 0. 0.04756(3) 0.01004(8) 1 0
+Cd1 Cd2+ 4 i 0.04089(2) 0. 0.31521(3) 0.01086(9) 1 0
+Cd2 Cd2+ 4 i 0.41066(3) 0. 0.34843(3) 0.01125(9) 1 0
+As1 As2- 4 i 0.07220(3) 0. 0.11742(5) 0.00984(11) 1 0
+As2 As3- 4 i 0.15243(3) 0. 0.80032(5) 0.00925(11) 1 0
+As3 As3- 4 i 0.38406(3) 0. 0.53873(5) 0.00902(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.00883(15) 0.01028(15) 0.00885(15) 0. 0.00516(12) 0.
+Ba2 Ba2+ 0.01079(15) 0.01005(14) 0.00952(15) 0. 0.00618(12) 0.
+Cd1 Cd2+ 0.00917(17) 0.01073(17) 0.01060(18) 0. 0.00478(15) 0.
+Cd2 Cd2+ 0.01295(18) 0.01114(17) 0.01148(18) 0. 0.00826(15) 0.
+As1 As2- 0.0085(2) 0.0118(2) 0.0081(2) 0. 0.0044(2) 0.
+As2 As3- 0.0089(2) 0.0098(2) 0.0094(2) 0. 0.0056(2) 0.
+As3 As3- 0.0092(2) 0.0092(2) 0.0087(2) 0. 0.0054(2) 0.
+#End of TTdata_420833-ICSD

@@ -1,0 +1,71 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239291-ICSD
+_database_code_ICSD 239291
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Palladium arsenide (5/1)'
+_chemical_formula_structural 'Pd5 As'
+_chemical_formula_sum 'As1 Pd5'
+_exptl_crystal_density_diffrn 11.34
+_publ_section_title 'Crystal structure and hydrogenation properties of Pd5 As'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2016 664 256 265 JALCEU
+loop_
+_publ_author_name
+'Kohlmann, H.'
+'Vasseur, M.'
+'Sayede, A.'
+'Lefevre, G.'
+'Sander, J.M.'
+'Doyle, S.'
+_cell_length_a 5.5182(2)
+_cell_length_b 7.7450(3)
+_cell_length_c 8.4213(4)
+_cell_angle_alpha 90
+_cell_angle_beta 99.037(2)
+_cell_angle_gamma 90
+_cell_volume 355.45
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.026
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As0+ 0
+Pd0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As0+ 4 i 0.2282(5) 0 0.7110(3) 0.61(6) 1. 0
+Pd1 Pd0+ 8 j 0.0372(4) 0.2406(2) 0.1744(2) 0.31(4) 1. 0
+Pd2 Pd0+ 4 i 0.2582(5) 0 0.0079(3) 0.29(6) 1. 0
+Pd3 Pd0+ 4 i 0.3493(6) 0 0.3537(3) 0.55(6) 1. 0
+Pd4 Pd0+ 4 h 0 0.1857(4) 0.5 0.79(6) 1. 0
+#End of TTdata_239291-ICSD

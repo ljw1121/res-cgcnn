@@ -1,0 +1,60 @@
+
+data_29263-ICSD
+_database_code_ICSD 29263
+_audit_creation_date 1984-12-31
+_chemical_name_systematic 'Trizirconium germanium oxide'
+_chemical_formula_structural 'Zr3 Ge O8'
+_chemical_formula_sum 'Ge1 O8 Zr3'
+_exptl_crystal_density_diffrn 6.02
+_cell_length_a 5.005(1)
+_cell_length_b 5.005(1)
+_cell_length_c 10.452(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 261.82
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4 2 m'
+_symmetry_Int_Tables_number 121
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x, z'
+2 'y, x, z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, -z'
+6 '-x, y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y+1/2, x+1/2, z+1/2'
+11 'y+1/2, -x+1/2, -z+1/2'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr4+ 4
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr4+ 2 b 0 0 0.5 0.2 1. 0
+Zr2 Zr4+ 4 d 0 0.5 0.25 0.2 1. 0
+Ge1 Ge4+ 2 a 0 0 0 0.2 1. 0
+O1 O2- 8 i 0.2004(5) 0.2004(5) 0.3410(6) 0.5 1. 0
+O2 O2- 8 i 0.2170(5) 0.2170(5) 0.0904(6) 0.5 1. 0

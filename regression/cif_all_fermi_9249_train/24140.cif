@@ -1,0 +1,68 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_24140-ICSD
+_database_code_ICSD 24140
+_audit_creation_date 1980-01-01
+_audit_update_record 2007-04-01
+_chemical_name_systematic 'Nickel sulfate(IV) hexahydrate'
+_chemical_formula_structural 'Ni (S O3) (H2 O)6'
+_chemical_formula_sum 'H12 Ni1 O9 S1'
+_chemical_name_structure_type MgSO3(H2O)6
+_exptl_crystal_density_diffrn 2.1
+_publ_section_title 'Structure cristalline du sulfite hexahydrate de nickel'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Bulletin de la Societe Chimique de France (Vol=Year)' 1964 1964 3152
+3155 BSCFAS
+loop_
+_publ_author_name
+'Weiss, R.'
+'Grandjean, D.'
+'Wendling, J.P.'
+_cell_length_a 5.84(2)
+_cell_length_b 5.84(2)
+_cell_length_c 5.84(2)
+_cell_angle_alpha 96.17(13)
+_cell_angle_beta 96.17(13)
+_cell_angle_gamma 96.17(13)
+_cell_volume 195.44
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'R 3 R'
+_symmetry_Int_Tables_number 146
+_refine_ls_R_factor_all 0.16
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z, x, y'
+2 'y, z, x'
+3 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+S4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 1 a 0 0 0 3.66(13) 1. 0
+S1 S4+ 1 a 0.51 0.51 0.51 1.48(13) 1. 0
+O1 O2- 3 b 0.516 0.499 0.231 4.56(13) 1. 0
+O2 O2- 3 b 0.071 0.676 0.863 3.16(13) 1. 0
+O3 O2- 3 b 0.342 0.14 0.956 2.39(13) 1. 0
+#End of TTdata_24140-ICSD

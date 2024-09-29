@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80798-ICSD
+_database_code_ICSD 80798
+_audit_creation_date 1997-05-13
+_chemical_name_systematic 'Iron tungsten tetraoxide chloride'
+_chemical_formula_structural 'Fe W O4 Cl'
+_chemical_formula_sum 'Cl1 Fe1 O4 W1'
+_chemical_name_structure_type FeMoO4Cl
+_exptl_crystal_density_diffrn 4.79
+_publ_section_title
+'Synthesis and structural analysis of the new layered compound Fe W O4 Cl'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Journal of the Chemical Society. Dalton Transactions, Inorganic Chemistry
+(1972-)
+; 1991 1991 1647 1648 JCDTBI
+loop_
+_publ_author_name
+'Choy, J.-H.'
+'Noh, D.-Y.'
+'Park, H.-H.'
+'Park, J.-C.'
+_cell_length_a 6.677(5)
+_cell_length_b 6.677(5)
+_cell_length_c 5.270(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 234.95
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n m m Z'
+_symmetry_Int_Tables_number 129
+_refine_ls_R_factor_all 0.06
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z'
+2 '-y, x+1/2, -z'
+3 'y+1/2, -x, -z'
+4 '-y, -x, -z'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 'y, -x+1/2, z'
+11 '-y+1/2, x, z'
+12 'y, x, z'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z'
+15 '-x+1/2, y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+W6+ 6
+O2- -2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 2 c 0.25 0.25 0.281(3) 0.63(4) 1. 0
+W1 W6+ 2 a 0.25 0.75 0 0.46(4) 1. 0
+O1 O2- 8 i 0.25 0.96(5) 0.19(8) 0.94(7) 1. 0
+Cl1 Cl1- 2 c 0.75 0.75 0.288(2) 1.32(4) 1. 0
+#End of TTdata_80798-ICSD

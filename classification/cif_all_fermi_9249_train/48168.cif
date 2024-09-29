@@ -1,0 +1,83 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_48168-ICSD
+_database_code_ICSD 48168
+_audit_creation_date 1984-12-31
+_chemical_name_systematic 'Sodium aluminium antimony (7/2/5)'
+_chemical_formula_structural 'Na7 Al2 Sb5'
+_chemical_formula_sum 'Al2 Na7 Sb5'
+_exptl_crystal_density_diffrn 3.61
+_publ_section_title
+'Neuartige Polyanionen in Zintlphasen. Zur Kenntnis von Na7 Al2 Sb5'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1984
+517 118 124 ZAACAB
+loop_
+_publ_author_name
+'Cordier, G.'
+'Ochmann, H.'
+'Schaefer, H.'
+_cell_length_a 8.190(2)
+_cell_length_b 13.590(3)
+_cell_length_c 7.720(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 118.0(1)
+_cell_angle_gamma 90.
+_cell_volume 758.67
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.075
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na0+ 0
+Al0+ 0
+Sb0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na0+ 4 f 0.5832(10) 0.0751(5) 0.8919(10) 0.0278(14) 1. 0
+Na2 Na0+ 4 f 0.8824(10) 0.9223(6) 0.8080(11) 0.0312(15) 1. 0
+Na3 Na0+ 2 e 0.2619(14) 0.25 0.5596(15) 0.0274(20) 1. 0
+Na4 Na0+ 2 e 0.8558(16) 0.25 0.7709(17) 0.0337(23) 1. 0
+Na5 Na0+ 2 e 0.4047(15) 0.25 0.0988(16) 0.0302(21) 1. 0
+Al1 Al0+ 4 f 0.1619(5) 0.9104(3) 0.5864(6) 0.0144(8) 1. 0
+Sb1 Sb0+ 4 f 0.1494(1) 0.0784(1) 0.7742(1) . 1. 0
+Sb2 Sb0+ 4 f 0.4637(1) 0.8985(1) 0.5289(1) . 1. 0
+Sb3 Sb0+ 2 e 0.8374(2) 0.25 0.2009(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sb1 Sb0+ 0.0156(4) 0.0099(4) 0.0120(4) 0.0006(3) 0.0040(3) 0.0001(3)
+Sb2 Sb0+ 0.0165(4) 0.0118(4) 0.0175(4) -.0007(3) 0.0078(3) -.0001(3)
+Sb3 Sb0+ 0.0173(6) 0.0078(5) 0.0140(6) 0 0.0066(5) 0
+#End of TTdata_48168-ICSD

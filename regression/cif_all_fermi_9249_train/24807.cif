@@ -1,0 +1,64 @@
+
+data_24807-ICSD
+_database_code_ICSD 24807
+_audit_creation_date 1982-12-31
+_chemical_name_systematic 'Zirconium diiodide - beta'
+_chemical_formula_structural 'Zr I2'
+_chemical_formula_sum 'I2 Zr1'
+_chemical_name_structure_type WTe2
+_exptl_crystal_density_diffrn 6.02
+_cell_length_a 3.7442(5)
+_cell_length_b 6.831(1)
+_cell_length_c 14.886(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 380.73
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P m n 21'
+_symmetry_Int_Tables_number 31
+_refine_ls_R_factor_all 0.051
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr2+ 2
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr2+ 2 a 0 0.8849(3) 0.5 . 1. 0
+Zr2 Zr2+ 2 a 0 0.4922(3) 0.0066(2) . 1. 0
+I1 I1- 2 a 0 0.2745(3) 0.3945(2) . 1. 0
+I2 I1- 2 a 0 0.2226(3) 0.8567(2) . 1. 0
+I3 I1- 2 a 0 0.6161(3) 0.6510(2) . 1. 0
+I4 I1- 2 a 0 0.8824(3) 0.1135(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Zr1 Zr2+ 1.32(11) 1.64(10) 1.23(9) -.07(9) 0 0
+Zr2 Zr2+ 1.14(9) 1.31(9) 1.34(9) -.05(9) 0 0
+I1 I1- 1.25(7) 1.64(7) 0.94(7) 0.04(6) 0 0
+I2 I1- 1.60(8) 1.25(8) 1.12(8) -.13(6) 0 0
+I3 I1- 1.46(7) 1.43(7) 1.04(7) 0.02(5) 0 0
+I4 I1- 1.22(8) 1.47(7) 1.13(7) 0.20(5) 0 0

@@ -1,0 +1,75 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_39565-ICSD
+_database_code_ICSD 39565
+_audit_creation_date 1993-08-22
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Titanium(II) bis(tetrachloroaluminate)'
+_chemical_formula_structural 'Ti (Al Cl4)2'
+_chemical_formula_sum 'Al2 Cl8 Ti1'
+_chemical_name_structure_type Co(AlCl4)2
+_exptl_crystal_density_diffrn 2.17
+_publ_section_title
+
+;
+Crystal structure of titanium(II) chloroaluminates Ti (Al Cl4)2 and refinement
+of Al Cl3 crystal structure.
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Neorganicheskoi Khimii' 1992 37 266 272 ZNOKAQ
+loop_
+_publ_author_name
+'Troyanov, S.I.'
+_cell_length_a 12.987(3)
+_cell_length_b 7.708(2)
+_cell_length_c 11.772(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.58(1)
+_cell_angle_gamma 90.
+_cell_volume 1177.23
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, -z'
+3 'x, -y, z+1/2'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti2+ 2
+Al3+ 3
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti2+ 4 e 0 0.0088(1) 0.25 2.21(1) 1. 0
+Al1 Al3+ 8 f 0.09160(7) 0.2534(1) 0.55502(7) 2.27(1) 1. 0
+Cl1 Cl1- 8 f -.06337(5) 0.2326(1) 0.61386(6) 2.76(1) 1. 0
+Cl2 Cl1- 8 f 0.15784(6) 0.0190(1) 0.62831(6) 2.89(1) 1. 0
+Cl3 Cl1- 8 f 0.08936(6) 0.2463(1) 0.37148(6) 2.79(1) 1. 0
+Cl4 Cl1- 8 f 0.16488(7) 0.4788(1) 0.61276(8) 3.69(2) 1. 0
+#End of TTdata_39565-ICSD

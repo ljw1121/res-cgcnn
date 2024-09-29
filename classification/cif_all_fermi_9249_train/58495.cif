@@ -1,0 +1,72 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_58495-ICSD
+_database_code_ICSD 58495
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Gold indium (10/3)'
+_chemical_formula_structural 'Au10 In3'
+_chemical_formula_sum 'Au10 In3'
+_exptl_crystal_density_diffrn 16.69
+_publ_section_title 'Crystal structure of Au10 In3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Metallkunde' 1982 73 463 467 ZEMTAE
+loop_
+_publ_author_name
+'Jandali, M.Z.'
+'Rajasekharan, T.'
+'Schubert, K.'
+_cell_length_a 10.5387(5)
+_cell_length_b 10.5387
+_cell_length_c 4.7862(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 460.36
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.061
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au0+ 0
+In0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au0+ 2 c 0.3333 0.6667 0.25 . 1. 0
+Au2 Au0+ 6 h 0.1774 0.1269 0.25 . 1. 0
+Au3 Au0+ 6 h 0.4107 0.4343 0.25 . 1. 0
+Au4 Au0+ 6 h 0.4862 0.207 0.25 . 1. 0
+In1 In0+ 6 h 0.105 0.364 0.25 . 1. 0
+#End of TTdata_58495-ICSD

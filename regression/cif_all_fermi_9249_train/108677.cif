@@ -1,0 +1,75 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_108677-ICSD
+_database_code_ICSD 108677
+_audit_creation_date 2006-10-01
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Palladium vanadium (3/1) - LT'
+_chemical_formula_structural 'Pd3 V'
+_chemical_formula_sum 'Pd3 V1'
+_chemical_name_structure_type CuInPt2
+_exptl_crystal_density_diffrn 10.77
+_publ_section_title
+'Leitfaehigkeit und Hallkonstante. XI. Das System Co3 V - Ni3 V - Pd3 V'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Metallkunde' 1960 51 385 391 ZEMTAE
+loop_
+_publ_author_name
+'Koester, Werner'
+'Gmoehling, Werner'
+_cell_length_a 3.84
+_cell_length_b 3.84
+_cell_length_c 3.87
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 57.07
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 4/m m m'
+_symmetry_Int_Tables_number 123
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z'
+2 '-y, -x, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z'
+10 'y, x, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 'x, -y, z'
+14 '-x, y, z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V0+ 0
+Pd0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V0+ 1 a 0 0 0 . 1. 0
+Pd1 Pd0+ 1 c 0.5 0.5 0 . 1. 0
+Pd2 Pd0+ 2 e 0 0.5 0.5 . 1. 0
+#End of TTdata_108677-ICSD

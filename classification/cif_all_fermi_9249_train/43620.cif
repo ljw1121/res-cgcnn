@@ -1,0 +1,75 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_43620-ICSD
+_database_code_ICSD 43620
+_audit_creation_date 2000-07-15
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Yttrium sulfide (5/7)'
+_chemical_formula_structural 'Y5 S7'
+_chemical_formula_sum 'S7 Y5'
+_chemical_name_structure_type Y5S7
+_exptl_crystal_density_diffrn 4.1
+_publ_section_title
+
+;
+Contribution a l'etude d'un groupe de sulfures isostructuraux de terres rares
+et d'yttrium de type: Y5 S7 et Fe Y4 S7
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Annales de Chimie (Paris) (Vol=Year)' 1965 1965 271 297 ANCPAC
+loop_
+_publ_author_name
+'Adolphe, C.'
+_cell_length_a 12.768(2)
+_cell_length_b 3.803(1)
+_cell_length_c 11.545(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.82
+_cell_angle_gamma 90.
+_cell_volume 541.94
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.154
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y2+ 2.8
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y2+ 2 a 0 0 0 . 1. 0
+Y2 Y2+ 4 i 0.3021 0 0.1903 . 1. 0
+Y3 Y2+ 4 i 0.1127 0 0.4226 . 1. 0
+S1 S2- 2 d 0 0.5 0.5 . 1. 0
+S2 S2- 4 i 0.6593 0 0.051 . 1. 0
+S3 S2- 4 i 0.9599 0 0.2154 . 1. 0
+S4 S2- 4 i 0.2593 0 0.6444 . 1. 0
+#End of TTdata_43620-ICSD

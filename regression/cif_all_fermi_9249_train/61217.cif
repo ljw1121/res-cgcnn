@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_61217-ICSD
+_database_code_ICSD 61217
+_audit_creation_date 1986-12-03
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Octalithium iridate(IV)'
+_chemical_formula_structural 'Li8 (Ir O6)'
+_chemical_formula_sum 'Ir1 Li8 O6'
+_chemical_name_structure_type Li8IrO6
+_exptl_crystal_density_diffrn 4.49
+_publ_section_title
+'Neue Vertreter der Li8 Sn O6-Familie: Li8 Ir O6, Li8 Pt O6 und Li8 Ce O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1986
+536 81 91 ZAACAB
+loop_
+_publ_author_name
+'Kroeschell, P.'
+'Wolf, R.'
+'Hoppe, R.'
+_cell_length_a 5.4151(6)
+_cell_length_b 5.4151(6)
+_cell_length_c 15.0584(37)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 382.4
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.0457
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir4+ 4
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir4+ 3 a 0 0 0 . 1. 0
+Li1 Li1+ 18 f 0.6227(14) 0.6444(56) 0.8776(17) 0.0487(51) 1. 0
+Li2 Li1+ 6 c 0 0 0.3424(24) . 1. 0
+O1 O2- 18 f 0.6740(17) 0.6378(16) 0.4102(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ir1 Ir4+ 0.0148(3) 0.0148(3) 0.0169(4) 0.0074(1) 0 0
+Li2 Li1+ 0.0378(81) 0.0378(81) 0.0170(84) 0.0189(41) 0 0
+O1 O2- 0.0245(29) 0.0246(31) 0.0241(24) 0.0104(25) 0.0027(26) -.0020(25)
+#End of TTdata_61217-ICSD

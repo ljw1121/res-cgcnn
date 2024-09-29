@@ -1,0 +1,96 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_76389-ICSD
+_database_code_ICSD 76389
+_audit_creation_date 2000-12-16
+_audit_update_record 2011-08-01
+_chemical_name_systematic 'Niobium nitride (4/3)'
+_chemical_formula_structural 'Nb4 N3'
+_chemical_formula_sum 'N3 Nb4'
+_chemical_name_structure_type Nb4N3+x
+_exptl_crystal_density_diffrn 8.29
+_publ_section_title 'Neuton diffraction study of the niobium nitride Nb4 N3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Izvestiya Vysshikh Uchebnykh Zavedenii, Tsvetnaya Metallurgiya' 1971 14
+140 144 IVUTAK
+loop_
+_publ_author_name
+'Chervyakov, A.Yu.'
+'Somenkov, V.A.'
+'Umanskii, Ya.S.'
+'Shil'shtein, S.Sh.'
+'Yanchur, V.P.'
+_cell_length_a 4.382
+_cell_length_b 4.382
+_cell_length_c 8.632
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 165.75
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 4/m m m'
+_symmetry_Int_Tables_number 139
+_refine_ls_R_factor_all 0.055
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z'
+2 '-y, -x, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z'
+10 'y, x, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 'x, -y, z'
+14 '-x, y, z'
+15 '-x, -y, z'
+16 'x, y, z'
+17 'y+1/2, x+1/2, -z+1/2'
+18 '-y+1/2, -x+1/2, -z+1/2'
+19 '-y+1/2, x+1/2, -z+1/2'
+20 'y+1/2, -x+1/2, -z+1/2'
+21 '-x+1/2, y+1/2, -z+1/2'
+22 'x+1/2, -y+1/2, -z+1/2'
+23 'x+1/2, y+1/2, -z+1/2'
+24 '-x+1/2, -y+1/2, -z+1/2'
+25 '-y+1/2, -x+1/2, z+1/2'
+26 'y+1/2, x+1/2, z+1/2'
+27 'y+1/2, -x+1/2, z+1/2'
+28 '-y+1/2, x+1/2, z+1/2'
+29 'x+1/2, -y+1/2, z+1/2'
+30 '-x+1/2, y+1/2, z+1/2'
+31 '-x+1/2, -y+1/2, z+1/2'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb0+ 0
+N0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb0+ 4 c 0 0.5 0 . 1. 0
+Nb2 Nb0+ 4 e 0 0 0.2521 . 1. 0
+N1 N0+ 2 a 0 0 0 . 1. 0
+N2 N0+ 4 d 0 0.5 0.25 . 1. 0
+#End of TTdata_76389-ICSD

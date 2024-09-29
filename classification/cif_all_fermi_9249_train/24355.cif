@@ -1,0 +1,73 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_24355-ICSD
+_database_code_ICSD 24355
+_audit_creation_date 1980-01-01
+_audit_update_record 2014-02-01
+_chemical_name_systematic 'Rhodium silicide (4/5)'
+_chemical_formula_structural 'Rh4 Si5'
+_chemical_formula_sum 'Rh4 Si5'
+_chemical_name_structure_type Rh4Si5
+_exptl_crystal_density_diffrn 7.17
+_publ_section_title
+
+;
+The crystal structure of Rh4 Si5 and its relation to other members of the Mn P
+structure family
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica (1-27,1973-42,1988)' 1968 22 3127 3136 ACSAA4
+loop_
+_publ_author_name
+'Engstroem, I.'
+_cell_length_a 12.335(5)
+_cell_length_b 3.508(1)
+_cell_length_c 5.924(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.181(30)
+_cell_angle_gamma 90.
+_cell_volume 252.3
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.102
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rh0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rh1 Rh0+ 2 e 0.05022(23) 0.25 0.20598(52) 0.18 1. 0
+Rh2 Rh0+ 2 e 0.27354(22) 0.25 0.10782(51) 0.21 1. 0
+Rh3 Rh0+ 2 e 0.50051(22) 0.25 0.30142(53) 0.17 1. 0
+Rh4 Rh0+ 2 e 0.72970(23) 0.25 0.28419(53) 0.23 1. 0
+Si1 Si0+ 2 e 0.6362(10) 0.25 0.6395(22) 0.44 1. 0
+Si2 Si0+ 2 e 0.4215(11) 0.25 0.8933(23) 0.55 1. 0
+Si3 Si0+ 2 e 0.2243(11) 0.25 0.4672(24) 0.58 1. 0
+Si4 Si0+ 2 e 0.1418(10) 0.75 0.9812(22) 0.43 1. 0
+Si5 Si0+ 2 e 0.92243(94) 0.25 0.4853(21) 0.32 1. 0
+#End of TTdata_24355-ICSD

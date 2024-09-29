@@ -1,0 +1,74 @@
+
+data_54354-ICSD
+_database_code_ICSD 54354
+_audit_creation_date 2005-10-01
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Ruthenium tin yttrium (4/6/1)'
+_chemical_formula_structural 'Ru4 Sn6 Y'
+_chemical_formula_sum 'Ru4 Sn6 Y1'
+_chemical_name_structure_type Ru4Sn6Y
+_exptl_crystal_density_diffrn 8.74
+_cell_length_a 6.840(1)
+_cell_length_b 6.840(1)
+_cell_length_c 9.786(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 457.84
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4 2 m'
+_symmetry_Int_Tables_number 121
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x, z'
+2 'y, x, z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, -z'
+6 '-x, y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y+1/2, x+1/2, z+1/2'
+11 'y+1/2, -x+1/2, -z+1/2'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y0+ 0
+Ru0+ 0
+Sn0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y0+ 2 a 0 0 0 . 1. 0
+Ru1 Ru0+ 8 i 0.1726(3) 0.1726(3) 0.5772(2) . 1. 0
+Sn1 Sn0+ 8 i 0.1763(2) 0.1763(2) 0.2933(2) . 1. 0
+Sn2 Sn0+ 4 c 0 0.5 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y0+ 0.0113(14) 0.0113(14) 0.0125(24) 0. 0. 0.
+Ru1 Ru0+ 0.0056(6) 0.0056(6) 0.0040(9) -0.0021(13) -0.0007(8) -0.0007(8)
+Sn1 Sn0+ 0.0098(5) 0.0098(5) 0.0062(7) 0.0012(10) 0.0014(6) 0.0014(6)
+Sn2 Sn0+ 0.0052(11) 0.0096(12) 0.0136(12) 0. 0. 0.

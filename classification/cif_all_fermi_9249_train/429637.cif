@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_429637-ICSD
+_database_code_ICSD 429637
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Rhodium yttrium germanide (4/1/2)'
+_chemical_formula_structural 'Rh4 Y1 Ge2'
+_chemical_formula_sum 'Ge2 Rh4 Y1'
+_exptl_crystal_density_diffrn 9.8
+_cell_measurement_temperature 293.
+_publ_section_title
+'Rhodium-rich germanides RE Rh4 Ge2 (RE = Y, Gd-Lu): structure and bonding'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Monatshefte fuer Chemie' 2015 146 1375 1383 MOCMB7
+loop_
+_publ_author_name
+'Vosswinkel, Daniel'
+'Matar, Samir F.'
+'Poettgen, Rainer'
+_cell_length_a 11.364(2)
+_cell_length_b 4.1829(5)
+_cell_length_c 9.1012(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 432.62
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0126
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y0+ 0
+Rh0+ 0
+Ge0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y0+ 4 c 0.32580(4) 0.25 0.35104(5) 0.00612(12) 1 0
+Rh1 Rh0+ 4 c 0.99784(3) 0.25 0.88407(5) 0.00481(10) 1 0
+Rh2 Rh0+ 4 c 0.76936(3) 0.25 0.81142(5) 0.00603(10) 1 0
+Rh3 Rh0+ 4 c 0.06099(3) 0.25 0.32886(4) 0.00482(10) 1 0
+Rh4 Rh0+ 4 c 0.84504(3) 0.25 0.49723(4) 0.00487(10) 1 0
+Ge1 Ge0+ 4 c 0.13792(5) 0.25 0.08558(6) 0.00440(14) 1 0
+Ge2 Ge0+ 4 c 0.55918(5) 0.25 0.88247(6) 0.00502(13) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y0+ 0.0064(2) 0.0055(2) 0.0065(2) 0 -0.00159(16) 0
+Rh1 Rh0+ 0.00543(16) 0.00389(17) 0.00511(17) 0 -0.00102(13) 0
+Rh2 Rh0+ 0.00551(16) 0.00437(18) 0.00823(18) 0 0.00033(13) 0
+Rh3 Rh0+ 0.00526(16) 0.00518(18) 0.00402(16) 0 -0.00010(13) 0
+Rh4 Rh0+ 0.00496(17) 0.00489(17) 0.00475(19) 0 -0.00027(12) 0
+Ge1 Ge0+ 0.0050(2) 0.0042(2) 0.0040(3) 0 -0.00028(17) 0
+Ge2 Ge0+ 0.0052(2) 0.0047(2) 0.0052(2) 0 0.00021(18) 0
+#End of TTdata_429637-ICSD

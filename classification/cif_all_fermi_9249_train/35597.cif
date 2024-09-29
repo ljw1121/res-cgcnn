@@ -1,0 +1,68 @@
+
+data_35597-ICSD
+_database_code_ICSD 35597
+_audit_creation_date 1983-12-31
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Silver pentaindium selenide'
+_chemical_formula_structural 'Ag In5 Se8'
+_chemical_formula_sum 'Ag1 In5 Se8'
+_chemical_name_structure_type AgIn5Se8
+_exptl_crystal_density_diffrn 5.59
+_cell_length_a 5.7934(4)
+_cell_length_b 5.7934(4)
+_cell_length_c 11.6223(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 390.08
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -4 2 m'
+_symmetry_Int_Tables_number 111
+_refine_ls_R_factor_all 0.0315
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x, z'
+2 'y, x, z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, -z'
+6 '-x, y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ag1+ 1
+In3+ 3
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ag1 Ag1+ 1 c 0 0 0.5 . 1. 0
+In1 In3+ 4 m 0 0.5 0.25013(18) . 1. 0
+In2 In3+ 1 d 0.5 0.5 0 . 1. 0
+Se1 Se2- 4 n 0.22834(25) 0.22834(25) 0.11225(16) . 1. 0
+Se2 Se2- 4 n 0.72177(25) 0.72177(25) 0.61414(16) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ag1 Ag1+ 0.0148(9) 0.0418 0.0097(11) 0 0 0
+In1 In3+ 0.0198(7) 0.0130(6) 0.0173(4) 0.0005(10) 0 0
+In2 In3+ 0.0221(10) 0.0221 0.0184(13) 0 0 0
+Se1 Se2- 0.0145(7) 0.0145 0.0109(8) 0.0011(11) 0.001 0.0010(6)
+Se2 Se2- 0.0117(7) 0.0117 0.0146(9) 0.0003(10) -0.0006 -0.0006(6)

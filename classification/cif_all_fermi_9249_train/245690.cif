@@ -1,0 +1,82 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_245690-ICSD
+_database_code_ICSD 245690
+_audit_creation_date 2008-08-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Barium hafnium bis(phosphate)'
+_chemical_formula_structural 'Ba Hf (P O4)2'
+_chemical_formula_sum 'Ba1 Hf1 O8 P2'
+_chemical_name_structure_type NaV(SO4)2
+_exptl_crystal_density_diffrn 4.72
+_publ_section_title
+
+;
+The chemistry of the phosphates of barium and tetravalent cations in the 1:1
+stoichiometry
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2007 180 2346 2355 JSSCBI
+loop_
+_publ_author_name
+'Popa, K.'
+'Bregiroux, D.'
+'Konings, R.J.M.'
+'Gouder, T.'
+'Popa, A.F.'
+'Geisler, T.'
+'Raison, P.E.'
+_cell_length_a 8.53892(18)
+_cell_length_b 5.29277(12)
+_cell_length_c 7.88106(19)
+_cell_angle_alpha 90
+_cell_angle_beta 93.1702(16)
+_cell_angle_gamma 90
+_cell_volume 355.64
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0348
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hf4+ 4
+Ba2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hf1 Hf4+ 2 a 0 0 0 0.009(2) 1. 0
+Ba1 Ba2+ 2 c 0 0 0.5 0.021(3) 1. 0
+P1 P5+ 4 i 0.3597(8) 0 0.2240(8) 0.024(5) 1. 0
+O1 O2- 4 i 0.237(2) 0 0.0731(19) 0.079(12) 1. 0
+O2 O2- 4 i 0.3370(19) 0 0.4259(15) 0.077(14) 1. 0
+O3 O2- 8 j 0.4577(7) 0.2705(16) 0.1965(10) 0.001(7) 1. 0
+#End of TTdata_245690-ICSD

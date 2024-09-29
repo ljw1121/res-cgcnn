@@ -1,0 +1,93 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_96152-ICSD
+_database_code_ICSD 96152
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Lanthanum magnesium nickel (1/2/1)'
+_chemical_formula_structural 'La Mg2 Ni'
+_chemical_formula_sum 'La1 Mg2 Ni1'
+_chemical_name_structure_type Al2CuMg
+_exptl_crystal_density_diffrn 4.49
+_publ_section_title
+
+;
+La Mg2 Ni H7, a novel quaternary metal hydride containing tetrahedral (Ni
+H4)(4-) complexes and hydride anions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2003 350 145 150 JALCEU
+loop_
+_publ_author_name
+'Renaudin, G.'
+'Guenee, L.'
+'Yvon, K.'
+_cell_length_a 4.2266(6)
+_cell_length_b 10.303(1)
+_cell_length_c 8.360(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 364.05
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.02
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+Ni0+ 0
+Mg0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 4 c 0 0.44029(2) 0.25 0.0156(2) 1. 0
+Ni1 Ni0+ 4 c 0 0.72661(6) 0.25 0.0181(3) 1. 0
+Mg1 Mg0+ 8 f 0 0.1543(1) 0.0552(1) 0.0170(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La0+ 0.0153(2) 0.0148(2) 0.0167(2) 0. 0. 0.
+Ni1 Ni0+ 0.0174(3) 0.0196(3) 0.0175(3) 0. 0. 0.
+Mg1 Mg0+ 0.0172(5) 0.0176(5) 0.0161(5) 0. 0. 0.0002(4)
+#End of TTdata_96152-ICSD

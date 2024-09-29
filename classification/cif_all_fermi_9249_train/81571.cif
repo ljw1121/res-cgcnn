@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_81571-ICSD
+_database_code_ICSD 81571
+_audit_creation_date 1997-05-13
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Thallium copper(I) titanium telluride'
+_chemical_formula_structural 'Tl Cu Ti Te3'
+_chemical_formula_sum 'Cu1 Te3 Ti1 Tl1'
+_chemical_name_structure_type TlCuTiTe3
+_exptl_crystal_density_diffrn 7.31
+_cell_measurement_temperature 115.
+_publ_section_title 'Synthesis and structure of Tl Cu Ti Te3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1996 240 37 41 JALCEU
+loop_
+_publ_author_name
+'Pell, M.A.'
+'Ibers, J.A.'
+_cell_length_a 8.409(8)
+_cell_length_b 3.956(3)
+_cell_length_c 10.261(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.56(4)
+_cell_angle_gamma 90.
+_cell_volume 317.46
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+Cu1+ 1
+Ti4+ 4
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 2 e 0.71985(8) 0.25 0.71060(7) . 1. 0
+Cu1 Cu1+ 2 e 0.0770(2) 0.75 0.6032(2) . 1. 0
+Ti1 Ti4+ 2 e 0.7108(4) 0.75 0.1732(3) . 1. 0
+Te1 Te2- 2 e 0.74599(12) 0.75 0.44336(10) . 1. 0
+Te2 Te2- 2 e 0.45468(12) 0.25 0.12279(10) . 1. 0
+Te3 Te2- 2 e 0.07373(12) 0.75 0.85466(10) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl1+ 0.0184(3) 0.0070(3) 0.0131(3) 0 0.0068(2) 0
+Cu1 Cu1+ 0.0126(9) 0.0065(9) 0.0084(8) 0 0.0020(7) 0
+Ti1 Ti4+ 0.0099(11) 0.0040(11) 0.0038(10) 0 0.0001(8) 0
+Te1 Te2- 0.0109(4) 0.0049(4) 0.0047(4) 0 0.0014(3) 0
+Te2 Te2- 0.0089(4) 0.0035(4) 0.0047(4) 0 0.0006(3) 0
+Te3 Te2- 0.0102(4) 0.0035(4) 0.0071(4) 0 0.0023(3) 0
+#End of TTdata_81571-ICSD

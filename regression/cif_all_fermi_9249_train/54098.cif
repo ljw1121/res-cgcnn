@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_54098-ICSD
+_database_code_ICSD 54098
+_audit_creation_date 1999-06-02
+_chemical_name_systematic 'Rubidium tantalum bis(phosphate(V))'
+_chemical_formula_structural 'Rb Ta (P O4)2'
+_chemical_formula_sum 'O8 P2 Rb1 Ta1'
+_chemical_name_structure_type NaV(SO4)2
+_exptl_crystal_density_diffrn 4.01
+_publ_section_title
+
+;
+Crystal structure of Rb Ta (P O4)2 and some laws governing the structure of
+tantalumm orthophosphates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Izvestiya Akademii Nauk SSSR, Neorganicheskie Materialy' 1986 22 1369
+1372 IVNMAW
+loop_
+_publ_author_name
+'Nikolaev, V.P.'
+'Sadikov, G.G.'
+'Lavrov, A.V.'
+'Porai Koshits, M.A.'
+_cell_length_a 8.610(1)
+_cell_length_b 5.2156(6)
+_cell_length_c 8.420(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 93.18(1)
+_cell_angle_gamma 90.
+_cell_volume 377.53
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta5+ 5
+Rb1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ta1 Ta5+ 2 c 0 0 0.5 . 1. 0
+Rb1 Rb1+ 2 a 0 0 0 . 1. 0
+P1 P5+ 4 i 0.3574(1) 0 0.7019(1) . 1. 0
+O1 O2- 8 j 0.4548(3) 0.2371(5) 0.6575(4) . 1. 0
+O2 O2- 4 i 0.2145(4) 0 0.5799(5) . 1. 0
+O3 O2- 4 i 0.3175(5) 0 0.8698(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Ta1 Ta5+ 0.498(6) 0.431(6) 0.863(9) 0 -.104(5) 0
+Rb1 Rb1+ 2.34(3) 2.40(3) 1.40(3) 0 0.15(2) 0
+P1 P5+ 0.58(3) 0.58(3) 0.75(4) 0 0.03(3) 0
+O1 O2- 1.21(7) 1.13(7) 1.81(7) -.56(6) -.45(7) 0.45(8)
+O2 O2- 0.55(8) 1.1(1) 1.9(1) 0 -.30(9) 0
+O3 O2- 2.0(1) 2.8(2) 1.0(1) 0 0.5(1) 0
+#End of TTdata_54098-ICSD

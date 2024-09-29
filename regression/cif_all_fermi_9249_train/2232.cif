@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_2232-ICSD
+_database_code_ICSD 2232
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Copper bis(iodate(V)) - gamma'
+_chemical_formula_structural 'Cu (I O3)2'
+_chemical_formula_sum 'Cu1 I2 O6'
+_exptl_crystal_density_diffrn 5.26
+_publ_section_title
+'The crystal structure and magnetic behavior of gamma Cu (I O3)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1978 34 2398 2402 ACBCAR
+loop_
+_publ_author_name
+'Liminga, R.'
+'Booles, S.R.'
+_cell_length_a 4.9944(7)
+_cell_length_b 6.3810(6)
+_cell_length_c 8.1915(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.08(1)
+_cell_angle_gamma 90.
+_cell_volume 260.89
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+I5+ 5
+Cu2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+I1 I5+ 2 e 0.03775(3) 0.25 0.24151(2) . 1. 0
+I2 I5+ 2 e 0.46482(3) 0.25 0.84414(2) . 1. 0
+Cu1 Cu2+ 2 d 0.5 0 0.5 . 1. 0
+O1 O2- 4 f 0.25688(33) 0.03444(27) 0.31016(19) . 1. 0
+O2 O2- 2 e 0.80036(41) 0.25 0.3994(3) . 1. 0
+O3 O2- 4 f 0.25294(37) 0.03719(32) 0.90406(22) . 1. 0
+O4 O2- 2 e 0.36816(42) 0.25 0.62094(23) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+I1 I5+ 0.00596(4) 0.00417(3) 0.00252(2) 0 0.00004(2) 0
+I2 I5+ 0.00772(4) 0.00473(3) 0.00219(2) 0 0.00029(2) 0
+Cu1 Cu2+ 0.01083(9) 0.00468(5) 0.00284(3) 0.00177(6) -.00065(4) -.00061(3)
+O1 O2- 0.01285(40) 0.00653(26) 0.00441(15) 0.00364(27) -.00201(20) -.00095(16)
+O2 O2- 0.01201(60) 0.00703(38) 0.00528(24) 0 0.00354(31) 0
+O3 O2- 0.01612(50) 0.01021(34) 0.00481(17) -.00470(35) 0.00068(23) 0.00195(20)
+O4 O2- 0.01119(52) 0.00429(28) 0.00243(16) 0 0.00015(23) 0
+#End of TTdata_2232-ICSD

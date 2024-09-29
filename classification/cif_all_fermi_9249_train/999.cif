@@ -1,0 +1,86 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_999-ICSD
+_database_code_ICSD 999
+_audit_creation_date 1980-01-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Vanadium arsenide (3/2)'
+_chemical_formula_structural 'V3 As2'
+_chemical_formula_sum 'As2 V3'
+_chemical_name_structure_type As2V3
+_exptl_crystal_density_diffrn 6.8
+_publ_section_title 'The crystal structure of V3 As2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica, Series A: (28,1974-)' 1977 31 287 291 ACAPCT
+loop_
+_publ_author_name
+'Berger, R.'
+_cell_length_a 9.4128(3)
+_cell_length_b 9.4128(3)
+_cell_length_c 3.3361(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 295.58
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 4/m'
+_symmetry_Int_Tables_number 83
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'y, -x, z'
+6 '-y, x, z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V0+ 0
+As0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V0+ 4 k 0.13335(9) 0.17927(9) 0.5 . 1. 0
+V2 V0+ 4 j 0.39694(9) 0.28477(9) 0 . 1. 0
+V3 V0+ 2 f 0 0.5 0.5 . 1. 0
+V4 V0+ 1 d 0.5 0.5 0.5 . 1. 0
+V5 V0+ 1 a 0 0 0 . 1. 0
+As1 As0+ 4 k 0.24604(5) 0.41181(5) 0.5 . 1. 0
+As2 As0+ 4 j 0.28481(5) 0.03946(5) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V0+ 0.0072(4) 0.0053(4) 0.0080(4) 0.0000(3) 0 0
+V2 V0+ 0.0061(4) 0.0070(4) 0.0066(5) 0.0003(3) 0 0
+V3 V0+ 0.0076(6) 0.0099(6) 0.0128(7) 0.0026(4) 0 0
+V4 V0+ 0.0040(4) 0.0040(4) 0.0102(9) 0 0 0
+V5 V0+ 0.0053(5) 0.0053(5) 0.0103(9) 0 0 0
+As1 As0+ 0.0054(2) 0.0054(2) 0.0062(3) -.0002(2) 0 0
+As2 As0+ 0.0064(2) 0.0058(2) 0.0060(2) -.0002(2) 0 0
+#End of TTdata_999-ICSD

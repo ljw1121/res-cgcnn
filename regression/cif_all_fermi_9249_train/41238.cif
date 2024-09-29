@@ -1,0 +1,75 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_41238-ICSD
+_database_code_ICSD 41238
+_audit_creation_date 1999-11-30
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Niobium phosphide (7/4)'
+_chemical_formula_structural 'Nb7 P4'
+_chemical_formula_sum 'Nb7 P4'
+_chemical_name_structure_type Nb7P4
+_exptl_crystal_density_diffrn 7.47
+_publ_section_title 'The crystal structure of Nb7 P4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica (1-27,1973-42,1988)' 1966 20 2427 2434 ACSAA4
+loop_
+_publ_author_name
+'Rundqvist, S.'
+_cell_length_a 14.9503(9)
+_cell_length_b 3.4398(3)
+_cell_length_c 13.8478(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.743(6)
+_cell_angle_gamma 90.
+_cell_volume 688.69
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb0+ 0
+P0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb0+ 2 a 0 0 0 0.175(15) 1. 0
+Nb2 Nb0+ 2 d 0 0.5 0.5 0.175(15) 1. 0
+Nb3 Nb0+ 4 i 0.43126(8) 0 0.82675(9) 0.268(12) 1. 0
+Nb4 Nb0+ 4 i 0.19530(8) 0 0.31188(8) 0.197(11) 1. 0
+Nb5 Nb0+ 4 i 0.20981(8) 0 0.80030(8) 0.216(12) 1. 0
+Nb6 Nb0+ 4 i 0.33760(8) 0 0.02775(9) 0.271(12) 1. 0
+Nb7 Nb0+ 4 i 0.00322(8) 0 0.66537(8) 0.209(12) 1. 0
+Nb8 Nb0+ 4 i 0.17502(9) 0 0.54042(9) 0.348(13) 1. 0
+P1 P0+ 4 i 0.17403(26) 0 0.11243(28) 0.360(38) 1. 0
+P2 P0+ 4 i 0.37360(27) 0 0.60229(28) 0.366(38) 1. 0
+P3 P0+ 4 i 0.36956(25) 0 0.33571(27) 0.303(36) 1. 0
+P4 P0+ 4 i 0.06355(25) 0 0.84915(26) 0.270(35) 1. 0
+#End of TTdata_41238-ICSD

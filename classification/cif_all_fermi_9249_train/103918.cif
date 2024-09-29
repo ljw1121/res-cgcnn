@@ -1,0 +1,74 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_103918-ICSD
+_database_code_ICSD 103918
+_audit_creation_date 2004-10-01
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Gallium platinum (1/2)'
+_chemical_formula_structural 'Ga Pt2'
+_chemical_formula_sum 'Ga1 Pt2'
+_chemical_name_structure_type AlPt2
+_exptl_crystal_density_diffrn 17.35
+_publ_section_title 'Einige Strukturdaten metallischer Phasen. 13. Mitteilung'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Naturwissenschaften 1968 55 542 543 NATWAY
+loop_
+_publ_author_name
+'Schubert, K.'
+'Bhan, S.'
+'Biswas, T.K.'
+'Frank, K.'
+'Panday, P.K.'
+_cell_length_a 16.42
+_cell_length_b 3.919
+_cell_length_c 5.473
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 352.19
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P m m a'
+_symmetry_Int_Tables_number 51
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, -y, z'
+2 'x+1/2, -y, -z'
+3 'x, -y, z'
+4 '-x, -y, -z'
+5 'x+1/2, y, -z'
+6 '-x+1/2, y, z'
+7 '-x, y, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga0+ 0
+Pt0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga0+ 2 b 0 0.5 0 . 1. 0
+Ga2 Ga0+ 2 e 0.25 0 0.75 . 1. 0
+Ga3 Ga0+ 4 i 0.095 0 0.275 . 1. 0
+Pt1 Pt0+ 2 d 0 0.5 0.5 . 1. 0
+Pt2 Pt0+ 2 e 0.25 0 0.25 . 1. 0
+Pt3 Pt0+ 4 i 0.078 0 0.77 . 1. 0
+Pt4 Pt0+ 4 j 0.167 0.5 0.5 . 1. 0
+Pt5 Pt0+ 4 j 0.167 0.5 0. . 1. 0
+#End of TTdata_103918-ICSD

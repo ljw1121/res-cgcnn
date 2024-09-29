@@ -1,0 +1,125 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_33588-ICSD
+_database_code_ICSD 33588
+_audit_creation_date 1984-10-23
+_audit_update_record 1999-06-02
+_chemical_name_systematic 'Dodecacopper(I) tetraarsenic sulfide'
+_chemical_formula_structural 'Cu12 As4 S12'
+_chemical_formula_sum 'As4 Cu12 S12'
+_chemical_name_structure_type Cu3SbS3
+_chemical_name_mineral Tennantite
+_exptl_crystal_density_diffrn 4.49
+_publ_section_title 'Ueber Pearceit, Polybasit und Binnit'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Neues Jahrbuch fuer Mineralogie. Monatshefte (Band=Jahr) (1950-)' 1971
+1971 337 341 NJMMAW
+loop_
+_publ_author_name
+'Edenharter, A.'
+'Koto, K.'
+'Nowacki, W.'
+_cell_length_a 10.232(5)
+_cell_length_b 10.232(5)
+_cell_length_c 10.232(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1071.23
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4 3 m'
+_symmetry_Int_Tables_number 217
+_refine_ls_R_factor_all 0.14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, -y, x'
+2 '-y, -x, z'
+3 '-x, -z, y'
+4 '-z, -x, y'
+5 '-y, -z, x'
+6 '-x, -y, z'
+7 '-z, y, -x'
+8 '-y, x, -z'
+9 '-x, z, -y'
+10 '-z, x, -y'
+11 '-y, z, -x'
+12 '-x, y, -z'
+13 'z, -y, -x'
+14 'y, -x, -z'
+15 'x, -z, -y'
+16 'z, -x, -y'
+17 'y, -z, -x'
+18 'x, -y, -z'
+19 'z, y, x'
+20 'y, x, z'
+21 'x, z, y'
+22 'z, x, y'
+23 'y, z, x'
+24 'x, y, z'
+25 '-z+1/2, -y+1/2, x+1/2'
+26 '-y+1/2, -x+1/2, z+1/2'
+27 '-x+1/2, -z+1/2, y+1/2'
+28 '-z+1/2, -x+1/2, y+1/2'
+29 '-y+1/2, -z+1/2, x+1/2'
+30 '-x+1/2, -y+1/2, z+1/2'
+31 '-z+1/2, y+1/2, -x+1/2'
+32 '-y+1/2, x+1/2, -z+1/2'
+33 '-x+1/2, z+1/2, -y+1/2'
+34 '-z+1/2, x+1/2, -y+1/2'
+35 '-y+1/2, z+1/2, -x+1/2'
+36 '-x+1/2, y+1/2, -z+1/2'
+37 'z+1/2, -y+1/2, -x+1/2'
+38 'y+1/2, -x+1/2, -z+1/2'
+39 'x+1/2, -z+1/2, -y+1/2'
+40 'z+1/2, -x+1/2, -y+1/2'
+41 'y+1/2, -z+1/2, -x+1/2'
+42 'x+1/2, -y+1/2, -z+1/2'
+43 'z+1/2, y+1/2, x+1/2'
+44 'y+1/2, x+1/2, z+1/2'
+45 'x+1/2, z+1/2, y+1/2'
+46 'z+1/2, x+1/2, y+1/2'
+47 'y+1/2, z+1/2, x+1/2'
+48 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu1+ 1
+As3+ 3
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu1+ 12 d 0.25 0.5 0 . 1. 0
+Cu2 Cu1+ 12 e 0.2159(16) 0 0 . 1. 0
+As1 As3+ 8 c 0.2610(5) 0.2610(5) 0.2610(5) . 1. 0
+S1 S2- 24 g 0.1199(9) 0.1199(9) 0.3558(11) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cu1 Cu1+ 0.0035(12) 0.0015(5) 0.0015(5) 0 0 0
+Cu2 Cu1+ 0.0029(12) 0.0107(12) 0.0107(12) 0 0 -.0094(18)
+As1 As3+ 0.0020(4) 0.0020(4) 0.0020(4) -.0002(4) -.0002(4) -.0002(4)
+S1 S2- 0.0036(10) 0.0036(10) 0.0036(10) 0 0 0
+#End of TTdata_33588-ICSD

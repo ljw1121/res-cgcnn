@@ -1,0 +1,79 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_85291-ICSD
+_database_code_ICSD 85291
+_audit_creation_date 1999-06-02
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Lanthanum barium copper oxide (1/2/3/8)'
+_chemical_formula_structural 'La Ba2 Cu3 O8'
+_chemical_formula_sum 'Ba2 Cu3 La1 O8'
+_chemical_name_structure_type YBa2Cu3O8-x
+_exptl_crystal_density_diffrn 6.73
+_publ_section_title
+'Structural changes of La Ba2 Cu(3-y) Fe(y) O(x) cuprates with 0.0 < y < 0.50'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physica C, Superconductivity' 1997 292 248 254 PHYCE6
+loop_
+_publ_author_name
+'Wu, X.-S.'
+'Jiang, S.S.'
+'Chen, W.M.'
+'Lin, J.'
+'Jin, X.'
+_cell_length_a 3.9014(3)
+_cell_length_b 3.9294(6)
+_cell_length_c 11.789(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 180.73
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P m m m'
+_symmetry_Int_Tables_number 47
+_refine_ls_R_factor_all 0.053
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Ba2+ 2
+Cu3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 1 h 0.5 0.5 0.5 . 1. 0
+Ba1 Ba2+ 2 t 0.5 0.5 0.1752(9) . 1. 0
+Cu1 Cu3+ 1 a 0 0 0 . 1. 0
+Cu2 Cu3+ 2 q 0 0 0.348(1) . 1. 0
+O1 O2- 1 b 0.5 0 0 . 1. 0
+O2 O2- 1 e 0 0.5 0 . 1. 0
+O3 O2- 2 q 0 0 0.138(8) . 1. 0
+O4 O2- 2 s 0.5 0 0.329(9) . 1. 0
+O5 O2- 2 r 0 0.5 0.353(8) . 1. 0
+#End of TTdata_85291-ICSD

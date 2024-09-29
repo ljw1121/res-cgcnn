@@ -1,0 +1,71 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_9277-ICSD
+_database_code_ICSD 9277
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Chromium(II) chloride tetrahydrate'
+_chemical_formula_structural 'Cr Cl2 (H2 O)4'
+_chemical_formula_sum 'H8 Cl2 Cr1 O4'
+_chemical_name_structure_type FeCl2(H2O)4
+_exptl_crystal_density_diffrn 1.91
+_publ_section_title
+
+;
+Struktur ind Eigenschaften des blauen Chrom(II)-chlorid-tetrahydrats Cr Cl2
+(H2 O)4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1973
+402 159 168 ZAACAB
+loop_
+_publ_author_name
+'von Schnering, H.G.'
+'Brand, B.H.'
+_cell_length_a 5.904(2)
+_cell_length_b 7.339(3)
+_cell_length_c 8.347(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.10(3)
+_cell_angle_gamma 90.
+_cell_volume 339.64
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.097
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr2+ 2
+Cl1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr2+ 2 a 0 0 0 0.94 1. 0
+Cl1 Cl1- 4 e 0.3172(7) 0.2895(8) 0.0787(5) 1.62 1. 0
+O1 O2- 4 e 0.0052(21) 0.0000(17) 0.2505(15) 3.66 1. 0
+O2 O2- 4 e -.2778(19) 0.1893(20) -.0672(13) 3.27 1. 0
+#End of TTdata_9277-ICSD

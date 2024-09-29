@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_641595-ICSD
+_database_code_ICSD 641595
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Lanthanum nickel stannide (1/1/2)'
+_chemical_formula_structural 'La Ni Sn2'
+_chemical_formula_sum 'La1 Ni1 Sn2'
+_chemical_name_structure_type BaCuSn2
+_exptl_crystal_density_diffrn 7.79
+_publ_section_title
+
+;
+Susceptibility and crystal structure of compounds R Ni1-x Sn2-y (R= La, Ce,
+Pr, Nd, Sm)
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics of Metals and Metallography' 1988 65 99 103 PHMMA6
+loop_
+_publ_author_name
+'Skolozdra, R.V.'
+'Sadykov, S.A.'
+'Komarovskaya, L.P.'
+'Kubandikov, O.K.'
+_cell_length_a 4.520(4)
+_cell_length_b 18.16(1)
+_cell_length_c 4.520(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 371.02
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+Ni0+ 0
+Sn0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 4 c 0 0.107 .25 . 1. 0
+Ni1 Ni0+ 4 c 0 0.315 .25 . 1. 0
+Sn1 Sn0+ 4 c 0 0.452 .25 . 1. 0
+Sn2 Sn0+ 4 c 0 0.749 .25 . 1. 0
+#End of TTdata_641595-ICSD

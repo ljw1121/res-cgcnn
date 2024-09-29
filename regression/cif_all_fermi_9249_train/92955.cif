@@ -1,0 +1,109 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_92955-ICSD
+_database_code_ICSD 92955
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Sodium divanadate - alpha''
+_chemical_formula_structural 'Na (V2 O5)'
+_chemical_formula_sum 'Na1 O5 V2'
+_exptl_crystal_density_diffrn 3.51
+_cell_measurement_temperature 15.
+_publ_section_title
+
+;
+Structure determination, valence and superexchange in the dimerized low
+temperature phase of alpha'-(Na V2 O5)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'The European Physical Journal B' 2001 21 535 546 EPJBFY
+loop_
+_publ_author_name
+'Bernert, A.'
+'Chatterji, T.'
+'Thalmeier, P.'
+'Fulde, P.'
+_cell_length_a 22.6060(2)
+_cell_length_b 7.22190(6)
+_cell_length_c 19.0100(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 3103.54
+_cell_formula_units_Z 32
+_symmetry_space_group_name_H-M 'F m m 2'
+_symmetry_Int_Tables_number 42
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x, y+1/2, z+1/2'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+1/2, -y, z+1/2'
+10 '-x+1/2, y, z+1/2'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+1/2, -y+1/2, z'
+14 '-x+1/2, y+1/2, z'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+V4+ 4.667
+V4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 8 d 0.32777(15) 0 -.06039(19) . 1. 0
+V2 V4+ 16 e 0.07595(6) 0.24992(3) 0.49682(8) . 1. 0
+V3 V4+ 8 d 0.32460(16) 0 0.19398(23) . 1. 0
+V4 V4+ 16 e 0.07611(6) 0.25013(3) 0.24684(8) . 1. 0
+V5 V4+ 8 d 0.32469(17) 0 0.44451(19) . 1. 0
+V6 V4+ 8 d 0.32771(16) 0 0.69017(24) . 1. 0
+Na1 Na1+ 8 b 0.25 0.75 0.80767(32) . 1. 0
+Na2 Na1+ 8 b 0.25 0.75 0.05830(32) . 1. 0
+Na3 Na1+ 4 a 0 0 0.13004(30) . 1. 0
+Na4 Na1+ 4 a 0 0 0.38016(29) . 1. 0
+Na5 Na1+ 4 a 0 0.5 0.37925(30) . 1. 0
+Na6 Na1+ 4 a 0 0.5 0.12955(31) . 1. 0
+O1 O2- 8 d 0.25133(11) 0 0.22409(48) . 1. 0
+O2 O2- 8 d 0.24930(15) 0 -.02628(52) . 1. 0
+O3 O2- 8 c 0 0.25299(34) 0.46549(50) . 1. 0
+O4 O2- 8 c 0 0.25283(35) 0.21551(50) . 1. 0
+O5 O2- 8 d 0.08905(29) 0.5 0.21785(35) . 1. 0
+O6 O2- 8 d 0.08763(28) 0 0.46609(33) . 1. 0
+O7 O2- 16 e 0.33823(28) 0.24747(20) 0.22238(31) . 1. 0
+O8 O2- 16 e 0.33865(29) 0.74847(28) -.02744(31) . 1. 0
+O9 O2- 8 d 0.08746(28) 0 0.21637(34) . 1. 0
+O10 O2- 8 d 0.08914(29) 0.5 0.46812(33) . 1. 0
+O11 O2- 8 d 0.31682(28) 0 0.10863(37) . 1. 0
+O12 O2- 8 d 0.31636(27) 0 0.85480(31) . 1. 0
+O13 O2- 8 d 0.31669(28) 0 0.60519(35) . 1. 0
+O14 O2- 8 d 0.31686(27) 0 0.35913(32) . 1. 0
+O15 O2- 16 e 0.06871(29) 0.24749(18) 0.58013(31) . 1. 0
+O16 O2- 16 e 0.06979(29) 0.24890(27) 0.33107(34) . 1. 0
+#End of TTdata_92955-ICSD

@@ -1,0 +1,72 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_16534-ICSD
+_database_code_ICSD 16534
+_audit_creation_date 1980-01-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Hexapotassium hexaoxodiferrate'
+_chemical_formula_structural 'K6 (Fe2 O6)'
+_chemical_formula_sum 'Fe2 K6 O6'
+_chemical_name_structure_type K6Fe2O6
+_exptl_crystal_density_diffrn 2.91
+_publ_section_title
+'Das erste Oxoferrat I(III) mit isoliertem Anion: K6 (Fe2 O6)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie (German Edition)' 1973 85 589 590 ANCEAD
+loop_
+_publ_author_name
+'Riek, H.'
+'Hoppe, R.'
+_cell_length_a 7.134
+_cell_length_b 11.123
+_cell_length_c 6.515
+_cell_angle_alpha 90.
+_cell_angle_beta 102.3
+_cell_angle_gamma 90.
+_cell_volume 505.11
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.055
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Fe3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 g 0 0.2621(1) 0 1.67 1. 0
+K2 K1+ 4 h 0 0.1894(1) 0.5 1.41 1. 0
+K3 K1+ 4 i 0.3735(1) 0 0.6468(2) 1.69 1. 0
+Fe1 Fe3+ 4 i 0.1682(1) 0 0.1440(1) 0.77 1. 0
+O1 O2- 4 i 0.9001(4) 0 0.1628(5) 1.53 1. 0
+O2 O2- 8 j 0.2921(3) 0.1366(2) 0.2650(3) 1.45 1. 0
+#End of TTdata_16534-ICSD

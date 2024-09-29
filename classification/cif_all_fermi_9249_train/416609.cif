@@ -1,0 +1,101 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_416609-ICSD
+_database_code_ICSD 416609
+_audit_creation_date 2008-02-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Lanthanum scandium bismuthide (3/1/5)'
+_chemical_formula_structural 'La3 Sc Bi5'
+_chemical_formula_sum 'Bi5 La3 Sc1'
+_chemical_name_structure_type Ga4Ti5
+_exptl_crystal_density_diffrn 9.25
+_cell_measurement_temperature 293.
+_publ_section_title 'Synthesis and crystal structuure of La3 Sc Bi5'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Wuji Huaxue Xuebao' 2006 22 1449 1452 WHUXEO
+loop_
+_publ_author_name
+'Pan Dachun'
+'Sun Zhongming'
+'Lei Xiaowu'
+'Mao Jiang Gao'
+_cell_length_a 9.7573(5)
+_cell_length_b 9.7573(5)
+_cell_length_c 6.5592(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 540.81
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m c m'
+_symmetry_Int_Tables_number 193
+_refine_ls_R_factor_all 0.0354
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z+1/2'
+2 'x-y, -y, -z+1/2'
+3 'y, x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 'x, x-y, z+1/2'
+8 '-x+y, y, z+1/2'
+9 '-y, -x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 'x, x-y, -z'
+14 '-x+y, y, -z'
+15 '-y, -x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 '-x, -x+y, z'
+20 'x-y, -y, z'
+21 'y, x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+Sc0+ 0
+Bi0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 6 g 0. 0.61799(11) 0.25 0.0021(3) 1 0
+Sc1 Sc0+ 2 b 0. 0. 0. 0.0020(13) 1 0
+Bi1 Bi0+ 6 g 0.26027(7) 0. 0.25 0.0015(3) 1 0
+Bi2 Bi0+ 4 d 0.3333 0.6667 0. 0.0021(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La0+ 0.0051(7) 0.0023(5) 0.0010(6) 0.0025(3) 0. 0.
+Sc1 Sc0+ 0.0029(18) 0.0029(18) 0.01(3) 0.0015(9) 0. 0.
+Bi1 Bi0+ 0.0018(4) 0.0030(4) 0.0010(5) 0.0015(2) 0. 0.
+Bi2 Bi0+ 0.0032(4) 0.0032(4) 0.0010(5) 0.00161(18) 0. 0.
+#End of TTdata_416609-ICSD

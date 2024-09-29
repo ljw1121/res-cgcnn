@@ -1,0 +1,102 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_262220-ICSD
+_database_code_ICSD 262220
+_audit_creation_date 2012-02-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Lanthanum magnesium germanide (4/7/6)'
+_chemical_formula_structural 'La4 Mg7 Ge6'
+_chemical_formula_sum 'Ge6 La4 Mg7'
+_chemical_name_structure_type Ce4Mg7Ge6
+_exptl_crystal_density_diffrn 4.77
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+New ternary germanides La4 Mg5 Ge6 and La4 Mg7 Ge6: crystal structure and
+chemical bonding
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2012 51 207 214 INOCAJ
+loop_
+_publ_author_name
+'Solokha, P.'
+'de Negri, S.'
+'Skrobanska, M.'
+'Saccone, A.'
+'Pavlyuk, V.'
+'Proserpio, D.M.'
+_cell_length_a 16.878(3)
+_cell_length_b 4.4702(9)
+_cell_length_c 12.660(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 122.25(3)
+_cell_angle_gamma 90.
+_cell_volume 807.82
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0186
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+Ge0+ 0
+Mg0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 4 i 0.370030(16) 0. 0.15966(2) 0.00940(6) 1 0
+La2 La0+ 4 i 0.266274(16) 0. 0.38746(2) 0.00939(6) 1 0
+Ge1 Ge0+ 4 i 0.14871(3) 0. 0.02819(4) 0.00979(9) 1 0
+Ge2 Ge0+ 4 i 0.11938(3) 0. 0.64961(4) 0.00956(9) 1 0
+Ge3 Ge0+ 4 i 0.60600(3) 0. 0.30955(4) 0.01060(9) 1 0
+Mg1 Mg0+ 4 i 0.06030(10) 0. 0.39472(14) 0.0116(3) 1 0
+Mg2 Mg0+ 4 i 0.68866(11) 0. 0.15461(14) 0.0142(3) 1 0
+Mg3 Mg0+ 4 i 0.03826(11) 0. 0.13742(14) 0.0151(3) 1 0
+Mg4 Mg0+ 2 d 0. 0.5 0.5 0.0134(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La0+ 0.00949(11) 0.00951(11) 0.00925(11) 0. 0.00504(9) 0.
+La2 La0+ 0.00813(11) 0.00997(11) 0.01046(11) 0. 0.00521(9) 0.
+Ge1 Ge0+ 0.00913(19) 0.00883(19) 0.01086(19) 0. 0.00498(16) 0.
+Ge2 Ge0+ 0.00881(19) 0.00950(19) 0.01070(19) 0. 0.00543(16) 0.
+Ge3 Ge0+ 0.0110(2) 0.00873(19) 0.0128(2) 0. 0.00677(17) 0.
+Mg1 Mg0+ 0.0122(7) 0.0114(7) 0.0131(7) 0. 0.0080(6) 0.
+Mg2 Mg0+ 0.0178(7) 0.0109(7) 0.0112(7) 0. 0.0061(6) 0.
+Mg3 Mg0+ 0.0104(7) 0.0227(8) 0.0112(7) 0. 0.0051(6) 0.
+Mg4 Mg0+ 0.0111(10) 0.0120(10) 0.0160(10) 0. 0.0064(8) 0.
+#End of TTdata_262220-ICSD

@@ -1,0 +1,50 @@
+
+data_262634-ICSD
+_database_code_ICSD 262634
+_audit_creation_date 2012-08-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Silver(I) sulfide - HP1-phase (6.9GPa)'
+_chemical_formula_structural 'Ag2 S'
+_chemical_formula_sum 'Ag2 S1'
+_chemical_name_structure_type Ag2S(oP12)
+_chemical_name_mineral Acanthite
+_exptl_crystal_density_diffrn 8.09
+_cell_measurement_temperature 293.
+_cell_measurement_pressure 6900000.
+_cell_length_a 6.7250(12)
+_cell_length_b 4.1479(12)
+_cell_length_c 7.2945(11)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 203.48
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+_refine_ls_R_factor_all 0.0602
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ag1+ 1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ag1 Ag1+ 4 a 0.0285(7) 0.2303(12) 0.4079(14) 0.001 1. 0
+Ag2 Ag1+ 4 a 0.1274(6) 0.4074(19) 0.8210(6) 0.001 1. 0
+S1 S2- 4 a 0.221(2) 0.157(4) 0.145(4) 0.001 1. 0

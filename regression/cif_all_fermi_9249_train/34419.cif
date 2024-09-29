@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_34419-ICSD
+_database_code_ICSD 34419
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Vanadium(IV) oxide - Cr-doped'
+_chemical_formula_structural 'V O2'
+_chemical_formula_sum 'O2 V1'
+_chemical_name_structure_type VO2(oF96)
+_exptl_crystal_density_diffrn 4.64
+_publ_section_title 'Structure of orthorhombic V0.95 Cr0.05 O2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review, Serie 3. B - Solid State (1,1970-17,1977)' 1972 5 4104
+4111 PLRBAQ
+loop_
+_publ_author_name
+'Pierce, J.W.'
+'Goodenough, J.B.'
+_cell_length_a 13.015
+_cell_length_b 12.597
+_cell_length_c 5.795
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 950.09
+_cell_formula_units_Z 32
+_symmetry_space_group_name_H-M 'F 2 2 2'
+_symmetry_Int_Tables_number 22
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, -y, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-x, y+1/2, -z+1/2'
+6 'x, -y+1/2, -z+1/2'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 '-x+1/2, y, -z+1/2'
+10 'x+1/2, -y, -z+1/2'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 '-x+1/2, y+1/2, -z'
+14 'x+1/2, -y+1/2, -z'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 4 a 0 0 0 . 1. 0
+V2 V4+ 4 b 0 0 0.5 . 1. 0
+V3 V4+ 8 j 0.0218(2) 0.25 0.25 . 1. 0
+V4 V4+ 8 i 0.25 0.0024(2) 0.25 . 1. 0
+V5 V4+ 8 h 0.25 0.25 0.0316(8) . 1. 0
+O1 O2- 16 k 0.1020(5) 0.0074(5) 0.2325(10) . 1. 0
+O2 O2- 16 k 0.2515(5) 0.1004(5) 0.0089(10) . 1. 0
+O3 O2- 8 f 0 0.1506(5) 0 . 1. 0
+O4 O2- 8 f 0 0.3533(5) 0 . 1. 0
+O5 O2- 8 j 0.1506(5) 0.25 0.25 . 1. 0
+O6 O2- 8 j -.1473(5) 0.25 0.25 . 1. 0
+#End of TTdata_34419-ICSD

@@ -1,0 +1,56 @@
+
+data_8224-ICSD
+_database_code_ICSD 8224
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Silver bismuth bis(chromate)'
+_chemical_formula_structural 'Ag Bi (Cr O4)2'
+_chemical_formula_sum 'Ag1 Bi1 Cr2 O8'
+_chemical_name_structure_type AgBi(CrO4)2
+_exptl_crystal_density_diffrn 5.87
+_cell_length_a 5.1064(3)
+_cell_length_b 5.1064(3)
+_cell_length_c 11.9091(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 310.53
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.0424
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ag1+ 1
+Bi3+ 3
+Cr6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ag1 Ag1+ 2 d 0.5 0 0.25 0.2 1. 0
+Bi1 Bi3+ 2 b 0.5 0.5 0 1.2 1. 0
+Cr1 Cr6+ 2 a 0 0 0 0.1 1. 0
+Cr2 Cr6+ 2 c 0 0.5 0.25 0.1 1. 0
+O1 O2- 8 g 0.2495(9) 0.1261(15) 0.0753(6) 0.93 1. 0
+O2 O2- 8 g 0.2329(12) 0.6194(15) 0.1692(6) 0.8 1. 0

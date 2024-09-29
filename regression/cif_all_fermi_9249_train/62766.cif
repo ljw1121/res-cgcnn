@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62766-ICSD
+_database_code_ICSD 62766
+_audit_creation_date 1988-07-15
+_chemical_name_systematic 'Sodium titanium oxide (2/9/19)'
+_chemical_formula_structural 'Na2 Ti9 O19'
+_chemical_formula_sum 'Na2 O19 Ti9'
+_exptl_crystal_density_diffrn 3.73
+_publ_section_title
+
+;
+Lattice energy minimization as a complementary technique to refine structures
+obtained by high-resolution electron microscopy.
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1984 52 80 90 JSSCBI
+loop_
+_publ_author_name
+'Theobald, F.R.'
+'Catlow, C.R.A.'
+'Cormack, A.N.'
+_cell_length_a 12.2
+_cell_length_b 3.78
+_cell_length_c 15.6
+_cell_angle_alpha 90.
+_cell_angle_beta 105.
+_cell_angle_gamma 90.
+_cell_volume 694.9
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ti4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 i 0.29105 0 0.5032 . 1. 0
+Ti1 Ti4+ 2 c 0.0000(56) 0 0.50000(27) . 1. 0
+Ti2 Ti4+ 4 i 0.18307(27) 0 0.11932(12) . 1. 0
+Ti3 Ti4+ 4 i 0.08055(43) 0 0.30396(44) . 1. 0
+Ti4 Ti4+ 4 i 0.89182(47) 0 0.11402(12) . 1. 0
+Ti5 Ti4+ 4 i 0.7977(3) 0 0.30048(57) . 1. 0
+O1 O2- 2 d 0.0000(35) 0.5 0.50000(3) . 1. 0
+O2 O2- 4 i 0.12421(35) 0 0.00315(5) . 1. 0
+O3 O2- 4 i 0.34681(45) 0 0.11208(4) . 1. 0
+O4 O2- 4 i 0.24293(24) 0 0.26154(95) . 1. 0
+O5 O2- 4 i 0.0856(11) 0 0.40615(8) . 1. 0
+O6 O2- 4 i 0.92330(38) 0 0.24698(3) . 1. 0
+O7 O2- 4 i 0.8609(13) 0 0.40177(21) . 1. 0
+O8 O2- 4 i 0.63509(43) 0 0.2928(13) . 1. 0
+O9 O2- 4 i 0.72728(36) 0 0.13463(22) . 1. 0
+O10 O2- 4 i 0.04616(29) 0 0.14453(4) . 1. 0
+#End of TTdata_62766-ICSD

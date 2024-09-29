@@ -1,0 +1,67 @@
+
+data_15321-ICSD
+_database_code_ICSD 15321
+_audit_creation_date 1986-09-24
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Silicon oxide - HT'
+_chemical_formula_structural 'Si O2'
+_chemical_formula_sum 'O2 Si1'
+_chemical_name_structure_type SiO2(C2221)
+_chemical_name_mineral 'Tridymite O'
+_exptl_crystal_density_diffrn 2.19
+_cell_measurement_temperature 493.
+_cell_length_a 8.74
+_cell_length_b 5.05
+_cell_length_c 8.24
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 363.69
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 2 2 21'
+_symmetry_Int_Tables_number 20
+_refine_ls_R_factor_all 0.086
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 'x, -y, -z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 8 c 0.16846(51) 0.53589(84) 0.18857(70) . 1. 0
+O1 O2- 4 a 0.3336(31) 0 0.5 . 1. 0
+O2 O2- 4 b 0 0.5597(76) 0.25 . 1. 0
+O3 O2- 8 c 0.2547(28) 0.3029(31) 0.2713(27) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Si1 Si4+ 0.0119(6) 0.0260(16) 0.0119(13) 0.0012(10) -.0001(7) -.0013(9)
+O1 O2- 0.040(6) 0.080(14) 0.017(7) 0 0 0.009(7)
+O2 O2- 0.012(2) 0.136(23) 0.030(7) 0 0.002(3) 0
+O3 O2- 0.041(4) 0.054(7) 0.025(4) 0.024(5) -.006(3) 0.008(5)

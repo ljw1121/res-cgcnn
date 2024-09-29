@@ -1,0 +1,46 @@
+
+data_22093-ICSD
+_database_code_ICSD 22093
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Ruthenium(III) chloride - beta'
+_chemical_formula_structural 'Ru Cl3'
+_chemical_formula_sum 'Cl3 Ru1'
+_exptl_crystal_density_diffrn 3.75
+_cell_length_a 6.120(5)
+_cell_length_b 6.120(5)
+_cell_length_c 5.658(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 183.53
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 3 c 1'
+_symmetry_Int_Tables_number 158
+_refine_ls_R_factor_all 0.055
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, z+1/2'
+2 '-x+y, y, z+1/2'
+3 '-y, -x, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ru3+ 3
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ru1 Ru3+ 2 a 0 0 0 1.9 1. 0
+Cl1 Cl1- 6 d 0.318(3) 0.027(5) 0.237(14) 1.2 1. 0

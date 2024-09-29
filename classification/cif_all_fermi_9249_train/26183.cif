@@ -1,0 +1,86 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_26183-ICSD
+_database_code_ICSD 26183
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Niobium selenide (2/1)'
+_chemical_formula_structural 'Nb2 Se'
+_chemical_formula_sum 'Nb2 Se1'
+_chemical_name_structure_type Nb2Se
+_exptl_crystal_density_diffrn 7.92
+_publ_section_title 'The crystal structure of Nb2 Se'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1969 25 1729 1735 ACBCAR
+loop_
+_publ_author_name
+'Conard, B.R.'
+'Norrby, L.J.'
+'Franzen, H.F.'
+_cell_length_a 13.992(6)
+_cell_length_b 3.422(1)
+_cell_length_c 9.283(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.76(6)
+_cell_angle_gamma 90.
+_cell_volume 444.27
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb0+ 0
+Se0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb0+ 4 i 0.2155(1) 0 0.1251(2) . 1. 0
+Nb2 Nb0+ 4 i 0.0839(1) 0 0.3988(2) . 1. 0
+Nb3 Nb0+ 4 i 0.4127(2) 0 0.3491(2) . 1. 0
+Nb4 Nb0+ 4 i 0.2568(1) 0 0.6228(2) . 1. 0
+Se1 Se0+ 4 i 0.1410(2) 0 0.8627(2) . 1. 0
+Se2 Se0+ 4 i 0.4253(2) 0 0.8157(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Nb1 Nb0+ 0.00049(4) 0.0080(8) 0.00128(9) 0.00022(4) 0 0
+Nb2 Nb0+ 0.00048(4) 0.0064(8) 0.00115(9) 0.00028(4) 0 0
+Nb3 Nb0+ 0.00063(4) 0.0076(8) 0.0020(1) 0.00051(4) 0 0
+Nb4 Nb0+ 0.00039(4) 0.0058(8) 0.00098(9) 0.00015(4) 0 0
+Se1 Se0+ 0.00058(5) 0.0065(8) 0.0015(1) 0.00023(5) 0 0
+Se2 Se0+ 0.00060(5) 0.0077(8) 0.0018(1) 0.00041(5) 0 0
+#End of TTdata_26183-ICSD

@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_189495-ICSD
+_database_code_ICSD 189495
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Yttrium nickel phosphide (1/4/2)'
+_chemical_formula_structural 'Y Ni4 P2'
+_chemical_formula_sum 'Ni4 P2 Y1'
+_chemical_name_structure_type Fe4Si2Zr
+_exptl_crystal_density_diffrn 7.03
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Interaction of yttrium with nickel and phosphorus: Phase diagram and
+structural chemistry
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2013 207 87 93 JSSCBI
+loop_
+_publ_author_name
+'Zhak, Olga'
+'Stoyko, Stanislav'
+'Babizhetskyy, Volodymyr'
+'Shved, Olena'
+'Oryshchyn, Stepan'
+'Hoch, Constantin'
+_cell_length_a 7.10812(7)
+_cell_length_b 7.10812(7)
+_cell_length_c 3.60684(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 182.24
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_symmetry_Int_Tables_number 136
+_refine_ls_R_factor_all 0.105
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x+1/2, -z+1/2'
+2 'y+1/2, -x+1/2, -z+1/2'
+3 'y, x, -z'
+4 '-y, -x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-y, -x, z'
+8 'y, x, z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, y, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y0+ 0
+Ni0+ 0
+P0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y0+ 2 a 0 0 0 0.39(6) 1. 0
+Ni1 Ni0+ 8 i 0.1627(3) 0.5850(3) 0 0.39(6) 1. 0
+P1 P0+ 4 f 0.2794(5) 0.2794(5) 0 0.58(9) 1. 0
+#End of TTdata_189495-ICSD

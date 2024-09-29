@@ -1,0 +1,71 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_420223-ICSD
+_database_code_ICSD 420223
+_audit_creation_date 2009-08-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic Thallium(I)trithiocarbonate
+_chemical_formula_structural 'Tl2 (C S3)'
+_chemical_formula_sum 'C1 S3 Tl2'
+_chemical_name_structure_type Na2CS3
+_exptl_crystal_density_diffrn 5.96
+_publ_section_title
+'The crystal Structure of Thallium(I) Trithiocarbonate,  Tl2 C S3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2009
+635 962 965 ZAACAB
+loop_
+_publ_author_name
+'Beck, J.'
+'Benz, S.'
+_cell_length_a 11.43337(10)
+_cell_length_b 6.27793(6)
+_cell_length_c 9.16097(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 118.7678(6)
+_cell_angle_gamma 90.
+_cell_volume 576.4
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0345
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+C4+ 4
+S2- -2
+Tl1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+C1 C4+ 4 e 0. 0.05035 0.25 0.022(5) 1. 0
+S1 S2- 8 f 0.38859 0.40999 0.08266 0.0344(8) 1. 0
+S2 S2- 4 e 0. 0.32048 0.25 0.0256(8) 1. 0
+Tl1 Tl1+ 8 f 0.33977 0.17751 0.36957 0.04092(15) 1. 0
+#End of TTdata_420223-ICSD

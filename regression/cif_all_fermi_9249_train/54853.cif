@@ -1,0 +1,52 @@
+
+data_54853-ICSD
+_database_code_ICSD 54853
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Barium indium bismuthide (5/4/5)'
+_chemical_formula_structural 'Ba5 In4 Bi5'
+_chemical_formula_sum 'Ba5 Bi5 In4'
+_exptl_crystal_density_diffrn 7.16
+_cell_length_a 10.620(1)
+_cell_length_b 10.620(1)
+_cell_length_c 9.009(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1016.07
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4 n c'
+_symmetry_Int_Tables_number 104
+_refine_ls_R_factor_all 0.0237
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, z+1/2'
+2 '-y+1/2, -x+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z+1/2'
+4 'x+1/2, -y+1/2, z+1/2'
+5 'y, -x, z'
+6 '-y, x, z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi0+ 0
+Ba0+ 0
+In0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi0+ 8 c 0.39058(7) 0.19079(7) 0.69032(8) 0.0175(3) 1. 0
+Bi2 Bi0+ 2 a 0.5 0.5 0.3180(2) 0.0123(4) 1. 0
+Ba1 Ba0+ 8 c 0.6057(2) 0.1884(2) 0.3740(2) 0.0170(4) 1. 0
+Ba2 Ba0+ 2 a 0.5 0.5 0.7001(3) 0.0210(6) 1. 0
+In1 In0+ 8 c 0.1834(2) 0.0720(2) 0.5316(2) 0.0200(4) 1. 0

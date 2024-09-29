@@ -1,0 +1,82 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253609-ICSD
+_database_code_ICSD 253609
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Potassium ruthenate(VII)'
+_chemical_formula_structural 'K Ru O4'
+_chemical_formula_sum 'K1 O4 Ru1'
+_chemical_name_structure_type Scheelite-CaWO4
+_exptl_crystal_density_diffrn 3.38
+_cell_measurement_temperature 3.5
+_publ_section_title 'Structure and magnetic properties of KRuO4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2016 55 12897 12903 INOCAJ
+loop_
+_publ_author_name
+'Marjerrison, Casey A.'
+'Mauws, Cole'
+'Sharma, Arzoo Z.'
+'Wiebe, Christopher R.'
+'Derakhshan, Shahab'
+'Boyer, Chad'
+'Gaulin, Bruce D.'
+'Greedan, John E.'
+_cell_length_a 5.6048(3)
+_cell_length_b 5.6048(3)
+_cell_length_c 12.7597(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 400.83
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 41/a Z'
+_symmetry_Int_Tables_number 88
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+3/4, x+3/4, -z+3/4'
+2 'y+1/4, -x+3/4, -z+3/4'
+3 'x, y+1/2, -z'
+4 '-x, -y, -z'
+5 'y+1/4, -x+1/4, z+1/4'
+6 '-y+3/4, x+1/4, z+1/4'
+7 '-x, -y+1/2, z'
+8 'x, y, z'
+9 '-y+1/4, x+1/4, -z+1/4'
+10 'y+3/4, -x+1/4, -z+1/4'
+11 'x+1/2, y, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'y+3/4, -x+3/4, z+3/4'
+14 '-y+1/4, x+3/4, z+3/4'
+15 '-x+1/2, -y, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Ru7+ 7
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 b 0 0.25 0.625 0.0007(10) 1. 0
+Ru1 Ru7+ 4 a 0 0.25 0.125 0.0025(7) 1. 0
+O1 O2- 16 f 0.1177(4) 0.0193(4) 0.1999(2) 0.0062(5) 1. 0
+#End of TTdata_253609-ICSD

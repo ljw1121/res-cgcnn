@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_642015-ICSD
+_database_code_ICSD 642015
+_audit_creation_date 2013-08-01
+_chemical_name_systematic 'Lanthanum telluride (2/5)'
+_chemical_formula_structural 'La2 Te5'
+_chemical_formula_sum 'La2 Te5'
+_chemical_name_structure_type Nd2Te5
+_exptl_crystal_density_diffrn 6.83
+_publ_section_title
+
+;
+Les tellurures superieurs des elements des terres rares de formule L2 Te5 et L
+Te3
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Bulletin de la Societe Chimique de France (Vol=Year)' 1967 1967 3658
+3664 BSCFAS
+loop_
+_publ_author_name
+'Pardo, M.P.'
+'Flahaut, J.'
+_cell_length_a 4.465(10)
+_cell_length_b 44.7(1)
+_cell_length_c 4.465(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 891.15
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+Te0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 4 c 0 0.099 0.25 . 1. 0
+La2 La0+ 4 c 0 0.309 0.25 . 1. 0
+Te1 Te0+ 4 c 0 0.96 0.25 . 1. 0
+Te2 Te0+ 4 c 0 0.54 0.25 . 1. 0
+Te3 Te0+ 4 c 0 0.75 0.25 . 1. 0
+Te4 Te0+ 4 c 0 0.174 0.25 . 1. 0
+Te5 Te0+ 4 c 0 0.382 0.25 . 1. 0
+#End of TTdata_642015-ICSD

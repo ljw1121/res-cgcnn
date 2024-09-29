@@ -1,0 +1,72 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_104334-ICSD
+_database_code_ICSD 104334
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Mercury palladium (5/2)'
+_chemical_formula_structural 'Hg5 Pd2'
+_chemical_formula_sum 'Hg5 Pd2'
+_chemical_name_structure_type Hg5Mn2
+_exptl_crystal_density_diffrn 14.88
+_publ_section_title 'Die Kristallstruktur von Pd2 Hg5'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Monatshefte fuer Chemie' 1965 96 884 888 MOCHAP
+loop_
+_publ_author_name
+'Ettmayer, P.'
+_cell_length_a 9.463
+_cell_length_b 9.463
+_cell_length_c 3.031
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 271.42
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/m b m'
+_symmetry_Int_Tables_number 127
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z'
+2 '-y+1/2, -x+1/2, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x+1/2, y+1/2, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 'y+1/2, x+1/2, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 '-x+1/2, y+1/2, z'
+14 'x+1/2, -y+1/2, z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg0+ 0
+Pd0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg0+ 2 d 0 0.5 0 . 1. 0
+Hg2 Hg0+ 8 i 0.04 0.22 0 . 1. 0
+Pd1 Pd0+ 4 h 0.21 0.71 0.5 . 1. 0
+#End of TTdata_104334-ICSD

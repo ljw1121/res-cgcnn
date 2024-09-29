@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_61037-ICSD
+_database_code_ICSD 61037
+_audit_creation_date 1986-12-03
+_chemical_name_systematic 'Pentacalcium hexaarsenide distannate'
+_chemical_formula_structural 'Ca5 Sn2 As6'
+_chemical_formula_sum 'As6 Ca5 Sn2'
+_chemical_name_structure_type Ca5Ga2As6
+_exptl_crystal_density_diffrn 4.43
+_publ_section_title 'Ca5 Sn2 As6, das erste Inoarsenidostannat(IV)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1985
+530 74 78 ZAACAB
+loop_
+_publ_author_name
+'Eisenmann, B.'
+'Jordan, H.'
+'Schaefer, H.'
+_cell_length_a 13.643(8)
+_cell_length_b 11.830(6)
+_cell_length_c 4.121(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 665.12
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+_refine_ls_R_factor_all 0.067
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Sn4+ 4
+As3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 g 0.2609(3) 0.3774(3) 0 . 1. 0
+Ca2 Ca2+ 2 a 0 0 0 . 1. 0
+Ca3 Ca2+ 4 g 0.4329(3) 0.1282(4) 0 . 1. 0
+Sn1 Sn4+ 4 h 0.1067(1) 0.2152(1) 0.5 . 1. 0
+As1 As3- 4 h 0.9200(1) 0.1696(2) 0.5 . 1. 0
+As2 As3- 4 h 0.1128(2) 0.4325(2) 0.5 . 1. 0
+As3 As3- 4 g 0.2003(1) 0.1271(2) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.0076(16) 0.0129(17) 0.0087(16) 0 -.0005(13) 0
+Ca2 Ca2+ 0.0054(21) 0.0123(23) 0.0080(23) 0 -.0021(18) 0
+Ca3 Ca2+ 0.0130(17) 0.0149(18) 0.0109(18) 0 -.0001(15) 0
+Sn1 Sn4+ 0.0069(5) 0.0122(6) 0.0034(5) 0 -.0013(4) 0
+As1 As3- 0.0058(8) 0.0145(9) 0.0042(8) 0 -.0013(7) 0
+As2 As3- 0.0159(10) 0.0128(9) 0.0056(9) 0 0.0049(8) 0
+As3 As3- 0.0071(8) 0.0106(8) 0.0047(8) 0 0.0001(7) 0
+#End of TTdata_61037-ICSD

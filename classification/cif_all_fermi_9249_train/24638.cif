@@ -1,0 +1,65 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_24638-ICSD
+_database_code_ICSD 24638
+_audit_creation_date 1986-10-15
+_chemical_name_systematic 'Hydrazinium bromide'
+_chemical_formula_structural 'N2 H5 Br'
+_chemical_formula_sum 'H5 Br1 N2'
+_exptl_crystal_density_diffrn 2.3
+_publ_section_title 'The Crystal Structure of Hydrazinium Bromide, N2 H5 Br'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica (1,1948-23,1967)' 1952 5 289 289 ACCRA9
+loop_
+_publ_author_name
+'Sakurai, K.'
+'Tomiie, Y.'
+_cell_length_a 12.85
+_cell_length_b 4.54
+_cell_length_c 11.94
+_cell_angle_alpha 90.
+_cell_angle_beta 110.27
+_cell_angle_gamma 90.
+_cell_volume 653.43
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+N2- -2
+Br1- -1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+N1 N2- 8 f 0.1492 0.39 0.135 . 1. 0
+N2 N2- 8 f 0.141 0.62 0.2165 . 1. 0
+Br1 Br1- 8 f -.1037 0.097 0.0802 . 1. 0
+#End of TTdata_24638-ICSD

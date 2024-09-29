@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_201158-ICSD
+_database_code_ICSD 201158
+_audit_creation_date 1981-12-31
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Cesium bromate(VII)'
+_chemical_formula_structural 'Cs (Br O4)'
+_chemical_formula_sum 'Br1 Cs1 O4'
+_exptl_crystal_density_diffrn 3.75
+_publ_section_title 'The crystal structure of cesium perbromate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Inorganic and Nuclear Chemistry' 1981 43 3085 3089 JINCAO
+loop_
+_publ_author_name
+'Gebert, E.'
+'Peterson, S.W.'
+'Reis, A.H.jr.'
+'Appelman, E.H.'
+_cell_length_a 5.751(4)
+_cell_length_b 5.751(4)
+_cell_length_c 14.821(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 490.19
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 41/a S'
+_symmetry_Int_Tables_number 88
+_refine_ls_R_factor_all 0.088
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, -x+1/2, z+1/4'
+2 '-y, x+1/2, z+1/4'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 '-x, -y+1/2, -z+1/4'
+6 'x, y+1/2, -z+1/4'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'y+1/2, -x, z+3/4'
+10 '-y+1/2, x, z+3/4'
+11 'y+1/2, -x+1/2, -z+1/2'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 '-x+1/2, -y, -z+3/4'
+14 'x+1/2, y, -z+3/4'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Br7+ 7
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 a 0 0 0 . 1. 0
+Br1 Br7+ 4 b 0 0 0.5 . 1. 0
+O1 O2- 16 f 0.0002(13) 0.2307(11) 0.4385(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cs1 Cs1+ 0.0187(6) 0.0187(6) 0.0024(1) 0 0 0
+Br1 Br7+ 0.0173(6) 0.0173(6) 0.0024(1) 0 0 0
+O1 O2- 0.0314(23) 0.0346(24) 0.0071(4) 0.0019(21) 0.0017(9) 0.0093(8)
+#End of TTdata_201158-ICSD

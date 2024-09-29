@@ -1,0 +1,70 @@
+
+data_170571-ICSD
+_database_code_ICSD 170571
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Lithium silver stannide (17/3/6)'
+_chemical_formula_structural 'Li17 Ag3 Sn6'
+_chemical_formula_sum 'Ag3 Li17 Sn6'
+_exptl_crystal_density_diffrn 4.
+_cell_measurement_temperature 223.
+_cell_length_a 8.063(3)
+_cell_length_b 8.063(3)
+_cell_length_c 8.510(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 479.13
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 3 1 m'
+_symmetry_Int_Tables_number 157
+_refine_ls_R_factor_all 0.0508
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, z'
+2 '-x, -x+y, z'
+3 'y, x, z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn0+ 0
+Ag0+ 0
+Li0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn0+ 3 c 0.34820(16) 0.34820(16) 0.49931(11) 0.0089(3) 1 0
+Sn2 Sn0+ 3 c 0. 0.31583(18) 0.0013(2) 0.0101(4) 1 0
+Ag1 Ag0+ 1 a 0. 0. 0.5066(3) 0.0141(6) 1 0
+Ag2 Ag0+ 2 b 0.3333 0.6667 0.00586(16) 0.0120(5) 1 0
+Li1 Li0+ 3 c 0.356(4) 0.356(4) 0.144(6) 0.02 1 0
+Li2 Li0+ 3 c 0. 0.304(5) 0.326(6) 0.02 1 0
+Li3 Li0+ 3 c 0.307(5) 0. 0.651(6) 0.02 1 0
+Li4 Li0+ 3 c 0.358(5) 0.358(5) 0.815(5) 0.02 1 0
+Li5 Li0+ 2 b 0.3333 0.6667 -0.322(6) 0.02 1 0
+Li6 Li0+ 2 b 0.6667 0.3333 0.343(6) 0.02 1 0
+Li7 Li0+ 1 a 0. 0. -0.132(7) 0.02 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn1 Sn0+ 0.0096(4) 0.0096(4) 0.0079(6) 0.0051(5) 0.0043(5) 0.0043(5)
+Sn2 Sn0+ 0.0077(6) 0.0089(5) 0.0135(7) 0.0038(3) 0. -0.0028(6)
+Ag1 Ag0+ 0.0110(9) 0.0110(9) 0.0204(14) 0.0055(4) 0. 0.
+Ag2 Ag0+ 0.0122(7) 0.0122(7) 0.0116(9) 0.0061(3) 0. 0.

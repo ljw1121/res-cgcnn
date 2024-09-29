@@ -1,0 +1,100 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_248843-ICSD
+_database_code_ICSD 248843
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Tripotassium yttrium bis(orthovanadate)'
+_chemical_formula_structural 'K3 Y (V O4)2'
+_chemical_formula_sum 'K3 O8 V2 Y1'
+_chemical_name_structure_type K3Na(SO4)2
+_exptl_crystal_density_diffrn 3.16
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Hydrothermal synthesis and spectroscopic properties of a new glaserite
+material, K3RE(VO4)2 (RE = Sc, Y, Dy, Ho, Er, Yb, Lu, or Tm) with potential
+lasing and optical properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2012 51 13271 13280 INOCAJ
+loop_
+_publ_author_name
+'Kimani, Martin M.'
+'Thompson, Lindsey'
+'Snider, Whitney'
+'McMillen, Colin D.'
+'Kolis, Joseph W.'
+_cell_length_a 5.8889(8)
+_cell_length_b 5.8889(8)
+_cell_length_c 7.6295(15)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 229.13
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.0381
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+V5+ 5
+O2- -2
+K1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 1 b 1. 0. 0.5 0.0106(4) 1 0
+V1 V5+ 2 d 0.6667 0.3333 0.7485(2) 0.0142(5) 1 0
+O1 O2- 2 d 0.6667 0.3333 0.9587(13) 0.067(4) 1 0
+O2 O2- 6 i 0.3504(13) 0.1752(6) 0.6735(10) 0.071(2) 1 0
+K1 K1+ 2 d 0.6667 0.3333 1.2931(3) 0.0262(6) 1 0
+K2 K1+ 1 a 0. 0. 1. 0.0653(17) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.0096(5) 0.0096(5) 0.0127(6) 0.0048(2) 0. 0.
+V1 V5+ 0.0161(6) 0.0161(6) 0.0103(8) 0.0081(3) 0. 0.
+O1 O2- 0.094(6) 0.094(6) 0.011(4) 0.047(3) 0. 0.
+O2 O2- 0.050(4) 0.048(3) 0.115(6) 0.025(2) -0.066(4) -0.033(2)
+K1 K1+ 0.0283(8) 0.0283(8) 0.0219(11) 0.0142(4) 0. 0.
+K2 K1+ 0.089(3) 0.089(3) 0.0182(18) 0.0444(14) 0. 0.
+#End of TTdata_248843-ICSD

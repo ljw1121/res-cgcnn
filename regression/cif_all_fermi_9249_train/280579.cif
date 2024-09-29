@@ -1,0 +1,83 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280579-ICSD
+_database_code_ICSD 280579
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Dicadmium diarsenate(V)'
+_chemical_formula_structural 'Cd2 (As2 O7)'
+_chemical_formula_sum 'As2 Cd2 O7'
+_chemical_name_structure_type Sc2Si2O7
+_exptl_crystal_density_diffrn 5.42
+_publ_section_title 'Cadmium(II) diarsenate(V), Cd2 As2 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E. Structure Reports Online' 2001 57 28
+29 ACSEBH
+loop_
+_publ_author_name
+'Weil, M.'
+_cell_length_a 6.9446(14)
+_cell_length_b 9.0365(14)
+_cell_length_c 4.8530(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 101.77(1)
+_cell_angle_gamma 90.
+_cell_volume 298.15
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0379
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+As5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cd1 Cd2+ 4 h 0 0.30427(3) 0.5 . 1. 0
+As1 As5+ 4 i 0.22491(5) 0 0.91086(7) . 1. 0
+O1 O2- 2 a 0 0 0 . 1. 0
+O2 O2- 4 i 0.3843(5) 0 0.2172(5) . 1. 0
+O3 O2- 8 j 0.2344(3) 0.1541(2) 0.7247(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cd1 Cd2+ 0.00994(10) 0.01029(10) 0.0128(1) 0 0.00099(6) 0
+As1 As5+ 0.00690(11) 0.01061(12) 0.00793(12) 0 0.00128(8) 0
+O1 O2- 0.017(3) 0.113(12) 0.090(9) 0 0.034(4) 0
+O2 O2- 0.0210(11) 0.0120(8) 0.0084(7) 0 -.0043(7) 0
+O3 O2- 0.0164(7) 0.0135(6) 0.0159(6) 0.0041(5) 0.0032(5) 0.0058(5)
+#End of TTdata_280579-ICSD

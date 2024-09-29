@@ -1,0 +1,104 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_251999-ICSD
+_database_code_ICSD 251999
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Barium iridium indide (1/2/9)'
+_chemical_formula_structural 'Ba Ir2 In9'
+_chemical_formula_sum 'Ba1 In9 Ir2'
+_chemical_name_structure_type Al9Co2Sr
+_exptl_crystal_density_diffrn 8.92
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, structure, and rigid unit mode-like anisotropic thermal expansion
+of Ba Ir2 In9
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 8794 8799 INOCAJ
+loop_
+_publ_author_name
+'Calta, Nicholas P.'
+'Han, Fei'
+'Kanatzidis, Mercouri G.'
+_cell_length_a 8.8548(6)
+_cell_length_b 8.8548(6)
+_cell_length_c 4.2696(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 289.91
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 6/m m m'
+_symmetry_Int_Tables_number 191
+_refine_ls_R_factor_all 0.0236
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, -z'
+5 '-y, x-y, -z'
+6 'x, y, -z'
+7 'x, x-y, -z'
+8 '-x+y, y, -z'
+9 '-y, -x, -z'
+10 'x-y, x, -z'
+11 'y, -x+y, -z'
+12 '-x, -y, -z'
+13 'x, x-y, z'
+14 '-x+y, y, z'
+15 '-y, -x, z'
+16 'x-y, x, z'
+17 'y, -x+y, z'
+18 '-x, -y, z'
+19 '-x, -x+y, z'
+20 'x-y, -y, z'
+21 'y, x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir0+ 0
+Ba0+ 0
+In0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir0+ 2 c 0.6667 0.3333 0. 0.00441(18) 1 0
+Ba1 Ba0+ 1 a 1. 1. 0. 0.0232(4) 1 0
+In1 In0+ 6 m 0.41409(9) 0.20705(4) -0.5 0.00893(19) 1 0
+In2 In0+ 3 f 1. 0.5 0. 0.0145(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ir1 Ir0+ 0.0036(2) 0.0036(2) 0.0061(3) 0.00179(10) 0. 0.
+Ba1 Ba0+ 0.0286(6) 0.0286(6) 0.0123(7) 0.0143(3) 0. 0.
+In1 In0+ 0.0086(3) 0.0093(2) 0.0088(3) 0.00428(15) 0. 0.
+In2 In0+ 0.0033(4) 0.0215(4) 0.0127(4) 0.00166(19) 0. 0.
+#End of TTdata_251999-ICSD

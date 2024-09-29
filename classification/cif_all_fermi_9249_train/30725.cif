@@ -1,0 +1,86 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_30725-ICSD
+_database_code_ICSD 30725
+_audit_creation_date 1984-12-31
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Dirhodium triyttrium disilicide'
+_chemical_formula_structural 'Rh2 Y3 Si2'
+_chemical_formula_sum 'Rh2 Si2 Y3'
+_chemical_name_structure_type Rh2Y3Si2
+_exptl_crystal_density_diffrn 6.22
+_publ_section_title 'Dirhodium triyttrium disilicide, Y3 Rh2 Si2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1984 40 1311 1312 ACSCEE
+loop_
+_publ_author_name
+'Moreau, J.M.'
+'Paccard, D.'
+'Paccard, L.'
+_cell_length_a 5.5661(5)
+_cell_length_b 7.7171(5)
+_cell_length_c 13.043(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 560.25
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c m'
+_symmetry_Int_Tables_number 57
+_refine_ls_R_factor_all 0.045
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, y+1/2, z'
+3 'x, y, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y+1/2, -z+1/2'
+6 'x, -y+1/2, -z'
+7 '-x, -y, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y0+ 0
+Rh0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y0+ 8 e 0.1377(2) 0.6057(1) 0.10313(6) . 1. 0
+Y2 Y0+ 4 d 0.3713(3) 0.2472(2) 0.25 . 1. 0
+Rh1 Rh0+ 8 e 0.6361(1) 0.46771(9) 0.09020(5) . 1. 0
+Si1 Si0+ 4 d 0.8584(8) 0.3976(6) 0.25 . 1. 0
+Si2 Si0+ 4 c 0.3836(7) 0.25 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Y1 Y0+ 0.63(2) 0.82(2) 0.91(1) -.25(2) 0.30(2) -.09(2)
+Y2 Y0+ 0.69(2) 0.84(2) 0.74(2) 0.25(3) 0 0
+Rh1 Rh0+ 0.68(1) 0.76(1) 0.82(1) 0.12(2) -.17(2) -.06(2)
+Si1 Si0+ 0.64(7) 1.6(1) 0.07(5) -.01(1) 0 0
+Si2 Si0+ 0.32(7) 1.11(7) 0.82(7) 0 0 0.28(7)
+#End of TTdata_30725-ICSD

@@ -1,0 +1,81 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_72714-ICSD
+_database_code_ICSD 72714
+_audit_creation_date 1994-01-19
+_chemical_name_systematic 'Titanium(III) phosphate'
+_chemical_formula_structural 'Ti (P O4)'
+_chemical_formula_sum 'O4 P1 Ti1'
+_exptl_crystal_density_diffrn 3.57
+_publ_section_title 'TiPO4, a titanium orthophosphate with a CrVO4 sublattice'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Solid State Inorganic Chemistry' 1991 28 1323 1333
+EJSCE5
+loop_
+_publ_author_name
+'Leclaire, A.'
+'Benmoussa, A.'
+'Borel, M.M.'
+'Grandin, A.'
+'Raveau, B.'
+_cell_length_a 4.7598(7)
+_cell_length_b 6.3493(7)
+_cell_length_c 17.7599(24)
+_cell_angle_alpha 90.
+_cell_angle_beta 97.39(5)
+_cell_angle_gamma 90.
+_cell_volume 532.27
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti3+ 4 f 0.7441(2) 0.4990(1) 0.12483(5) 0.255(7) 1. 0
+Ti2 Ti3+ 4 f 0.2480(2) 0.4944(1) 0.37358(5) 0.291(7) 1. 0
+P1 P5+ 2 e 0.2757(3) 0.75 0.21272(9) 0.19(2) 1. 0
+P2 P5+ 2 e 0.7240(4) 0.25 0.2866(1) 0.28(2) 1. 0
+P3 P5+ 2 e 0.7742(4) 0.75 0.46190(9) 0.25(2) 1. 0
+P4 P5+ 2 e 0.2255(4) 0.25 0.0380(1) 0.29(2) 1. 0
+O1 O2- 2 e 0.663(1) 0.25 0.2006(3) 0.43(6) 1. 0
+O2 O2- 2 e 0.5631(9) 0.75 0.1849(3) 0.15(5) 1. 0
+O3 O2- 2 e 0.941(1) 0.25 0.0726(3) 0.47(6) 1. 0
+O4 O2- 2 e 0.817(1) 0.75 0.0509(3) 0.43(6) 1. 0
+O5 O2- 4 f 0.3861(7) 0.4467(6) 0.0645(2) 0.43(4) 1. 0
+O6 O2- 4 f 0.1158(7) 0.5505(6) 0.1853(2) 0.49(4) 1. 0
+O7 O2- 4 f 0.8869(8) 0.4473(6) 0.3136(2) 0.56(4) 1. 0
+O8 O2- 4 f 0.6138(7) 0.5523(6) 0.4360(2) 0.41(4) 1. 0
+O9 O2- 2 e 0.056(1) 0.75 0.4297(3) 0.47(6) 1. 0
+O10 O2- 2 e 0.175(1) 0.25 0.4518(3) 0.59(6) 1. 0
+O11 O2- 2 e 0.4227(9) 0.25 0.3203(3) 0.23(5) 1. 0
+O12 O2- 2 e 0.3210(9) 0.75 0.3037(3) 0.17(5) 1. 0
+#End of TTdata_72714-ICSD

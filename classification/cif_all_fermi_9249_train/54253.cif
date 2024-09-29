@@ -1,0 +1,71 @@
+
+data_54253-ICSD
+_database_code_ICSD 54253
+_audit_creation_date 2005-10-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Magnesium platinum (3/1)'
+_chemical_formula_structural 'Mg3 Pt'
+_chemical_formula_sum 'Mg3 Pt1'
+_chemical_name_structure_type LaF3(P63mc)
+_exptl_crystal_density_diffrn 5.92
+_cell_length_a 7.9103(8)
+_cell_length_b 7.9103(8)
+_cell_length_c 8.3223(16)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 450.98
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P 63 c m'
+_symmetry_Int_Tables_number 185
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, z+1/2'
+2 '-x+y, y, z+1/2'
+3 '-y, -x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 '-x, -x+y, z'
+8 'x-y, -y, z'
+9 'y, x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg0+ 0
+Pt0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg0+ 2 a 0 0 0.3290(38) . 1. 0
+Mg2 Mg0+ 4 b 0.3333 0.6667 0.2134(17) . 1. 0
+Mg3 Mg0+ 6 c 0.2850(18) 0.2850(18) 0.0868(26) . 1. 0
+Mg4 Mg0+ 6 c 0.3756(14) 0.3756(14) 0.4332(25) . 1. 0
+Pt1 Pt0+ 6 c 0.3278(1) 0.3278(1) 0.75 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg1 Mg0+ 0.0153(46) 0.0153(46) 0.0206(114) 0.0076(23) 0. 0.
+Mg2 Mg0+ 0.0097(24) 0.0097(24) 0.0161(90) 0.0049(12) 0. 0.
+Mg3 Mg0+ 0.0141(35) 0.0502(133) 0.0053(59) 0.0251(66) -0.0009(62) -0.0009(62)
+Mg4 Mg0+ 0.0386(76) 0.0043(61) 0.0104(67) 0.0016(31) 0.0167(112) 0.0167(112)
+Pt1 Pt0+ 0.0066(4) 0.0062(7) 0.0066(4) 0.0031(4) -0.0046(14) -0.0046(14)

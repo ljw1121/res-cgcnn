@@ -1,0 +1,90 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281312-ICSD
+_database_code_ICSD 281312
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Diyttrium disilicate - beta'
+_chemical_formula_structural 'Y2 (Si2 O7)'
+_chemical_formula_sum 'O7 Si2 Y2'
+_chemical_name_structure_type Sc2Si2O7
+_exptl_crystal_density_diffrn 4.04
+_cell_measurement_temperature 280.
+_publ_section_title
+
+;
+Beta-(Y2 Si2 O7), a new thortveitite-type compound, determined at 100 K and
+280 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2003 59 i103 i106 ACSCEE
+loop_
+_publ_author_name
+'Redhammer, G.J.'
+'Roth, G.'
+_cell_length_a 6.8691(16)
+_cell_length_b 8.960(2)
+_cell_length_c 4.7168(11)
+_cell_angle_alpha 90.
+_cell_angle_beta 101.730(18)
+_cell_angle_gamma 90.
+_cell_volume 284.24
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.019
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 g 0 0.30621(3) 0 0.00683(12) 1. 0
+Si1 Si4+ 4 i 0.21759(11) 0 0.41320(17) 0.00575(16) 1. 0
+O1 O2- 2 c 0 0 0.5 0.0179(7) 1. 0
+O2 O2- 4 i 0.3794(3) 0 0.7153(5) 0.0083(4) 1. 0
+O3 O2- 8 j 0.2357(2) 0.14921(18) 0.2226(3) 0.0093(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.00596(15) 0.00616(15) 0.00831(16) 0 0.00131(8) 0
+Si1 Si4+ 0.0053(3) 0.0062(3) 0.0057(3) 0 0.0009(2) 0
+O1 O2- 0.0083(13) 0.0286(19) 0.0178(16) 0 0.0050(11) 0
+O2 O2- 0.0083(9) 0.0084(9) 0.0071(9) 0 -0.0009(6) 0
+O3 O2- 0.0097(6) 0.0081(7) 0.0103(7) 0.0024(5) 0.0029(5) 0.0027(5)
+#End of TTdata_281312-ICSD

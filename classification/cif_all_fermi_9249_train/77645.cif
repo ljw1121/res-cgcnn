@@ -1,0 +1,118 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_77645-ICSD
+_database_code_ICSD 77645
+_audit_creation_date 2003-04-01
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Nitridohexastrontium pentagallium (1/1)'
+_chemical_formula_structural '(Sr6 N) (Ga5)'
+_chemical_formula_sum 'Ga5 N1 Sr6'
+_chemical_name_structure_type Sr6NGa5
+_exptl_crystal_density_diffrn 4.4
+_publ_section_title
+
+;
+(Sr6 N) (Ga5) und (Ba6 N) (Ga5): Verbindungen mit diskreten (M6 N)-Oktaedern
+und (Ga5)-Clustern
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie (German Edition)' 1995 107 1879 1881 ANCEAD
+loop_
+_publ_author_name
+'Cordier, G.'
+'Ludwig, M.'
+'Stahl, D.'
+'Schmidt, P.C.'
+'Kniep, R.'
+_cell_length_a 7.580(3)
+_cell_length_b 7.58
+_cell_length_c 40.413(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 2010.9
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 c H'
+_symmetry_Int_Tables_number 167
+_refine_ls_R_factor_all 0.0674
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+5/6'
+14 '-x+2/3, -x+y+1/3, -z+5/6'
+15 'y+2/3, x+1/3, -z+5/6'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+5/6'
+20 'x+2/3, x-y+1/3, z+5/6'
+21 '-y+2/3, -x+1/3, z+5/6'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+1/6'
+26 '-x+1/3, -x+y+2/3, -z+1/6'
+27 'y+1/3, x+2/3, -z+1/6'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+1/6'
+32 'x+1/3, x-y+2/3, z+1/6'
+33 '-y+1/3, -x+2/3, z+1/6'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr0+ 0
+Ga0+ 0
+N0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr0+ 36 f 0.1000(2) 0.3208(2) 0.03610(2) . 1. 0
+Ga1 Ga0+ 18 e 0.2076(2) 0 0.25 . 1. 0
+Ga2 Ga0+ 12 c 0 0 0.19461(5) . 1. 0
+N1 N0+ 6 b 0 0 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr0+ 0.0100(6) 0.0093(6) 0.0048(5) 0.0048(4) -0.0008(4) -0.0020(4)
+Ga1 Ga0+ 0.094(7) 0.0149(10) 0.0076(8) 0.0074(5) -0.0005(3) -0.0010(7)
+Ga2 Ga0+ 0.0136(7) 0.0136 0.0024(8) 0.0068 0 0
+N1 N0+ 0.017(8) 0.017 0.005(10) 0.0085 0 0
+#End of TTdata_77645-ICSD

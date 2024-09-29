@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Pr2P2AuO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27185839
+_cell_length_b   7.97880361
+_cell_length_c   7.96373089
+_cell_angle_alpha   78.07269440
+_cell_angle_beta   74.44238951
+_cell_angle_gamma   74.47252128
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2P2AuO
+_chemical_formula_sum   'Pr4 P4 Au2 O2'
+_cell_volume   249.27532960
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.13241172  0.04705524  0.68812132  1
+  Pr  Pr1  1  0.86758828  0.95294476  0.31187868  1
+  Pr  Pr2  1  0.17208680  0.38586737  0.26995902  1
+  Pr  Pr3  1  0.82791320  0.61413263  0.73004098  1
+  P  P4  1  0.54844420  0.35657424  0.54653737  1
+  P  P5  1  0.45155580  0.64342576  0.45346263  1
+  P  P6  1  0.14763877  0.73258891  0.97213354  1
+  P  P7  1  0.85236123  0.26741109  0.02786646  1
+  Au  Au8  1  0.41160896  0.30218111  0.87460096  1
+  Au  Au9  1  0.58839104  0.69781889  0.12539904  1
+  O  O10  1  0.27833540  0.07339883  0.36993038  1
+  O  O11  1  0.72166460  0.92660117  0.63006962  1

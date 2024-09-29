@@ -1,0 +1,70 @@
+
+data_409668-ICSD
+_database_code_ICSD 409668
+_audit_creation_date 2003-10-01
+_chemical_name_systematic 'Tricesium arsenide'
+_chemical_formula_structural 'Cs3 As'
+_chemical_formula_sum 'As1 Cs3'
+_chemical_name_structure_type LaF3(P63mc)
+_exptl_crystal_density_diffrn 4.2
+_cell_length_a 10.783(2)
+_cell_length_b 10.783(2)
+_cell_length_c 11.147(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1122.45
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P 63 c m'
+_symmetry_Int_Tables_number 185
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, z+1/2'
+2 '-x+y, y, z+1/2'
+3 '-y, -x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 '-x, -x+y, z'
+8 'x-y, -y, z'
+9 'y, x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As3- -3
+Cs1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As3- 6 c 0 0.3284(3) 0.3443(4) 0.0318(4) 1. 0
+Cs1 Cs1+ 6 c 0.63310(18) 0 0.51043(9) 0.0562(5) 1. 0
+Cs2 Cs1+ 6 c 0.7043(2) 0 0.17887(12) 0.0505(4) 1. 0
+Cs3 Cs1+ 2 a 0 0 0.4216(4) 0.0488(6) 1. 0
+Cs4 Cs1+ 4 b 0.6667 0.3333 0.2958(3) 0.0804(11) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 As3- 0.0330(12) 0.0321(7) 0.0305(7) 0.0165(6) 0 -0.0009(6)
+Cs1 Cs1+ 0.0544(6) 0.0946(14) 0.0329(8) 0.0473(7) -0.0017(9) 0
+Cs2 Cs1+ 0.0654(8) 0.048(1) 0.0323(7) 0.0240(5) 0.0001(9) 0
+Cs3 Cs1+ 0.0385(7) 0.0385(7) 0.0692(14) 0.0193(4) 0 0
+Cs4 Cs1+ 0.0332(5) 0.0332(5) 0.175(3) 0.0166(2) 0 0

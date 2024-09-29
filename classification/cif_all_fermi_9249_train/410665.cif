@@ -1,0 +1,83 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_410665-ICSD
+_database_code_ICSD 410665
+_audit_creation_date 2000-07-15
+_chemical_name_systematic 'Disilver bismutate'
+_chemical_formula_structural 'Ag2 (Bi O3)'
+_chemical_formula_sum 'Ag2 Bi1 O3'
+_exptl_crystal_density_diffrn 8.71
+_publ_section_title
+'Bismuth in Ag2 Bi O3: Tetravalent or internally disproportionated ?'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1999 147 117 121 JSSCBI
+loop_
+_publ_author_name
+'Deibele, S.'
+'Jansen, M.'
+_cell_length_a 5.975(1)
+_cell_length_b 6.311(1)
+_cell_length_c 9.563(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 360.6
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n n a'
+_symmetry_Int_Tables_number 52
+_refine_ls_R_factor_all 0.0679
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z+1/2'
+2 '-x, y+1/2, z+1/2'
+3 'x+1/2, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 'x, -y+1/2, -z+1/2'
+7 '-x+1/2, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi5+ 5
+Ag0+ 0.5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi5+ 4 c 0.25 0 0.10415(5) . 1. 0
+Ag1 Ag0+ 4 b 0 0 0.5 . 1. 0
+Ag2 Ag0+ 4 d 0.7758(2) 0.25 0.25 . 1. 0
+O1 O2- 8 e 0.5669(17) 0.1796(14) 0.0603(10) . 1. 0
+O2 O2- 4 d 0.1430(27) 0.25 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi5+ 0.0146(3) 0.0104(3) 0.0087(2) 0.0005(3) 0 0
+Ag1 Ag0+ 0.0251(6) 0.0117(5) 0.0397(7) -.0012(7) -.0064(6) -.0002(9)
+Ag2 Ag0+ 0.0254(7) 0.0341(8) 0.0204(6) 0 0 -.0079(6)
+O1 O2- 0.026(4) 0.013(4) 0.012(4) -.002(3) -.002(3) -.004(3)
+O2 O2- 0.029(7) 0.113(20) 0.019(7) 0 0 -.037(12)
+#End of TTdata_410665-ICSD

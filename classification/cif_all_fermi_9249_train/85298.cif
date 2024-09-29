@@ -1,0 +1,49 @@
+
+data_85298-ICSD
+_database_code_ICSD 85298
+_audit_creation_date 1999-06-02
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Antimony sulfide iodide - II'
+_chemical_formula_structural 'Sb S I'
+_chemical_formula_sum 'I1 S1 Sb1'
+_chemical_name_structure_type SbSI
+_exptl_crystal_density_diffrn 5.26
+_cell_measurement_temperature 307.
+_cell_length_a 8.529(3)
+_cell_length_b 10.149(4)
+_cell_length_c 4.094(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 354.38
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+_refine_ls_R_factor_all 0.036
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sb3+ 3
+S2- -2
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sb1 Sb3+ 4 a 0.86980(4) 0.37673(4) 0.2492(4) 0.02595(12) 1. 0
+S1 S2- 4 a 0.9048(2) 0.54707(12) 0.7485(10) 0.0186(2) 1. 0
+I1 I1- 4 a 0.74164(4) 0.17179(3) 0.7531(2) 0.02172(12) 1. 0

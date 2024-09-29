@@ -1,0 +1,76 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_169093-ICSD
+_database_code_ICSD 169093
+_audit_creation_date 2011-02-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Potassium dihydrogenphosphate - monoclinic'
+_chemical_formula_structural 'K (H2 P O4)'
+_chemical_formula_sum 'H2 K1 O4 P1'
+_chemical_name_structure_type CsH2PO4
+_exptl_crystal_density_diffrn 2.22
+_cell_measurement_temperature 478.
+_publ_section_title
+
+;
+Intermediate-temperature polymorphic phase transition in K H2 P O4: a
+synchrotron X-ray diffraction study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics and Chemistry of Solids' 2010 71 1576 1580 JPCSAW
+loop_
+_publ_author_name
+'Botez, C.E.'
+'Carbajal, D.'
+'Adiraju, V.A.K.'
+'Tackett, R.J.'
+'Chianelli, R.R.'
+_cell_length_a 7.59
+_cell_length_b 6.209
+_cell_length_c 4.53
+_cell_angle_alpha 90.
+_cell_angle_beta 107.36
+_cell_angle_gamma 90.
+_cell_volume 203.76
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0422
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 2 e 0.2338(5) 0.25 0.06928(3) . 1. 0
+P1 P5+ 2 e 0.2370(1) 0.75 0.5293(1) . 1. 0
+O1 O2- 2 e 0.3695(2) 0.75 0.4022(1) . 1. 0
+O2 O2- 2 e 0.3320(1) 0.75 0.8447(1) . 1. 0
+O3 O2- 4 f 0.1266(1) 0.5540(1) 0.4178(1) . 1. 0
+#End of TTdata_169093-ICSD

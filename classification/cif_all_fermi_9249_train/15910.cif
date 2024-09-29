@@ -1,0 +1,49 @@
+
+data_15910-ICSD
+_database_code_ICSD 15910
+_audit_creation_date 1984-09-04
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Aluminium tetrathiophosphate(V)'
+_chemical_formula_structural 'Al (P S4)'
+_chemical_formula_sum 'Al1 P1 S4'
+_exptl_crystal_density_diffrn 2.15
+_cell_length_a 5.61(6)
+_cell_length_b 5.67(6)
+_cell_length_c 9.05(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 287.87
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 2 2 2'
+_symmetry_Int_Tables_number 16
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, -y, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+P5+ 5
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 1 a 0 0 0 . 1. 0
+Al2 Al3+ 1 f 0.5 0 0.5 . 1. 0
+P1 P5+ 1 c 0 0.5 0 . 1. 0
+P2 P5+ 1 d 0 0 0.5 . 1. 0
+S1 S2- 4 u 0.2 0.26 0.125 . 1. 0
+S2 S2- 4 u 0.74 0.8 0.63 . 1. 0

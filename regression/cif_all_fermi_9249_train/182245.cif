@@ -1,0 +1,79 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_182245-ICSD
+_database_code_ICSD 182245
+_audit_creation_date 2012-02-01
+_chemical_name_systematic 'Calcium iridate - perovskite'
+_chemical_formula_structural 'Ca (Ir O3)'
+_chemical_formula_sum 'Ca1 Ir1 O3'
+_chemical_name_structure_type Perovskite-GdFeO3
+_exptl_crystal_density_diffrn 8.13
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+High-pressure synthesis and physical properties of perovskite and
+post-perovskite Ca1-x Srx Ir O3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review, Serie 3. B - Condensed Matter (18,1978-)' 2011 83
+064401-1 064401-15 PRBMDO
+loop_
+_publ_author_name
+'Cheng, J.-G.'
+'Zhou, J.-S.'
+'Goodenough, J.B.'
+'Sui, Y.'
+'Ren, Y.'
+'Suchomel, M.R.'
+_cell_length_a 5.35046(1)
+_cell_length_b 5.59291(1)
+_cell_length_c 7.67694(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 229.73
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b n m'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0346
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, z'
+2 'x, y, -z+1/2'
+3 'x+1/2, -y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Ir4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 c -0.01403(37) 0.05962(14) 0.25 0.713(22) 1. 0
+Ir1 Ir4+ 4 b 0.5 0 0 0.277(2) 1. 0
+O1 O2- 4 c 0.10487(54) 0.47110(76) 0.25 0.924(94) 1. 0
+O2 O2- 8 d 0.69257(43) 0.30488(43) 0.05602(30) 1.067(77) 1. 0
+#End of TTdata_182245-ICSD

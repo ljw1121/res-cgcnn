@@ -1,0 +1,80 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_100705-ICSD
+_database_code_ICSD 100705
+_audit_creation_date 1980-12-31
+_chemical_name_systematic 'Indium telluride bromide'
+_chemical_formula_structural 'In Te Br'
+_chemical_formula_sum 'Br1 In1 Te1'
+_chemical_name_structure_type InTeI
+_exptl_crystal_density_diffrn 5.2
+_publ_section_title
+
+;
+Phase relations in the In Br3 - In2 Te3 system and the crystal structure of In
+Te Br
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1980 15 763 770 MRBUAC
+loop_
+_publ_author_name
+'Kniep, R.'
+'Wilms, A.'
+_cell_length_a 7.350(5)
+_cell_length_b 7.577(4)
+_cell_length_c 8.343(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 117.61(4)
+_cell_angle_gamma 90.
+_cell_volume 411.72
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.099
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+Te2- -2
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 4 e -.0244(3) 0.3006(2) 0.1181(3) . 1. 0
+Te1 Te2- 4 e 0.2172(3) 0.1308(2) 0.4414(2) . 1. 0
+Br1 Br1- 4 e -.3167(5) 0.1026(4) -.0837(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+In1 In3+ 0.033(1) 0.0122(6) 0.0238(8) -.0016(6) 0.0118(7) 0.0019(5)
+Te1 Te2- 0.0253(8) 0.0139(6) 0.0231(7) -.0002(6) 0.0109(6) 0.0018(6)
+Br1 Br1- 0.032(1) 0.021(1) 0.042(2) -.004(1) 0.012(1) -.009(1)
+#End of TTdata_100705-ICSD

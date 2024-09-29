@@ -1,0 +1,95 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_94741-ICSD
+_database_code_ICSD 94741
+_audit_creation_date 2003-10-01
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Calcium dibismuth dicarbonate dioxide'
+_chemical_formula_structural 'Ca Bi2 (C O3)2 O2'
+_chemical_formula_sum 'C2 Bi2 Ca1 O8'
+_chemical_name_mineral Beyerite
+_exptl_crystal_density_diffrn 6.55
+_publ_section_title
+'A solution to the crystal structures of bismutite and beyerite'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2002 40 693 698 CAMIA6
+loop_
+_publ_author_name
+'Grice, J.D.'
+_cell_length_a 3.7729(5)
+_cell_length_b 3.7742(7)
+_cell_length_c 21.726(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 309.37
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m m m'
+_symmetry_Int_Tables_number 71
+_refine_ls_R_factor_all 0.0145
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 'x, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x, -y, z'
+6 '-x, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x+1/2, y+1/2, -z+1/2'
+10 'x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 '-x+1/2, -y+1/2, z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Ca2+ 2
+C4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 i 0 0 0.69085(1) 0.01051(6) 1. 0
+Ca1 Ca2+ 2 c 0 0 0.5 0.0109(4) 1. 0
+C1 C4+ 4 i 0.5 0.5 0.4107(3) 0.014(1) 1. 0
+O1 O2- 4 j 0.5 0 0.2558(3) 0.005(1) 1. 0
+O2 O2- 8 l 0.5 0.207(1) 0.4379(2) 0.0158(9) 1. 0
+O3 O2- 4 i 0.5 0.5 0.3498(2) 0.020(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0111(1) 0.0114(1) 0.0091(1) 0. 0. 0.
+Ca1 Ca2+ 0.0111(9) 0.010(1) 0.0119(7) 0. 0. 0.
+C1 C4+ 0.012(3) 0.026(4) 0.004(2) 0. 0. 0.
+O1 O2- 0.006(2) 0.007(2) 0.000(2) 0. 0. 0.
+O2 O2- 0.014(2) 0.015(2) 0.018(2) 0. 0. 0.007(2)
+O3 O2- 0.031(3) 0.024(3) 0.004(2) 0. 0. 0.
+#End of TTdata_94741-ICSD

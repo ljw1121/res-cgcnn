@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_27436-ICSD
+_database_code_ICSD 27436
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Dicopper diphosphate(V) - beta, HT'
+_chemical_formula_structural 'Cu2 (P2 O7)'
+_chemical_formula_sum 'Cu2 O7 P2'
+_chemical_name_structure_type Sc2Si2O7
+_exptl_crystal_density_diffrn 4.17
+_cell_measurement_temperature 373.
+_publ_section_title 'Crystal structure of beta - Cu2 P2 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Journal of Chemistry' 1968 46 605 612 CJCHAG
+loop_
+_publ_author_name
+'Robertson, B.E.'
+'Calvo, C.'
+_cell_length_a 6.827(8)
+_cell_length_b 8.118(10)
+_cell_length_c 4.576(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.85(10)
+_cell_angle_gamma 90.
+_cell_volume 240.01
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 4 h 0 0.3122(2) 0.5 . 1. 0
+P1 P5+ 4 i 0.1998(4) 0 -.0883(6) . 1. 0
+O1 O2- 2 a 0 0 0 . 1. 0
+O2 O2- 4 i 0.3759(9) 0 0.2161(17) . 1. 0
+O3 O2- 8 j 0.2035(10) 0.1533(7) -.2708(15) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.185(5) 0.065(4) 0.092(6) 0 -0.073(4) 0
+P1 P5+ 0.084(7) 0.092(7) 0.062(8) 0 0.018(7) 0
+O1 O2- 0.104(35) 0.197(226) 0.292(78) 0 0.126(50) 0
+O2 O2- 0.075(15) 0.087(16) 0.071(20) 0 0.010(18) 0
+O3 O2- 0.296(24) 0.091(12) 0.121(19) 0.045(17) 0.023(20) 0.063(18)
+#End of TTdata_27436-ICSD

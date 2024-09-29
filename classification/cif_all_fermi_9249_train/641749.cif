@@ -1,0 +1,55 @@
+
+data_641749-ICSD
+_database_code_ICSD 641749
+_audit_creation_date 2012-08-01
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Lanthanum rhodium silicide (1/1/1)'
+_chemical_formula_structural 'La Rh Si'
+_chemical_formula_sum 'La1 Rh1 Si1'
+_chemical_name_structure_type LaIrSi
+_exptl_crystal_density_diffrn 7.13
+_cell_length_a 6.296(2)
+_cell_length_b 6.296(2)
+_cell_length_c 6.296(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 249.57
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 3'
+_symmetry_Int_Tables_number 198
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+Rh0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 4 a 0.133 0.133 0.133 . 1. 0
+Rh1 Rh0+ 4 a 0.423 0.423 0.423 . 1. 0
+Si1 Si0+ 4 a 0.839 0.839 0.839 . 1. 0

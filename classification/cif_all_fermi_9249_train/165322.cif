@@ -1,0 +1,92 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_165322-ICSD
+_database_code_ICSD 165322
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Dipotassium digold hexaseleno-duo-diphosphate(IV)'
+_chemical_formula_structural 'K2 Au2 (P2 Se6)'
+_chemical_formula_sum 'Au2 K2 P2 Se6'
+_exptl_crystal_density_diffrn 5.15
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Chemistry of gold in molten alkali metal polychalcophosphate fluxes. Synthesis
+and characterization of the low-dimensional compounds A3 Au P2 Se8 (A= K, Rb,
+Cs), A2 Au2 P2 Se6 (A= K, Rb), A2 Au P S4 (A= K, Rb, Cs) and A Au P2 S7 (A= K,
+Rb)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1997 36 2623 2632 INOCAJ
+loop_
+_publ_author_name
+'Chondroudis, K.'
+'Hanko, J.A.'
+'Kanatzidis, M.G.'
+_cell_length_a 12.289(2)
+_cell_length_b 7.210(1)
+_cell_length_c 8.107(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.13(1)
+_cell_angle_gamma 90.
+_cell_volume 650.32
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.045
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au1+ 1
+Se2- -2
+P4+ 4
+K1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au1+ 4 g 0 0.2564(2) 0 1.15(4) 1. 0
+Se1 Se2- 4 i -0.2144(3) 0 0.1994(4) 1.7(1) 1. 0
+Se2 Se2- 8 j 0.0727(2) 0.2531(3) 0.3262(3) 1.89(8) 1. 0
+P1 P4+ 4 i -0.0224(6) 0 0.350(1) 0.7(2) 1. 0
+K1 K1+ 4 i 0.2988(7) 0 0.260(1) 2.5(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au1 Au1+ 0.0146(6) 0.0163(7) 0.0134(6) 0. 0.0065(4) 0.
+Se1 Se2- 0.008(2) 0.031(2) 0.021(1) 0. 0.003(1) 0.
+Se2 Se2- 0.037(1) 0.016(1) 0.017(1) -0.018(1) 0.010(1) -0.002(1)
+P1 P4+ 0.010(4) 0.007(4) 0.012(3) 0. 0.006(3) 0.
+K1 K1+ 0.031(5) 0.038(5) 0.022(4) 0. 0.007(3) 0.
+#End of TTdata_165322-ICSD

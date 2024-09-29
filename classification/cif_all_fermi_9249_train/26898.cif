@@ -1,0 +1,75 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_26898-ICSD
+_database_code_ICSD 26898
+_audit_creation_date 1981-12-31
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Palladium phosphide (6/1)'
+_chemical_formula_structural 'Pd6 P'
+_chemical_formula_sum 'P1 Pd6'
+_chemical_name_structure_type Pd6P
+_exptl_crystal_density_diffrn 10.79
+_publ_section_title
+
+;
+Neutron Powder Diffraction Investigation of Pure and Deuterated Palladium
+Phosphide Pd6 P
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1981 37 1965 1972 ACBCAR
+loop_
+_publ_author_name
+'Andersson, Y.'
+'Rundqvist, S.'
+'Tellgren, R.'
+'Thomas, J.O.'
+'Flanagan, T.B.'
+_cell_length_a 5.6740(4)
+_cell_length_b 9.4409(6)
+_cell_length_c 8.2100(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.414(4)
+_cell_angle_gamma 90.
+_cell_volume 412.17
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pd0+ 0
+P0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pd1 Pd0+ 4 e 0.9669(20) 0.8635(7) 0.9445(7) 0.7 1. 0
+Pd2 Pd0+ 4 e 0.5265(19) 0.1381(7) 0.0684(10) 0.7 1. 0
+Pd3 Pd0+ 4 e 0.7756(18) 0.8696(8) 0.5752(8) 0.7 1. 0
+Pd4 Pd0+ 4 e 0.7070(18) 0.1315(7) 0.4326(10) 0.7 1. 0
+Pd5 Pd0+ 4 e 0.8702(20) 0.5777(5) 0.7527(12) 0.7 1. 0
+Pd6 Pd0+ 4 e 0.6127(19) 0.4156(6) 0.2529(12) 0.7 1. 0
+P1 P0+ 4 e 0.8845(18) 0.2608(4) 0.7519(11) 0.91 1. 0
+#End of TTdata_26898-ICSD

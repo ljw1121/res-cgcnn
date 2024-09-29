@@ -1,0 +1,81 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_245538-ICSD
+_database_code_ICSD 245538
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Trisodium dicobalt hexaoxoantimonate(V)'
+_chemical_formula_structural 'Na3 Co2 Sb O6'
+_chemical_formula_sum 'Co2 Na3 O6 Sb1'
+_chemical_name_structure_type Na5ReO6
+_exptl_crystal_density_diffrn 5.04
+_publ_section_title
+
+;
+Structure and basic magnetic properties of the honeycomb lattice compounds Na2
+Co2 Te O6 and Na3 Co2 Sb O6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2007 180 1060 1067 JSSCBI
+loop_
+_publ_author_name
+'Viciu, L.'
+'Huang Q.'
+'Morosan, E.'
+'Zandbergen, H.W.'
+'Greenbaum, N.I.'
+'McQueen, T.'
+'Cava, R.J.'
+_cell_length_a 5.3681(2)
+_cell_length_b 9.2849(4)
+_cell_length_c 5.637(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.506(4)
+_cell_angle_gamma 90
+_cell_volume 266.43
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0757
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+Sb5+ 5
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 4 g 0 0.6667 0 0.0023(12) 1. 0
+Sb1 Sb5+ 2 a 0 0 0 0.0186(17) 1. 0
+O1 O2- 8 j 0.2744(8) 0.3410(3) 0.7971(5) 0.0125(2) 1. 0
+O2 O2- 4 i 0.2463(10) 0.5 0.2056(10) 0.0125(2) 1. 0
+Na1 Na1+ 2 d 0 0.5 0.5 0.0158(5) 1. 0
+Na2 Na1+ 4 h 0.5 0.3296(6) 0.5 0.0158(5) 1. 0
+#End of TTdata_245538-ICSD

@@ -1,0 +1,74 @@
+
+data_416339-ICSD
+_database_code_ICSD 416339
+_audit_creation_date 2007-08-01
+_audit_update_record 2008-08-01
+_chemical_name_systematic 'Barium gallium lead (5/5/1)'
+_chemical_formula_structural 'Ba5 Ga5 Pb'
+_chemical_formula_sum 'Ba5 Ga5 Pb1'
+_chemical_name_structure_type Ba5Al5Pb
+_exptl_crystal_density_diffrn 6.03
+_cell_length_a 6.0176(7)
+_cell_length_b 6.0176(7)
+_cell_length_c 10.9151(13)
+_cell_angle_alpha 90.000(2)
+_cell_angle_beta 90.000(2)
+_cell_angle_gamma 120.0000(16)
+_cell_volume 342.3
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -6 m 2'
+_symmetry_Int_Tables_number 187
+_refine_ls_R_factor_all 0.0302
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z'
+2 '-x+y, y, -z'
+3 '-y, -x, -z'
+4 'x, x-y, z'
+5 '-x+y, y, z'
+6 '-y, -x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba0+ 0
+Ga0+ 0
+Pb0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba0+ 2 g 0. 0. 0.33114(9) 0.0134(3) 1 0
+Ba2 Ba0+ 2 i 0.6667 0.3333 0.20434(10) 0.0230(3) 1 0
+Ba3 Ba0+ 1 c 0.3333 0.6667 0. 0.0169(4) 1 0
+Ga1 Ga0+ 2 h 0.3333 0.6667 0.3260(2) 0.0153(6) 1 0
+Ga2 Ga0+ 3 k 0.51475(15) 0.0295(3) 0.5 0.0148(3) 1 0
+Pb1 Pb0+ 1 a 0. 0. 0. 0.0193(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba0+ 0.0118(3) 0.0118(3) 0.0167(6) 0.00592(17) 0. 0.
+Ba2 Ba0+ 0.0250(4) 0.0250(4) 0.0190(6) 0.01250(18) 0. 0.
+Ba3 Ba0+ 0.0179(5) 0.0179(5) 0.0148(9) 0.0090(3) 0. 0.
+Ga1 Ga0+ 0.0141(8) 0.0141(8) 0.0176(14) 0.0071(4) 0. 0.
+Ga2 Ga0+ 0.0145(5) 0.0166(7) 0.0141(6) 0.0083(4) 0. 0.
+Pb1 Pb0+ 0.0185(4) 0.0185(4) 0.0207(6) 0.00927(18) 0. 0.

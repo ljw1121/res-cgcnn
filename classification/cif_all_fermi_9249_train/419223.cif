@@ -1,0 +1,79 @@
+
+data_419223-ICSD
+_database_code_ICSD 419223
+_audit_creation_date 2009-08-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Iron(II) cyanamide'
+_chemical_formula_structural 'Fe (N C N)'
+_chemical_formula_sum 'C1 Fe1 N2'
+_chemical_name_structure_type FeNCN
+_exptl_crystal_density_diffrn 3.66
+_cell_measurement_temperature 293.
+_cell_length_a 3.2689(2)
+_cell_length_b 3.2689(2)
+_cell_length_c 9.4008(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 87.
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.0545
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+N3- -3
+C4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 2 a 1. 0. 0.5 0.0136(9) 1 0
+N1 N3- 4 f 0.6667 0.3333 0.3795(11) 0.015(2) 1 0
+C1 C4+ 2 d 0.6667 0.3333 0.25 0.012(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe2+ 0.0106(10) 0.0106(10) 0.0196(13) 0.0053(5) 0. 0.

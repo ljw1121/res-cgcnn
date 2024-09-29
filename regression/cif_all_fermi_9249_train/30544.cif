@@ -1,0 +1,88 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_30544-ICSD
+_database_code_ICSD 30544
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Zinc dihydrogendioxophosphate(I)'
+_chemical_formula_structural 'Zn (H2 P O2)2'
+_chemical_formula_sum 'H4 O4 P2 Zn1'
+_exptl_crystal_density_diffrn 2.51
+_publ_section_title
+
+;
+The Crystal Structures of Manganese(II) Phosphonate Monohydrate, Zinc
+Phosphinate Monohydrate, and Anhydrous Zinc Phosphinate
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1979 35 42 45 ACBCAR
+loop_
+_publ_author_name
+'Weakley, T.J.R.'
+_cell_length_a 6.482(7)
+_cell_length_b 5.363(4)
+_cell_length_c 7.436(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 258.5
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m m a'
+_symmetry_Int_Tables_number 51
+_refine_ls_R_factor_all 0.083
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, -y, z'
+2 'x+1/2, -y, -z'
+3 'x, -y, z'
+4 '-x, -y, -z'
+5 'x+1/2, y, -z'
+6 '-x+1/2, y, z'
+7 '-x, y, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+P5+ 5
+O2- -2
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 2 a 0 0 0 . 1. 0
+P1 P5+ 2 f 0.25 0.5 0.1444(6) . 1. 0
+P2 P5+ 2 e 0.25 0 0.6321(6) . 1. 0
+O1 O2- 4 k 0.25 0.2622(16) 0.0375(10) . 1. 0
+O2 O2- 4 i 0.0513(11) 0 0.7333(11) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 Zn2+ 0.0080(12) 0.0123(14) 0.0212(17) 0 0.0002(7) 0
+P1 P5+ 0.0202(19) 0.0120(22) 0.0255(24) 0 0 0
+P2 P5+ 0.0168(19) 0.0524(37) 0.0204(26) 0 0 0
+O1 O2- 0.0161(35) 0.0175(47) 0.0260(41) 0 0 -.0044(34)
+O2 O2- 0.0136(36) 0.0404(58) 0.0210(42) 0 -.0032(28) 0
+#End of TTdata_30544-ICSD

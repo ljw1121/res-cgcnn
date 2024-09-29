@@ -1,0 +1,75 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_262675-ICSD
+_database_code_ICSD 262675
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Barium dibromide'
+_chemical_formula_structural 'Ba Br2'
+_chemical_formula_sum 'Ba1 Br2'
+_chemical_name_structure_type PbCl2
+_exptl_crystal_density_diffrn 4.84
+_cell_measurement_temperature 342.
+_publ_section_title
+
+;
+High temperature crystal structures and superionic properties of Sr Cl2, Sr
+Br2, Ba Cl2 and Ba Br2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2011 184 2925 2935 JSSCBI
+loop_
+_publ_author_name
+'Hull, S.'
+'Norberg, S.T.'
+'Ahmed, I.'
+'Eriksson, S.G.'
+'Mohn, C.E.'
+_cell_length_a 8.2746(1)
+_cell_length_b 4.9599(1)
+_cell_length_c 9.9264(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 407.39
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0178
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 c 0.2491(3) 0.25 0.1179(2) 0.0151(4) 1. 0
+Br1 Br1- 4 c 0.1431(2) 0.25 0.4299(2) 0.0171(4) 1. 0
+Br2 Br1- 4 c 0.0287(2) 0.25 0.8293(2) 0.0234(4) 1. 0
+#End of TTdata_262675-ICSD

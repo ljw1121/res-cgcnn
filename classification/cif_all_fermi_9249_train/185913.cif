@@ -1,0 +1,95 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_185913-ICSD
+_database_code_ICSD 185913
+_audit_creation_date 2013-02-01
+_chemical_name_systematic 'Magnesium molybdenum dinitride'
+_chemical_formula_structural 'Mg Mo N2'
+_chemical_formula_sum 'Mg1 Mo1 N2'
+_chemical_name_structure_type TiAs
+_exptl_crystal_density_diffrn 6.36
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Solid state synthesis of a new ternary nitride Mg Mo N2 nanosheets and
+micromeshes
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Chemistry' 2012 22 14559 14564 JMACEP
+loop_
+_publ_author_name
+'Wang Liangbiao'
+'Tang Kaibin'
+'Zhu Yongchun'
+'Li Qianwen'
+'Zhu Baichuan'
+'Wang Liancheng'
+'Si Lulu'
+'Qian Yital'
+_cell_length_a 2.91081
+_cell_length_b 2.91081
+_cell_length_c 10.55029
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 77.41
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.0196
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+Mo4+ 4
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg2+ 2 a 0. 0. 0. 2.640(71) 1. 0
+Mo1 Mo4+ 2 d 0.33333 0.66667 0.75 0.640(16) 1. 0
+N1 N3- 4 f 0.33333 0.66667 0.13840(23) 0.010(0) 1. 0
+#End of TTdata_185913-ICSD

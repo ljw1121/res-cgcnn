@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_415549-ICSD
+_database_code_ICSD 415549
+_audit_creation_date 2006-10-01
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Manganese selenate(IV) hydrate'
+_chemical_formula_structural 'Mn (Se O3) (H2 O)'
+_chemical_formula_sum 'H2 Mn1 O4 Se1'
+_exptl_crystal_density_diffrn 3.48
+_publ_section_title
+
+;
+Synthesis, structural, spectroscopic and magnetic studies of two new
+polymorphs of Mn (Se O3) * H2 O
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2005 178 3686 3697 JSSCBI
+loop_
+_publ_author_name
+'Larranaga, A.'
+'Mesa, J.L.'
+'Pizarro, J.L.'
+'Pena, A.'
+'Olazcuaga, R.'
+'Arriortua, M.I.'
+'Rojo, T.'
+_cell_length_a 5.8172(14)
+_cell_length_b 13.449(3)
+_cell_length_c 4.8765(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 381.52
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'A m a 2'
+_symmetry_Int_Tables_number 40
+_refine_ls_R_factor_all 0.0682
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x+1/2, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se4+ 4
+Mn2+ 2
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se4+ 4 b 0.75 0.10139(12) -0.0054(2) 0.0166(4) 1 0
+Mn1 Mn2+ 4 b 0.75 0.2675(2) 0.5670(7) 0.0180(6) 1 0
+O1 O2- 4 b 0.75 0.1384(12) 0.313(3) 0.024(3) 1 0
+O2 O2- 4 b 0.75 0.3880(11) 0.876(4) 0.026(3) 1 0
+O3 O2- 8 c 0.5293(18) 0.1691(8) -0.157(2) 0.022(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se4+ 0.0155(6) 0.0197(7) 0.0147(8) 0. 0. -0.0011(7)
+Mn1 Mn2+ 0.0144(11) 0.0227(13) 0.0170(14) 0. 0. 0.0020(11)
+O1 O2- 0.028(8) 0.034(7) 0.010(6) 0. 0. -0.007(6)
+O2 O2- 0.027(7) 0.025(8) 0.025(8) 0. 0. 0.004(6)
+O3 O2- 0.018(4) 0.033(5) 0.016(4) 0.007(4) 0.003(3) 0.000(3)
+#End of TTdata_415549-ICSD

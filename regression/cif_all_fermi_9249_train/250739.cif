@@ -1,0 +1,97 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_250739-ICSD
+_database_code_ICSD 250739
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Methylammonium triiodoplumbate(II)'
+_chemical_formula_structural '(C H3 N H3) (Pb I3)'
+_chemical_formula_sum 'C1 H6 I3 N1 Pb1'
+_exptl_crystal_density_diffrn 4.16
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Semiconducting tin and lead iodide perovskites with organic cations. Phase
+transitions, high mobilities, and near-infrared photoluminescent properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2013 52 9019 9038 INOCAJ
+loop_
+_publ_author_name
+'Stoumpos, Constantinos C.'
+'Malliakas, Christos D.'
+'Kanatzidis, Mercouri G.'
+_cell_length_a 8.849(2)
+_cell_length_b 8.849(2)
+_cell_length_c 12.642(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 989.92
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 4 c m'
+_symmetry_Int_Tables_number 108
+_refine_ls_R_factor_all 0.0378
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, z'
+2 '-y+1/2, -x+1/2, z'
+3 'y, -x, z'
+4 '-y, x, z'
+5 'x+1/2, -y+1/2, z'
+6 '-x+1/2, y+1/2, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'y, x, z+1/2'
+10 '-y, -x, z+1/2'
+11 'y+1/2, -x+1/2, z+1/2'
+12 '-y+1/2, x+1/2, z+1/2'
+13 'x, -y, z+1/2'
+14 '-x, y, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+I1- -1
+C2- -2
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 4 a 0. 0. 0. 0.0319(2) 1 0
+I1 I1- 4 a 0. 0. 0.2472(7) 0.0794(6) 1 0
+I2 I1- 8 c 0.21417(15) 0.71417(15) 0.0046(6) 0.0830(7) 1 0
+C1 C2- 4 b 0.5 0. 0.352(11) 0.34(10) 1 0
+N1 N3- 4 b 0.5 0. 0.242(11) 0.17(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb2+ 0.0318(2) 0.0318(2) 0.0322(4) 0. 0. 0.
+I1 I1- 0.1071(10) 0.1071(10) 0.0239(11) 0. 0. 0.
+I2 I1- 0.0678(6) 0.0678(6) 0.1134(16) 0.0434(7) 0.0279(17) 0.0279(17)
+#End of TTdata_250739-ICSD

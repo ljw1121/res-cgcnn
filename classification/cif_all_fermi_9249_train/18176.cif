@@ -1,0 +1,63 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_18176-ICSD
+_database_code_ICSD 18176
+_audit_creation_date 1980-01-01
+_audit_update_record 1984-11-02
+_chemical_name_systematic 'Cobalt sulfate - C'
+_chemical_formula_structural 'Co S O4'
+_chemical_formula_sum 'Co1 O4 S1'
+_exptl_crystal_density_diffrn 1.88
+_publ_section_title 'Polymorphism in anhydrous cobalt sulphate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica (1,1948-23,1967)' 1965 18 737 740 ACCRA9
+loop_
+_publ_author_name
+'Dunitz, J.D.'
+_cell_length_a 8.67
+_cell_length_b 6.7
+_cell_length_c 4.75
+_cell_angle_alpha 90.
+_cell_angle_beta 96.4
+_cell_angle_gamma 90.
+_cell_volume 274.2
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 2 a 0 0 0 . 1. 0
+S1 S6+ 2 e 0.32 0.25 -.02 . 1. 0
+O1 O2- 2 e 0.38 0.25 -.29 . 1. 0
+O2 O2- 2 e 0.15 0.25 -.08 . 1. 0
+O3 O2- 4 f 0.38 0.07 0.12 . 1. 0
+#End of TTdata_18176-ICSD

@@ -1,0 +1,74 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_10338-ICSD
+_database_code_ICSD 10338
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Trifluorosulfur(IV) hexafluoroarsenate'
+_chemical_formula_structural 'S F3 As F6'
+_chemical_formula_sum 'As1 F9 S1'
+_exptl_crystal_density_diffrn 2.85
+_publ_section_title
+
+;
+Structural studies of trifluorosulfur(IV)yl, (S F3)(+), salts including the
+crystal structure of (S F3)(+) (B F4)(-)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1972 11 2325 2329 INOCAJ
+loop_
+_publ_author_name
+'Gibler, D.D.'
+'Adams, C.J.'
+'Fischer, M.'
+'Zalkin, A.'
+'Bartlett, N.'
+_cell_length_a 20.375(3)
+_cell_length_b 8.508(3)
+_cell_length_c 11.224(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1945.69
+_cell_formula_units_Z 12
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As5+ 5
+S4+ 4
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As5+ 4 a 0 -.0177(7) 0.0002(3) . 1. 0
+As2 As5+ 8 b 0.1632(2) 0.4922(7) 0.4909 . 1. 0
+S1 S4+ 4 a 0 0.4091(20) 0.3138(15) . 1. 0
+S2 S4+ 8 b 0.3346(3) 0.4031(10) 0.1773(8) . 1. 0
+#End of TTdata_10338-ICSD

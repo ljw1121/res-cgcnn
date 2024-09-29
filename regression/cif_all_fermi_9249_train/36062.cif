@@ -1,0 +1,56 @@
+
+data_36062-ICSD
+_database_code_ICSD 36062
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Cobalt tetrakis(thiocyanato)mercurate'
+_chemical_formula_structural 'Co (Hg (S C N)4)'
+_chemical_formula_sum 'C4 Co1 Hg1 N4 S4'
+_chemical_name_structure_type CoHg(SCN)4
+_exptl_crystal_density_diffrn 3.02
+_cell_length_a 11.109
+_cell_length_b 11.109
+_cell_length_c 4.379
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 540.41
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+S2- -2
+C4+ 4
+N3- -3
+Co2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg2+ 2 a 0 0 0 2.38 1. 0
+S1 S2- 8 g 0.1528(3) 0.1260(3) 0.298(1) 2.7 1. 0
+C1 C4+ 8 g 0.2733(11) 0.0804(12) 0.1179(34) 2.45 1. 0
+N1 N3- 8 g 0.3601(9) 0.0480(11) -.0228(62) 3.4 1. 0
+Co1 Co2+ 2 c 0.5 0 -.25 2.63 1. 0

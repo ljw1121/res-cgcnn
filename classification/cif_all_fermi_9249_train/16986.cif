@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_16986-ICSD
+_database_code_ICSD 16986
+_audit_creation_date 1980-01-01
+_audit_update_record 2007-04-01
+_chemical_name_systematic 'Cobalt sulfate(VI) - beta'
+_chemical_formula_structural 'Co (S O4)'
+_chemical_formula_sum 'Co1 O4 S1'
+_chemical_name_structure_type CrVO4
+_exptl_crystal_density_diffrn 3.86
+_publ_section_title
+'Die Kristallstruktur der beiden Modifikationen von wasserfreiem Co S O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Neues Jahrbuch fuer Mineralogie. Monatshefte (Band=Jahr) (1950-)' 1958
+1958 226 233 NJMMAW
+loop_
+_publ_author_name
+'Rentzeperis, P.J.'
+_cell_length_a 5.200(7)
+_cell_length_b 7.876(15)
+_cell_length_c 6.513(11)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 266.74
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 4 a 0 0 0 . 1. 0
+S1 S6+ 4 c 0 0.361 0.25 . 1. 0
+O1 O2- 8 f 0 0.25 0.058 . 1. 0
+O2 O2- 8 g 0.25 0.472 0.25 . 1. 0
+#End of TTdata_16986-ICSD

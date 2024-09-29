@@ -1,0 +1,51 @@
+
+data_1847-ICSD
+_database_code_ICSD 1847
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Copper tin (20/6)'
+_chemical_formula_structural 'Cu20 Sn6'
+_chemical_formula_sum 'Cu20 Sn6'
+_exptl_crystal_density_diffrn 9.
+_cell_length_a 7.330(4)
+_cell_length_b 7.330(4)
+_cell_length_c 7.864(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 365.92
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.082
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu0+ 0
+Sn0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu0+ 2 a 0 0 -.0223(14) 1.27 1. 0
+Cu2 Cu0+ 2 b 0.6667 0.3333 -.0900(23) 1.54 1. 0
+Cu3 Cu0+ 6 c 0.6472(15) -.0179(11) -.0845(12) 0.86 1. 0
+Cu4 Cu0+ 2 b 0.3333 0.6667 0.0737(17) 0.57 1. 0
+Cu5 Cu0+ 6 c 0.3574(13) 0.035(1) 0.0831(12) 0.72 1. 0
+Cu6 Cu0+ 2 b 0.6667 0.3333 0.2450(26) 0.67 1. 0
+Sn1 Sn0+ 6 c 0.6800(3) -.0200(4) 0.25 0.77 1. 0

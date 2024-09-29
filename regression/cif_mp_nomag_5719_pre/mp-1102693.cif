@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrGeMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.59590665
+_cell_length_b   7.07210180
+_cell_length_c   8.35923801
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrGeMo
+_chemical_formula_sum   'Zr4 Ge4 Mo4'
+_cell_volume   212.58058770
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.25000000  0.54655655  0.83225495  1
+  Zr  Zr1  1  0.25000000  0.04655655  0.66774505  1
+  Zr  Zr2  1  0.75000000  0.45344345  0.16774505  1
+  Zr  Zr3  1  0.75000000  0.95344345  0.33225495  1
+  Ge  Ge4  1  0.25000000  0.75244717  0.13954429  1
+  Ge  Ge5  1  0.25000000  0.25244717  0.36045571  1
+  Ge  Ge6  1  0.75000000  0.24755283  0.86045571  1
+  Ge  Ge7  1  0.75000000  0.74755283  0.63954429  1
+  Mo  Mo8  1  0.25000000  0.62807325  0.43996468  1
+  Mo  Mo9  1  0.25000000  0.12807325  0.06003532  1
+  Mo  Mo10  1  0.75000000  0.37192675  0.56003532  1
+  Mo  Mo11  1  0.75000000  0.87192675  0.93996468  1

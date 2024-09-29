@@ -1,0 +1,82 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35141-ICSD
+_database_code_ICSD 35141
+_audit_creation_date 1982-12-31
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Nickel divanadium(III) divanadium(IV) sulfide'
+_chemical_formula_structural 'Ni V4 S8'
+_chemical_formula_sum 'Ni1 S8 V4'
+_chemical_name_structure_type NiV4S8
+_exptl_crystal_density_diffrn 4.08
+_publ_section_title 'Ternary vanadium sulfides'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1982 44 119 125 JSSCBI
+loop_
+_publ_author_name
+'Murugesan, T.'
+'Ramesh, S.'
+'Gopalakrishnan, J.'
+'Rao, C.N.R.'
+_cell_length_a 11.39(1)
+_cell_length_b 6.63(1)
+_cell_length_c 11.20(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.7(1)
+_cell_angle_gamma 90.
+_cell_volume 845.4
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'F 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.066
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, -y, z'
+3 '-x, y, -z'
+4 'x, y, z'
+5 '-x, -y+1/2, -z+1/2'
+6 'x, -y+1/2, z+1/2'
+7 '-x, y+1/2, -z+1/2'
+8 'x, y+1/2, z+1/2'
+9 '-x+1/2, -y, -z+1/2'
+10 'x+1/2, -y, z+1/2'
+11 '-x+1/2, y, -z+1/2'
+12 'x+1/2, y, z+1/2'
+13 '-x+1/2, -y+1/2, -z'
+14 'x+1/2, -y+1/2, z'
+15 '-x+1/2, y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+V3+ 3
+S1- -1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 4 a 0 0 0 . 1. 0
+V1 V3+ 8 h 0.25 0.312(9) 0.25 . 1. 0
+V2 V3+ 8 i 0.508(7) 0 0.242(5) . 1. 0
+S1 S1- 8 i 0.206(9) 0 0.153(10) . 1. 0
+S2 S2- 8 i 0.195(9) 0.5 0.097(9) . 1. 0
+S3 S2- 16 j 0.431(8) 0.246(8) 0.121(7) . 1. 0
+#End of TTdata_35141-ICSD

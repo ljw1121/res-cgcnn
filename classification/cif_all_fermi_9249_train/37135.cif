@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_37135-ICSD
+_database_code_ICSD 37135
+_audit_creation_date 1983-12-31
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Hexathallium tellurium(VI) oxide'
+_chemical_formula_structural 'Tl6 Te O6'
+_chemical_formula_sum 'O6 Te1 Tl6'
+_chemical_name_structure_type Li6TeO6
+_exptl_crystal_density_diffrn 9.74
+_publ_section_title
+
+;
+Cristallochimie de Tl(III)6 Te(VI) O12 et Tl(I)6 Te(VI) O6 E6: un exemple
+original de l'activite stereochimique de la paire electronique 6s2(E) du
+thallium(I)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1983 48 246 255 JSSCBI
+loop_
+_publ_author_name
+'Frit, B.'
+'Roult, G.'
+'Galy, J.'
+_cell_length_a 9.5722(3)
+_cell_length_b 9.5722(3)
+_cell_length_c 9.3494(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 741.89
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+Te6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 18 f 0.14865(41) 0.43137(34) 0.00300(22) 1.96(3) 1. 0
+Te1 Te6+ 3 a 0 0 0 1.20(17) 1. 0
+O1 O2- 18 f 0.16724(39) 0.00103(40) 0.11924(37) 1.77(4) 1. 0
+#End of TTdata_37135-ICSD

@@ -1,0 +1,99 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_426005-ICSD
+_database_code_ICSD 426005
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Iron(II) heptasulfido-tetrabismuthate(III)'
+_chemical_formula_structural 'Fe Bi4 S7'
+_chemical_formula_sum 'Bi4 Fe1 S7'
+_exptl_crystal_density_diffrn 6.3
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+From one-dimensional linear chain to two-dimensional layered chalcogenides
+XBi4S7 (X = Mn, Fe): syntheses, crystal and electronic structures, and
+physical properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Crystal Growth and Design' 2013 13 4118 4124 CGDEFU
+loop_
+_publ_author_name
+'Luo, Zhong-Zhen'
+'Lin, Chen-Sheng'
+'Cheng, Wen-Dan'
+'Zhang, Wei-Long'
+'Li, Yuan-Bing'
+'Yang, Yi'
+'Zhang, Hao'
+'He, Zhang-Zhen'
+_cell_length_a 12.823(19)
+_cell_length_b 3.987(6)
+_cell_length_c 11.878(18)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.38(2)
+_cell_angle_gamma 90.
+_cell_volume 588.24
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Fe2+ 2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 i 0.62117(6) -0.5 0.92483(7) 0.0189(3) 1 0
+Bi2 Bi3+ 4 i 0.32044(7) 0. 0.66149(7) 0.0228(3) 1 0
+Fe1 Fe2+ 2 c 0.5 -0.5 0.5 0.0221(10) 1 0
+S1 S2- 4 i 0.4703(4) -0.5 0.6933(5) 0.0189(11) 1 0
+S2 S2- 4 i 0.7552(4) -0.5 1.1436(4) 0.0196(11) 1 0
+S3 S2- 4 i 0.3536(4) 0. 0.4525(4) 0.0176(11) 1 0
+S4 S2- 2 b 0.5 -1. 1. 0.055(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0128(5) 0.0178(4) 0.0268(5) 0. 0.0060(3) 0.
+Bi2 Bi3+ 0.0220(5) 0.0226(5) 0.0266(5) 0. 0.0112(4) 0.
+Fe1 Fe2+ 0.017(2) 0.028(2) 0.024(2) 0. 0.0104(19) 0.
+S1 S2- 0.014(3) 0.018(3) 0.024(3) 0. 0.003(2) 0.
+S2 S2- 0.018(3) 0.024(3) 0.017(2) 0. 0.006(2) 0.
+S3 S2- 0.014(3) 0.021(3) 0.019(2) 0. 0.007(2) 0.
+S4 S2- 0.052(7) 0.015(4) 0.125(10) 0. 0.072(7) 0.
+#End of TTdata_426005-ICSD

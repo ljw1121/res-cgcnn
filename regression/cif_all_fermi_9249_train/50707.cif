@@ -1,0 +1,93 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_50707-ICSD
+_database_code_ICSD 50707
+_audit_creation_date 2000-07-15
+_chemical_name_systematic 'Distrontium diruthenium(VI) ruthenium(IV) oxide'
+_chemical_formula_structural 'Sr2 Ru3 O10'
+_chemical_formula_sum 'O10 Ru3 Sr2'
+_exptl_crystal_density_diffrn 5.5
+_publ_section_title
+
+;
+High-pressure synthesis and crystal structure of a new strontium ruthenium
+oxide: Sr2 Ru3 O10
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1999 143 266 272 JSSCBI
+loop_
+_publ_author_name
+'Renard, C.'
+'Daviero-Minaud, S.'
+'Abraham, F.'
+_cell_length_a 10.985(3)
+_cell_length_b 5.635(1)
+_cell_length_c 6.452(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.3(4)
+_cell_angle_gamma 90.
+_cell_volume 385.23
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ru4+ 4
+Ru6+ 6
+Sr2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ru1 Ru4+ 2 a 0 0 0 . 1. 0
+Ru2 Ru6+ 4 h 0 0.2299(1) 0.5 . 1. 0
+Sr1 Sr2+ 4 i 0.67081(9) 0 0.1455(1) . 1. 0
+O1 O2- 8 j -.0193(4) 0.2458(8) 0.1915(7) . 1. 0
+O2 O2- 4 i 0.1918(7) 0 0.116(1) . 1. 0
+O3 O2- 4 i 0.3839(6) 0 0.475(1) . 1. 0
+O4 O2- 4 i 0.8611(6) 0 0.459(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ru1 Ru4+ 0.0065(5) 0.0032(4) 0.0042(4) 0 0.0036(3) 0
+Ru2 Ru6+ 0.0044(3) 0.0036(3) 0.0042(3) 0 0.0030(2) 0
+Sr1 Sr2+ 0.0068(4) 0.0078(4) 0.0100(4) 0 0.0043(3) 0
+O1 O2- 0.013(2) 0.005(2) 0.004(2) 0.001(2) 0.005(2) -.002(2)
+O2 O2- 0.008(3) 0.017(3) 0.007(3) 0 0.004(3) 0
+O3 O2- 0.003(3) 0.006(3) 0.010(3) 0 0.002(2) 0
+O4 O2- 0.003(3) 0.008(3) 0.014(3) 0 0.003(2) 0
+#End of TTdata_50707-ICSD

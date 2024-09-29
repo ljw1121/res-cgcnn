@@ -1,0 +1,76 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_27658-ICSD
+_database_code_ICSD 27658
+_audit_creation_date 1980-01-01
+_audit_update_record 2003-04-01
+_chemical_name_systematic 'Sodium tripotassium bis(sulfate(VI))'
+_chemical_formula_structural 'Na K3 (S O4)2'
+_chemical_formula_sum 'K3 Na1 O8 S2'
+_chemical_name_structure_type K3Na(SO4)2
+_chemical_name_mineral Aphthitalite
+_exptl_crystal_density_diffrn 2.74
+_publ_section_title 'Ueber die Kristallstruktur von Glaserit und Kaliumsulfat.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+'Neues Jahrbuch fuer Mineralogie, Geologie und Palaeontologie. Beilage (-1925)' 1928 57 89 116 NJMBLA
+loop_
+_publ_author_name
+'Gossner, B.'
+_cell_length_a 5.65(2)
+_cell_length_b 5.65(2)
+_cell_length_c 7.29(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 201.54
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+K1+ 1
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 1 a 0 0 0 . 1. 0
+K1 K1+ 1 b 0 0 0.5 . 1. 0
+K2 K1+ 2 d 0.6667 0.3333 0.825 . 1. 0
+S1 S6+ 2 d 0.6667 0.3333 0.27 . 1. 0
+O1 O2- 2 d 0.6667 0.3333 0.46 . 1. 0
+O2 O2- 6 i -.2 0.2 0.2 . 1. 0
+#End of TTdata_27658-ICSD

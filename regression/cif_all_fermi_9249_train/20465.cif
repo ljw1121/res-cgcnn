@@ -1,0 +1,79 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20465-ICSD
+_database_code_ICSD 20465
+_audit_creation_date 1980-01-01
+_audit_update_record 1985-05-03
+_chemical_name_systematic 'Tetraammineplatinum(IV) disulfate'
+_chemical_formula_structural 'Pt (N H3)4 (S O4)2'
+_chemical_formula_sum 'H12 N4 O8 Pt1 S2'
+_exptl_crystal_density_diffrn 3.01
+_publ_section_title
+
+;
+X-ray structure study of tetraammineplatinum(II) sulfate and
+tetraammineplatinum(IV) disulfate
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Strukturnoi Khimii (Issue-No. from 1981)' 1968 9 707 708 ZSTKAI
+loop_
+_publ_author_name
+'Mironov, Yu.I.'
+'Vakakin, V.V.'
+'Zemskov, S.V.'
+'Neronova, N.N.'
+_cell_length_a 10.72
+_cell_length_b 7.87
+_cell_length_c 5.96
+_cell_angle_alpha 90.
+_cell_angle_beta 90.95
+_cell_angle_gamma 90.
+_cell_volume 502.75
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pt4+ 4
+S6+ 6
+N3- -3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pt1 Pt4+ 2 a 0 0 0 . 1. 0
+S1 S6+ 4 i 0.208 0.5 0.633 . 1. 0
+N1 N3- 4 i 0.133 0 0.825 . 1. 0
+N2 N3- 4 g 0 0.292 0 . 1. 0
+O1 O2- 4 i 0.142 0 0.325 . 1. 0
+O2 O2- 4 i 0.367 0 0.625 . 1. 0
+O3 O2- 8 j 0.325 0.15 0.25 . 1. 0
+#End of TTdata_20465-ICSD

@@ -1,0 +1,73 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35458-ICSD
+_database_code_ICSD 35458
+_audit_creation_date 1983-12-31
+_chemical_name_systematic 'Barium bromide chloride'
+_chemical_formula_structural 'Ba Br Cl'
+_chemical_formula_sum 'Ba1 Br1 Cl1'
+_chemical_name_structure_type PbCl2
+_exptl_crystal_density_diffrn 4.48
+_publ_section_title
+
+;
+Preparation and Characterization of the System Ba Brx Cl2-x: The Structure of
+Ba Br Cl
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1983 48 351 356 JSSCBI
+loop_
+_publ_author_name
+'Hodorowicz, S.A.'
+'Hodorowicz, E.K.'
+'Eick, H.A.'
+_cell_length_a 8.167(3)
+_cell_length_b 4.825(1)
+_cell_length_c 9.498(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 374.28
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0845
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Br1- -1
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 c 0.2673(7) 0.25 0.1218(5) . 1. 0
+Br1 Br1- 4 c 0.136(2) 0.25 0.436(2) . 1. 0
+Cl1 Cl1- 4 c 0.032(1) 0.25 0.8266(8) . 1. 0
+#End of TTdata_35458-ICSD

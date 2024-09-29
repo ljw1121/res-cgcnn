@@ -1,0 +1,66 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_77382-ICSD
+_database_code_ICSD 77382
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Potassium lead disilicate'
+_chemical_formula_structural 'K2 Pb2 (Si2 O7)'
+_chemical_formula_sum 'K2 O7 Pb2 Si2'
+_exptl_crystal_density_diffrn 5.27
+_publ_section_title
+'X-ray studies of compounds in the system Pb O - B2 O3 and K2 O - Pb O - Si O2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Research of the National Bureau of Standards' 1941 26 489
+494 JRNBAG
+loop_
+_publ_author_name
+'McMurdie, H.F.'
+_cell_length_a 5.63(2)
+_cell_length_b 5.63
+_cell_length_c 7.59(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 208.35
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3'
+_symmetry_Int_Tables_number 147
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Pb2+ 2
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 2 d 0.3333 0.6667 0.5 . 1. 0
+Pb1 Pb2+ 2 d 0.3333 0.6667 0 . 1. 0
+Si1 Si4+ 2 c 0 0 0.28 . 1. 0
+O1 O2- 1 b 0 0 0.5 . 1. 0
+#End of TTdata_77382-ICSD

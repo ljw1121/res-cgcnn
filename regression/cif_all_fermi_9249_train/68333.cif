@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68333-ICSD
+_database_code_ICSD 68333
+_audit_creation_date 1991-07-10
+_chemical_name_systematic 'Vanadium oxide selenate(IV)'
+_chemical_formula_structural 'V O (Se O3)'
+_chemical_formula_sum 'O4 Se1 V1'
+_exptl_crystal_density_diffrn 4.15
+_publ_section_title
+
+;
+Structure and magnetic properties of vanadyl chains : crystal structure of
+VOSeO3 and comparative study of VOSeO3 and VOSe2O5
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'New Journal of Chemistry' 1987 11 321 328 NJCHE5
+loop_
+_publ_author_name
+'Trombe, J.C.'
+'Gleizes, A.'
+'Galy, J.'
+'Renard, J.P.'
+'Journaux, Y.'
+'Verdaguer, M.'
+_cell_length_a 4.0168(6)
+_cell_length_b 9.788(1)
+_cell_length_c 8.001(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.42(2)
+_cell_angle_gamma 90.
+_cell_volume 310.33
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.023
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se4+ 4
+V4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se4+ 4 e 0.18753(7) 0.21035(3) 0.03319(3) . 1. 0
+V1 V4+ 4 e 0.0295(1) -.00341(5) 0.30458(6) . 1. 0
+O1 O2- 4 e -.0154(5) 0.1296(2) 0.4957(3) . 1. 0
+O2 O2- 4 e -.1355(5) -.1625(2) 0.1711(3) . 1. 0
+O3 O2- 4 e 0.4303(5) 0.0048(2) 0.3054(3) . 1. 0
+O4 O2- 4 e -.1118(5) 0.1179(2) 0.1063(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Se1 Se4+ 0.0111(2) 0.00129(3) 0.00203(4) 0.00048(4) 0.00073(5) 0.00003(2)
+V1 V4+ 0.0138(2) 0.00129(4) 0.00191(6) 0.00003(7) 0.00119(9) -.00002(4)
+O1 O2- 0.021(1) 0.0010(2) 0.0022(2) -.0010(3) 0.0010(4) -.0003(2)
+O2 O2- 0.034(1) 0.0016(2) 0.0029(3) -.0013(4) 0.0041(5) -.0008(2)
+O3 O2- 0.016(1) 0.0035(2) 0.0042(3) -.0001(4) 0.0015(4) 0.0006(2)
+O4 O2- 0.016(1) 0.0020(2) 0.0033(2) 0.0000(1) 0.0010(4) 0.0011(2)
+#End of TTdata_68333-ICSD

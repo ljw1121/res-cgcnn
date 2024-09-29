@@ -1,0 +1,86 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_414344-ICSD
+_database_code_ICSD 414344
+_audit_creation_date 2005-10-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Pentalanthanum ethenide digermanide'
+_chemical_formula_structural '(C2) Ge2 La5'
+_chemical_formula_sum 'C2 Ge2 La5'
+_exptl_crystal_density_diffrn 5.84
+_publ_section_title 'Pentalanthanum ethenide(4-) digermanide(4-), La5 (C2) Ge2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2004
+630 2186 2190 ZAACAB
+loop_
+_publ_author_name
+'Carrillo Cabrera, W.'
+'Curda, J.'
+'Peters, K.'
+'Kohout, M.'
+'von Schnering, H.G.'
+_cell_length_a 8.873(4)
+_cell_length_b 12.946(7)
+_cell_length_c 4.273(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 490.84
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+_refine_ls_R_factor_all 0.1319
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Ge4- -4
+C3- -3.5
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 2 c 0. 0.5 0. 0.0252(7) 1 0
+La2 La3+ 4 g 0.1595(2) 0.21152(14) 0. 0.0260(5) 1 0
+La3 La3+ 4 h 0.3319(2) 0.43400(14) 0.5 0.0322(6) 1 0
+Ge1 Ge4- 4 h 0.4301(4) 0.1746(3) 0.5 0.0308(9) 1 0
+C1 C3- 4 g 0.041(4) 0.043(2) 0. 0.037(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.0308(13) 0.0237(12) 0.0210(16) 0.0024(12) 0. 0.
+La2 La3+ 0.0305(9) 0.0260(9) 0.0216(12) 0.0018(9) 0. 0.
+La3 La3+ 0.0295(10) 0.0299(9) 0.0370(16) -0.0012(9) 0. 0.
+Ge1 Ge4- 0.0323(18) 0.0382(19) 0.022(2) 0.0024(18) 0. 0.
+#End of TTdata_414344-ICSD

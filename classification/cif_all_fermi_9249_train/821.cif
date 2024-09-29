@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_821-ICSD
+_database_code_ICSD 821
+_audit_creation_date 1980-01-01
+_audit_update_record 2011-08-01
+_chemical_name_systematic 'Chromium tetrathiophosphate(V)'
+_chemical_formula_structural 'Cr (P S4)'
+_chemical_formula_sum 'Cr1 P1 S4'
+_chemical_name_structure_type CrPS4
+_exptl_crystal_density_diffrn 2.91
+_publ_section_title 'L'orthothiophosphate de chrome'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1977 33 285 287 ACBCAR
+loop_
+_publ_author_name
+'Toffoli, P.'
+'Khodadad, P.'
+'Rodier, N.'
+_cell_length_a 10.859(5)
+_cell_length_b 6.128(3)
+_cell_length_c 7.244(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 91.9
+_cell_volume 481.78
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'B 1 1 2/m'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.036
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, z'
+2 '-x, -y, -z'
+3 'x, y, -z'
+4 'x, y, z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x+1/2, -y, -z+1/2'
+7 'x+1/2, y, -z+1/2'
+8 'x+1/2, y, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr3+ 3
+P5+ 5
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr3+ 4 g 0 0 0.2549(1) . 1. 0
+P1 P5+ 4 i 0.2974(2) 0.1654(3) 0 . 1. 0
+S1 S2- 8 j 0.3659(1) 0.3001(2) 0.2333(2) . 1. 0
+S2 S2- 4 i 0.1060(1) 0.1936(3) 0 . 1. 0
+S3 S2- 4 i 0.6305(1) 0.1453(3) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cr1 Cr3+ 0.0004(1) 0.0071(3) 0.0021(2) 0.0003(1) 0 0
+P1 P5+ 0.0003(1) 0.0067(4) 0.0027(3) -.0001(2) 0 0
+S1 S2- 0.0013(1) 0.0083(3) 0.0040(2) 0.0007(1) -.0007(1) -.0017(2)
+S2 S2- 0.0003(1) 0.0077(4) 0.0026(2) 0.0001(1) 0 0
+S3 S2- 0.0007(1) 0.0063(4) 0.0029(3) 0.0000(1) 0 0
+#End of TTdata_821-ICSD

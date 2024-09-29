@@ -1,0 +1,80 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_615078-ICSD
+_database_code_ICSD 615078
+_audit_creation_date 2012-02-01
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Yttrium nickel boride (2/3/6)'
+_chemical_formula_structural 'Y2 Ni3 B6'
+_chemical_formula_sum 'B6 Ni3 Y2'
+_chemical_name_structure_type Er2Ni3B6
+_exptl_crystal_density_diffrn 5.96
+_publ_section_title 'New borides with Lu2 Ni3 B6 structure'
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Materials' 1989 25 1112 1115 INOMAF
+loop_
+_publ_author_name
+'Gubich, I.B.'
+'Chaban, N.F.'
+'Kuz'ma, Yu.B.'
+_cell_length_a 7.750(4)
+_cell_length_b 8.644(4)
+_cell_length_c 3.486(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 233.53
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C m m m'
+_symmetry_Int_Tables_number 65
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'x+1/2, -y+1/2, z'
+10 '-x+1/2, y+1/2, z'
+11 'x+1/2, y+1/2, -z'
+12 '-x+1/2, -y+1/2, -z'
+13 '-x+1/2, y+1/2, -z'
+14 'x+1/2, -y+1/2, -z'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y0+ 0
+Ni0+ 0
+B0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y0+ 4 i 0 0.273 0 . 1. 0
+Ni1 Ni0+ 2 d 0 0 0.5 . 1. 0
+Ni2 Ni0+ 4 g 0.225 0 0 . 1. 0
+B1 B0+ 8 q 0.234 0.157 0.5 . 1. 0
+B2 B0+ 4 h 0.326 0 0.5 . 1. 0
+#End of TTdata_615078-ICSD

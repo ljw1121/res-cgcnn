@@ -1,0 +1,78 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_245679-ICSD
+_database_code_ICSD 245679
+_audit_creation_date 2008-08-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Strontium gold indide (1/3/3)'
+_chemical_formula_structural 'Sr Au3 In3'
+_chemical_formula_sum 'Au3 In3 Sr1'
+_chemical_name_structure_type SrAu3In3
+_exptl_crystal_density_diffrn 10.63
+_publ_section_title
+
+;
+Synthesis, structure and properties of Sr Au3 In3 and Eu Au3 In3 - New indides
+with gold zig-zag chains
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2007 180 2202 2208 JSSCBI
+loop_
+_publ_author_name
+'Muts, I.R.'
+'Schappacher, F.M.'
+'Hermes, W.'
+'Zaremba, V.I.'
+'Poettgen, R.'
+_cell_length_a 4.5526(9)
+_cell_length_b 7.759(2)
+_cell_length_c 9.049(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 319.64
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m m n Z'
+_symmetry_Int_Tables_number 59
+_refine_ls_R_factor_all 0.0313
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y+1/2, -z'
+2 '-x, y+1/2, -z'
+3 'x+1/2, -y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y+1/2, z'
+6 'x, -y+1/2, z'
+7 '-x+1/2, y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr0+ 0
+Au0+ 0
+In0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr0+ 2 b 0.25 0.75 0.2694(2) 0.0117(4) 1. 0
+Au1 Au0+ 4 e 0.25 0.52383(7) 0.58763(6) 0.0131(2) 1. 0
+Au2 Au0+ 2 a 0.25 0.25 0.04449(9) 0.0115(2) 1. 0
+In1 In0+ 4 e 0.25 0.55436(11) 0.88559(11) 0.0084(2) 1. 0
+In2 In0+ 2 a 0.25 0.25 0.36673(15) 0.0112(3) 1. 0
+#End of TTdata_245679-ICSD

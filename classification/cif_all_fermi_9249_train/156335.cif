@@ -1,0 +1,83 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_156335-ICSD
+_database_code_ICSD 156335
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Barium cadmium tantalum oxide (1/0.33/0.67/3)'
+_chemical_formula_structural 'Ba (Cd0.333 Ta0.667) O3'
+_chemical_formula_sum 'Ba1 Cd0.333 O3 Ta0.667'
+_chemical_name_structure_type Ba3SrTa2O9
+_exptl_crystal_density_diffrn 7.91
+_publ_section_title
+
+;
+Structural, dielectric and optical properties of Ni-doped barium cadmium
+tantalate ceramics
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Japanese Journal of Applied Physics, Part 1' 2006 45 9140 9142 JAPNDE
+loop_
+_publ_author_name
+'Liu Hongxue'
+'Liu Shaojun'
+'Zenou, V.Y.'
+'Beach, C.'
+'Newman, N.'
+_cell_length_a 5.87112(37)
+_cell_length_b 5.87112(37)
+_cell_length_c 7.24160(61)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 216.18
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.0763
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Ta5+ 5
+Cd2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 2 d 0.3333 0.6667 0.6627(5) . 1. 0
+Ba2 Ba2+ 1 a 0 0 0 . 1. 0
+Ta1 Ta5+ 2 d 0.3333 0.6667 0.1707(4) . 1. 0
+Cd1 Cd2+ 1 b 0 0 0.5 . 1. 0
+O1 O2- 3 e 0.5 0 0 . 1. 0
+O2 O2- 6 i 0.1711(11) 0.8289(11) 0.3103(16) . 1. 0
+#End of TTdata_156335-ICSD

@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62281-ICSD
+_database_code_ICSD 62281
+_audit_creation_date 1988-07-15
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Lanthanum gallium nickel (1/1/1)'
+_chemical_formula_structural 'La Ga Ni'
+_chemical_formula_sum 'Ga1 La1 Ni1'
+_exptl_crystal_density_diffrn 7.17
+_publ_section_title 'Crystal structure of the compound La Ga Ni'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1986 31 181 183 KRISAJ
+loop_
+_publ_author_name
+'Yarmolyuk, Ya.P.'
+'Grin', Yu.N.'
+'Vasylechko, L.O.'
+'Bel'skii, V.K.'
+_cell_length_a 6.679(3)
+_cell_length_b 6.095(2)
+_cell_length_c 6.341(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 106.33
+_cell_volume 247.72
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 1 21/n'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.043
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 '-x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+Ga0+ 0
+Ni0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 4 e 0.5850(2) 0.3000(2) 0.3543(3) . 1. 0
+Ga1 Ga0+ 4 e 0.0753(4) 0.3200(4) 0.3648(5) . 1. 0
+Ni1 Ni0+ 4 e 0.1801(5) 0.0464(4) 0.5891(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+La1 La0+ 1.16(6) 0.90(5) 1.01(7) 0.33(4) -.03(6) -.04(5)
+Ga1 Ga0+ 1.02(11) 0.86(9) 1.01(13) 0.12(8) 0.00(12) 0.26(10)
+Ni1 Ni0+ 0.96(13) 0.8(1) 0.95(15) 0.26(10) -.19(12) -.05(10)
+#End of TTdata_62281-ICSD

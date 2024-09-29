@@ -1,0 +1,74 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_56874-ICSD
+_database_code_ICSD 56874
+_audit_creation_date 2003-10-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Chromium tris(catena-phosphate(V))'
+_chemical_formula_structural 'Cr (P O3)3'
+_chemical_formula_sum 'Cr1 O9 P3'
+_chemical_name_structure_type Cr(PO3)3
+_exptl_crystal_density_diffrn 3.09
+_publ_section_title
+'Synthesis and crystal structure of chromium polyphosphate Cr (P O3)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1991 36 486 489 KRISAJ
+loop_
+_publ_author_name
+'Yakubovich, O.V.'
+'Dimitrova, O.V.'
+'Savina, G.V.'
+_cell_length_a 9.367(6)
+_cell_length_b 6.344(8)
+_cell_length_c 10.544(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 98.00(6)
+_cell_angle_gamma 90.
+_cell_volume 620.47
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 1 2/a 1'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y, -z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 '-x, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr3+ 4 d 0.25 0.25 0.25 0.82(4) 1. 0
+P1 P5+ 4 e 0.25 0.5577(5) 0 1.72(9) 1. 0
+P2 P5+ 8 f 0.4379(5) 0.5893(6) 0.6125(4) 0.53(8) 1. 0
+O1 O2- 8 f 0.607(1) 0.217(2) 0.446(1) 1.8(3) 1. 0
+O2 O2- 8 f 0.059(1) 0.130(2) 0.217(1) 2.6(3) 1. 0
+O3 O2- 8 f 0.317(1) 0.039(2) 0.138(1) 2.3(4) 1. 0
+O4 O2- 8 f 0.299(1) 0.061(2) 0.396(1) 2.9(4) 1. 0
+O5 O2- 4 a 0.5 0 0 1.5(3) 1. 0
+#End of TTdata_56874-ICSD

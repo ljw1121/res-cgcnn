@@ -1,0 +1,96 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62418-ICSD
+_database_code_ICSD 62418
+_audit_creation_date 1988-12-19
+_audit_update_record 2004-10-01
+_chemical_name_systematic 'Rubidium dicopper hydroxide bis(sulfate(VI)) hydrate'
+_chemical_formula_structural 'Rb Cu2 (O H) (S O4)2 (H2 O)'
+_chemical_formula_sum 'H3 Cu2 O10 Rb1 S2'
+_chemical_name_structure_type NaCu2OH(SO4)2H2O
+_exptl_crystal_density_diffrn 3.67
+_publ_section_title
+
+;
+The crystal structure of the natrochalcite-type compounds (Me+) Cu2 (O H) (Z
+O4)2 H2 O (Me+= Na, K, Rb; Z= S, Se), with special reference to the hydrogen
+bonds
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1987 179 431 442 ZEKRDZ
+loop_
+_publ_author_name
+'Giester, G.'
+'Zemann, J.'
+_cell_length_a 9.005(2)
+_cell_length_b 6.305(2)
+_cell_length_c 7.802(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.22(2)
+_cell_angle_gamma 90.
+_cell_volume 397.39
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Cu2+ 2
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 2 d 0 0.5 0.5 . 1. 0
+Cu1 Cu2+ 4 e 0.25 0.25 0 . 1. 0
+S1 S6+ 4 i 0.07277(9) 0 0.27646(10) . 1. 0
+O1 O2- 4 i 0.1819(3) 0 0.1798(4) . 1. 0
+O2 O2- 4 i 0.1695(3) 0 0.4819(4) . 1. 0
+O3 O2- 8 j -.0344(2) 0.1931(3) 0.2155(3) . 1. 0
+O4 O2- 4 i 0.1548(3) 0.5 0.0732(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0106(2) 0.0228(2) 0.0113(2) 0 0.0029(1) 0
+Cu1 Cu2+ 0.0071(1) 0.0095(1) 0.0148(2) 0.0004(1) 0.0037(1) -.0009(1)
+S1 S6+ 0.0070(2) 0.0106(2) 0.0099(3) 0 0.0031(2) 0
+O1 O2- 0.0116(8) 0.0153(9) 0.0144(9) 0 0.0070(8) 0
+O2 O2- 0.0130(9) 0.0252(11) 0.0112(9) 0 0.0027(8) 0
+O3 O2- 0.0098(5) 0.0104(5) 0.0178(7) 0.0011(4) 0.0033(5) -.0013(5)
+O4 O2- 0.0091(7) 0.0105(7) 0.0176(9) 0 0.0066(7) 0
+#End of TTdata_62418-ICSD

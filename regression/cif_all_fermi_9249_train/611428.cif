@@ -1,0 +1,78 @@
+
+data_611428-ICSD
+_database_code_ICSD 611428
+_audit_creation_date 2008-07-07
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Ditin strontium diarsenide'
+_chemical_formula_structural 'Sn2 Sr As2'
+_chemical_formula_sum 'As2 Sn2 Sr1'
+_chemical_name_structure_type Cu5FeS4(hR5)
+_exptl_crystal_density_diffrn 5.78
+_cell_length_a 4.204(2)
+_cell_length_b 4.204(2)
+_cell_length_c 26.728(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 409.09
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R 3 m H'
+_symmetry_Int_Tables_number 160
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, z'
+2 'x, x-y, z'
+3 '-y, -x, z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+y+2/3, y+1/3, z+1/3'
+8 'x+2/3, x-y+1/3, z+1/3'
+9 '-y+2/3, -x+1/3, z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+y+1/3, y+2/3, z+2/3'
+14 'x+1/3, x-y+2/3, z+2/3'
+15 '-y+1/3, -x+2/3, z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As3- -3
+Sn2+ 2
+Sr2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As3- 3 a 0 0 0.3843(3) . 1 0
+As2 As3- 3 a 0 0 0.2000(4) . 1 0
+Sn1 Sn2+ 3 a 0 0 0 . 1 0
+Sn2 Sn2+ 3 a 0 0 0.5831(1) . 1 0
+Sr1 Sr2+ 3 a 0 0 0.7918(5) . 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 As3- .0072(15) .0072(15) .0047(28) .0036(7) 0 0
+As2 As3- .0166(15) .0166(15) .0143(59) .0083(7) 0 0
+Sn1 Sn2+ .0156(8) .0156(8) 0.0036(13) .0078(4) 0 0
+Sn2 Sn2+ .0087(8) .0087(8) .0261(27) .0044(4) 0 0
+Sr1 Sr2+ .0162(8) .0162(8) .0171(17) .0081(4) 0 0

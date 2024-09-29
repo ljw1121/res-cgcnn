@@ -1,0 +1,97 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_411681-ICSD
+_database_code_ICSD 411681
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Potassium hydrogen diferro(III)dimolybdate(VI)'
+_chemical_formula_structural 'K H (Fe2 Mo2 O10)'
+_chemical_formula_sum 'H1 Fe2 K1 Mo2 O10'
+_exptl_crystal_density_diffrn 3.73
+_publ_section_title
+
+;
+Synthesis, structural characterization and properties of two new lamellar
+polymers: (N H4 H3 Cu2 Mo2 O10) and (K H Fe2 Mo2 O10)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2004 368 342 348 JALCEU
+loop_
+_publ_author_name
+'Wu Chuande'
+'Lu Canzhong'
+'Lin Xiang'
+'Lu Shaofang'
+'Zhuang Honghui'
+'Huang Jinshun'
+_cell_length_a 9.6355(16)
+_cell_length_b 6.5914(9)
+_cell_length_c 7.8509(11)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.917(4)
+_cell_angle_gamma 90.
+_cell_volume 448.47
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Fe3+ 3
+K1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 4 i 0.08109(6) 0 0.28164(8) 0.0114(4) 1. 0
+Fe1 Fe3+ 4 e 0.75 0.75 0 0.0130(5) 1. 0
+K1 K1+ 2 d 0.5 0 0.5 0.0243(7) 1. 0
+O1 O2- 4 i -.1536(6) 0.5 -.0847(8) 0.0177(12) 1. 0
+O2 O2- 8 j -.0356(5) -.2186(6) 0.2355(5) 0.0166(8) 1. 0
+O3 O2- 4 i 0.2141(7) 0 0.5176(8) 0.0236(14) 1. 0
+O4 O2- 4 i 0.1840(6) 0 0.1394(7) 0.0167(12) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.0113(5) 0.0119(5) 0.0132(5) 0 0.0075(4) 0
+Fe1 Fe3+ 0.0117(7) 0.0121(7) 0.0166(7) -.0007(4) 0.0075(5) 0.0006(4)
+K1 K1+ 0.0276(14) 0.0229(14) 0.0246(14) 0 0.0134(12) 0
+O1 O2- 0.017(3) 0.017(3) 0.021(3) 0 0.010(2) 0
+O2 O2- 0.0154(18) 0.0153(19) 0.0192(19) -.0019(16) 0.0074(15) 0.0006(14)
+O3 O2- 0.017(3) 0.030(3) 0.019(3) 0 0.004(2) 0
+O4 O2- 0.014(3) 0.021(3) 0.021(3) 0 0.013(2) 0
+#End of TTdata_411681-ICSD

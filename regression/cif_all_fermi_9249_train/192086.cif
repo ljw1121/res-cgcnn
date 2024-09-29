@@ -1,0 +1,70 @@
+
+data_192086-ICSD
+_database_code_ICSD 192086
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Magnesium gold gallium (1/1/1)'
+_chemical_formula_structural 'Mg Au Ga'
+_chemical_formula_sum 'Au1 Ga1 Mg1'
+_chemical_name_structure_type InMg2
+_exptl_crystal_density_diffrn 9.14
+_cell_measurement_temperature 296.
+_cell_length_a 7.3682(5)
+_cell_length_b 7.3682(5)
+_cell_length_c 3.3738(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 158.62
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P -6 2 m'
+_symmetry_Int_Tables_number 189
+_refine_ls_R_factor_all 0.0317
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z'
+5 'x-y, -y, z'
+6 'y, x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au0+ 0
+Ga0+ 0
+Mg0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au0+ 1 a 0. 0. 0. 0.01147(19) 1 0
+Au2 Au0+ 2 d 0.3333 0.6667 0.5 0.01267(18) 1 0
+Ga1 Ga0+ 3 g 0.2816(3) 0. 0.5 0.0108(3) 1 0
+Mg1 Mg0+ 3 f 0.6152(9) 0. 0. 0.0121(12) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au1 Au0+ 0.0094(2) 0.0094(2) 0.0157(4) 0.00468(12) 0. 0.
+Au2 Au0+ 0.00854(18) 0.00854(18) 0.0209(4) 0.00427(9) 0. 0.
+Ga1 Ga0+ 0.0080(5) 0.0082(7) 0.0161(8) 0.0041(4) 0. 0.
+Mg1 Mg0+ 0.010(2) 0.014(3) 0.014(3) 0.0068(13) 0. 0.

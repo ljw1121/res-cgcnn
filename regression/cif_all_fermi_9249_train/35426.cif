@@ -1,0 +1,96 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35426-ICSD
+_database_code_ICSD 35426
+_audit_creation_date 1983-12-31
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Cesium amide azide'
+_chemical_formula_structural 'Cs2 (N H2) N3'
+_chemical_formula_sum 'H2 Cs2 N4'
+_exptl_crystal_density_diffrn 3.6
+_publ_section_title
+
+;
+Hochdrucksynthese von Caesiumamidazid, Cs2 (N H2)N3 aus Caesiummetall und
+Amoniak
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1983
+500 181 187 ZAACAB
+loop_
+_publ_author_name
+'Harbrecht, B.'
+'Jacobs, H.'
+_cell_length_a 8.194(3)
+_cell_length_b 8.194(3)
+_cell_length_c 4.450(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 298.78
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/m b m'
+_symmetry_Int_Tables_number 127
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z'
+2 '-y+1/2, -x+1/2, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x+1/2, y+1/2, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 'y+1/2, x+1/2, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 '-x+1/2, y+1/2, z'
+14 'x+1/2, -y+1/2, z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+N3- -3
+N0+ -0.333
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 h 0.1963(1) 0.6963(1) 0.5 . 1. 0
+N1 N3- 2 a 0 0 0 . 1. 0
+N2 N0+ 2 d 0 0.5 0 . 1. 0
+N3 N0+ 4 g 0.608(1) 1.108(1) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cs1 Cs1+ 0.0330(1) 0.0330(1) 0.0221(3) -.0096(5) 0 0
+N1 N3- 0.10(2) 0.10(2) 0.30(9) 0 0 0
+N2 N0+ 0.044(7) 0.044(7) 0.022(8) -.02(1) 0 0
+N3 N0+ 0.038(5) 0.038(5) 0.032(7) -.012(7) 0 0
+#End of TTdata_35426-ICSD

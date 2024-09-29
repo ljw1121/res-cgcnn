@@ -1,0 +1,72 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_6234-ICSD
+_database_code_ICSD 6234
+_audit_creation_date 1980-01-01
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Manganese selenate(VI) hydrate'
+_chemical_formula_structural 'Mn (Se O4) (H2 O)'
+_chemical_formula_sum 'H2 Mn1 O5 Se1'
+_chemical_name_structure_type MgSO4H2O
+_exptl_crystal_density_diffrn 3.46
+_publ_section_title 'Darstellung und Strukturuntersuchung von Mn Se O4 H2 O.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Applied Crystallography' 1974 7 311 311 JACGAR
+loop_
+_publ_author_name
+'Kirfel, A.'
+'Nover, G.'
+'Will, G.'
+_cell_length_a 7.24
+_cell_length_b 8.16
+_cell_length_c 7.95
+_cell_angle_alpha 90.
+_cell_angle_beta 118.
+_cell_angle_gamma 90.
+_cell_volume 414.7
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.096
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mn2+ 2
+Se6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mn1 Mn2+ 4 c 0.25 0.25 0 . 1. 0
+Se1 Se6+ 4 e 0 0.092(2) 0.25 . 1. 0
+O1 O2- 8 f 0.160(7) -.004(6) 0.350(7) . 1. 0
+O2 O2- 8 f -.011(6) 0.188(5) 0.071(6) . 1. 0
+O3 O2- 4 e 0 0.629(9) 0.25 . 1. 0
+#End of TTdata_6234-ICSD

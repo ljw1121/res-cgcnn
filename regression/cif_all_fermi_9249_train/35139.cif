@@ -1,0 +1,81 @@
+
+data_35139-ICSD
+_database_code_ICSD 35139
+_audit_creation_date 1981-12-31
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Molybdenum(IV) chloride - beta, HT'
+_chemical_formula_structural 'Mo Cl4'
+_chemical_formula_sum 'Cl4 Mo1'
+_exptl_crystal_density_diffrn 3.19
+_publ_section_title 'Hexameres Molybdaentetrachlorid'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie (German Edition)' 1981 93 697 698 ANCEAD
+loop_
+_publ_author_name
+'Mueller, U.'
+_cell_length_a 12.09
+_cell_length_b 12.09
+_cell_length_c 5.86
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 741.79
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P -3 1 m'
+_symmetry_Int_Tables_number 162
+_refine_ls_R_factor_all 0.053
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, -z'
+2 'x, x-y, -z'
+3 '-y, -x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, -y, z'
+8 '-x, -x+y, z'
+9 'y, x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo4+ 4
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo4+ 6 i 0.3506(3) 0.1753(2) 0 . 1. 0
+Cl1 Cl1- 6 k 0.1699(11) 0 -.2214(20) . 1. 0
+Cl2 Cl1- 6 k 0.3372(9) 0 0.2258(10) . 1. 0
+Cl3 Cl1- 12 l 0.4842(10) 0.1700(6) -.2492(12) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo4+ 0.015(2) 0.018(1) 0.023(1) 0.008(8) 0 0.001(1)
+Cl1 Cl1- 0.020(4) 0.027(6) 0.033(5) 0.013(3) 0.001(4) 0
+Cl2 Cl1- 0.021(3) 0.025(6) 0.029(4) 0.012(3) -0.009(4) 0
+Cl3 Cl1- 0.024(3) 0.041(3) 0.036(3) 0.016(3) 0.003(3) 0.002(2)

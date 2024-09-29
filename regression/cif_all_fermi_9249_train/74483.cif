@@ -1,0 +1,109 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74483-ICSD
+_database_code_ICSD 74483
+_audit_creation_date 1995-10-17
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Scandium phosphate(V)'
+_chemical_formula_structural 'Sc (P O4)'
+_chemical_formula_sum 'O4 P1 Sc1'
+_chemical_name_structure_type Zircon-ZrSiO4
+_exptl_crystal_density_diffrn 3.7
+_publ_section_title
+
+;
+Refinement of the structure of Sc P O4 by powder diffraction by three Rietveld
+programs
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Powder Diffraction' 1993 8 164 167 PODIE2
+loop_
+_publ_author_name
+'Rasmussen, S.E.'
+'Jorgensen, J.E.'
+'Lundtoft, B.'
+_cell_length_a 6.5787(2)
+_cell_length_b 6.5787(2)
+_cell_length_c 5.7963(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 250.86
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 41/a m d Z'
+_symmetry_Int_Tables_number 141
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/4, x+3/4, -z+1/4'
+2 'y+1/4, -x+3/4, -z+1/4'
+3 'x, y+1/2, -z'
+4 'x, -y, -z'
+5 '-y+3/4, x+3/4, -z+1/4'
+6 '-y+3/4, -x+3/4, -z+1/4'
+7 '-x, y+1/2, -z'
+8 '-x, -y, -z'
+9 '-y+3/4, -x+1/4, z+3/4'
+10 '-y+3/4, x+1/4, z+3/4'
+11 '-x, -y+1/2, z'
+12 '-x, y, z'
+13 'y+1/4, -x+1/4, z+3/4'
+14 'y+1/4, x+1/4, z+3/4'
+15 'x, -y+1/2, z'
+16 'x, y, z'
+17 'y+3/4, x+1/4, -z+3/4'
+18 'y+3/4, -x+1/4, -z+3/4'
+19 'x+1/2, y, -z+1/2'
+20 'x+1/2, -y+1/2, -z+1/2'
+21 '-y+1/4, x+1/4, -z+3/4'
+22 '-y+1/4, -x+1/4, -z+3/4'
+23 '-x+1/2, y, -z+1/2'
+24 '-x+1/2, -y+1/2, -z+1/2'
+25 '-y+1/4, -x+3/4, z+1/4'
+26 '-y+1/4, x+3/4, z+1/4'
+27 '-x+1/2, -y, z+1/2'
+28 '-x+1/2, y+1/2, z+1/2'
+29 'y+3/4, -x+3/4, z+1/4'
+30 'y+3/4, x+3/4, z+1/4'
+31 'x+1/2, -y, z+1/2'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc3+ 4 b 0 0.75 0.625 . 1. 0
+P1 P5+ 4 a 0 0.75 0.125 . 1. 0
+O1 O2- 16 h 0 0.9311(11) 0.2916(14) 0.0048(21) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sc1 Sc3+ 0.0123(21) 0.0123(21) 0.0017(30) 0 0 0
+P1 P5+ 0.0083(26) 0.0083(26) 0.0067(41) 0 0 0
+#End of TTdata_74483-ICSD

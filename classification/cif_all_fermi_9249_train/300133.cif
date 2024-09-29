@@ -1,0 +1,91 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_300133-ICSD
+_database_code_ICSD 300133
+_audit_creation_date 1990-12-27
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Dipotassium sodium diphosphidoborate'
+_chemical_formula_structural 'K2 Na (B P2)'
+_chemical_formula_sum 'B1 K2 Na1 P2'
+_exptl_crystal_density_diffrn 1.77
+_publ_section_title 'Crystal structure of dipotassium sodium-diphosphidoborate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1990 194 133 134 ZEKRDZ
+loop_
+_publ_author_name
+'Somer, M.'
+'Peters, K.'
+'von Schnering, H.G.'
+_cell_length_a 12.5614(18)
+_cell_length_b 5.0031(9)
+_cell_length_c 12.0919(18)
+_cell_angle_alpha 90.
+_cell_angle_beta 120.94(1)
+_cell_angle_gamma 90.
+_cell_volume 651.79
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.023
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+P3- -3
+B3+ 3
+P3- -3
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 i 0.01732(6) 0 0.17994(6) . 1. 0
+K2 K1+ 4 i 0.17723(5) 0 0.59156(5) . 1. 0
+Na1 Na1+ 4 i 0.29713(10) 0 0.13363(10) . 1. 0
+P1 P3- 4 i 0.46684(6) 0 0.62589(6) . 1. 0
+B1 B3+ 2 d 0.5 0 0.5 . 1. 0
+P2 P3- 4 i 0.33593(6) 0 0.91163(6) . 1. 0
+B2 B3+ 2 b 0.5 0 1 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.05472(38) 0.02730(28) 0.03814(30) 0 0.03027(30) 0
+K2 K1+ 0.03083(28) 0.02989(28) 0.02841(26) 0 0.01137(22) 0
+Na1 Na1+ 0.03228(51) 0.03034(54) 0.03445(51) 0 0.01713(44) 0
+P1 P3- 0.03329(33) 0.03010(33) 0.02510(28) 0 0.01752(27) 0
+B1 B3+ 0.0204(16) 0.0186(16) 0.0248(16) 0 0.0091(14) 0
+P2 P3- 0.02882(33) 0.02812(33) 0.02988(31) 0 0.01601(28) 0
+B2 B3+ 0.0352(19) 0.0155(15) 0.0236(16) 0 0.0192(15) 0
+#End of TTdata_300133-ICSD

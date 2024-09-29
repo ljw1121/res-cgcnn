@@ -1,0 +1,91 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_240159-ICSD
+_database_code_ICSD 240159
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Calcium lead copper (5/3/1)'
+_chemical_formula_structural 'Ca5 Pb3 Cu'
+_chemical_formula_sum 'Ca5 Cu1 Pb3'
+_exptl_crystal_density_diffrn 5.43
+_publ_section_title
+
+;
+Nine hexagonal Ca5 Pb3 Z phases in stuffed Mn5 Si3 - type structures with
+transition metal interstitial atoms z. problems with classical valence states
+in possible zintl phases
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2003 42 6673 6681 INOCAJ
+loop_
+_publ_author_name
+'Guloy, A.M.'
+'Mudring, A.V.'
+'Corbett, J.D.'
+_cell_length_a 9.4130(3)
+_cell_length_b 9.4130(3)
+_cell_length_c 7.052(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 541.13
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -3 c 1'
+_symmetry_Int_Tables_number 165
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb0+ 0
+Ca0+ 0
+Cu0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb0+ 6 f 0.6108(1) 0 0.25 2.9(1) 1. 0
+Ca1 Ca0+ 4 d 0.3333 0.6667 0.021(1) 1.62(1) 1. 0
+Ca2 Ca0+ 6 f 0.2643(6) 0 0.25 3.3(2) 1. 0
+Cu1 Cu0+ 2 b 0 0 0 4.2(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb0+ 0.024(1) 0.024(1) 0.062(2) 0.012 -.001(1) -.002(1)
+Ca1 Ca0+ 0.0246(1) 0.0246(1) 0.051(1) 0.0123 0 0
+Ca2 Ca0+ 0.026(4) 0.021(2) 0.042(1) 0.0105 -.07(7) -.14
+Cu1 Cu0+ 0.036(1) 0.036(1) 0.057(1) 0.018 0 0
+#End of TTdata_240159-ICSD

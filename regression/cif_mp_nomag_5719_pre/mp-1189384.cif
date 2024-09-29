@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_YbGa2Ni3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87540758
+_cell_length_b   8.92114602
+_cell_length_c   8.92697729
+_cell_angle_alpha   119.97839446
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbGa2Ni3
+_chemical_formula_sum   'Yb3 Ga6 Ni9'
+_cell_volume   267.34225306
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  -0.00000000  0.00023450  0.00000000  1
+  Yb  Yb1  1  0.50000000  0.33316558  0.66648914  1
+  Yb  Yb2  1  0.50000000  0.66667644  0.33351086  1
+  Ga  Ga3  1  0.50000000  0.32322387  0.00000000  1
+  Ga  Ga4  1  0.50000000  0.67724149  0.67708389  1
+  Ga  Ga5  1  0.50000000  0.00015760  0.32291611  1
+  Ga  Ga6  1  0.50000000  0.67670883  1.00000000  1
+  Ga  Ga7  1  0.50000000  0.32276285  0.32284818  1
+  Ga  Ga8  1  0.50000000  -0.00008533  0.67715182  1
+  Ni  Ni9  1  -0.00000000  0.49987676  -0.00000000  1
+  Ni  Ni10  1  0.00000000  0.49994164  0.49993987  1
+  Ni  Ni11  1  0.00000000  0.00000177  0.50006013  1
+  Ni  Ni12  1  -0.00000000  0.17664398  0.35318898  1
+  Ni  Ni13  1  -0.00000000  0.17668134  0.82339045  1
+  Ni  Ni14  1  -0.00000000  0.64661648  0.82331016  1
+  Ni  Ni15  1  -0.00000000  0.82345499  0.64681102  1
+  Ni  Ni16  1  -0.00000000  0.35329089  0.17660955  1
+  Ni  Ni17  1  -0.00000000  0.82330633  0.17668984  1

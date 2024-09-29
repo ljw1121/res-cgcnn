@@ -1,0 +1,88 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_63110-ICSD
+_database_code_ICSD 63110
+_audit_creation_date 1989-06-19
+_audit_update_record 2009-08-01
+_chemical_name_systematic 'Dicesium tetraiodomercurate'
+_chemical_formula_structural 'Cs2 (Hg I4)'
+_chemical_formula_sum 'Cs2 Hg1 I4'
+_chemical_name_structure_type K2ZnBr4
+_exptl_crystal_density_diffrn 4.82
+_publ_section_title
+
+;
+Structure refinement of three cesium mercury iodides Cs2 Hg3 I8 * H2 O, Cs2 Hg
+I4 and Cs3 Hg I5.
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1988 44 207 210 ACSCEE
+loop_
+_publ_author_name
+'Sjoevall, R.'
+'Svensson, C.'
+_cell_length_a 7.734(1)
+_cell_length_b 8.386(1)
+_cell_length_c 11.019(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.06(1)
+_cell_angle_gamma 90.
+_cell_volume 671.31
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+I1- -1
+Cs1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg2+ 2 e 0.09387(6) 0.25 0.27397(4) . 1. 0
+I1 I1- 2 e 0.18988(12) 0.25 0.54496(8) . 1. 0
+I2 I1- 4 f 0.26151(8) 0.51474(6) 0.21163(5) . 1. 0
+I3 I1- 2 e -.27762(12) 0.25 0.14263(8) . 1. 0
+Cs1 Cs1+ 2 e 0.6605(1) 0.25 0.46777(7) . 1. 0
+Cs2 Cs1+ 2 e 0.21824(16) 0.25 0.90527(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg1 Hg2+ 0.0445(3) 0.0494(3) 0.0569(3) 0 0.0142(2) 0
+I1 I1- 0.0477(5) 0.1250(8) 0.0417(4) 0 0.0129(3) 0
+I2 I1- 0.0691(4) 0.0350(3) 0.0629(3) -0.0034(2) 0.0220(3) -0.0013(2)
+I3 I1- 0.0402(4) 0.1369(9) 0.0456(4) 0 0.0061(3) 0
+Cs1 Cs1+ 0.0438(4) 0.0808(5) 0.0454(4) 0 0.0157(3) 0
+Cs2 Cs1+ 0.0748(6) 0.0780(6) 0.0456(4) 0 -0.0014(4) 0
+#End of TTdata_63110-ICSD

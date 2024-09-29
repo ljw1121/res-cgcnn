@@ -1,0 +1,71 @@
+
+data_87983-ICSD
+_database_code_ICSD 87983
+_audit_creation_date 2001-07-16
+_chemical_name_systematic 'Potassium manganese(III) telluride'
+_chemical_formula_structural 'K Mn Te2'
+_chemical_formula_sum 'K1 Mn1 Te2'
+_chemical_name_structure_type AgTlTe2
+_exptl_crystal_density_diffrn 3.82
+_cell_length_a 4.5110(4)
+_cell_length_b 4.5110(4)
+_cell_length_c 14.909(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 303.39
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4 m 2'
+_symmetry_Int_Tables_number 119
+_refine_ls_R_factor_all 0.049
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z'
+2 '-y, -x, -z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, z'
+6 '-x, y, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'y+1/2, x+1/2, -z+1/2'
+10 '-y+1/2, -x+1/2, -z+1/2'
+11 'y+1/2, -x+1/2, -z+1/2'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, z+1/2'
+14 '-x+1/2, y+1/2, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Mn3+ 3
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 2 a 0 0 0 . 1. 0
+Mn1 Mn3+ 2 c 0 0.5 0.25 . 1. 0
+Te1 Te2- 4 e 0 0 0.3592(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.042(3) 0.042(3) 0.042(5) 0 0 0
+Mn1 Mn3+ 0.018(2) 0.018(2) 0.031(3) 0 0 0
+Te1 Te2- 0.025(1) 0.020(1) 0.030(1) 0 0 0

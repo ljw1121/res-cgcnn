@@ -1,0 +1,56 @@
+
+data_54566-ICSD
+_database_code_ICSD 54566
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Hafnium cobalt bismuthide (6/1/2)'
+_chemical_formula_structural 'Hf6 Co Bi2'
+_chemical_formula_sum 'Bi2 Co1 Hf6'
+_chemical_name_structure_type InMg2
+_exptl_crystal_density_diffrn 13.53
+_cell_length_a 7.77823(3)
+_cell_length_b 7.77823(3)
+_cell_length_c 3.62562(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 189.97
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -6 2 m'
+_symmetry_Int_Tables_number 189
+_refine_ls_R_factor_all 0.068
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z'
+5 'x-y, -y, z'
+6 'y, x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hf0+ 0
+Co0+ 0
+Bi0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hf1 Hf0+ 3 g 0.6083(3) 0 0.5 0.96(9) 1. 0
+Hf2 Hf0+ 3 f 0.2362(6) 0 0 0.92(7) 1. 0
+Co1 Co0+ 1 b 0 0 0.5 1.06(5) 1. 0
+Bi1 Bi0+ 2 c 0.3333 0.6667 0 1.11(8) 1. 0

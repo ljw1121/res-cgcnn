@@ -1,0 +1,62 @@
+
+data_428088-ICSD
+_database_code_ICSD 428088
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Bismuth platinum (2/1)'
+_chemical_formula_structural 'Bi2 Pt'
+_chemical_formula_sum 'Bi2 Pt1'
+_exptl_crystal_density_diffrn 13.24
+_cell_measurement_temperature 296.
+_cell_length_a 6.5730(7)
+_cell_length_b 6.5730(7)
+_cell_length_c 6.1665(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 230.73
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P 3 1 m'
+_symmetry_Int_Tables_number 157
+_refine_ls_R_factor_all 0.0172
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, z'
+2 '-x, -x+y, z'
+3 'y, x, z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pt0+ 0
+Bi0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pt1 Pt0+ 3 c 0.26300(8) 0. 0.00000(9) 0.01052(12) 1 0
+Bi1 Bi0+ 1 a 0. 0. -0.34514(16) 0.0132(2) 1 0
+Bi2 Bi0+ 2 b 0.6667 0.3333 -0.21571(11) 0.01072(13) 1 0
+Bi3 Bi0+ 3 c 0.61124(9) 0. 0.27284(9) 0.01119(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pt1 Pt0+ 0.00896(19) 0.0091(2) 0.0135(3) 0.00456(12) -0.00059(17) 0.
+Bi1 Bi0+ 0.0146(3) 0.0146(3) 0.0104(5) 0.00730(14) 0. 0.
+Bi2 Bi0+ 0.01026(18) 0.01026(18) 0.0116(3) 0.00513(9) 0. 0.
+Bi3 Bi0+ 0.01086(17) 0.0110(2) 0.0117(2) 0.00551(12) -0.00080(17) 0.

@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_424671-ICSD
+_database_code_ICSD 424671
+_audit_creation_date 2013-02-01
+_chemical_name_systematic 'Potassium iron selenide (1/2/3)'
+_chemical_formula_structural 'K Fe2 Se3'
+_chemical_formula_sum 'Fe2 K1 Se3'
+_chemical_name_structure_type CsCu2Cl3
+_exptl_crystal_density_diffrn 4.33
+_cell_measurement_temperature 5.
+_publ_section_title
+
+;
+Orbital-selective magnetism in the spin-ladder iron selenides Ba1-x Kx Fe2 Se3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review, Serie 3. B - Condensed Matter (18,1978-)' 2012 85
+180405-1 180405-5 PRBMDO
+loop_
+_publ_author_name
+'Caron, J.M.'
+'Neilson, J.R.'
+'Miller, D.C.'
+'Arpino, K.'
+'Llobet, A.'
+'McQueen, T.M.'
+_cell_length_a 9.30(7)
+_cell_length_b 11.41(8)
+_cell_length_c 5.60(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 594.23
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Fe2+ 2.5
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 c 0.5 0.16657 0.25 0.01282 1. 0
+Fe1 Fe2+ 8 e 0.3521(15) 0.5 0. 0.00311 1. 0
+Se1 Se2- 4 c 0. 0.127(2) 0.25 0.00371 1. 0
+Se2 Se2- 8 g 0.2117(15) 0.3790(16) 0.25 0.00371 1. 0
+#End of TTdata_424671-ICSD

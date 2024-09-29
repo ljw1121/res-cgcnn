@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_88584-ICSD
+_database_code_ICSD 88584
+_audit_creation_date 2001-07-16
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Antimony sulfide bromide - HT'
+_chemical_formula_structural 'Sb S Br'
+_chemical_formula_sum 'Br1 S1 Sb1'
+_chemical_name_structure_type PbCl2
+_exptl_crystal_density_diffrn 4.97
+_cell_measurement_temperature 150.
+_publ_section_title
+
+;
+X-ray study of crystal structure and diffuse scattering spectra of
+ferroelectric Sb S Br having pseudo-Jahn-Teller phase transition
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics and Chemistry of Solids' 1999 60 587 598 JPCSAW
+loop_
+_publ_author_name
+'Inushima, T.'
+_cell_length_a 8.178(5)
+_cell_length_b 9.700(5)
+_cell_length_c 3.934(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 312.07
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a m'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.103
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 'x, y, -z+1/2'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sb3+ 3
+S2- -2
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sb1 Sb3+ 4 c 0.1231(2) 0.1321(1) 0.25 . 1. 0
+S1 S2- 4 c 0.8370(6) 0.0482(5) 0.25 . 1. 0
+Br1 Br1- 4 c 0.5132(3) 0.8232(2) 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Sb1 Sb3+ 0.0013(2) 0.0017(1) 0.0065(11) -.0005(1) 0 0
+S1 S2- 0.0010(5) 0.0009(4) 0.0093(34) -.0002(4) 0 0
+Br1 Br1- 0.0021(3) 0.0011(2) 0.0102(15) -.0002(2) 0 0
+#End of TTdata_88584-ICSD

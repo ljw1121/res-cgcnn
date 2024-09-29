@@ -1,0 +1,78 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_34472-ICSD
+_database_code_ICSD 34472
+_audit_creation_date 1980-01-01
+_audit_update_record 1984-11-02
+_chemical_name_systematic 'Potassium iron(III) chromate'
+_chemical_formula_structural 'K Fe (Cr O4)2'
+_chemical_formula_sum 'Cr2 Fe1 K1 O8'
+_chemical_name_structure_type NaV(SO4)2
+_exptl_crystal_density_diffrn 3.
+_publ_section_title
+'La serie K Fe (Cr O4)2, n H2 O: structure cristalline de K Fe (Cr O4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Bulletin de la Societe Francaise de Mineralogie et de Cristallographie
+(72,1949-100,1977)
+; 1976 99 206 210 BUFCAE
+loop_
+_publ_author_name
+'Gravereau, P.'
+'Hardy, A.'
+_cell_length_a 8.64(2)
+_cell_length_b 5.50(1)
+_cell_length_c 7.64(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 94.7
+_cell_angle_gamma 90.
+_cell_volume 361.83
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.073
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Cr6+ 6
+K1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 2 c 0.5 0.5 0.5 1.17 1. 0
+Cr1 Cr6+ 4 i 0.6238(7) 0 0.2923(8) 0.94 1. 0
+K1 K1+ 2 a 0 0 0 2.72 1. 0
+O1 O2- 4 i 0.7725(30) 0 0.4468(34) 1.84 1. 0
+O2 O2- 4 i 0.6832(37) 0 0.1062(40) 1.88 1. 0
+O3 O2- 8 j 0.5194(20) 0.7444(32) 0.3169(24) 1.47 1. 0
+#End of TTdata_34472-ICSD

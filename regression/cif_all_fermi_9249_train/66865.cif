@@ -1,0 +1,73 @@
+
+data_66865-ICSD
+_database_code_ICSD 66865
+_audit_creation_date 1997-11-10
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Copper(I) indium sulfide'
+_chemical_formula_structural 'Cu In S2'
+_chemical_formula_sum 'Cu1 In1 S2'
+_chemical_name_structure_type Chalcopyrite-CuFeS2
+_exptl_crystal_density_diffrn 4.74
+_cell_measurement_temperature 198.
+_cell_length_a 5.52279(7)
+_cell_length_b 5.52279(7)
+_cell_length_c 11.13295(22)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 339.57
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I -4 2 d'
+_symmetry_Int_Tables_number 122
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x+1/2, z+1/4'
+2 'y, -x, -z'
+3 'y, x+1/2, z+1/4'
+4 '-y, x, -z'
+5 'x, -y+1/2, -z+1/4'
+6 '-x, -y, z'
+7 '-x, y+1/2, -z+1/4'
+8 'x, y, z'
+9 '-y+1/2, -x, z+3/4'
+10 'y+1/2, -x+1/2, -z+1/2'
+11 'y+1/2, x, z+3/4'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y, -z+3/4'
+14 '-x+1/2, -y+1/2, z+1/2'
+15 '-x+1/2, y, -z+3/4'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu1+ 1
+In3+ 3
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu1+ 4 a 0 0 0 . 1. 0
+In1 In3+ 4 b 0 0 0.5 . 1. 0
+S1 S2- 8 d 0.22946(36) 0.25 0.125 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cu1 Cu1+ 0.01315(22) 0.01315(22) 0.00317(8) 0 0 0
+In1 In3+ 0.00851(12) 0.00851(12) 0.00198(3) 0 0 0
+S1 S2- 0.00918(33) 0.00694(42) 0.00210(11) 0 0 -.0019(10)

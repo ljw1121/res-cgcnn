@@ -1,0 +1,91 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_71440-ICSD
+_database_code_ICSD 71440
+_audit_creation_date 1993-01-06
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Tetracalcium trinickel carbide'
+_chemical_formula_structural 'Ca4 Ni3 C (C2)2'
+_chemical_formula_sum 'C5 Ca4 Ni3'
+_exptl_crystal_density_diffrn 3.47
+_publ_section_title
+
+;
+Ca4Ni3C5, a carbide with an one-dimensionally infinite nickel-carbon
+polyanion, and CaPd3C, a perovskite carbide
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 1991 46 1177
+1182 ZNBSEN
+loop_
+_publ_author_name
+'Musanke, U.E.'
+'Jeitschko, W.'
+_cell_length_a 11.087(3)
+_cell_length_b 3.771(1)
+_cell_length_c 9.839(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 112.58(2)
+_cell_angle_gamma 90.
+_cell_volume 379.83
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Ni2+ 2
+C4- -4
+C2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 i 0.2558(4) 0 0.8396(5) . 1. 0
+Ca2 Ca2+ 4 i 0.0994(4) 0 0.3971(5) . 1. 0
+Ni1 Ni2+ 2 a 0 0 0 . 1. 0
+Ni2 Ni2+ 4 i 0.4590(3) 0 0.1638(4) . 1. 0
+C1 C4- 2 b 0 0.5 0 0.6(4) 1. 0
+C2 C2- 4 i 0.333(2) 0 0.392(2) 0.7(3) 1. 0
+C3 C2- 4 i 0.392(2) 0 0.311(2) 1.0(4) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.010(1) 0.013(2) 0.015(2) 0 0.003(1) 0
+Ca2 Ca2+ 0.014(1) 0.011(2) 0.010(2) 0 0.008(1) 0
+Ni1 Ni2+ 0.018(2) 0.011(2) 0.019(2) 0 0.004(1) 0
+Ni2 Ni2+ 0.011(1) 0.013(1) 0.011(1) 0 0.008(1) 0
+#End of TTdata_71440-ICSD

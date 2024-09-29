@@ -1,0 +1,67 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_77975-ICSD
+_database_code_ICSD 77975
+_audit_creation_date 2003-04-01
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Platinum silicide (3/1) - HT'
+_chemical_formula_structural 'Pt3 Si'
+_chemical_formula_sum 'Pt3 Si1'
+_chemical_name_structure_type Cementite-Fe3C
+_exptl_crystal_density_diffrn 17.19
+_cell_measurement_temperature 878.
+_publ_section_title 'On the constitution of platinum-silicon alloys'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Metallkunde' 1978 69 524 529 ZEMTAE
+loop_
+_publ_author_name
+'Phal Ram, Ram'
+'Bhan, Suraj'
+_cell_length_a 5.579
+_cell_length_b 7.697
+_cell_length_c 5.52
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 237.04
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pt0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pt1 Pt0+ 4 c 0.0053 0.25 0.9036 . 1. 0
+Pt2 Pt0+ 8 d 0.181 0.0508 0.3217 . 1. 0
+Si1 Si0+ 4 c 0.8976 0.25 0.4696 . 1. 0
+#End of TTdata_77975-ICSD

@@ -1,0 +1,73 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_43338-ICSD
+_database_code_ICSD 43338
+_audit_creation_date 2000-07-15
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Rhodium silicide (5/3)'
+_chemical_formula_structural 'Rh5 Si3'
+_chemical_formula_sum 'Rh5 Si3'
+_chemical_name_structure_type Ge3Rh5
+_exptl_crystal_density_diffrn 9.33
+_publ_section_title
+
+;
+The crystal structures of Rh2 S and Rh5 Si3 with some notes on the Rh-Si
+system
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica (1-27,1973-42,1988)' 1963 17 775 784 ACSAA4
+loop_
+_publ_author_name
+'Engstroem, I.'
+_cell_length_a 5.317
+_cell_length_b 10.131
+_cell_length_c 3.895
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 209.81
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+_refine_ls_R_factor_all 0.07
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rh0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rh1 Rh0+ 2 c 0 0.5 0 0.23(6) 1. 0
+Rh2 Rh0+ 4 g 0.1542(6) 0.2158(4) 0 0.12(4) 1. 0
+Rh3 Rh0+ 4 h 0.3297(7) 0.3936(4) 0.5 0.27(4) 1. 0
+Si1 Si0+ 2 a 0 0 0 0.5(3) 1. 0
+Si2 Si0+ 4 h 0.3917(25) 0.1505(15) 0.5 0.6(2) 1. 0
+#End of TTdata_43338-ICSD

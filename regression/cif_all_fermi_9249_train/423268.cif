@@ -1,0 +1,93 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_423268-ICSD
+_database_code_ICSD 423268
+_audit_creation_date 2012-02-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Barium nickel germanide (2/5/4)'
+_chemical_formula_structural 'Ba2 Ni5 Ge4'
+_chemical_formula_sum 'Ba2 Ge4 Ni5'
+_exptl_crystal_density_diffrn 6.73
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, structure and chemical bonding of Ba2 Ni5 Ge4 - An intermetallic
+compound with a new two-dimensional equation image [Ni5 Ge4] structural motif
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2011
+637 2000 2006 ZAACAB
+loop_
+_publ_author_name
+'Siggelkow, L.'
+'Hlukhyy, V.'
+'Faessler, T.F.'
+_cell_length_a 12.523(5)
+_cell_length_b 4.0564(11)
+_cell_length_c 9.503(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 118.65(4)
+_cell_angle_gamma 90.
+_cell_volume 423.63
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0412
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba0+ 0
+Ge0+ 0
+Ni0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba0+ 4 i 0.17780(12) 0. 0.14436(15) 0.0241(3) 1 0
+Ge1 Ge0+ 4 i 0.3574(2) 0.5 0.4486(3) 0.0234(5) 1 0
+Ge2 Ge0+ 4 i 0.4677(2) 0. 0.1919(3) 0.0242(5) 1 0
+Ni1 Ni0+ 4 i 0.0346(2) 0. 0.6974(3) 0.0241(6) 1 0
+Ni2 Ni0+ 4 i 0.3362(2) 0. 0.5760(3) 0.0241(6) 1 0
+Ni3 Ni0+ 2 d 0.5 0. 0.5 0.0234(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba0+ 0.0241(7) 0.0192(6) 0.0297(7) 0. 0.0135(6) 0.
+Ge1 Ge0+ 0.0222(11) 0.0186(11) 0.0301(13) 0. 0.0131(10) 0.
+Ge2 Ge0+ 0.0252(12) 0.0178(11) 0.0297(13) 0. 0.0133(10) 0.
+Ni1 Ni0+ 0.0301(15) 0.0172(13) 0.0274(15) 0. 0.0158(13) 0.
+Ni2 Ni0+ 0.0237(14) 0.0240(14) 0.0291(16) 0. 0.0163(13) 0.
+Ni3 Ni0+ 0.022(2) 0.0162(18) 0.037(2) 0. 0.0181(18) 0.
+#End of TTdata_423268-ICSD

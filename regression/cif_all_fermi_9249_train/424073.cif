@@ -1,0 +1,99 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_424073-ICSD
+_database_code_ICSD 424073
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Dinatrium barium magnesium bis(orthophosphate)'
+_chemical_formula_structural 'Na2 Ba Mg (P O4)2'
+_chemical_formula_sum 'Ba1 Mg1 Na2 O8 P2'
+_chemical_name_structure_type K3Na(SO4)2
+_exptl_crystal_density_diffrn 3.88
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Na2 Ba Mg (P O4)2: synthesis, crystal structure and europium photoluminescence
+properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of rare earths' 2013 31 849 856 JREAE6
+loop_
+_publ_author_name
+'Boukhris, Amal'
+'Hidouri, Mourad'
+'Glorieux, Benoit'
+'Ben Amara, Mongi'
+_cell_length_a 5.3040(10)
+_cell_length_b 5.3040(10)
+_cell_length_c 6.986(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 170.2
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.0217
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mg2+ 2
+Ba2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 d 0.6667 0.3333 0.8190(5) 0.0151(7) 1 0
+Mg1 Mg2+ 1 a 0. 0. 0. 0.0056(6) 1 0
+Ba1 Ba2+ 1 b 0. 0. 0.5 0.0083(3) 1 0
+P1 P5+ 2 d 0.6667 0.3333 0.2563(2) 0.0044(4) 1 0
+O1 O2- 2 d 0.6667 0.3333 0.4733(7) 0.0108(9) 1 0
+O2 O2- 6 i 0.1778(4) 0.3556(7) 0.8217(4) 0.0312(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0133(9) 0.0133(9) 0.0186(15) 0.0067(5) 0. 0.
+Mg1 Mg2+ 0.0052(8) 0.0052(8) 0.0064(14) 0.0026(4) 0. 0.
+Ba1 Ba2+ 0.0097(3) 0.0097(3) 0.0055(4) 0.00487(17) 0. 0.
+P1 P5+ 0.0038(5) 0.0038(5) 0.0055(7) 0.0019(2) 0. 0.
+O1 O2- 0.0131(13) 0.0131(13) 0.0063(19) 0.0065(7) 0. 0.
+O2 O2- 0.061(2) 0.0031(12) 0.0104(12) 0.0016(6) 0.0012(6) 0.0024(11)
+#End of TTdata_424073-ICSD

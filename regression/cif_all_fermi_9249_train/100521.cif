@@ -1,0 +1,91 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_100521-ICSD
+_database_code_ICSD 100521
+_audit_creation_date 1980-01-01
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Rubidium chromium oxide (2/8/16)'
+_chemical_formula_structural 'Rb2 Cr8 O16'
+_chemical_formula_sum 'Cr8 O16 Rb2'
+_chemical_name_structure_type Ba2Mn8O16
+_exptl_crystal_density_diffrn 4.89
+_publ_section_title
+'Synthese of hollandite type Rb2 Cr8 O16 , K2 Cr2 V6 O16 and K2 V8 O16'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1978 13 1047 1053 MRBUAC
+loop_
+_publ_author_name
+'Okada, H.'
+'Kinomura, N.'
+'Kume, S.'
+'Koizumi, M.'
+_cell_length_a 13.981
+_cell_length_b 2.95
+_cell_length_c 9.823
+_cell_angle_alpha 90.
+_cell_angle_beta 135.
+_cell_angle_gamma 90.
+_cell_volume 286.48
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.068
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr3+ 3.75
+Rb1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr3+ 4 i 0.163 0 -.184 . 1. 0
+Cr2 Cr3+ 4 i 0.347 0 0.511 . 1. 0
+Rb1 Rb1+ 2 b 0 0.5 0 . 1. 0
+O1 O2- 4 i 0.205 0 0.051 . 1. 0
+O2 O2- 4 i 0.153 0 0.358 . 1. 0
+O3 O2- 4 i 0.162 0 -.377 . 1. 0
+O4 O2- 4 i 0.54 0 0.701 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cr1 Cr3+ -.003 0.005 -.006 0 -.006 0
+Cr2 Cr3+ -.003 0 -.006 0 -.006 0
+Rb1 Rb1+ 0 0.049 0 0 0 0
+O1 O2- -.002 0.079 -.006 0 0.006 0
+O2 O2- -.001 0.036 -.003 0 -.003 0
+O3 O2- 0 0.021 -.006 0 -.002 0
+O4 O2- -.003 0.023 -.004 0 -.006 0
+#End of TTdata_100521-ICSD

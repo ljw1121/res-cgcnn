@@ -1,0 +1,79 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_2806-ICSD
+_database_code_ICSD 2806
+_audit_creation_date 1980-01-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Potassium iron(III) bis(chromate(VI)) dihydrate'
+_chemical_formula_structural 'K Fe (Cr O4)2 (H2 O)2'
+_chemical_formula_sum 'H4 Cr2 Fe1 K1 O10'
+_chemical_name_structure_type KFe(CrO4)2(H2O)2
+_exptl_crystal_density_diffrn 2.9
+_publ_section_title
+
+;
+La serie M(I) M(III) (X O4)2 (H2 O)n: Structure cristalline de K Fe (Cr O4)2
+(H2 O)2, nouveau type dans la serie des chromates des fer dihydrates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1972 28 2333 2337 ACBCAR
+loop_
+_publ_author_name
+'Gravereau, P.'
+'Hardy, A.M.'
+_cell_length_a 10.857(4)
+_cell_length_b 5.505(3)
+_cell_length_c 10.374(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 137.87(3)
+_cell_angle_gamma 90.
+_cell_volume 415.93
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.113
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Cr6+ 6
+K1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 2 a 0 0 0 1.12 1. 0
+Cr1 Cr6+ 4 i 0.6839(5) 0 0.2894(5) 0.79 1. 0
+K1 K1+ 2 d 0 0.5 0.5 2.02 1. 0
+O1 O2- 8 j 0.6797(16) 0.7394(25) 0.1933(18) 1.52 1. 0
+O2 O2- 4 i 0.5103(31) 0 0.2477(34) 2.32 1. 0
+O3 O2- 4 i 0.8724(36) 0 0.5168(39) 2.82 1. 0
+O4 O2- 4 i 0.1229(20) 0 0.9157(22) 0.8 1. 0
+#End of TTdata_2806-ICSD

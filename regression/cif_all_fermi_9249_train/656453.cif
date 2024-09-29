@@ -1,0 +1,55 @@
+
+data_656453-ICSD
+_database_code_ICSD 656453
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Tantalum rhodium telluride (1/1/4)'
+_chemical_formula_structural 'Ta Rh Te4'
+_chemical_formula_sum 'Rh1 Ta1 Te4'
+_chemical_name_structure_type TaIrTe2
+_exptl_crystal_density_diffrn 8.34
+_cell_length_a 3.78(1)
+_cell_length_b 12.66(4)
+_cell_length_c 13.19(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 631.2
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P m n 21'
+_symmetry_Int_Tables_number 31
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta5+ 5
+Rh3+ 3
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ta1 Ta5+ 2 a 0 0.054 0.004 . 1. 0
+Ta2 Ta5+ 2 a 0 0.27 0.491 . 1. 0
+Rh1 Rh3+ 2 a 0 0.536 0 . 1. 0
+Rh2 Rh3+ 2 a 0 0.754 0.492 . 1. 0
+Te1 Te2- 2 a 0 0.065 0.39 . 1. 0
+Te2 Te2- 2 a 0 0.194 0.853 . 1. 0
+Te3 Te2- 2 a 0 0.346 0.096 . 1. 0
+Te4 Te2- 2 a 0 0.414 0.639 . 1. 0
+Te5 Te2- 2 a 0 0.564 0.396 . 1. 0
+Te6 Te2- 2 a 0 0.678 0.847 . 1. 0
+Te7 Te2- 2 a 0 0.849 0.108 . 1. 0
+Te8 Te2- 2 a 0 0.893 0.648 . 1. 0

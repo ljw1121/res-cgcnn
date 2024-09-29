@@ -1,0 +1,74 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_260739-ICSD
+_database_code_ICSD 260739
+_audit_creation_date 2010-08-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Dithallium(I) carbonate'
+_chemical_formula_structural 'Tl2 (C O3)'
+_chemical_formula_sum 'C1 O3 Tl2'
+_chemical_name_structure_type Tl2CO3
+_exptl_crystal_density_diffrn 8.25
+_cell_measurement_temperature 300.
+_cell_measurement_pressure 5820000.
+_publ_section_title
+'Crystal structure and stability of Tl2 CO3 at high pressures'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2010 66 i37 i38 ACSCEE
+loop_
+_publ_author_name
+'Grzechnik, A.'
+'Friese, K.'
+_cell_length_a 12.02(2)
+_cell_length_b 5.150(2)
+_cell_length_c 7.198(4)
+_cell_angle_alpha 90
+_cell_angle_beta 122.08(10)
+_cell_angle_gamma 90
+_cell_volume 377.54
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0909
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+O2- -2
+C4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 4 i 0.065(2) 0 0.306(2) 0.033(2) 1 0
+Tl2 Tl1+ 4 i 0.3650(18) 0 0.2592(19) 0.028(2) 1 0
+O1 O2- 8 j 0.10(2) 0.280(8) 0.002(19) 0.046(17) 1 0
+O2 O2- 4 i 0.16(3) 0.5 0.32(2) 0.046(17) 1 0
+C1 C4+ 4 i 0.12(2) 0.5 0.105(19) 0.023(9) 1 0
+#End of TTdata_260739-ICSD

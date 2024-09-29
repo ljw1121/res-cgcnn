@@ -1,0 +1,86 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_428102-ICSD
+_database_code_ICSD 428102
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Calcium lithium arsenide (1/1/1)'
+_chemical_formula_structural 'Ca Li As'
+_chemical_formula_sum 'As1 Ca1 Li1'
+_chemical_name_structure_type TiNiSi-MgSrSi
+_exptl_crystal_density_diffrn 3.29
+_cell_measurement_temperature 200.
+_publ_section_title
+
+;
+Synthesis and crystal chemistry of new ternary pnictides containing lithium -
+adding structural complexity one step at a time
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2014 43 16889 16901 DTARAF
+loop_
+_publ_author_name
+'Schaefer, Marion C.'
+'Suen, Nian-Tzu'
+'Bobev, Svilen'
+_cell_length_a 7.233(3)
+_cell_length_b 4.3134(16)
+_cell_length_c 7.895(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 246.31
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0212
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca0+ 0
+As0+ 0
+Li0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca0+ 4 c 0.01401(10) 0.25 0.69800(10) 0.00849(19) 1 0
+As1 As0+ 4 c 0.26835(5) 0.25 0.39772(5) 0.00707(14) 1 0
+Li1 Li0+ 4 c 0.1490(9) 0.25 0.0688(8) 0.0112(14) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca0+ 0.0082(4) 0.0078(4) 0.0095(4) 0. -0.0006(3) 0.
+As1 As0+ 0.0075(2) 0.0060(2) 0.0077(2) 0. 0.00011(16) 0.
+Li1 Li0+ 0.013(3) 0.005(3) 0.016(4) 0. -0.001(3) 0.
+#End of TTdata_428102-ICSD

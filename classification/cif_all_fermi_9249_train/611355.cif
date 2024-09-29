@@ -1,0 +1,75 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_611355-ICSD
+_database_code_ICSD 611355
+_audit_creation_date 2013-02-01
+_chemical_name_systematic 'Scandium arsenide (3/2)'
+_chemical_formula_structural 'Sc3 As2'
+_chemical_formula_sum 'As2 Sc3'
+_chemical_name_structure_type As2V3
+_exptl_crystal_density_diffrn 4.62
+_publ_section_title
+
+;
+Crystallographic data on new arsenides and antimonides of titanium and
+scandium
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica, Series A: (28,1974-)' 1977 31 514 516 ACAPCT
+loop_
+_publ_author_name
+'Berger, R.'
+_cell_length_a 10.3755(3)
+_cell_length_b 10.3755(3)
+_cell_length_c 3.8064(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 409.76
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 4/m'
+_symmetry_Int_Tables_number 83
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'y, -x, z'
+6 '-y, x, z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc0+ 0
+As0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc0+ 4 k 0.133 0.179 0.5 . 1. 0
+Sc2 Sc0+ 4 j 0.397 0.285 0 . 1. 0
+Sc3 Sc0+ 2 f 0 0.5 0.5 . 1. 0
+Sc4 Sc0+ 1 d 0.5 0.5 0.5 . 1. 0
+Sc5 Sc0+ 1 a 0 0 0 . 1. 0
+As1 As0+ 4 k 0.246 0.412 0.5 . 1. 0
+As2 As0+ 4 j 0.285 0.039 0 . 1. 0
+#End of TTdata_611355-ICSD

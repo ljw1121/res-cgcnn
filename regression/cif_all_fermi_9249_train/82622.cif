@@ -1,0 +1,78 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_82622-ICSD
+_database_code_ICSD 82622
+_audit_creation_date 1997-11-10
+_audit_update_record 2004-04-01
+_chemical_name_systematic 'Rubidium chromium bis(chromate(VI))'
+_chemical_formula_structural 'Rb Cr (Cr O4)2'
+_chemical_formula_sum 'Cr3 O8 Rb1'
+_chemical_name_structure_type NaV(SO4)2
+_exptl_crystal_density_diffrn 3.29
+_publ_section_title
+
+;
+Synthesis, thermal decomposition and vibrational spectra of the phases M(I) Cr
+(Cr O4)2 (M(I) = Na, K, Rb)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics and Chemistry of Solids' 1996 57 1929 1935 JPCSAW
+loop_
+_publ_author_name
+'Saavedra, M.J.'
+'Parada, C.'
+'Baran, E.J.'
+_cell_length_a 8.6162(6)
+_cell_length_b 5.4584(4)
+_cell_length_c 7.9612(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 95.813(4)
+_cell_angle_gamma 90.
+_cell_volume 372.5
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.047
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Cr3+ 3
+Cr6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 2 a 0 0 0 0.274(2) 1. 0
+Cr1 Cr3+ 2 c 0 0 0.5 0.074(1) 1. 0
+Cr2 Cr6+ 4 i 0.6265(5) 0 0.2994(6) 0.255(3) 1. 0
+O1 O2- 4 i 0.2224(16) 0 0.5596(17) 0.3(3) 1. 0
+O2 O2- 4 i 0.6769(15) 0 0.1021(18) 0.3(3) 1. 0
+O3 O2- 8 j 0.0125(11) 0.2599(16) 0.3194(12) 0.3(3) 1. 0
+#End of TTdata_82622-ICSD

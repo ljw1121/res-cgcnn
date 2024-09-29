@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_106348-ICSD
+_database_code_ICSD 106348
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Calcium indium platinum (1/1/1)'
+_chemical_formula_structural 'Ca In Pt'
+_chemical_formula_sum 'Ca1 In1 Pt1'
+_chemical_name_structure_type TiNiSi-MgSrSi
+_exptl_crystal_density_diffrn 8.74
+_publ_section_title
+
+;
+Darstellung und Kristallstrukturen der Verbindungen Ca Pt Ga, Ca Pt In und Ca
+Pd.4 Ga1.6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1994
+620 1151 1156 ZAACAB
+loop_
+_publ_author_name
+'Dascoulidou-Gritner, K.'
+'Schuster, H.U.'
+_cell_length_a 7.280(1)
+_cell_length_b 4.372(1)
+_cell_length_c 8.356(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 265.96
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.043
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca0+ 0
+In0+ 0
+Pt0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca0+ 4 c 0.0291(3) 0.25 0.6787(3) . 1. 0
+In1 In0+ 4 c 0.1484(3) 0.25 0.0650(1) . 1. 0
+Pt1 Pt0+ 4 c 0.2702(1) 0.25 0.3759(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca0+ .0047(8) .0006(8) .0066(8) 0 .0001(7) 0
+In1 In0+ .0044(3) .0017(3) .0040(3) 0 -.0001(2) 0
+Pt1 Pt0+ .0041(2) .0017(2) .0042(2) 0 -.0003(1) 0
+#End of TTdata_106348-ICSD

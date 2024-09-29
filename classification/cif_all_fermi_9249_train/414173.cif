@@ -1,0 +1,97 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_414173-ICSD
+_database_code_ICSD 414173
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Trilanthanum dichloride trigermanide'
+_chemical_formula_structural 'La3 Cl2 Ge3'
+_chemical_formula_sum 'Cl2 Ge3 La3'
+_chemical_name_structure_type La3Si3Cl2
+_exptl_crystal_density_diffrn 5.69
+_publ_section_title
+
+;
+Reduced lanthanum halides with Ge as interstitials: La2 I2 Ge, La2 I2 Ge2, La3
+Cl2 Ge3, La3 Br2 Ge3, La3 I3 Ge, La6 I5 Ge3 and La(7+x) I12 Ge
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2005
+631 302 308 ZAACAB
+loop_
+_publ_author_name
+'Mattausch, H.J.'
+'Zheng, C.'
+'Ryazanov, M.'
+'Simon, A.'
+_cell_length_a 18.047(2)
+_cell_length_b 4.2970(10)
+_cell_length_c 10.7390(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 98.250(10)
+_cell_angle_gamma 90.
+_cell_volume 824.17
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0248
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Cl1- -1
+Ge2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 i 0.46772(2) 0. 0.16894(3) 0.00699(19) 1 0
+La2 La3+ 4 i 0.38276(2) 0. 0.50884(3) 0.00797(19) 1 0
+La3 La3+ 4 i 0.18382(2) 0.5 0.14794(3) 0.00789(19) 1 0
+Cl1 Cl1- 4 i 0.27366(9) 0.5 0.39280(14) 0.0127(4) 1 0
+Cl2 Cl1- 4 i 0.29900(9) 0. 0.12745(14) 0.0128(4) 1 0
+Ge1 Ge2- 4 i 0.09574(4) 0. 0.28138(6) 0.0073(2) 1 0
+Ge2 Ge2- 4 i 0.07010(4) 0. 0.04432(6) 0.0071(2) 1 0
+Ge3 Ge2- 4 i -0.02391(4) 0. 0.38334(6) 0.0080(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.0083(3) 0.0094(3) 0.0029(3) 0. -0.00064(17) 0.
+La2 La3+ 0.0091(3) 0.0104(3) 0.0040(3) 0. -0.00036(16) 0.
+La3 La3+ 0.0080(3) 0.0110(3) 0.0044(2) 0. -0.00014(16) 0.
+Cl1 Cl1- 0.0117(8) 0.0182(10) 0.0070(7) 0. -0.0025(6) 0.
+Cl2 Cl1- 0.0099(7) 0.0163(10) 0.0126(7) 0. 0.0027(6) 0.
+Ge1 Ge2- 0.0090(4) 0.0104(5) 0.0023(3) 0. 0.0002(3) 0.
+Ge2 Ge2- 0.0081(4) 0.0101(4) 0.0026(3) 0. -0.0011(2) 0.
+Ge3 Ge2- 0.0102(4) 0.0112(5) 0.0027(4) 0. 0.0013(3) 0.
+#End of TTdata_414173-ICSD

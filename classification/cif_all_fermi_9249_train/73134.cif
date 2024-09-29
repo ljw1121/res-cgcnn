@@ -1,0 +1,86 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73134-ICSD
+_database_code_ICSD 73134
+_audit_creation_date 1994-06-30
+_chemical_name_systematic 'Hexacesium diferrate(II)'
+_chemical_formula_structural 'Cs6 (Fe2 O5)'
+_chemical_formula_sum 'Cs6 Fe2 O5'
+_chemical_name_structure_type Cs2K4Fe2O5
+_exptl_crystal_density_diffrn 4.92
+_publ_section_title 'Neues ueber zweikernige Oxoferrate(II)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1993
+619 193 201 ZAACAB
+loop_
+_publ_author_name
+'Mueller, H.P.'
+'Hoppe, R.'
+_cell_length_a 7.474(5)
+_cell_length_b 12.288(5)
+_cell_length_c 7.309(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 96.41(4)
+_cell_angle_gamma 90.
+_cell_volume 667.07
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.064
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Fe2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 i 0.8522(1) 0.5 0.1839(1) . 1. 0
+Cs2 Cs1+ 4 h 0 0.2453(1) 0.5 . 1. 0
+Cs3 Cs1+ 4 g 0.5 0.2875(1) 0 . 1. 0
+Fe1 Fe2+ 4 i 0.6918(3) 0.5 0.6825(3) . 1. 0
+O1 O2- 8 j 0.2084(11) 0.3705(5) 0.2285(8) . 1. 0
+O2 O2- 2 c 0 0 0.5 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0237(5) 0.0300(4) 0.0350(6) 0 0.0048(4) 0
+Cs2 Cs1+ 0.0228(4) 0.0241(4) 0.0197(4) 0 0.0060(3) 0
+Cs3 Cs1+ 0.0184(3) 0.0228(4) 0.0199(4) 0 0.0064(3) 0
+Fe1 Fe2+ 0.0172(9) 0.0179(7) 0.0201(9) 0 -.0005(7) 0
+O1 O2- 0.0308(41) 0.0242(31) 0.0349(45) 0.0032(28) 0.0046(33) 0.0041(28)
+O2 O2- 0.142(27) 0.0314(91) 0.153(28) 0 -0.126(24) 0
+#End of TTdata_73134-ICSD

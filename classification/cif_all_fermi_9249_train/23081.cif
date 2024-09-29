@@ -1,0 +1,92 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_23081-ICSD
+_database_code_ICSD 23081
+_audit_creation_date 1980-12-31
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Barium diiron(III) sulfide - beta'
+_chemical_formula_structural 'Ba Fe2 S4'
+_chemical_formula_sum 'Ba1 Fe2 S4'
+_exptl_crystal_density_diffrn 4.02
+_publ_section_title
+
+;
+The crystal structure of beta-Ba Fe2 S4: The first member in the infinitely
+adaptive series Bap (Fe2 S4)q
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1980 32 329 334 JSSCBI
+loop_
+_publ_author_name
+'Swinnea, J.S.'
+'Steinfink, H.'
+_cell_length_a 7.678(2)
+_cell_length_b 7.678(2)
+_cell_length_c 5.292(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 311.97
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 4/m'
+_symmetry_Int_Tables_number 87
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'y, -x, z'
+6 '-y, x, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, x+1/2, -z+1/2'
+10 'y+1/2, -x+1/2, -z+1/2'
+11 'x+1/2, y+1/2, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'y+1/2, -x+1/2, z+1/2'
+14 '-y+1/2, x+1/2, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Fe3+ 3
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 2 a 0 0 0 . 1. 0
+Fe1 Fe3+ 4 d 0 0.5 0.25 . 1. 0
+S1 S2- 8 h 0.6196(4) 0.1986(4) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Ba1 Ba2+ 0.0075(6) 0.0075(6) 0.0486(18) 0 0 0
+Fe1 Fe3+ 0.0058(7) 0.0058(7) 0.0068(14) 0 0 0
+S1 S2- 0.0063(6) 0.0070(6) 0.0114(15) 0.0016(4) 0 0
+#End of TTdata_23081-ICSD

@@ -1,0 +1,92 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_18198-ICSD
+_database_code_ICSD 18198
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Potassium mercury dicyanide iodide'
+_chemical_formula_structural 'K Hg (C N)2 I'
+_chemical_formula_sum 'C2 Hg1 I1 K1 N2'
+_exptl_crystal_density_diffrn 4.02
+_publ_section_title 'The crystal structure of K I Hg (C N)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica (1,1948-23,1967)' 1963 16 105 109 ACCRA9
+loop_
+_publ_author_name
+'Kruse, F.H.'
+_cell_length_a 4.412(4)
+_cell_length_b 16.1900(40)
+_cell_length_c 9.690(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 692.16
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.097
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+I1- -1
+K1+ 1
+C2+ 2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg2+ 4 a 0 0 0 . 1. 0
+I1 I1- 4 c 0 0.4480(4) 0.25 . 1. 0
+K1 K1+ 4 c 0 0.7641(13) 0.25 . 1. 0
+C1 C2+ 8 f 0 0.1253(33) 0.0468(59) . 1. 0
+N1 N3- 8 f 0 0.1854(30) 0.0863(68) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Hg1 Hg2+ 0.0491(25) 0.00220(11) 0.00700(35) 0 0 -.00070(4)
+I1 I1- 0.0329(17) 0.00330(16) 0.00380(19) 0 0 0
+K1 K1+ 0.0452(23) 0.00290(15) 0.01400(52) 0 0 0
+C1 C2+ 0.0510(23) 0.0019(1) 0.00580(29) 0 0 0.00270(14)
+N1 N3- 0.0812(41) 0.00130(7) 0.01530(77) 0 0 -.0020(1)
+#End of TTdata_18198-ICSD

@@ -1,0 +1,56 @@
+
+data_170677-ICSD
+_database_code_ICSD 170677
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Tetrasodium pentatitanium dodecaoxide'
+_chemical_formula_structural 'Na4 Ti5 O12'
+_chemical_formula_sum 'Na4 O12 Ti5'
+_exptl_crystal_density_diffrn 3.71
+_cell_measurement_temperature 295.
+_cell_length_a 5.31997(14)
+_cell_length_b 5.31997(14)
+_cell_length_c 9.5567(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 234.24
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 3'
+_symmetry_Int_Tables_number 143
+_refine_ls_R_factor_all 0.0685
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, z'
+2 '-y, x-y, z'
+3 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti4+ 1 b .33333 .66667 .273(8) .043(4) 1 0
+Ti2 Ti4+ 1 b .33333 .66667 -.035(8) .030(4) 1 0
+Ti3 Ti4+ 1 c -.33333 .33333 .044(8) .121(4) 1 0
+Ti4 Ti4+ 1 a . . .525(8) .044(2) 1 0
+Ti5 Ti4+ 1 c -.33333 .33333 -.261(8) .019(3) 1 0
+Na1 Na1+ 1 a . . .216(8) .045(4) 1 0
+Na2 Na1+ 1 c .66667 .33333 .423(8) .026(8) 1 0
+Na3 Na1+ 1 b .33333 .66667 .601(8) .061(5) 1 0
+Na4 Na1+ 1 a . . -.151(8) .020(6) 1 0
+O1 O2- 3 d .2343(3) .3331(4) .367(8) .021(4) 1 0
+O2 O2- 3 d .0426(3) .4340(4) .141(8) .075(8) 1 0
+O3 O2- 3 d .9292(4) .2267(4) .636(8) .078(11) 1 0
+O4 O2- 3 d -.0097(3) .5575(2) -.131(8) .010(2) 1 0

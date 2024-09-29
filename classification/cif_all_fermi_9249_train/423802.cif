@@ -1,0 +1,97 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_423802-ICSD
+_database_code_ICSD 423802
+_audit_creation_date 2012-08-01
+_chemical_name_systematic
+'Tetralanthanum digold diphosphide(3-) diphosphide(2-) dioxide'
+_chemical_formula_structural 'La4 Au2 P2 (P2) O2'
+_chemical_formula_sum 'Au2 La4 O2 P4'
+_exptl_crystal_density_diffrn 7.34
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+A further extension of pnictide oxide chemistry - synthesis and structure of
+La2 Au P2 O
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2012
+638 331 335 ZAACAB
+loop_
+_publ_author_name
+'Eul, M.'
+'Moeller, M.H.'
+'Hoffmann, R.D.'
+'Jeitschko, W.'
+'Poettgen, R.'
+_cell_length_a 15.373(3)
+_cell_length_b 4.2739(8)
+_cell_length_c 10.092(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 131.02(1)
+_cell_angle_gamma 90.
+_cell_volume 500.27
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0281
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Au1+ 1
+P3- -3
+P2- -2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 i 0.13131(5) 0. 0.31078(7) 0.00756(10) 1 0
+La2 La3+ 4 i 0.17292(4) 0. 0.73263(7) 0.00768(10) 1 0
+Au1 Au1+ 4 i 0.41121(3) 0. 0.12388(5) 0.01012(9) 1 0
+P1 P3- 4 i 0.1473(2) 0. 0.0257(3) 0.0094(4) 1 0
+P2 P2- 4 i 0.5466(2) 0. 0.4501(3) 0.0108(4) 1 0
+O1 O2- 4 i 0.2788(6) 0. 0.6319(9) 0.0089(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.0085(2) 0.00634(15) 0.0080(2) 0. 0.00552(18) 0.
+La2 La3+ 0.0086(2) 0.00742(16) 0.0075(2) 0. 0.00545(18) 0.
+Au1 Au1+ 0.01031(17) 0.00832(12) 0.00943(15) 0. 0.00549(12) 0.
+P1 P3- 0.0131(10) 0.0053(7) 0.0067(9) 0. 0.0052(8) 0.
+P2 P2- 0.0106(11) 0.0119(8) 0.0091(10) 0. 0.0061(9) 0.
+O1 O2- 0.009(3) 0.007(2) 0.011(3) 0. 0.007(2) 0.
+#End of TTdata_423802-ICSD

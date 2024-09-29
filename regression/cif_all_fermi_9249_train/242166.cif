@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_242166-ICSD
+_database_code_ICSD 242166
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Molybdenum triiodide'
+_chemical_formula_structural 'Mo I3'
+_chemical_formula_sum 'I3 Mo1'
+_chemical_name_structure_type MoBr3
+_exptl_crystal_density_diffrn 5.62
+_cell_measurement_temperature 298.
+_publ_section_title 'Facile way of synthesis for molybdenum iodides'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2016 55 12074 12078 INOCAJ
+loop_
+_publ_author_name
+'Stroebele, Markus'
+'Thalwitzer, Robert'
+'Meyer, H. Juergen'
+_cell_length_a 12.3374(2)
+_cell_length_b 6.41314(3)
+_cell_length_c 7.12308(13)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 563.58
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P m m n Z'
+_symmetry_Int_Tables_number 59
+_refine_ls_R_factor_all 0.0412
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y+1/2, -z'
+2 '-x, y+1/2, -z'
+3 'x+1/2, -y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y+1/2, z'
+6 'x, -y+1/2, z'
+7 '-x+1/2, y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo3+ 3
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo3+ 4 e 0.25 -0.0284(3) 0.7528(8) 0.047(3) 1. 0
+I1 I1- 4 f 0.0837(4) 0.75 0.5976(7) 0.049(3) 1. 0
+I2 I1- 4 f 0.0956(4) 0.25 0.9055(7) 0.051(3) 1. 0
+I3 I1- 2 b 0.25 0.75 0.0827(9) 0.046(5) 1. 0
+I4 I1- 2 a 0.25 0.25 0.4485(10) 0.046(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo3+ 0.031(5) 0.0804(11) 0.028(4) 0. 0. 0.038(3)
+I1 I1- 0.035(4) 0.0815(18) 0.032(3) 0. -0.012(3) 0.
+I2 I1- 0.041(4) 0.0661(16) 0.045(4) 0. 0.013(3) 0.
+I3 I1- 0.039(8) 0.077(3) 0.021(4) 0. 0. 0.
+I4 I1- 0.053(7) 0.0303(19) 0.055(5) 0. 0. 0.
+#End of TTdata_242166-ICSD

@@ -1,0 +1,58 @@
+
+data_57936-ICSD
+_database_code_ICSD 57936
+_audit_creation_date 2003-10-01
+_audit_update_record 2011-08-01
+_chemical_name_systematic 'Aluminium lanthanum (4/1)'
+_chemical_formula_structural 'Al4 La'
+_chemical_formula_sum 'Al4 La1'
+_chemical_name_structure_type Al4La
+_exptl_crystal_density_diffrn 4.17
+_cell_length_a 4.434
+_cell_length_b 13.148
+_cell_length_c 10.125
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 590.27
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'I m m 2'
+_symmetry_Int_Tables_number 44
+_refine_ls_R_factor_all 0.083
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al0+ 0
+La0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al0+ 2 a 0 0 0.4165 . 1. 0
+Al2 Al0+ 2 a 0 0 0.6715 . 1. 0
+Al3 Al0+ 2 b 0 0.5 0.302 . 1. 0
+Al4 Al0+ 2 b 0 0.5 0.786 . 1. 0
+Al5 Al0+ 4 d 0 0.138 0.235 . 1. 0
+Al6 Al0+ 4 d 0 0.309 0.36 . 1. 0
+Al7 Al0+ 4 d 0 0.362 0.605 . 1. 0
+Al8 Al0+ 4 d 0 0.191 0.7295 . 1. 0
+La1 La0+ 2 a 0 0 0 . 1. 0
+La2 La0+ 4 d 0.5 0.187 0.477 . 1. 0

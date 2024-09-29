@@ -1,0 +1,78 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_41781-ICSD
+_database_code_ICSD 41781
+_audit_creation_date 2000-07-15
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Vanadium sulfide (5/8)'
+_chemical_formula_structural 'V5 S8'
+_chemical_formula_sum 'S8 V5'
+_chemical_name_structure_type NiV4S8
+_exptl_crystal_density_diffrn 3.98
+_publ_section_title 'A structural study of vanadium sulfides'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Revue de Chimie Minerale' 1974 11 624 636 RVCMA8
+loop_
+_publ_author_name
+'de Vries, A.B.'
+'Jellinek, F.'
+_cell_length_a 11.375(5)
+_cell_length_b 6.648(2)
+_cell_length_c 11.299(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.5
+_cell_angle_gamma 90.
+_cell_volume 854.15
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'F 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, -y, z'
+3 '-x, y, -z'
+4 'x, y, z'
+5 '-x, -y+1/2, -z+1/2'
+6 'x, -y+1/2, z+1/2'
+7 '-x, y+1/2, -z+1/2'
+8 'x, y+1/2, z+1/2'
+9 '-x+1/2, -y, -z+1/2'
+10 'x+1/2, -y, z+1/2'
+11 '-x+1/2, y, -z+1/2'
+12 'x+1/2, y, z+1/2'
+13 '-x+1/2, -y+1/2, -z'
+14 'x+1/2, -y+1/2, z'
+15 '-x+1/2, y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V3+ 3.2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V3+ 4 a 0 0 0 . 1. 0
+V2 V3+ 8 h 0.25 0.283(7) 0.25 . 1. 0
+V3 V3+ 8 i 0.518(6) 0 0.242(5) . 1. 0
+S1 S2- 8 i 0.154(11) 0 0.140(11) . 1. 0
+S2 S2- 8 i 0.661(9) 0 0.112(7) . 1. 0
+S3 S2- 16 j 0.422(8) 0.244(8) 0.128(5) . 1. 0
+#End of TTdata_41781-ICSD

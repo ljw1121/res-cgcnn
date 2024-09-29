@@ -1,0 +1,79 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_422270-ICSD
+_database_code_ICSD 422270
+_audit_creation_date 2012-02-01
+_chemical_name_systematic 'Tungsten phosphorus chloride (6/1/17)'
+_chemical_formula_structural 'W6 P Cl17'
+_chemical_formula_sum 'Cl17 P1 W6'
+_exptl_crystal_density_diffrn 5.32
+_cell_measurement_temperature 293.
+_publ_section_title
+'Phosphorus-centered and phosphinidene-capped tungsten chloride clusters'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry  (online)' 2011 2011 4063 4068
+EJICFO
+loop_
+_publ_author_name
+'Stroebele, M.'
+'Eichele, K.'
+'Meyer, H.J.'
+_cell_length_a 6.7835(2)
+_cell_length_b 15.8762(3)
+_cell_length_c 10.0727(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1084.79
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m m 2'
+_symmetry_Int_Tables_number 44
+_refine_ls_R_factor_all 0.0523
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W0+ 0
+Cl0+ 0
+P0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W0+ 4 c 0.2032(3) -0.5 0.8830(6) 0.0486(9) 1. 0
+W2 W0+ 4 d 0. -0.35612(15) 0.7428(6) 0.0480(9) 1. 0
+W3 W0+ 4 d 0. -0.41863(15) 0.4812(6) 0.0488(8) 1. 0
+Cl1 Cl0+ 2 a 0.5 -0.5 0.0438(17) 0.0492(11) 1. 0
+Cl2 Cl0+ 2 a 0.5 -0.5 0.744(2) 0.0492(11) 1. 0
+Cl3 Cl0+ 2 b 0. -0.5 0.0759(17) 0.0492(11) 1. 0
+Cl4 Cl0+ 8 e 0.2420(12) -0.3514(5) 0.9123(9) 0.0492(11) 1. 0
+Cl5 Cl0+ 8 e 0.2625(11) -0.3402(5) 0.5810(9) 0.0492(11) 1. 0
+Cl6 Cl0+ 4 c -0.2380(16) -0.5 0.3593(13) 0.0492(11) 1. 0
+Cl7 Cl0+ 4 d 0. -0.2114(7) 0.7391(14) 0.0492(11) 1. 0
+Cl8 Cl0+ 4 d 0. -0.3291(8) 0.3000(12) 0.0492(11) 1. 0
+P1 P0+ 2 b 0. -0.5 0.6742(20) 0.0492(11) 1. 0
+#End of TTdata_422270-ICSD

@@ -1,0 +1,58 @@
+
+data_49008-ICSD
+_database_code_ICSD 49008
+_audit_creation_date 1985-06-11
+_chemical_name_systematic 'Potassium copper(I) sulfide'
+_chemical_formula_structural 'K Cu S'
+_chemical_formula_sum 'Cu1 K1 S1'
+_exptl_crystal_density_diffrn 2.54
+_cell_length_a 10.66(2)
+_cell_length_b 6.20(2)
+_cell_length_c 5.32(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 351.61
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.057
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Cu1+ 1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 a 0.6536(3) 0.0243(5) 0.749(2) . 1. 0
+Cu1 Cu1+ 4 a 0.5 0.5 0.5 . 1. 0
+S1 S2- 4 a 0.5890(5) 0.2758(5) 0.255(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0404(15) 0.0349(14) 0.0509(19) 0.0052(13) -.0222(30) -.0022(38)
+Cu1 Cu1+ 0.0373(8) 0.0270(6) 0.0426(88) 0.0026(6) -.0005(8) -.0006(7)
+S1 S2- 0.0393(17) 0.0295(14) 0.0456(22) 0.0030(13) 0.0230(28) -.0173(31)

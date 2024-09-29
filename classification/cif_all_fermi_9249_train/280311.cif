@@ -1,0 +1,80 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280311-ICSD
+_database_code_ICSD 280311
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Bismuth selenide iodide'
+_chemical_formula_structural 'Bi Se I'
+_chemical_formula_sum 'Bi1 I1 Se1'
+_chemical_name_structure_type PbCl2
+_exptl_crystal_density_diffrn 7.1
+_publ_section_title 'Bismuth selenide iodide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2000 56 1 2 ACSCEE
+loop_
+_publ_author_name
+'Braun, T.P.'
+'DiSalvo, F.J.'
+_cell_length_a 8.6967(17)
+_cell_length_b 4.2205(8)
+_cell_length_c 10.574(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 388.11
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.049
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+I1- -1
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 c 0.87147(11) 0.25 0.37255(9) . 1. 0
+I1 I1- 4 c 0.01489(19) -.25 0.17185(15) . 1. 0
+Se1 Se2- 4 c 0.1694(3) 0.25 0.4485(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0201(6) 0.0148(6) 0.0226(6) 0 -.0033(3) 0
+I1 I1- 0.0223(9) 0.0146(8) 0.0217(9) 0 0.0033(6) 0
+Se1 Se2- 0.0152(11) 0.0116(12) 0.0201(12) 0 0.0003(9) 0
+#End of TTdata_280311-ICSD

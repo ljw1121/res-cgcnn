@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_100110-ICSD
+_database_code_ICSD 100110
+_audit_creation_date 1980-01-01
+_audit_update_record 1984-07-06
+_chemical_name_systematic 'Strontium arsenide (3/4)'
+_chemical_formula_structural 'Sr3 As4'
+_chemical_formula_sum 'As4 Sr3'
+_chemical_name_structure_type Eu3As4
+_exptl_crystal_density_diffrn 4.71
+_publ_section_title 'Die Kristallstruktur des Sr3 As4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische
+Chemie (2,1947-32,1977)
+; 1977 32 1368 1370 ZENBAX
+loop_
+_publ_author_name
+'Deller, K.'
+'Eisenmann, B.'
+_cell_length_a 14.84(2)
+_cell_length_b 17.89(2)
+_cell_length_c 5.97(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1584.96
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+_refine_ls_R_factor_all 0.057
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr0+ 0
+As0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr0+ 8 a 0 0 0.25 . 1. 0
+Sr2 Sr0+ 16 b 0.2520(1) 0.0825(1) 0.9723(6) . 1. 0
+As1 As0+ 16 b 0.3361(1) 0.9205(1) 0.9822(7) . 1. 0
+As2 As0+ 16 b 0.5858(1) 0.9971(1) 0.2551(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr0+ 0.0098(8) 0.0101(8) 0.0010(14) 0 0 -.0020(6)
+Sr2 Sr0+ 0.0085(5) 0.0036(5) 0.0106(11) -.0004(5) -.0016(1) 0.0002(1)
+As1 As0+ 0.0117(6) 0.0057(5) 0.0125(9) 0.0007(8) -.0025(1) -.0015(1)
+As2 As0+ 0.0090(6) 0.0075(6) 0.0117(10) -.0006(8) -.0005(1) -.0031(5)
+#End of TTdata_100110-ICSD

@@ -1,0 +1,97 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_170467-ICSD
+_database_code_ICSD 170467
+_audit_creation_date 2006-04-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Sodium stannide (1/2)'
+_chemical_formula_structural 'Na Sn2'
+_chemical_formula_sum 'Na1 Sn2'
+_exptl_crystal_density_diffrn 4.98
+_cell_measurement_temperature 150.
+_publ_section_title
+
+;
+Na Sn2 - A novel binary Zintl phase with 2d polyanions of realgar-type units
+[Sn8](4-)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2005 44 477 479 INOCAJ
+loop_
+_publ_author_name
+'Dubois, F.'
+'Schreyer, M.'
+'Faessler, T.F.'
+_cell_length_a 13.3916(3)
+_cell_length_b 6.8541(2)
+_cell_length_c 15.4889(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.5281(11)
+_cell_angle_gamma 90.
+_cell_volume 1387.83
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0364
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn0+ -0.5
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn0+ 8 j 0.45549(4) 0.21519(7) 0.25289(3) 0.00949(14) 1 0
+Sn2 Sn0+ 8 j 0.67097(4) 0.28308(8) 0.25234(3) 0.00987(15) 1 0
+Sn3 Sn0+ 8 j 0.34790(4) 0.28298(8) 0.39318(3) 0.01061(15) 1 0
+Sn4 Sn0+ 4 i 0.38532(5) 0.5 0.11666(5) 0.01083(17) 1 0
+Sn5 Sn0+ 4 i 0.67364(5) 0. 0.11595(5) 0.01088(17) 1 0
+Na1 Na1+ 4 g 0.5 0.7508(7) 0. 0.0161(9) 1 0
+Na2 Na1+ 4 i 0.2718(4) 0. 0.0867(3) 0.0225(10) 1 0
+Na3 Na1+ 4 i 0.4047(5) 0.5 0.5810(3) 0.0266(12) 1 0
+Na4 Na1+ 4 i 0.3853(5) 0. 0.5640(4) 0.0329(14) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn1 Sn0+ 0.0079(2) 0.0108(3) 0.0098(3) 0.00043(18) 0.00195(18) -0.00012(18)
+Sn2 Sn0+ 0.0080(2) 0.0112(3) 0.0106(3) 0.00052(18) 0.00229(18) -0.00050(18)
+Sn3 Sn0+ 0.0117(3) 0.0121(3) 0.0078(2) -0.00018(19) 0.00174(19) -0.00019(18)
+Sn4 Sn0+ 0.0114(3) 0.0120(4) 0.0098(3) 0. 0.0038(3) 0.
+Sn5 Sn0+ 0.0098(3) 0.0122(4) 0.0098(3) 0. 0.0003(3) 0.
+Na1 Na1+ 0.013(2) 0.012(2) 0.023(2) 0. 0.0041(18) 0.
+Na2 Na1+ 0.026(3) 0.023(3) 0.018(2) 0. 0.0039(19) 0.
+Na3 Na1+ 0.048(3) 0.016(2) 0.015(2) 0. 0.005(2) 0.
+Na4 Na1+ 0.056(4) 0.016(3) 0.023(3) 0. 0.000(3) 0.
+#End of TTdata_170467-ICSD

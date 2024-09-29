@@ -1,0 +1,110 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_92981-ICSD
+_database_code_ICSD 92981
+_audit_creation_date 2003-04-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Trilead dibismuth sulfide'
+_chemical_formula_structural 'Pb3 Bi2 S6'
+_chemical_formula_sum 'Bi2 Pb3 S6'
+_chemical_name_structure_type Pb3Bi2S6
+_chemical_name_mineral Xilingolite
+_exptl_crystal_density_diffrn 7.18
+_publ_section_title
+
+;
+The crystal structure of (001) twinned xilingolite, Pb3 Bi2 S6, from
+Mittal-Hohtenn, Valais, Switzerland
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2001 39 1653 1663 CAMIA6
+loop_
+_publ_author_name
+'Berlepsch, P.'
+'Armbruster, T.'
+'Makovicky, E.'
+'Hejny, C.'
+'Topa, D.'
+'Graeser, S.'
+_cell_length_a 13.511(3)
+_cell_length_b 4.0850(11)
+_cell_length_c 20.649(2)
+_cell_angle_alpha 90
+_cell_angle_beta 92.15(2)
+_cell_angle_gamma 90
+_cell_volume 1138.87
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.086
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Pb2+ 2
+Bi3+ 3
+Pb2+ 2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 i 0.09675(12) 0.5 0.13585(9) 0.0381(5) 1. 0
+Pb1 Pb2+ 4 i 0.91787(13) 0.5 0.63337(8) 0.0399(5) 1. 0
+Pb2 Pb2+ 4 i 0.36535(11) 0.5 0.04701(8) 0.0386(6) 1. 0
+Bi2 Bi3+ 4 i 0.63998(11) 0.5 0.55053(8) 0.0363(5) 1. 0
+Pb3 Pb2+ 4 i 0.32697(14) 0 0.24043(11) 0.0503(6) 1. 0
+S1 S2- 4 i 0.2360(8) 0 0.1007(6) 0.045(3) 1. 0
+S2 S2- 4 i 0.7651(9) 0 0.5874(7) 0.048(3) 1. 0
+S3 S2- 2 b 0 0.5 0 0.044(4) 1. 0
+S4 S2- 2 d 0 0.5 0.5 0.042(4) 1. 0
+S5 S2- 4 i 0.1846(8) 0.5 0.2505(5) 0.036(2) 1. 0
+S6 S2- 4 i 0.4624(9) 0.5 0.1649(6) 0.042(3) 1. 0
+S7 S2- 4 i 0.5569(8) 0.5 0.6648(5) 0.037(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0367(11) 0.0428(9) 0.0347(10) 0. 0.0011(7) 0.
+Pb1 Pb2+ 0.0399(11) 0.0417(10) 0.0380(10) 0. -0.0013(7) 0.
+Pb2 Pb2+ 0.0367(11) 0.0407(10) 0.0383(10) 0. 0.0005(8) 0.
+Bi2 Bi3+ 0.0340(10) 0.0390(10) 0.0357(9) 0. -0.0008(7) 0.
+Pb3 Pb2+ 0.0473(12) 0.0456(10) 0.0575(13) 0. -0.0035(9) 0.
+S1 S2- 0.045(7) 0.047(7) 0.043(7) 0. -0.003(5) 0.
+S2 S2- 0.044(7) 0.037(6) 0.061(8) 0. -0.014(6) 0.
+S3 S2- 0.048(10) 0.045(9) 0.040(9) 0. -0.002(7) 0.
+S4 S2- 0.033(8) 0.038(8) 0.056(11) 0. 0.007(7) 0.
+S5 S2- 0.034(6) 0.047(6) 0.027(5) 0. 0.002(4) 0.
+S6 S2- 0.045(6) 0.047(6) 0.033(6) 0. 0.004(5) 0.
+S7 S2- 0.035(6) 0.047(6) 0.029(5) 0. 0.001(4) 0.
+#End of TTdata_92981-ICSD

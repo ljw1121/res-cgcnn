@@ -1,0 +1,101 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_412573-ICSD
+_database_code_ICSD 412573
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Iridium tetrastannide - beta'
+_chemical_formula_structural 'Ir Sn4'
+_chemical_formula_sum 'Ir1 Sn4'
+_chemical_name_structure_type IrSn4-beta
+_exptl_crystal_density_diffrn 9.79
+_publ_section_title 'Polymorphism of Ir Sn4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2002 168 34 35 JSSCBI
+loop_
+_publ_author_name
+'Nordmark, E.L.'
+'Wallner, O.'
+'Haeussermann, U.'
+_cell_length_a 6.3096(6)
+_cell_length_b 6.3096(6)
+_cell_length_c 22.770(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 906.5
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I 41/a c d Z'
+_symmetry_Int_Tables_number 142
+_refine_ls_R_factor_all 0.0386
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/4, x+3/4, -z+3/4'
+2 '-y+3/4, x+3/4, -z+1/4'
+3 'x, y+1/2, -z'
+4 '-x, y+1/2, -z+1/2'
+5 '-y+3/4, -x+1/4, z+1/4'
+6 'y+1/4, -x+1/4, z+3/4'
+7 '-x, -y+1/2, z'
+8 'x, -y+1/2, z+1/2'
+9 'y+1/4, -x+3/4, -z+1/4'
+10 '-y+3/4, -x+3/4, -z+3/4'
+11 'x, -y, -z+1/2'
+12 '-x, -y, -z'
+13 '-y+3/4, x+1/4, z+3/4'
+14 'y+1/4, x+1/4, z+1/4'
+15 '-x, y, z+1/2'
+16 'x, y, z'
+17 'y+3/4, x+1/4, -z+1/4'
+18 '-y+1/4, x+1/4, -z+3/4'
+19 'x+1/2, y, -z+1/2'
+20 '-x+1/2, y, -z'
+21 '-y+1/4, -x+3/4, z+3/4'
+22 'y+3/4, -x+3/4, z+1/4'
+23 '-x+1/2, -y, z+1/2'
+24 'x+1/2, -y, z'
+25 'y+3/4, -x+1/4, -z+3/4'
+26 '-y+1/4, -x+1/4, -z+1/4'
+27 'x+1/2, -y+1/2, -z'
+28 '-x+1/2, -y+1/2, -z+1/2'
+29 '-y+1/4, x+3/4, z+1/4'
+30 'y+3/4, x+3/4, z+3/4'
+31 '-x+1/2, y+1/2, z'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir0+ 0
+Sn0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir0+ 8 b 0. 0.25 0.125 0.0074(3) 1 0
+Sn1 Sn0+ 32 g 0.17292(9) 0.57660(9) 0.06143(2) 0.0103(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ir1 Ir0+ 0.0055(3) 0.0055(3) 0.0112(4) 0.00012(19) 0. 0.
+Sn1 Sn0+ 0.0089(4) 0.0093(4) 0.0128(4) -0.0019(2) -0.0003(2) 0.0003(2)
+#End of TTdata_412573-ICSD

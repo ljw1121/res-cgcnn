@@ -1,0 +1,93 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_406966-ICSD
+_database_code_ICSD 406966
+_audit_creation_date 1998-06-26
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Potassium tetraiodoaurate'
+_chemical_formula_structural 'K (Au I4)'
+_chemical_formula_sum 'Au1 I4 K1'
+_chemical_name_structure_type KAuI4
+_exptl_crystal_density_diffrn 5.29
+_cell_measurement_temperature 233.
+_publ_section_title
+
+;
+Synthese, Eigenschaften und Struktur von Li Au I4 und K Au I4 mit einer
+Diskussion der kristallchemischen Verwandtschaft zwischen den Halogenauraten
+Rb Au Cl4, Ag Au Cl4, Rb Au Br4 und Li Au I4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1997
+623 1791 1795 ZAACAB
+loop_
+_publ_author_name
+'Schulz Lang, E.'
+'Abram, U.'
+'Straehle, J.'
+_cell_length_a 9.686(4)
+_cell_length_b 7.045(2)
+_cell_length_c 13.932(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.95(2)
+_cell_angle_gamma 90.
+_cell_volume 933.38
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0563
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au3+ 3
+I1- -1
+K1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au3+ 2 a 0 0 0 . 1. 0
+Au2 Au3+ 2 b 0.5 0 0 . 1. 0
+I1 I1- 4 e 0.0912(2) 0.0628(2) 0.18666(11) . 1. 0
+I2 I1- 4 e -.1471(2) -.2912(2) 0.04094(11) . 1. 0
+I3 I1- 4 e 0.5034(2) -.1547(3) 0.17116(12) . 1. 0
+I4 I1- 4 e 0.6576(2) 0.2785(3) 0.08183(13) . 1. 0
+K1 K1+ 4 e 0.2024(7) 0.5623(9) 0.1820(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au1 Au3+ 0.0282(7) 0.0301(5) 0.0293(6) -.0011(5) 0.0060(5) 0.0002(5)
+Au2 Au3+ 0.0292(7) 0.0309(5) 0.0342(6) -.0029(5) 0.0065(5) 0.0001(5)
+I1 I1- 0.0465(10) 0.0415(8) 0.0292(7) -.0028(7) 0.0044(6) -.0016(6)
+I2 I1- 0.0435(10) 0.0401(8) 0.0389(8) -.0095(7) 0.0121(7) 0.0025(6)
+I3 I1- 0.0476(11) 0.0545(10) 0.0373(8) -.0138(8) 0.0087(7) 0.0056(7)
+I4 I1- 0.0657(13) 0.0431(9) 0.0467(10) -.0226(9) -.0051(8) 0.0022(7)
+K1 K1+ 0.049(4) 0.041(3) 0.056(3) -.005(3) -.006(3) -.002(3)
+#End of TTdata_406966-ICSD

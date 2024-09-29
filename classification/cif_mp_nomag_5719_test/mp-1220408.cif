@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NbAlZn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05796082
+_cell_length_b   5.05798115
+_cell_length_c   8.34457319
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   60.71025699
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbAlZn
+_chemical_formula_sum   'Nb4 Al4 Zn4'
+_cell_volume   186.18787701
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.33445853  0.33445203  0.56722404  1
+  Nb  Nb1  1  0.66418080  0.66419462  0.43925804  1
+  Nb  Nb2  1  0.66418080  0.66419462  0.06074196  1
+  Nb  Nb3  1  0.33445853  0.33445203  0.93277596  1
+  Al  Al4  1  0.99728225  0.99728049  0.49228648  1
+  Al  Al5  1  0.99728225  0.99728049  0.00771352  1
+  Al  Al6  1  0.83155188  0.34533277  0.75000000  1
+  Al  Al7  1  0.34534120  0.83154110  0.75000000  1
+  Zn  Zn8  1  0.83223954  0.83222594  0.75000000  1
+  Zn  Zn9  1  0.17338355  0.65295263  0.25000000  1
+  Zn  Zn10  1  0.65294873  0.17339114  0.25000000  1
+  Zn  Zn11  1  0.17269193  0.17270214  0.25000000  1

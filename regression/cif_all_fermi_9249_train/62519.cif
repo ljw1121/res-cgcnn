@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62519-ICSD
+_database_code_ICSD 62519
+_audit_creation_date 1988-02-22
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Barium tetraplatinum hexaarsenide'
+_chemical_formula_structural 'Ba Pt4 As6'
+_chemical_formula_sum 'As6 Ba1 Pt4'
+_chemical_name_structure_type SrPt4P6
+_exptl_crystal_density_diffrn 10.48
+_publ_section_title
+
+;
+Ternaere Varianten des Pyrit-Typs: Darstellung und Struktur von SrPt4P6,
+SrPt4As6, BaPt4As6 und BaPt2P3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 1987 42 507 513
+ZNBSEN
+loop_
+_publ_author_name
+'Wenski, G.'
+'Mewis, A.'
+_cell_length_a 8.688(1)
+_cell_length_b 8.333(1)
+_cell_length_c 11.971(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.81(2)
+_cell_angle_gamma 90.
+_cell_volume 866.58
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.084
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba0+ 0
+Pt0+ 0
+As0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba0+ 4 e 0 0.3919(6) 0.25 . 1. 0
+Pt1 Pt0+ 4 a 0 0 0 . 1. 0
+Pt2 Pt0+ 4 b 0 0.5 0 . 1. 0
+Pt3 Pt0+ 8 f 0.2889(3) 0.2052(2) 0.2496(2) . 1. 0
+As1 As0+ 8 f 0.6312(6) 0.2476(7) 0.4457(5) . 1. 0
+As2 As0+ 8 f 0.2510(7) 0.3710(6) 0.5552(6) . 1. 0
+As3 As0+ 8 f 0.6158(7) 0.4779(7) 0.1910(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba0+ 0.0031(21) 0.0063(21) 0.0345(35) 0 0.0045(23) 0
+Pt1 Pt0+ 0.0043(14) 0.0028(15) 0.0078(15) 0.0008(12) 0.0017(10) 0.0014(12)
+Pt2 Pt0+ 0.0046(15) 0.0028(15) 0.0154(18) 0.0004(13) 0.0021(11) -.0006(13)
+Pt3 Pt0+ 0.0056(9) 0.0036(8) 0.0109(9) -.0002(7) 0.0012(7) -.0004(9)
+As1 As0+ 0.0030(21) 0.0039(19) 0.0128(25) -.0005(22) 0.0015(19) 0.0003(23)
+As2 As0+ 0.0032(24) 0.0010(22) 0.0211(33) 0.0014(19) 0.0018(24) 0.0009(21)
+As3 As0+ 0.0021(23) 0.0050(26) 0.017(3) -.0001(19) 0.0024(22) -.0004(20)
+#End of TTdata_62519-ICSD

@@ -1,0 +1,97 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_37075-ICSD
+_database_code_ICSD 37075
+_audit_creation_date 1983-12-31
+_audit_update_record 2016-02-01
+_chemical_name_systematic
+'Hexaamminecobalt(III) trio-triiodide bis(duo-diiodide)'
+_chemical_formula_structural '(Co (N H3)6) I3 (I2)2'
+_chemical_formula_sum 'H18 Co1 I7 N6'
+_exptl_crystal_density_diffrn 3.51
+_publ_section_title
+
+;
+Untersuchungen an Polyhalogeniden. 6. Hexaammincobalt(III)heptaiodid, (Co (N
+H3)6) I3 I4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1983 39 154 159 ACSCEE
+loop_
+_publ_author_name
+'Tebbe, K.F.'
+_cell_length_a 15.712(3)
+_cell_length_b 7.772(2)
+_cell_length_c 9.732(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 123.28(2)
+_cell_angle_gamma 90.
+_cell_volume 993.51
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+I0+ 0
+I0+ -0.5
+I1- -1
+I0+ 0
+Co3+ 3
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+I1 I0+ 2 a 0 0 0 . 1. 0
+I2 I0+ 4 i 0.18662(5) 0 0.00267(8) . 1. 0
+I3 I1- 4 i 0.83896(5) 0 0.46737(9) . 1. 0
+I4 I0+ 4 i 0.60238(5) 0 0.12901(9) . 1. 0
+Co1 Co3+ 2 d 0.5 0 0.5 . 1. 0
+N1 N3- 4 i 0.3585(6) 0 0.4478(11) . 1. 0
+N2 N3- 8 j 0.4577(4) 0.1799(7) 0.3306(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+I1 I0+ 0.0335(4) 0.0236(5) 0.0301(4) 0 0.0120(3) 0
+I2 I0+ 0.0329(3) 0.0452(5) 0.0328(3) 0 0.0152(3) 0
+I3 I1- 0.0277(3) 0.0396(4) 0.0394(4) 0 0.0187(3) 0
+I4 I0+ 0.0410(4) 0.0325(5) 0.0452(4) 0 0.0299(3) 0
+Co1 Co3+ 0.0189(6) 0.0234(10) 0.0181(7) 0 0.0102(6) 0
+N1 N3- 0.031(4) 0.041(5) 0.036(4) 0 0.025(3) 0
+N2 N3- 0.038(3) 0.027(4) 0.025(2) 0.000(2) 0.016(2) 0.003(2)
+#End of TTdata_37075-ICSD

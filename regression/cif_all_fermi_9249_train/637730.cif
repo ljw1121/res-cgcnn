@@ -1,0 +1,81 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_637730-ICSD
+_database_code_ICSD 637730
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Yttrium rhodium germanide (2/3/5)'
+_chemical_formula_structural 'Y2 Rh3 Ge5'
+_chemical_formula_sum 'Ge5 Rh3 Y2'
+_chemical_name_structure_type Co3Lu2Si5
+_exptl_crystal_density_diffrn 8.03
+_publ_section_title
+
+;
+De nouveaux isotypes de U2 Co3 Si5 ou Lu2 Co3 Si5 dans les systemes R-T-Ge (R
+= Elements des terres rares; T = Ru, Co, Rh, Ir). Supraconductivite de Y2 Ir3
+Ge5
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1986 21 33 39 MRBUAC
+loop_
+_publ_author_name
+'Venturini, G.'
+'Meot-Meyer, M.'
+'Mareche, J.F.'
+'Malaman, B.'
+'Roques, B.'
+_cell_length_a 11.371(9)
+_cell_length_b 12.045(7)
+_cell_length_c 5.820(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 118.9(2)
+_cell_angle_gamma 90.
+_cell_volume 697.86
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rh0+ 0
+Y0+ 0
+Ge0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rh1 Rh0+ 8 f 0.101 0.358 0.116 . 1. 0
+Rh2 Rh0+ 4 e 0 0.001 0.25 . 1. 0
+Y1 Y0+ 8 f 0.274 0.136 0.268 . 1. 0
+Ge1 Ge0+ 8 f 0.334 0.402 0.333 . 1. 0
+Ge2 Ge0+ 4 e 0 0.214 0.25 . 1. 0
+Ge3 Ge0+ 4 e 0 0.506 0.25 . 1. 0
+Ge4 Ge0+ 4 e 0 0.778 0.25 . 1. 0
+#End of TTdata_637730-ICSD

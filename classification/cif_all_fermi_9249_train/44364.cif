@@ -1,0 +1,59 @@
+
+data_44364-ICSD
+_database_code_ICSD 44364
+_audit_creation_date 2000-12-16
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Indium telluride'
+_chemical_formula_structural 'In2 Te3'
+_chemical_formula_sum 'In2 Te3'
+_exptl_crystal_density_diffrn 5.79
+_cell_length_a 13.078(3)
+_cell_length_b 13.078
+_cell_length_c 6.165(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1054.43
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'I 4 m m'
+_symmetry_Int_Tables_number 107
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, z'
+2 'y, -x, z'
+3 '-y, -x, z'
+4 'y, x, z'
+5 'x, -y, z'
+6 '-x, y, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, x+1/2, z+1/2'
+10 'y+1/2, -x+1/2, z+1/2'
+11 '-y+1/2, -x+1/2, z+1/2'
+12 'y+1/2, x+1/2, z+1/2'
+13 'x+1/2, -y+1/2, z+1/2'
+14 '-x+1/2, y+1/2, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 4 b 0 0.5 0 . 1. 0
+In2 In3+ 8 d 0.167 0 0.5 . 1. 0
+Te1 Te2- 2 a 0 0 0.75 . 1. 0
+Te2 Te2- 8 c 0.167 0.167 0.75 . 1. 0
+Te3 Te2- 8 d 0.333 0 0.25 . 1. 0

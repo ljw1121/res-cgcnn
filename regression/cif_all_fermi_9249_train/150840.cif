@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_150840-ICSD
+_database_code_ICSD 150840
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Dipotassium tungstate - hydrated'
+_chemical_formula_structural 'K2 (W O4)'
+_chemical_formula_sum 'K2 O4 W1'
+_chemical_name_structure_type K2MoO4
+_exptl_crystal_density_diffrn 4.2
+_publ_section_title
+
+;
+Structural and calorimetric studies of mixed K2 Mox W1-x O4 (0<=x<=1)
+compounds
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physica B, Condensed Matter' 2003 334 303 309 PHYBE3
+loop_
+_publ_author_name
+'Guarnieri, A.A.'
+'Moreira, A.M.'
+'Pinheiro, C.B.'
+'Speziali, N.L.'
+_cell_length_a 12.3908(3)
+_cell_length_b 6.1218(1)
+_cell_length_c 7.5605(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.939(1)
+_cell_angle_gamma 90.
+_cell_volume 515.72
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.085
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+W6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 i 0.5044(5) 0 0.2325(8) . 1. 0
+K2 K1+ 4 i 0.8460(5) 0 0.2581(8) . 1. 0
+W1 W6+ 4 i 0.1761(2) 0 0.2275(2) . 1. 0
+O1 O2- 4 i 0.338(1) 0 0.409(2) . 1. 0
+O2 O2- 4 i 0.084(1) 0 0.374(2) . 1. 0
+O3 O2- 8 j 0.1429(9) 0.248(2) 0.072(2) . 1. 0
+#End of TTdata_150840-ICSD

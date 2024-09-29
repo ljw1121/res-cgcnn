@@ -1,0 +1,65 @@
+
+data_100403-ICSD
+_database_code_ICSD 100403
+_audit_creation_date 1981-12-31
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Dilithium catena-germanate'
+_chemical_formula_structural 'Li2 (Ge O3)'
+_chemical_formula_sum 'Ge1 Li2 O3'
+_chemical_name_structure_type Na2SiO3
+_exptl_crystal_density_diffrn 3.49
+_cell_length_a 9.634(2)
+_cell_length_b 5.481(2)
+_cell_length_c 4.843(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 255.73
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+_refine_ls_R_factor_all 0.016
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 8 b 0.1758(4) 0.3440(6) 0.0153(28) 0.0123 1. 0
+Ge1 Ge4+ 4 a 0 0.1782(1) 0.5 . 1. 0
+O1 O2- 4 a 0 0.1315(4) 0.8703(5) . 1. 0
+O2 O2- 8 b 0.1522(2) 0.3173(3) 0.4086(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ge1 Ge4+ 0.0059(1) 0.0052(1) 0.0065(1) 0 0 0.0004(2)
+O1 O2- 0.0128(9) 0.0048(7) 0.0076(7) 0 0 0.0005(6)
+O2 O2- 0.0072(5) 0.0089(6) 0.0116(6) -.0014(4) 0.0010(5) 0.0015(6)

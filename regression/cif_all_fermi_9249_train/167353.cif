@@ -1,0 +1,68 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_167353-ICSD
+_database_code_ICSD 167353
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Niobium carbide (6/5)'
+_chemical_formula_structural 'Nb6 C5'
+_chemical_formula_sum 'C5 Nb6'
+_chemical_name_structure_type C5Nb6
+_exptl_crystal_density_diffrn 7.72
+_publ_section_title 'Order-disorder phase transition channel in niobium carbide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physica Status Solidi A - Applications and Materials' 1986 93 71 80
+PSSABA
+loop_
+_publ_author_name
+'Gusev, A.I.'
+'Rempel, A.A.'
+_cell_length_a 5.460(5)
+_cell_length_b 9.457(9)
+_cell_length_c 5.460(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.47(1)
+_cell_angle_gamma 90.
+_cell_volume 265.81
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+C0+ 0
+Nb0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+C1 C0+ 2 d 0 0.5 0.5 . 1. 0
+C2 C0+ 4 g 0 0.32 0 . 1. 0
+C3 C0+ 4 h 0 0.184 0.5 . 1. 0
+Nb1 Nb0+ 4 i 0.245 0 0.755 . 1. 0
+Nb2 Nb0+ 8 j 0.264 0.66 0.75 . 1. 0
+#End of TTdata_167353-ICSD

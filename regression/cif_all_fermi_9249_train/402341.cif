@@ -1,0 +1,78 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_402341-ICSD
+_database_code_ICSD 402341
+_audit_creation_date 1997-05-13
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Lithium beryllium nitride'
+_chemical_formula_structural 'Li Be N'
+_chemical_formula_sum 'Be1 Li1 N1'
+_exptl_crystal_density_diffrn 1.93
+_publ_section_title 'Crystal structure of lithium beryllium nitride, Li Be N'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1996 211 635 635 ZEKRDZ
+loop_
+_publ_author_name
+'Somer, M.'
+'Carrillo Cabrera, W.'
+'Peters, E.M.'
+'Peters, K.'
+'von Schnering, H.G.'
+_cell_length_a 4.540(1)
+_cell_length_b 4.760(1)
+_cell_length_c 5.807(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 124.90(1)
+_cell_angle_gamma 90.
+_cell_volume 102.92
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Be2+ 2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0.32413(39) 0.54156(33) 0.08928(27) . 1. 0
+Be1 Be2+ 4 e 0.08002(27) 0.39152(22) 0.39200(19) . 1. 0
+N1 N3- 4 e 0.15068(19) 0.19521(16) 0.19930(13) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Li1 Li1+ 0.01210(65) 0.01201(64) 0.01329(56) -.00077(58) 0.00656(52) 0.00055(53)
+Be1 Be2+ 0.00947(50) 0.00739(47) 0.00774(41) 0.00021(36) 0.00476(38) 0.00029(37)
+N1 N3- 0.00935(40) 0.00702(39) 0.00699(35) -.00026(22) 0.00516(28) -.00036(21)
+#End of TTdata_402341-ICSD

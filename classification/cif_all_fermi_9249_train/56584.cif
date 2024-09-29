@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_56584-ICSD
+_database_code_ICSD 56584
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Dicalcium ruthenate - oxygen excess'
+_chemical_formula_structural 'Ca2 (Ru O4)'
+_chemical_formula_sum 'Ca2 O4 Ru1'
+_exptl_crystal_density_diffrn 4.64
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Crystal and magnetic structure of Ca2 Ru O4: Magnetoelastic coupling and the
+metal-insulator transition
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review, Serie 3. B - Condensed Matter (18,1978-)' 1998 58 847
+861 PRBMDO
+loop_
+_publ_author_name
+'Braden, M.'
+'Andre, G.'
+'Nakatsuji, S.'
+'Maeno, Y.'
+_cell_length_a 5.3292(6)
+_cell_length_b 5.3194(4)
+_cell_length_c 12.3719(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.(0)
+_cell_angle_gamma 90.
+_cell_volume 350.72
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0899
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Ru4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 e 0.0202(26) 0.0138(30) 0.3475(2) 0.0086(9) 1. 0
+Ca2 Ca2+ 4 e 0.5095(26) 0.5188(30) 0.3475(2) 0.0086(9) 1. 0
+Ru1 Ru4+ 2 a 0 0 0 0.0020(8) 1. 0
+Ru2 Ru4+ 2 d 0.5 0.5 0 0.0020(8) 1. 0
+O1 O2- 4 e 0.1882(8) 0.3062(6) 0.0000(9) . 1. 0
+O2 O2- 4 e 0.3118(8) 0.8062(6) 0.0137(9) . 1. 0
+O3 O2- 4 e -.0295(8) -.0062(11) 0.1660(2) . 1. 0
+O4 O2- 4 e 0.5295(8) 0.4938(11) 0.1660(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.0081(9) 0.0055(6) 0.0237(21) 0 0 0
+O2 O2- 0.0081(9) 0.0055(6) 0.0237(21) 0 0 0
+O3 O2- 0.0113(12) 0.0113 0.0045(11) 0 0 0
+O4 O2- 0.0113(12) 0.0113 0.0045(11) 0 0 0
+#End of TTdata_56584-ICSD

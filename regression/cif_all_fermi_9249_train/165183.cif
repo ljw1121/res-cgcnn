@@ -1,0 +1,99 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_165183-ICSD
+_database_code_ICSD 165183
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Strontium stannide (3/5)'
+_chemical_formula_structural 'Sr3 Sn5'
+_chemical_formula_sum 'Sn5 Sr3'
+_chemical_name_structure_type Pu3Pd5
+_exptl_crystal_density_diffrn 5.71
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+A3 Tt5 phases Sr3 Sn5, Ba3 Pb5 and La3 Sn5. Structure and bonding in a series
+of isotypic metallic compounds with increased electron count and their
+comparison with the nominal Zintl phase La3 In5
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2001 40 7020 7026 INOCAJ
+loop_
+_publ_author_name
+'Klem, M.T.'
+'Vaughey, J.T.'
+'Harp, J.G.'
+'Corbett, J.D.'
+_cell_length_a 10.644(2)
+_cell_length_b 8.588(1)
+_cell_length_c 10.895(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 995.92
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.036
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn0+ 0
+Sr0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn0+ 4 c 0 0.0432(2) 0.25 1.20(4) 1. 0
+Sn2 Sn0+ 8 f 0 0.3134(1) 0.4461(1) 1.24(3) 1. 0
+Sn3 Sn0+ 8 g 0.1986(1) 0.2907(2) 0.25 1.30(3) 1. 0
+Sr1 Sr0+ 4 c 0 0.6482(3) 0.25 1.12(5) 1. 0
+Sr2 Sr0+ 8 e 0.2974(2) 0 0 1.33(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn1 Sn0+ 0.017(1) 0.0131(9) 0.0153(9) 0. 0. 0.
+Sn2 Sn0+ 0.0167(7) 0.0177(7) 0.0126(6) 0. 0. 0.0001(6)
+Sn3 Sn0+ 0.0152(7) 0.0188(7) 0.0153(6) -0.0014(5) 0. 0.
+Sr1 Sr0+ 0.016(1) 0.014(1) 0.013(1) 0. 0. 0.
+Sr2 Sr0+ 0.0170(9) 0.0147(8) 0.0178(9) 0. 0. -0.0003(7)
+#End of TTdata_165183-ICSD

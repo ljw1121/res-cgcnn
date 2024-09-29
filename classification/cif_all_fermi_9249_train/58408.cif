@@ -1,0 +1,54 @@
+
+data_58408-ICSD
+_database_code_ICSD 58408
+_audit_creation_date 2004-04-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Gold cadmium (1/1)'
+_chemical_formula_structural 'Au Cd'
+_chemical_formula_sum 'Au1 Cd1'
+_chemical_name_structure_type NiTi(P3-)
+_exptl_crystal_density_diffrn 14.02
+_cell_length_a 8.1047(6)
+_cell_length_b 8.1047
+_cell_length_c 5.7974(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 329.79
+_cell_formula_units_Z 9
+_symmetry_space_group_name_H-M 'P 3 1 m'
+_symmetry_Int_Tables_number 157
+_refine_ls_R_factor_all 0.08
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, z'
+2 '-x, -x+y, z'
+3 'y, x, z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au0+ 0
+Cd0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au0+ 1 a 0 0 0.197 1.9 1. 0
+Au2 Au0+ 2 b 0.3333 0.6667 0.042 2.1 1. 0
+Au3 Au0+ 3 c 0.643 0 0.752 2. 1. 0
+Au4 Au0+ 3 c 0.312 0 0.46 2.1 1. 0
+Cd1 Cd0+ 1 a 0 0 0.687 2. 1. 0
+Cd2 Cd0+ 2 b 0.3333 0.6667 0.546 1.8 1. 0
+Cd3 Cd0+ 3 c 0.649 0 0.252 1.9 1. 0
+Cd4 Cd0+ 3 c 0.312 0 0.955 2.5 1. 0

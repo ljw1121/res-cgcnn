@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_10004-ICSD
+_database_code_ICSD 10004
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Sodium copper sulfide (3/4/4)'
+_chemical_formula_structural 'Na3 Cu4 S4'
+_chemical_formula_sum 'Cu4 Na3 S4'
+_exptl_crystal_density_diffrn 3.8
+_publ_section_title
+'Na3 Cu4 S4 - ein Thiocuprat mit unverknuepften (Cu4 S4)-Ketten'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische
+Chemie (33,1978-41,1986)
+; 1979 34 396 397 ZNBAD2
+loop_
+_publ_author_name
+'Burschka, C.'
+_cell_length_a 14.624(6)
+_cell_length_b 7.163(3)
+_cell_length_c 3.771(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 395.02
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu0+ 0
+S0+ 0
+Na0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu0+ 4 h 0.4067 0.0795(1) 0.5 . 1. 0
+Cu2 Cu0+ 4 g 0.0647 0.3321(1) 0 . 1. 0
+S1 S0+ 4 h 0.1532(1) 0.2834(1) 0.5 1.1 1. 0
+S2 S0+ 4 g 0.4119(1) 0.2514(1) 0 1.14 1. 0
+Na1 Na0+ 4 g 0.2666(1) 0.5155(2) 0 1.85 1. 0
+Na2 Na0+ 2 b 0.5 0.5 0.5 1.63 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Cu1 Cu0+ 1.86(3) 1.07(3) 1.18(3) -.15(2) 0 0
+Cu2 Cu0+ 1.50(3) 2.03(3) 1.20(3) -.04(2) 0 0
+#End of TTdata_10004-ICSD

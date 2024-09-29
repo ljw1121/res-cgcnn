@@ -1,0 +1,55 @@
+
+data_25378-ICSD
+_database_code_ICSD 25378
+_audit_creation_date 1980-01-01
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Molybdenum divanadium oxide - HT'
+_chemical_formula_structural 'Mo V2 O8'
+_chemical_formula_sum 'Mo1 O8 V2'
+_exptl_crystal_density_diffrn 3.73
+_cell_length_a 19.4
+_cell_length_b 3.62
+_cell_length_c 4.13
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 290.04
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C m m 2'
+_symmetry_Int_Tables_number 35
+_refine_ls_R_factor_all 0.17
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z'
+6 '-x+1/2, y+1/2, z'
+7 '-x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 2 a 0 0 -.0284 1.29 1. 0
+V1 V5+ 4 d 0.1866 0 -.0246 1.1 1. 0
+O1 O2- 2 b 0 0.5 -.0704 1.27 1. 0
+O2 O2- 2 a 0 0 0.5554 5.39 1. 0
+O3 O2- 4 d 0.189 0 0.5177 3.39 1. 0
+O4 O2- 4 d 0.0961 0 0.0936 2.52 1. 0
+O5 O2- 4 d 0.2018 0.5 0.1115 1.97 1. 0

@@ -1,0 +1,97 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_431253-ICSD
+_database_code_ICSD 431253
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Iridium scandium silicide (4/1/2)'
+_chemical_formula_structural 'Ir4 Sc1 Si2'
+_chemical_formula_sum 'Ir4 Sc1 Si2'
+_exptl_crystal_density_diffrn 14.56
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Ternary silicides ScIr4Si2 and RERh4Si2 (RE = Sc, Y, Tb-Lu) and quaternary
+derivatives RERh4Si2-xSnx (RE = Y, Nd, Sm, Gd-Lu) - structure, chemical
+bonding, and solid state NMR spectroscopy
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - Crystalline Materials' 2016 231 475
+486 ZKCMAJ
+loop_
+_publ_author_name
+'Vosswinkel, Daniel'
+'Benndorf, Christopher'
+'Eckert, Hellmut'
+'Matar, Samir F.'
+'Poettgen, Rainer'
+_cell_length_a 11.232(2)
+_cell_length_b 4.0265(9)
+_cell_length_c 8.816(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 398.7
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.022
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc0+ 0
+Ir0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc0+ 4 c 0.3261(2) 0.25 0.3590(3) 0.0192(5) 1 0
+Ir1 Ir0+ 4 c 0.00033(4) 0.25 0.88515(5) 0.01697(10) 1 0
+Ir2 Ir0+ 4 c 0.77036(4) 0.25 0.79785(5) 0.01747(11) 1 0
+Ir3 Ir0+ 4 c 0.06073(4) 0.25 0.32911(5) 0.01567(10) 1 0
+Ir4 Ir0+ 4 c 0.84006(4) 0.25 0.49018(5) 0.01559(10) 1 0
+Si1 Si0+ 4 c 0.1390(3) 0.25 0.0840(4) 0.0162(7) 1 0
+Si2 Si0+ 4 c 0.5649(3) 0.25 0.8789(4) 0.0172(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sc1 Sc0+ 0.0185(8) 0.0200(9) 0.0190(9) 0 -0.0017(8) 0
+Ir1 Ir0+ 0.02021(18) 0.01400(17) 0.01669(18) 0 -0.00188(15) 0
+Ir2 Ir0+ 0.01856(19) 0.01529(18) 0.01855(18) 0 0.00213(15) 0
+Ir3 Ir0+ 0.01646(18) 0.01529(17) 0.01525(18) 0 -0.00032(14) 0
+Ir4 Ir0+ 0.01652(17) 0.01475(17) 0.01550(18) 0 -0.00020(14) 0
+Si1 Si0+ 0.0162(12) 0.0160(12) 0.0164(13) 0 0.0004(10) 0
+Si2 Si0+ 0.0183(12) 0.0166(13) 0.0168(13) 0 0.0003(12) 0
+#End of TTdata_431253-ICSD

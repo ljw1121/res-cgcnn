@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1142-ICSD
+_database_code_ICSD 1142
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Tricesium nonabromodibismuthate(III)'
+_chemical_formula_structural 'Cs3 (Bi2 Br9)'
+_chemical_formula_sum 'Bi2 Br9 Cs3'
+_chemical_name_structure_type Cs3Bi2Br9
+_exptl_crystal_density_diffrn 4.7
+_publ_section_title 'Cesium enneabromodibismuthate(III)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1977 33 2961 2964 ACBCAR
+loop_
+_publ_author_name
+'Lazarini, F.'
+_cell_length_a 7.972(2)
+_cell_length_b 7.972(2)
+_cell_length_c 9.867(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 543.06
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.058
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Cs1+ 1
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 2 d 0.6667 0.3333 0.1918(1) . 1. 0
+Cs1 Cs1+ 1 a 0 0 0 . 1. 0
+Cs2 Cs1+ 2 d 0.6667 0.3333 0.6669(3) . 1. 0
+Br1 Br1- 3 e 0.5 0.5 0 . 1. 0
+Br2 Br1- 6 i 0.3352(4) 0.1676(2) 0.3394(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0208(2) 0.0208(2) 0.0255(6) 0.0104(2) 0 0
+Cs1 Cs1+ 0.0474(8) 0.0474(8) 0.0836(31) 0.0237(8) 0 0
+Cs2 Cs1+ 0.0502(5) 0.0502(5) 0.0523(17) 0.0251(5) 0 0
+Br1 Br1- 0.0699(21) 0.0699(21) 0.0654(21) 0.0492(23) -0.0155(9) -0.0155(9)
+Br2 Br1- 0.1088(13) 0.0544(13) 0.0562(14) 0.0173(6) 0.0200(6) 0.0100(6)
+#End of TTdata_1142-ICSD

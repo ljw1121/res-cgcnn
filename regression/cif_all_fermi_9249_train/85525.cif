@@ -1,0 +1,74 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_85525-ICSD
+_database_code_ICSD 85525
+_audit_creation_date 1999-06-02
+_chemical_name_systematic 'Palladium(III) phosphide'
+_chemical_formula_structural 'Pd3 P'
+_chemical_formula_sum 'P1 Pd3'
+_exptl_crystal_density_diffrn 10.12
+_publ_section_title
+
+;
+The first structure determination of nanosized colloidal particles of Pd3 P by
+high-resolution electron microscopy
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie. International Edition' 1998 37 1218 1220 ACIEF5
+loop_
+_publ_author_name
+'Carlsson, A.'
+'Oku, T.'
+'Bovin, J.O.'
+'Wallenberg, R.'
+'Malm, J.O.'
+'Schmid, G.'
+'Kubicki, T.'
+_cell_length_a 5.98
+_cell_length_b 7.44
+_cell_length_c 5.164
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 229.75
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pd1+ 1
+P3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pd1 Pd1+ 4 c 0.04 0.25 0.88 . 1. 0
+Pd2 Pd1+ 8 d 0.21 0.04 0.35 . 1. 0
+P1 P3- 4 c 0.84 0.25 0.35 . 1. 0
+#End of TTdata_85525-ICSD

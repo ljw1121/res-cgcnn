@@ -1,0 +1,92 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_60825-ICSD
+_database_code_ICSD 60825
+_audit_creation_date 1988-02-22
+_chemical_name_systematic 'Copper chromate'
+_chemical_formula_structural 'Cu Cr O4'
+_chemical_formula_sum 'Cr1 Cu1 O4'
+_chemical_name_structure_type CrVO4
+_exptl_crystal_density_diffrn 4.16
+_cell_measurement_temperature 293.
+_publ_section_title
+'Refinement of the structure of copper(II)chromate from single-crystal data'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1987 43 10 12 ACSCEE
+loop_
+_publ_author_name
+'Seferiadis, N.'
+'Oswald, H.R.'
+_cell_length_a 5.433(1)
+_cell_length_b 8.968(3)
+_cell_length_c 5.890(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 286.98
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.039
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Cr6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 4 a 0 0 0 . 1. 0
+Cr1 Cr6+ 4 c 0 0.3705(1) 0.25 . 1. 0
+O1 O2- 8 f 0 0.2669(3) 0.0292(5) . 1. 0
+O2 O2- 8 g 0.2371(4) -.0205(3) 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.0063(2) 0.0151(2) 0.0081(2) 0.0010(2) 0 0
+Cr1 Cr6+ 0.0066(2) 0.0111(2) 0.0108(2) 0 0 0
+O1 O2- 0.0146(8) 0.0167(10) 0.0171(10) -.0056(8) 0 0
+O2 O2- 0.0088(7) 0.0156(8) 0.0100(7) 0 0 0.0014(6)
+#End of TTdata_60825-ICSD

@@ -1,0 +1,71 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280433-ICSD
+_database_code_ICSD 280433
+_audit_creation_date 2002-04-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Zirconium bis(molybdate) - delta'
+_chemical_formula_structural 'Zr (Mo O4)2'
+_chemical_formula_sum 'Mo2 O8 Zr1'
+_chemical_name_structure_type Zr(MoO4)2
+_exptl_crystal_density_diffrn 4.3
+_cell_measurement_pressure 1180000.
+_publ_section_title 'High-pressure structures of alpha- and delta-Zr Mo2 O8.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2001 57 20 26
+ASBSDK
+loop_
+_publ_author_name
+'Krogh Andersen, A.M.'
+'Carlson, S.'
+_cell_length_a 9.8821(3)
+_cell_length_b 5.9699(2)
+_cell_length_c 5.3888(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.818(3)
+_cell_angle_gamma 90.
+_cell_volume 317.53
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr4+ 4
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr4+ 2 a 0 0 0 0.025(3) 1. 0
+Mo1 Mo6+ 4 i 0.3297(5) 0 0.3090(8) 0.0063(17) 1. 0
+O1 O2- 8 j 0.1136(14) -.256(3) 0.857(3) 0.005(3) 1. 0
+O2 O2- 4 i 0.1281(15) 0 0.239(3) 0.005(3) 1. 0
+O3 O2- 4 i 0.3793(15) 0 0.582(3) 0.005(3) 1. 0
+#End of TTdata_280433-ICSD

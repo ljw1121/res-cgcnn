@@ -1,0 +1,66 @@
+
+data_171147-ICSD
+_database_code_ICSD 171147
+_audit_creation_date 2006-10-01
+_chemical_name_systematic 'Lead(II) perrhenate(VII) chloride'
+_chemical_formula_structural 'Pb Cl (Re O4)'
+_chemical_formula_sum 'Cl1 O4 Pb1 Re1'
+_exptl_crystal_density_diffrn 6.84
+_cell_measurement_temperature 173.
+_cell_length_a 5.6800(3)
+_cell_length_b 9.4389(5)
+_cell_length_c 4.4656(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 239.41
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m n 21'
+_symmetry_Int_Tables_number 31
+_refine_ls_R_factor_all 0.0349
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re7+ 7
+Pb2+ 2
+Cl1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re7+ 2 a 0. 0.13176(7) 0.24821(17) 0.0087(3) 1 0
+Pb1 Pb2+ 2 a 0.5 0.32266(9) -0.2844(3) 0.0198(4) 1 0
+Cl1 Cl1- 2 a 0.5 0.5359(5) 0.1625(14) 0.0175(11) 1 0
+O1 O2- 2 a 0. -0.0433(16) 0.143(4) 0.013(3) 1 0
+O2 O2- 4 b 0.2526(16) 0.2225(11) 0.139(3) 0.021(3) 1 0
+O3 O2- 2 a 0. 0.133(2) 0.622(5) 0.026(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re7+ 0.0099(4) 0.0044(5) 0.0119(5) 0. 0. 0.0009(5)
+Pb1 Pb2+ 0.0271(5) 0.0122(5) 0.0200(7) 0. 0. -0.0005(5)
+Cl1 Cl1- 0.0196(19) 0.010(2) 0.022(3) 0. 0. -0.003(2)
+O1 O2- 0.017(4) 0.007(4) 0.015(5) 0. 0. -0.004(4)
+O2 O2- 0.015(4) 0.024(7) 0.024(7) -0.006(4) -0.001(5) 0.007(5)
+O3 O2- 0.032(8) 0.015(8) 0.029(12) 0. 0. 0.010(9)

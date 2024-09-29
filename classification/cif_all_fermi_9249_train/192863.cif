@@ -1,0 +1,80 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_192863-ICSD
+_database_code_ICSD 192863
+_audit_creation_date 2015-02-01
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Diyttrium trioxide - HP'
+_chemical_formula_structural 'Y2 O3'
+_chemical_formula_sum 'O3 Y2'
+_chemical_name_structure_type Sm2O3
+_exptl_crystal_density_diffrn 5.36
+_cell_measurement_temperature 293.
+_cell_measurement_pressure 16200000.
+_publ_section_title
+'Photoluminescence studies of Y2 O3 : Eu(3+) under high pressure'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Applied Physics' 2014 115 023502-1 023502-5 JAPIAU
+loop_
+_publ_author_name
+'Zhang, Jian'
+'Cui, Hang'
+'Zhu, Peifen'
+'Ma, Chunli'
+'Wu, Xiaoxin'
+'Zhu, Hongyang'
+'Ma, Yanzhang'
+'Cui, Qiliang'
+_cell_length_a 14.060(9)
+_cell_length_b 3.536(3)
+_cell_length_c 8.567(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.
+_cell_angle_gamma 90.
+_cell_volume 419.45
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 i 0.631(1) 0 0.477(2) . 1. 0
+Y2 Y3+ 4 i 0.691(1) 0 0.138(3) . 1. 0
+Y3 Y3+ 4 i 0.967(1) 0 0.187(2) . 1. 0
+O1 O2- 4 i 0.128(7) 0 0.282(11) . 1. 0
+O2 O2- 4 i 0.835(7) 0 0.053(12) . 1. 0
+O3 O2- 4 i 0.796(7) 0 0.358(10) . 1. 0
+O4 O2- 4 i 0.489(7) 0 0.340(10) . 1. 0
+O5 O2- 2 b 0 0.5 0 . 1. 0
+#End of TTdata_192863-ICSD

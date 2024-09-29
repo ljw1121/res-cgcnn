@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_430624-ICSD
+_database_code_ICSD 430624
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Aluminium platinum scandium (1/1/1)'
+_chemical_formula_structural 'Al1 Pt1 Sc1'
+_chemical_formula_sum 'Al1 Pt1 Sc1'
+_chemical_name_structure_type TiNiSi-MgSrSi
+_exptl_crystal_density_diffrn 8.52
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+On new ternary equiatomic scandium transition metal aluminum compounds ScTAl
+with T = Cr, Ru, Ag, Re, Pt, and Au
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 2016 71 553 566
+ZNBSEN
+loop_
+_publ_author_name
+'Radzieowski, Mathis'
+'Benndorf, Christopher'
+'Haverkamp, Sandra'
+'Eckert, Hellmut'
+'Janka, Oliver'
+_cell_length_a 6.4283(4)
+_cell_length_b 4.2896(2)
+_cell_length_c 7.5454(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 208.06
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0326
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc0+ 0
+Pt0+ 0
+Al0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc0+ 4 c 0.0236(4) 0.25 0.6863(4) 0.0100(6) 1 0
+Pt1 Pt0+ 4 c 0.26334(8) 0.25 0.38686(6) 0.00889(17) 1 0
+Al1 Al0+ 4 c 0.1556(7) 0.25 0.0649(6) 0.0088(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sc1 Sc0+ 0.0095(10) 0.0096(10) 0.0107(10) 0 -0.0003(8) 0
+Pt1 Pt0+ 0.0100(3) 0.0075(3) 0.0092(3) 0 -0.00011(16) 0
+Al1 Al0+ 0.0102(18) 0.0070(17) 0.0093(16) 0 -0.0016(13) 0
+#End of TTdata_430624-ICSD

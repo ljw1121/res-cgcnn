@@ -1,0 +1,76 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_56285-ICSD
+_database_code_ICSD 56285
+_audit_creation_date 2003-04-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Chromium oxide hydroxide'
+_chemical_formula_structural 'Cr O (O H)'
+_chemical_formula_sum 'H1 Cr1 O2'
+_chemical_name_structure_type AlOOH(Diaspore)
+_chemical_name_mineral Bracewellite
+_exptl_crystal_density_diffrn 4.29
+_publ_section_title
+'Merumite, a complex assemblage of chromium minerals from Guyana'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'U.S. Geological Survey Professional Paper' 1976 887 1 29 USGSP5
+loop_
+_publ_author_name
+'Milton, C.'
+'Appleman, D.E.'
+'Appleman, M.H.'
+'Chao, E.C.T.'
+'Cuttita, F.'
+'Dinnin, J.E.'
+'Dwornik, E.J.'
+'Ingram, B.L.'
+'Rose, H.J.jr.'
+_cell_length_a 4.492(3)
+_cell_length_b 9.860(5)
+_cell_length_c 2.974(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 131.72
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b n m'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, z'
+2 'x, y, -z+1/2'
+3 'x+1/2, -y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr3+ 4 c -.052 0.145 0.25 . 1. 0
+O1 O2- 4 c 0.301 -.197 0.25 . 1. 0
+O2 O2- 4 c -.198 -.054 0.25 . 1. 0
+#End of TTdata_56285-ICSD

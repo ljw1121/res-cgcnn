@@ -1,0 +1,78 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_81548-ICSD
+_database_code_ICSD 81548
+_audit_creation_date 1997-05-13
+_chemical_name_systematic 'Rubidium tritellurodiferrate'
+_chemical_formula_structural 'Rb (Fe2 Te3)'
+_chemical_formula_sum 'Fe2 Rb1 Te3'
+_chemical_name_structure_type CsCu2Cl3
+_exptl_crystal_density_diffrn 5.15
+_publ_section_title
+'Mixed valent ternary iron chalcogenides: A Fe2 X3 (A=Rb,Cs; X=Se,Te)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1996 238 1 5 JALCEU
+loop_
+_publ_author_name
+'Klepp, K.O.'
+'Sparlinek, W.'
+'Boller, H.'
+_cell_length_a 10.126(9)
+_cell_length_b 12.486(7)
+_cell_length_c 5.921(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 748.61
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Fe2+ 2.5
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 4 c 0.5 0.1595(3) 0.25 3.27(6) 1. 0
+Fe1 Fe2+ 8 e 0.3607(2) 0.5 0 1.63(4) 1. 0
+Te1 Te2- 4 c 0 0.1294(1) 0.25 1.65(3) 1. 0
+Te2 Te2- 8 g 0.2216(1) 0.37957(9) 0.25 2.42(2) 1. 0
+#End of TTdata_81548-ICSD

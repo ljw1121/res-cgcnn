@@ -1,0 +1,93 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_165133-ICSD
+_database_code_ICSD 165133
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Yttrium palladium indium (5/2/4)'
+_chemical_formula_structural 'Y5 Pd2 In4'
+_chemical_formula_sum 'In4 Pd2 Y5'
+_chemical_name_structure_type Hf5Rh2In4
+_exptl_crystal_density_diffrn 7.16
+_cell_measurement_temperature 293.
+_publ_section_title
+'Crystal structure of R5 Pd2 In4 compounds (R= Y, Tb, Dy, Ho, Er, Tm, Lu)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Ukrains'kii Khimicheskii Zhurnal (Russian Edition)' 2008 74 90 94
+UKZHAU
+loop_
+_publ_author_name
+'Soika, L.D.'
+'Daszkiewicz, M.'
+'Belan, B.D.'
+'Manyako, M.B.'
+Davidov,V.V.
+'Askelrud, L.G.'
+'Kal'ichak, Ya.M.'
+_cell_length_a 17.990(5)
+_cell_length_b 7.974(2)
+_cell_length_c 3.6112(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 518.03
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+_refine_ls_R_factor_all 0.0434
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y0+ 0
+Pd0+ 0
+In0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y0+ 2 a 0 0 0 . 1. 0
+Y2 Y0+ 4 g 0.21813(9) 0.24011(19) 0 . 1. 0
+Y3 Y0+ 4 g 0.41781(9) 0.11709(18) 0 . 1. 0
+Pd1 Pd0+ 4 h 0.30382(7) 0.02550(13) 0.5 . 1. 0
+In1 In0+ 4 h 0.56849(7) 0.29058(12) 0.5 . 1. 0
+In2 In0+ 4 h 0.84943(7) 0.07915(13) 0.5 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y0+ 0.0253(14) 0.0132(10) 0.0219(14) 0.0034(10) 0. 0.
+Y2 Y0+ 0.0228(10) 0.0105(6) 0.0213(10) 0.0019(7) 0. 0.
+Y3 Y0+ 0.0219(10) 0.0103(7) 0.0231(10) 0.0007(6) 0. 0.
+Pd1 Pd0+ 0.0192(7) 0.0095(5) 0.0250(8) 0.0003(5) 0. 0.
+In1 In0+ 0.0214(8) 0.0092(5) 0.0297(8) -0.0017(4) 0. 0.
+In2 In0+ 0.0189(7) 0.0104(5) 0.0304(8) -0.0010(5) 0. 0.
+#End of TTdata_165133-ICSD

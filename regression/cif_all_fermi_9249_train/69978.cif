@@ -1,0 +1,93 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_69978-ICSD
+_database_code_ICSD 69978
+_audit_creation_date 1993-01-06
+_chemical_name_systematic Bis(sulfinylamino)selane
+_chemical_formula_structural 'Se (N S O)2'
+_chemical_formula_sum 'N2 O2 S2 Se1'
+_chemical_name_structure_type S3N2O2
+_exptl_crystal_density_diffrn 2.56
+_publ_section_title
+
+;
+Synthese, Strukturen und Eigenschaften der Cyclothiaselenazenium- Kationen
+(Se2N2S)2(2+),(XSe2N2S)(+),(Se2N2S)(2+),(S3SeN5)(+) sowie Cl2Se2N2S und
+SeSN2.TiCl4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemische Berichte' 1991 124 1895 1906 CHBEAM
+loop_
+_publ_author_name
+'Haas, A.'
+'Kasprowski, J.'
+'Angermund, K.'
+'Betz, P.'
+'Krueger, C.'
+'Tsay, Y.-H.'
+'Werner, S.'
+_cell_length_a 16.286(1)
+_cell_length_b 4.496(1)
+_cell_length_c 7.258(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 96.64(1)
+_cell_angle_gamma 90.
+_cell_volume 527.88
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.062
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se2+ 2
+S4+ 4
+O2- -2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se2+ 4 e 0 0.1218(2) 0.25 . 1. 0
+S1 S4+ 8 f 0.1558(1) 0.3293(3) 0.1247(2) . 1. 0
+O1 O2- 8 f 0.1771(3) 0.021(1) 0.1101(8) . 1. 0
+N1 N3- 8 f 0.0734(4) 0.404(1) 0.1913(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se2+ 0.038(1) 0.029(1) 0.039(1) 0 0.014 0.000(1)
+S1 S4+ 0.034(1) 0.037(1) 0.061(1) 0.000(1) 0.020(1) 0.000(1)
+O1 O2- 0.053(4) 0.039(3) 0.101(3) -.001(3) 0.026(3) 0.007(3)
+N1 N3- 0.037(3) 0.038(3) 0.054(3) 0.002(3) 0.017(2) -.002(2)
+#End of TTdata_69978-ICSD

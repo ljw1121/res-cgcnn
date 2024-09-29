@@ -1,0 +1,91 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65829-ICSD
+_database_code_ICSD 65829
+_audit_creation_date 1990-12-27
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Diyttrium(II) trichloride nitride - beta'
+_chemical_formula_structural 'Y2 Cl3 N'
+_chemical_formula_sum 'Cl3 N1 Y2'
+_exptl_crystal_density_diffrn 3.77
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+A new yttrium sesquichloride nitride, beta - Y2 Cl3 N, that is isostructural
+with the binary yttrium sesquichloride
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1989 28 2635 2637 INOCAJ
+loop_
+_publ_author_name
+'Meyer, H.J.'
+'Jones, N.L.'
+'Corbett, J.D.'
+_cell_length_a 15.238(2)
+_cell_length_b 3.8535(4)
+_cell_length_c 10.156(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 118.38(2)
+_cell_angle_gamma 90.
+_cell_volume 524.68
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.039
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y2+ 2
+Cl1- -1
+N1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y2+ 4 i 0.41182(4) 0 0.04978(6) . 1. 0
+Y2 Y2+ 4 i 0.13593(4) 0 0.29197(6) . 1. 0
+Cl1 Cl1- 4 i 0.6613(1) 0 0.5132(2) . 1. 0
+Cl2 Cl1- 4 i 0.7705(1) 0 0.8840(2) . 1. 0
+Cl3 Cl1- 4 i 0.9491(1) 0 0.2648(2) . 1. 0
+N1 N1- 4 i 0.5790(6) 0 0.1639(8) 2.9(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Y1 Y2+ 0.58(1) 1.01(2) 0.69(1) 0 0.31(1) 0
+Y2 Y2+ 0.57(1) 0.98(2) 0.81(1) 0 0.35(1) 0
+Cl1 Cl1- 0.79(4) 1.28(6) 1.12(4) 0 0.38(3) 0
+Cl2 Cl1- 0.67(3) 1.28(6) 0.94(3) 0 0.45(3) 0
+Cl3 Cl1- 0.89(4) 1.26(6) 1.07(4) 0 0.62(3) 0
+#End of TTdata_65829-ICSD

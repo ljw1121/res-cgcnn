@@ -1,0 +1,97 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_61082-ICSD
+_database_code_ICSD 61082
+_audit_creation_date 1986-12-03
+_chemical_name_systematic 'Dipotassium copper phosphide'
+_chemical_formula_structural 'K2 Cu P'
+_chemical_formula_sum 'Cu1 K2 P1'
+_chemical_name_structure_type AlCe
+_exptl_crystal_density_diffrn 2.72
+_publ_section_title
+
+;
+Neue ternaere Alkliphosphide mit Kupfer, Zink und Cadmium: K2 Cu P, Na Zn P
+und K4 Cd P2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische
+Chemie (33,1978-41,1986)
+; 1985 40 1419 1423 ZNBAD2
+loop_
+_publ_author_name
+'Eisenmann, B.'
+'Somer, M.'
+_cell_length_a 9.839(5)
+_cell_length_b 7.397(4)
+_cell_length_c 5.795(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 421.75
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Cu1+ 1
+P3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 8 g 0.3317(2) 0.3573(2) 0.25 . 1. 0
+Cu1 Cu1+ 4 b 0 0.5 0 . 1. 0
+P1 P3- 4 c 0 0.2677(3) 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0269(7) 0.0266(7) 0.0216(7) -.0018(6) 0 0
+Cu1 Cu1+ 0.0229(6) 0.0142(5) 0.0150(5) 0 0 0.0016(4)
+P1 P3- 0.0259(12) 0.0141(10) 0.0113(10) 0 0 0
+#End of TTdata_61082-ICSD

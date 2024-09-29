@@ -1,0 +1,81 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1842-ICSD
+_database_code_ICSD 1842
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Copper bismuth sulfide (4/5/10)'
+_chemical_formula_structural 'Cu4 Bi5 S10'
+_chemical_formula_sum 'Bi5 Cu4 S10'
+_exptl_crystal_density_diffrn 6.39
+_publ_section_title
+
+;
+The crystal structure of Cu4 Bi5 S10 and its relation to the structures of
+hodrushite and cuprobismutite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1975 31 703 708 ACBCAR
+loop_
+_publ_author_name
+'Mariolacos, K.'
+'Kupcik, V.'
+'Ohmasa, M.'
+'Miehe, G.'
+_cell_length_a 17.539(3)
+_cell_length_b 3.931(13)
+_cell_length_c 12.847(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.0(1)
+_cell_angle_gamma 90.
+_cell_volume 842.4
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.122
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Cu1+ 1.25
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 2 a 0 0 0 1.43 1. 0
+Bi2 Bi3+ 4 i 0.1963(2) 0 0.3427(2) 2.28 1. 0
+Bi3 Bi3+ 4 i 0.4127(2) 0 0.2240(2) 2.26 1. 0
+Cu1 Cu1+ 4 i 0.2076(7) 0.5 0.0608(9) 4.16 1. 0
+Cu2 Cu1+ 4 i 0.4018(6) 0.5 0.4736(8) 3.23 1. 0
+S1 S2- 4 i 0.0443(8) 0.5 0.1684(11) 0.15 1. 0
+S2 S2- 4 i 0.2586(8) 0.5 0.2452(11) 0.46 1. 0
+S3 S2- 4 i 0.3364(8) 0 0.4962(11) 0.29 1. 0
+S4 S2- 4 i 0.3463(9) 0.5 0.0268(12) 0.83 1. 0
+S5 S2- 4 i 0.4818(8) 0.5 0.3613(13) 0.42 1. 0
+#End of TTdata_1842-ICSD

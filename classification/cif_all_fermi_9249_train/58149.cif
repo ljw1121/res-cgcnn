@@ -1,0 +1,79 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_58149-ICSD
+_database_code_ICSD 58149
+_audit_creation_date 2003-10-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Aluminium rhenium (6/1)'
+_chemical_formula_structural 'Al6 Re'
+_chemical_formula_sum 'Al6 Re1'
+_chemical_name_structure_type Al6Mn
+_exptl_crystal_density_diffrn 5.09
+_publ_section_title
+
+;
+The refinement of the structures of the intermetallic phases Re Al6 and Tc Al6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica (1,1948-23,1967)' 1967 22 924 926 ACCRA9
+loop_
+_publ_author_name
+'Wilkinson, C.'
+_cell_length_a 6.6117(6)
+_cell_length_b 7.6091(9)
+_cell_length_c 9.023(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 453.94
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C c m m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.105
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 'x, -y, z'
+4 '-x, -y, -z'
+5 '-x, y, z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, y, -z'
+8 'x, y, z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 'x+1/2, -y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 '-x+1/2, y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re0+ 0
+Al0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re0+ 4 c 0.4555(1) 0 0.25 . 1. 0
+Al1 Al0+ 8 e 0 0.3257(7) 0 . 1. 0
+Al2 Al0+ 8 f 0.1338(9) 0 0.397(3) . 1. 0
+Al3 Al0+ 8 g 0.7158(15) 0.6818(14) 0.75 . 1. 0
+#End of TTdata_58149-ICSD

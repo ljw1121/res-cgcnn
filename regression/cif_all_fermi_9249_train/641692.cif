@@ -1,0 +1,54 @@
+
+data_641692-ICSD
+_database_code_ICSD 641692
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Lanthanum platinum (7/3)'
+_chemical_formula_structural 'La7 Pt3'
+_chemical_formula_sum 'La7 Pt3'
+_chemical_name_structure_type Fe3Th7
+_exptl_crystal_density_diffrn 8.58
+_cell_length_a 10.336
+_cell_length_b 10.336
+_cell_length_c 6.516
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 602.86
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pt0+ 0
+La0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pt1 Pt0+ 6 c .812 .188 .31 . 1. 0
+La1 La0+ 2 b .3333 .6667 .038 . 1. 0
+La2 La0+ 6 c .125 .875 .25 . 1. 0
+La3 La0+ 6 c .539 .461 .063 . 1. 0

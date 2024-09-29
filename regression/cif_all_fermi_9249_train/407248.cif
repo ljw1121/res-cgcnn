@@ -1,0 +1,101 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_407248-ICSD
+_database_code_ICSD 407248
+_audit_creation_date 1999-06-02
+_audit_update_record 2002-04-01
+_chemical_name_systematic 'Lanthanum silicide iodide (5/5/3)'
+_chemical_formula_structural 'La5 Si5 I3'
+_chemical_formula_sum 'I3 La5 Si5'
+_chemical_name_structure_type Eu3Ga4Ge6
+_exptl_crystal_density_diffrn 5.36
+_publ_section_title
+'Si6, Si14 and Si22 rings in iodide silicides of rare earth metals'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie. International Edition' 1998 37 499 502 ACIEF5
+loop_
+_publ_author_name
+'Mattausch, H.J.'
+'Simon, A.'
+_cell_length_a 24.019(1)
+_cell_length_b 4.2534(2)
+_cell_length_c 15.7161(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.377(4)
+_cell_angle_gamma 90.
+_cell_volume 1505.12
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0237
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+I0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 4 i 0.08563(1) 0 0.56293(2) . 1. 0
+La2 La0+ 4 i 0.33899(1) 0 0.94223(2) . 1. 0
+La3 La0+ 4 i 0.262210(11) 0 0.66925(2) . 1. 0
+La4 La0+ 4 i 0.16383(1) 0 0.83393(2) . 1. 0
+La5 La0+ 4 i 0.482570(11) 0.5 0.71004(2) . 1. 0
+I1 I0+ 4 i 0.327360(13) 0.5 0.56273(2) . 1. 0
+I2 I0+ 4 i 0.409080(13) 0 0.79557(2) . 1. 0
+I3 I0+ 4 i 0.059750(13) 0 0.93338(2) . 1. 0
+Si1 Si0+ 4 i 0.07593(5) 0.5 0.70758(8) . 1. 0
+Si2 Si0+ 4 i 0.24990(5) 0.5 0.95988(8) . 1. 0
+Si3 Si0+ 4 i -.00879(5) 0.5 0.57313(8) . 1. 0
+Si4 Si0+ 4 i 0.26015(5) 0.5 0.80975(8) . 1. 0
+Si5 Si0+ 4 i 0.17193(5) 0.5 0.68063(8) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La0+ 0.00855(10) 0.00568(10) 0.00792(10) 0 0.00272(8) 0
+La2 La0+ 0.00908(10) 0.00776(10) 0.00902(10) 0 0.00368(8) 0
+La3 La0+ 0.01127(11) 0.00776(11) 0.01082(11) 0 0.00575(8) 0
+La4 La0+ 0.00876(10) 0.00596(10) 0.00808(10) 0 0.00269(8) 0
+La5 La0+ 0.01134(11) 0.00778(10) 0.01017(11) 0 0.00549(8) 0
+I1 I0+ 0.01712(13) 0.01404(13) 0.01521(14) 0 0.00926(11) 0
+I2 I0+ 0.01494(13) 0.01398(13) 0.01669(14) 0 0.00944(10) 0
+I3 I0+ 0.01253(12) 0.01419(14) 0.01338(13) 0 0.00285(10) 0
+Si1 Si0+ 0.0096(5) 0.0077(5) 0.0095(5) 0 0.0030(4) 0
+Si2 Si0+ 0.0106(5) 0.0084(5) 0.0088(5) 0 0.0037(4) 0
+Si3 Si0+ 0.0102(5) 0.0070(5) 0.0090(5) 0 0.0028(4) 0
+Si4 Si0+ 0.0116(5) 0.0083(5) 0.0088(5) 0 0.0027(4) 0
+Si5 Si0+ 0.0090(5) 0.0084(5) 0.0101(5) 0 0.0030(4) 0
+#End of TTdata_407248-ICSD

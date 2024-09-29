@@ -1,0 +1,101 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_290263-ICSD
+_database_code_ICSD 290263
+_audit_creation_date 2013-08-01
+_chemical_name_systematic 'Dirubidium pentazinc tetraantimonide'
+_chemical_formula_structural 'Rb2 Zn5 Sb4'
+_chemical_formula_sum 'Rb2 Sb4 Zn5'
+_exptl_crystal_density_diffrn 5.61
+_cell_measurement_temperature 200.
+_publ_section_title
+
+;
+Ternary K2 Zn5 As4-type pnictides Rb2 Cd5 As4 and Rb2 Zn5 Sb4, and the solid
+solution Rb2 Cd5 (As, Sb)4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2013 69 455 459 ACSCEE
+loop_
+_publ_author_name
+'He, Hua'
+'Stoyko, Stanislav S.'
+'Mar, Arthur'
+'Bobev, Svilen'
+_cell_length_a 12.3975(11)
+_cell_length_b 7.5516(7)
+_cell_length_c 12.4514(11)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1165.71
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0182
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Zn2+ 2
+Sb3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 8 e 0.22404(5) 0. 0. 0.01652(14) 1 0
+Zn1 Zn2+ 8 g 0.13985(5) 0.39171(9) 0.25 0.01503(16) 1 0
+Zn2 Zn2+ 8 f 0. 0.65688(9) 0.11049(5) 0.01772(17) 1 0
+Zn3 Zn2+ 4 c 0. 0.00653(12) 0.25 0.0179(2) 1 0
+Sb1 Sb3- 8 g 0.34002(3) 0.25996(4) 0.25 0.01097(11) 1 0
+Sb2 Sb3- 8 f 0. 0.27375(5) 0.09762(3) 0.01112(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0167(3) 0.0172(3) 0.0157(3) 0. 0. 0.00194(19)
+Zn1 Zn2+ 0.0110(3) 0.0188(3) 0.0153(3) -0.0007(3) 0. 0.
+Zn2 Zn2+ 0.0155(3) 0.0266(4) 0.0111(3) 0. 0. -0.0011(3)
+Zn3 Zn2+ 0.0160(5) 0.0135(5) 0.0242(5) 0. 0. 0.
+Sb1 Sb3- 0.00910(19) 0.01206(19) 0.01176(19) 0.00060(13) 0. 0.
+Sb2 Sb3- 0.01162(19) 0.01295(19) 0.00878(18) 0. 0. -0.00029(13)
+#End of TTdata_290263-ICSD

@@ -1,0 +1,97 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1810-ICSD
+_database_code_ICSD 1810
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Dicopper chloride trihydroxide'
+_chemical_formula_structural 'Cu2 Cl (O H)3'
+_chemical_formula_sum 'H3 Cl1 Cu2 O3'
+_chemical_name_mineral Paratacamite
+_exptl_crystal_density_diffrn 3.75
+_publ_section_title 'The crystal structure of paratacamite, Cu2 Cl (O H)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1975 31 183 187 ACBCAR
+loop_
+_publ_author_name
+'Fleet, M.E.'
+_cell_length_a 13.654(5)
+_cell_length_b 13.654(5)
+_cell_length_c 14.041(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 2266.98
+_cell_formula_units_Z 24
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.043
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+O2- -2
+Cl1- -1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 3 b 0 0 0.5 0.69 1. 0
+Cu2 Cu2+ 9 d 0.5 0.5 0.5 . 1. 0
+Cu3 Cu2+ 18 f 0.4133(3) 0.3302(2) 0.3318(2) . 1. 0
+Cu4 Cu2+ 18 f 0.4119(2) 0.5778(2) 0.3326(2) . 1. 0
+O1 O2- 18 f 0.5593(10) 0.6180(9) 0.4047(8) 0.58 1. 0
+O2 O2- 18 f 0.564(1) 0.4322(10) 0.3908(11) 0.77 1. 0
+O3 O2- 18 f 0.3666(15) 0.4284(14) 0.3905(13) 2.51 1. 0
+O4 O2- 18 f 0.0643(10) 0.1255(11) 0.3921(12) 1.06 1. 0
+Cl1 Cl1- 6 c 0 0 0.1954(6) 1.19 1. 0
+Cl2 Cl1- 18 f 0.5004(4) 0.5026(5) 0.1933(2) 1.18 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu2 Cu2+ 0.00159(20) 0.00184(20) 0.00102(7) 0.00087(19) 0.00001(15) -.00017(16)
+Cu3 Cu2+ 0.00179(13) 0.00156(12) 0.00200(11) 0.00094(11) -.00011(10) 0.00019(10)
+Cu4 Cu2+ 0.00145(13) 0.00134(11) 0.00107(9) 0.00064(11) -.00019(9) -.00011(9)
+#End of TTdata_1810-ICSD

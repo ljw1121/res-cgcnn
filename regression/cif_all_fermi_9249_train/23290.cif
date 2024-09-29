@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_23290-ICSD
+_database_code_ICSD 23290
+_audit_creation_date 1980-12-31
+_chemical_name_systematic 'Thallium dithiotricuprate(I)'
+_chemical_formula_structural 'Tl Cu3 S2'
+_chemical_formula_sum 'Cu3 S2 Tl1'
+_chemical_name_structure_type Ag3CsS2
+_exptl_crystal_density_diffrn 7.
+_publ_section_title 'Thallium Dithiotricuprate(I)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1980 36 2389 2391 ACBCAR
+loop_
+_publ_author_name
+'Klepp, K.O.'
+'Yvon, K.'
+_cell_length_a 14.63(1)
+_cell_length_b 3.863(3)
+_cell_length_c 8.298(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.72(6)
+_cell_angle_gamma 90.
+_cell_volume 435.67
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.065
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+Cu1+ 1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 4 i 0.1390(1) 0 0.0451(2) . 1. 0
+Cu1 Cu1+ 4 i 0.5933(4) 0 0.6474(7) . 1. 0
+Cu2 Cu1+ 4 i 0.6878(5) 0 0.429(1) . 1. 0
+Cu3 Cu1+ 4 i 0.0571(4) 0 0.3947(6) . 1. 0
+S1 S2- 4 i 0.1889(6) 0 0.6673(10) . 1. 0
+S2 S2- 4 i 0.5231(6) 0 0.2302(11) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl1+ 0.0360(1) 0.0309(9) 0.0346(9) 0 0.0106(6) 0
+Cu1 Cu1+ 0.026(2) 0.026(2) 0.031(2) 0 0.016(2) 0
+Cu2 Cu1+ 0.039(4) 0.075(6) 0.072(5) 0 0.036(3) 0
+Cu3 Cu1+ 0.048(3) 0.022(2) 0.025(2) 0 0.017(2) 0
+S1 S2- 0.025(4) 0.013(3) 0.018(3) 0 0.012(3) 0
+S2 S2- 0.020(4) 0.020(4) 0.018(3) 0 0.006(3) 0
+#End of TTdata_23290-ICSD

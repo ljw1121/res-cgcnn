@@ -1,0 +1,73 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_58403-ICSD
+_database_code_ICSD 58403
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Gold calcium (2/5)'
+_chemical_formula_structural 'Au2 Ca5'
+_chemical_formula_sum 'Au2 Ca5'
+_chemical_name_structure_type Pd5B2
+_exptl_crystal_density_diffrn 4.48
+_publ_section_title
+
+;
+Structures of Ca3 Au, Ca5 Au2, Sr3 Au2, Ba3 Au2 and alloying behaviour of the
+alkaline earths with Cu, Ag, Au
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Revue de Chimie Minerale' 1985 22 791 798 RVCMA8
+loop_
+_publ_author_name
+'Fornasini, M.L.'
+'Merlo, F.'
+'Pani, M.'
+_cell_length_a 16.857(4)
+_cell_length_b 6.809(4)
+_cell_length_c 7.746(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 97.26(2)
+_cell_angle_gamma 90.
+_cell_volume 881.95
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au0+ 0
+Ca0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au0+ 8 f 0.1093(1) 0.2950(1) 0.0794(1) 0.0205(1) 1. 0
+Ca1 Ca0+ 4 e 0 0.5873(5) 0.25 0.0180(8) 1. 0
+Ca2 Ca0+ 8 f 0.0918(1) 0.1094(4) 0.4209(3) 0.0223(7) 1. 0
+Ca3 Ca0+ 8 f 0.2190(1) 0.5788(3) 0.3169(3) 0.0196(6) 1. 0
+#End of TTdata_58403-ICSD

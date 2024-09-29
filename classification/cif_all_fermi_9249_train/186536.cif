@@ -1,0 +1,83 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_186536-ICSD
+_database_code_ICSD 186536
+_audit_creation_date 2013-08-01
+_chemical_name_systematic 'Lithium platinum silicide (4/3/1)'
+_chemical_formula_structural 'Li4 Pt3 Si'
+_chemical_formula_sum 'Li4 Pt3 Si1'
+_exptl_crystal_density_diffrn 9.42
+_cell_measurement_temperature 293.
+_publ_section_title 'Structure and lithium mobility of Li4 Pt3 Si'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Electrochemistry' 2011 15 237 243 JSSEFS
+loop_
+_publ_author_name
+'Dinges, Tim'
+'Hoffmann, Rolf-Dieter'
+'van Wuellen, Leo'
+'Henry, Paul'
+'Eckert, Hellmut'
+'Poettgen, Rainer'
+_cell_length_a 6.937(2)
+_cell_length_b 6.937(2)
+_cell_length_c 16.271(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 678.09
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R 3 2 H'
+_symmetry_Int_Tables_number 155
+_refine_ls_R_factor_all 0.0337
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+2/3, -x+y+1/3, -z+1/3'
+8 'x-y+2/3, -y+1/3, -z+1/3'
+9 'y+2/3, x+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+1/3, -x+y+2/3, -z+2/3'
+14 'x-y+1/3, -y+2/3, -z+2/3'
+15 'y+1/3, x+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li0+ 0
+Pt0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li0+ 6 c 0 0 0.725(3) 0.0107(97) 1. 0
+Li2 Li0+ 18 f 0.363(6) 0.932(7) 0.087(2) 0.0212(71) 1. 0
+Pt1 Pt0+ 9 e 0.6070(2) 0 0.5 0.0108(2) 1. 0
+Pt2 Pt0+ 9 d 0.7389(1) 0 0 0.0106(2) 1. 0
+Si1 Si0+ 6 c 0 0 0.1020(5) 0.0105(15) 1. 0
+#End of TTdata_186536-ICSD

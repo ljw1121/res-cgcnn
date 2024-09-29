@@ -1,0 +1,97 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_417411-ICSD
+_database_code_ICSD 417411
+_audit_creation_date 2008-08-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic
+'Cesium copper triscandium ditelluride catena-(copper tetratelluride)'
+_chemical_formula_structural 'Cs Cu Sc3 Te2 (Cu Te4)'
+_chemical_formula_sum 'Cs1 Cu2 Sc3 Te6'
+_exptl_crystal_density_diffrn 5.5
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+A quaternary scandium telluride with infinite chains of cis-edge sharing [Cu
+Te4]7- tetrahedra
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie, Supplement Issue' 2007 25 19 19
+ZKSUP2
+loop_
+_publ_author_name
+'Babo, J.M.'
+'Hartenbach, I.'
+'Schleid, T.'
+_cell_length_a 17.7763(9)
+_cell_length_b 4.1420(2)
+_cell_length_c 10.3351(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 113.032(4)
+_cell_angle_gamma 90.
+_cell_volume 700.31
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0228
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Cu1+ 1
+Sc3+ 3
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 2 c 0. 0. 0.5 0.03788(18) 1 0
+Cu1 Cu1+ 4 i 0.27749(4) 0. 0.58453(7) 0.01810(18) 1 0
+Sc1 Sc3+ 2 a 0. 0. 0. 0.0115(3) 1 0
+Sc2 Sc3+ 4 i 0.28780(5) 0. 0.86433(9) 0.0119(2) 1 0
+Te1 Te2- 4 i 0.29787(2) 0. 0.34979(3) 0.01057(12) 1 0
+Te2 Te2- 4 i 0.428690(18) 0. 0.78806(3) 0.01069(12) 1 0
+Te3 Te2- 4 i 0.141187(17) 0. 0.92563(3) 0.01081(12) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0237(3) 0.0249(3) 0.0520(4) 0. 0.0007(3) 0.
+Cu1 Cu1+ 0.0248(4) 0.0177(4) 0.0125(3) 0. 0.0081(3) 0.
+Sc1 Sc3+ 0.0096(6) 0.0124(7) 0.0115(6) 0. 0.0031(5) 0.
+Sc2 Sc3+ 0.0131(5) 0.0135(5) 0.0101(4) 0. 0.0057(4) 0.
+Te1 Te2- 0.01216(17) 0.0104(2) 0.00870(18) 0. 0.00364(12) 0.
+Te2 Te2- 0.01011(18) 0.0119(2) 0.00913(18) 0. 0.00278(13) 0.
+Te3 Te2- 0.00958(18) 0.0132(2) 0.01085(19) 0. 0.00527(13) 0.
+#End of TTdata_417411-ICSD

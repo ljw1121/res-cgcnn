@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_238500-ICSD
+_database_code_ICSD 238500
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Lead selenide'
+_chemical_formula_structural 'Pb4 Se4'
+_chemical_formula_sum 'Pb4 Se4'
+_chemical_name_structure_type TlI
+_exptl_crystal_density_diffrn 9.53
+_cell_measurement_temperature 300.
+_cell_measurement_pressure 6250000.
+_publ_section_title
+
+;
+Revisit of pressure-induced phase transition in Pb Se: crystal structure, and
+thermoelastic and electrical properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 4981 4989 INOCAJ
+loop_
+_publ_author_name
+'Wang, Shanmin'
+'Zang, Chengpeng'
+'Wang, Yongkun'
+'Wang, Liping'
+'Zhang, Jianzhong'
+'Childs, Christian'
+'Ge, Hui'
+'Xu, Hongwu'
+'Chen, Haiyan'
+'He, Duanwei'
+'Zhao, Yusheng'
+_cell_length_a 4.0930(3)
+_cell_length_b 11.2337(4)
+_cell_length_c 4.3365(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 199.39
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 4 c 0 0.3765(5) 0.25 . 1. 0
+Se1 Se2- 4 c 0 0.1369(5) 0.25 . 1. 0
+#End of TTdata_238500-ICSD

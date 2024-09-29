@@ -1,0 +1,91 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_9299-ICSD
+_database_code_ICSD 9299
+_audit_creation_date 1980-01-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Diammonium dithiodioxotungstate'
+_chemical_formula_structural '(N H4)2 (W O2 S2)'
+_chemical_formula_sum 'H8 N2 O2 S2 W1'
+_chemical_name_structure_type (NH4)2MoO2S2
+_exptl_crystal_density_diffrn 3.
+_publ_section_title
+'The crystal structure of ammonium dithiotungstate (N H4)2 W O2 S2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,
+Kristallchemie (-144,1977)
+; 1973 138 380 389 ZEKGAX
+loop_
+_publ_author_name
+'Gonschorek, W.'
+'Hahn, T.'
+'Mueller, A.'
+_cell_length_a 11.400(2)
+_cell_length_b 7.334(1)
+_cell_length_c 9.385(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 117.05(2)
+_cell_angle_gamma 90.
+_cell_volume 698.82
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+N3- -3
+W6+ 6
+O2- -2
+S2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+N1 N3- 8 f 0.2999(10) 0.4325(11) 0.1626(10) . 1. 0
+W1 W6+ 4 e 0 0.4136(1) 0.25 . 1. 0
+O1 O2- 8 f 0.3554(7) 0.0492(9) 0.1796(7) . 1. 0
+S1 S2- 8 f -.0096(3) 0.2375(3) 0.0562(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+N1 N3- 0.0070(9) 0.0096(13) 0.0123(12) -.0016(10) -.0001(11) -.0005(11)
+W1 W6+ 0.00416(5) 0.00561(6) 0.0572(5) 0 0.0014(1) 0
+O1 O2- 0.0068(8) 0.0106(11) 0.0111(9) 0.0024(7) 0.0005(8) -.0001(8)
+S1 S2- 0.0090(3) 0.0094(3) 0.0088(3) -.0004(3) 0.0025(3) -.0018(3)
+#End of TTdata_9299-ICSD

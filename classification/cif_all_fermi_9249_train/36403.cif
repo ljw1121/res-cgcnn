@@ -1,0 +1,95 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_36403-ICSD
+_database_code_ICSD 36403
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Scandium chloride (5/8)'
+_chemical_formula_structural 'Sc5 Cl8'
+_chemical_formula_sum 'Cl8 Sc5'
+_chemical_name_structure_type Sc5Cl8
+_exptl_crystal_density_diffrn 2.93
+_publ_section_title
+
+;
+Cluster condensation reactions. Synthesis and structure of pentascandium
+octachloride Sc5 Cl8. An infinite chain structure derived by cluster
+condensation.
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 1978 100 5039 5043 JACSAT
+loop_
+_publ_author_name
+'Poeppelmeier, K.R.'
+'Corbett, J.D.'
+_cell_length_a 17.78(2)
+_cell_length_b 3.523(8)
+_cell_length_c 12.04(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 130.10(6)
+_cell_angle_gamma 90.
+_cell_volume 576.88
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.115
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc3+ 3
+Sc1+ 1
+Sc1+ 1.5
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc3+ 2 a 0 0 0 . 1. 0
+Sc2 Sc1+ 4 i 0.4882(2) 0 0.6136(3) . 1. 0
+Sc3 Sc1+ 4 i 0.3372(2) 0.5 0.3247(3) . 1. 0
+Cl1 Cl1- 4 i 0.2987(3) 0 0.4323(4) . 1. 0
+Cl2 Cl1- 4 i 0.1328(3) 0.5 0.1033(4) . 1. 0
+Cl3 Cl1- 4 i 0.3277(3) 0 0.1625(4) . 1. 0
+Cl4 Cl1- 4 i 0.5298(3) 0.5 0.2385(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Sc1 Sc3+ 1.22(19) 2.12(21) 0.97(17) 0.55(15) 0 0
+Sc2 Sc1+ 1.19(14) 0.96(14) 0.85(12) 0.47(10) 0 0
+Sc3 Sc1+ 0.87(12) 1.22(14) 0.74(12) 0.36(10) 0 0
+Cl1 Cl1- 1.23(16) 1.35(16) 1.09(15) 0.83(13) 0 0
+Cl2 Cl1- 1.18(17) 1.27(15) 1.39(16) 0.47(13) 0 0
+Cl3 Cl1- 1.25(16) 1.27(17) 0.92(15) 0.49(13) 0 0
+Cl4 Cl1- 1.86(17) 1.67(17) 1.31(17) 1.19(14) 0 0
+#End of TTdata_36403-ICSD

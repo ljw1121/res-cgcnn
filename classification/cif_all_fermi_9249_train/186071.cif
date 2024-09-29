@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_186071-ICSD
+_database_code_ICSD 186071
+_audit_creation_date 2013-02-01
+_chemical_name_systematic 'Dithallium hafnium triselenide'
+_chemical_formula_structural 'Tl2 Hf Se3'
+_chemical_formula_sum 'Hf1 Se3 Tl2'
+_chemical_name_structure_type TlCuTiTe3
+_exptl_crystal_density_diffrn 8.21
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Structures and properties of the ternary thallium chalcogenides Tl2 M Q3 (M =
+Zr, Hf; Q = S, Se)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2012 41 9646 9650 DTARAF
+loop_
+_publ_author_name
+'Raj Sankar, C.'
+'Kuropatwa, B.A.'
+'Assoud, A.'
+'Kleinke, H.'
+_cell_length_a 8.1544(11)
+_cell_length_b 3.8812(5)
+_cell_length_c 10.6224(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 97.435(2)
+_cell_angle_gamma 90.
+_cell_volume 333.36
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0421
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+Hf4+ 4
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 2 e 0.06445(9) 0.25 0.65805(7) 0.0228(2) 1 0
+Tl2 Tl1+ 2 e 0.74973(8) 0.25 0.00293(6) 0.0217(2) 1 0
+Hf1 Hf4+ 2 e 0.40960(7) 0.25 0.33423(5) 0.0078(2) 1 0
+Se1 Se2- 2 e 0.13036(18) 0.25 0.19044(15) 0.0130(4) 1 0
+Se2 Se2- 2 e 0.45271(17) 0.25 0.78917(13) 0.0086(3) 1 0
+Se3 Se2- 2 e 0.69076(16) 0.25 0.51355(12) 0.0066(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl1+ 0.0223(4) 0.0216(4) 0.0246(4) 0. 0.0033(3) 0.
+Tl2 Tl1+ 0.0275(4) 0.0222(4) 0.0149(4) 0. 0.0015(3) 0.
+Hf1 Hf4+ 0.0101(3) 0.0067(3) 0.0064(4) 0. 0.0005(2) 0.
+Se1 Se2- 0.0116(7) 0.0125(7) 0.0134(7) 0. -0.0040(5) 0.
+Se2 Se2- 0.0121(6) 0.0059(6) 0.0084(7) 0. 0.0037(5) 0.
+Se3 Se2- 0.0085(6) 0.0053(6) 0.0060(6) 0. 0.0014(5) 0.
+#End of TTdata_186071-ICSD

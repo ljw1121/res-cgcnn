@@ -1,0 +1,91 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_417422-ICSD
+_database_code_ICSD 417422
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Tribarium bis(tetrathiophosphate) - beta'
+_chemical_formula_structural 'Ba3 (P S4)2'
+_chemical_formula_sum 'Ba3 P2 S8'
+_exptl_crystal_density_diffrn 3.57
+_cell_measurement_temperature 373.
+_publ_section_title
+
+;
+Synthese und Kristallstrukturen von alpha- und beta-Ba3 (P S4)2 sowie von Ba3
+(P Se4)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2007
+633 570 574 ZAACAB
+loop_
+_publ_author_name
+'Joergens, S.'
+'Mewis, A.'
+_cell_length_a 11.597(2)
+_cell_length_b 6.7270(10)
+_cell_length_c 8.704(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.00(3)
+_cell_angle_gamma 90.
+_cell_volume 679.03
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0871
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+P5+ 5
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 2 a 0. 0. 0. 0.0653(7) 1 0
+Ba2 Ba2+ 4 i 0.33315(8) 0. 0.36379(11) 0.0379(5) 1 0
+P1 P5+ 4 i 0.3335(3) 0. 0.7814(4) 0.0322(8) 1 0
+S1 S2- 8 j 0.0854(3) 0.2564(3) 0.3077(4) 0.0450(9) 1 0
+S2 S2- 4 i 0.1714(3) 0. 0.6922(5) 0.0443(11) 1 0
+S3 S2- 4 i 0.3354(12) 0. 1.0101(7) 0.126(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0786(15) 0.0876(13) 0.0297(9) 0. -0.0005(8) 0.
+Ba2 Ba2+ 0.0368(7) 0.0420(7) 0.0349(8) 0. -0.0012(4) 0.
+P1 P5+ 0.0333(19) 0.0393(17) 0.0242(14) 0. -0.0008(13) 0.
+S1 S2- 0.0416(18) 0.0367(14) 0.0567(19) -0.0052(11) -0.0037(14) 0.0025(13)
+S2 S2- 0.030(2) 0.046(2) 0.057(3) 0. -0.004(2) 0.
+S3 S2- 0.181(11) 0.168(8) 0.028(3) 0. -0.002(4) 0.
+#End of TTdata_417422-ICSD

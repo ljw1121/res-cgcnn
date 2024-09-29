@@ -1,0 +1,66 @@
+
+data_83712-ICSD
+_database_code_ICSD 83712
+_audit_creation_date 1999-01-19
+_audit_update_record 2003-04-01
+_chemical_name_systematic 'Mercury digallium selenide'
+_chemical_formula_structural 'Hg Ga2 Se4'
+_chemical_formula_sum 'Ga2 Hg1 Se4'
+_chemical_name_structure_type Al2CdS4
+_exptl_crystal_density_diffrn 6.21
+_cell_length_a 5.693(1)
+_cell_length_b 5.693(1)
+_cell_length_c 10.826(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 350.87
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.06
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+Ga3+ 3
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg2+ 2 a 0 0 0 . 1. 0
+Ga1 Ga3+ 2 c 0 0.5 0.25 . 1. 0
+Ga2 Ga3+ 2 b 0 0 0.5 . 1. 0
+Se1 Se2- 8 g 0.273(1) 0.2582(8) 0.1382(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg1 Hg2+ 0.0096(9) 0.0096(9) 0.0178(24) 0 0 0
+Ga1 Ga3+ 0.0089(21) 0.0089(21) 0.0154(73) 0 0 0
+Ga2 Ga3+ 0.0191(26) 0.0191(26) 0.0116(31) 0 0 0
+Se1 Se2- 0.0220(25) 0.0220(25) 0.0148(28) -0.0009(14) -0.0049(19) -0.0002(17)

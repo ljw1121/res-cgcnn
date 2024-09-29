@@ -1,0 +1,63 @@
+
+data_49547-ICSD
+_database_code_ICSD 49547
+_audit_creation_date 1984-12-31
+_chemical_name_systematic 'Tungsten tetrabromide oxide'
+_chemical_formula_structural 'W O Br4'
+_chemical_formula_sum 'Br4 O1 W1'
+_chemical_name_structure_type WOCl4
+_exptl_crystal_density_diffrn 5.41
+_cell_length_a 9.002(5)
+_cell_length_b 9.002(5)
+_cell_length_c 3.935(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 318.88
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 4'
+_symmetry_Int_Tables_number 79
+_refine_ls_R_factor_all 0.0495
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, -x, z'
+2 '-y, x, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+O2- -2
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 2 a 0 0 0.0779(6) . 1. 0
+O1 O2- 2 a 0 0 0.529(7) . 1. 0
+Br1 Br1- 8 c 0.2603(2) 0.0693(2) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.0163(4) 0.0163 0.0089(9) 0 0 0
+O1 O2- 0.025(8) 0.025 0.006(19) 0 0 0
+Br1 Br1- 0.0186(8) 0.0271(9) 0.0229(10) -.0032(7) 0.0006(7) 0.0018(8)

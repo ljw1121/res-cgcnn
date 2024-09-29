@@ -1,0 +1,74 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_641173-ICSD
+_database_code_ICSD 641173
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Yttrium iridium (3/1)'
+_chemical_formula_structural 'Y3 Ir'
+_chemical_formula_sum 'Ir1 Y3'
+_chemical_name_structure_type Cementite-Fe3C
+_exptl_crystal_density_diffrn 7.09
+_publ_section_title
+
+;
+Rare-earth (and yttrium)-iridium and platinum compounds with the Fe3 C
+structure type
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1979 35 1437 1439 ACBCAR
+loop_
+_publ_author_name
+'le Roy, J.'
+'Moreau, J.M.'
+'Paccard, D.'
+'Parthe, E.'
+_cell_length_a 7.237(2)
+_cell_length_b 9.297(6)
+_cell_length_c 6.400(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 430.61
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y0+ 0
+Ir0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y0+ 8 d 0.176 0.063 0.17 . 1. 0
+Y2 Y0+ 4 c 0.035 0.25 0.635 . 1. 0
+Ir1 Ir0+ 4 c 0.382 0.25 0.447 . 1. 0
+#End of TTdata_641173-ICSD

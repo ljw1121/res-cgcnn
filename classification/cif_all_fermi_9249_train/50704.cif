@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_50704-ICSD
+_database_code_ICSD 50704
+_audit_creation_date 2000-07-15
+_chemical_name_systematic 'Dicopper tritellurium oxide'
+_chemical_formula_structural 'Cu2 Te3 O8'
+_chemical_formula_sum 'Cu2 O8 Te3'
+_chemical_name_structure_type Zn2Te3O8
+_exptl_crystal_density_diffrn 5.64
+_publ_section_title
+
+;
+Hydrothermal synthesis and characterization of M2 Te3 O8 (M = Mn, Co, Ni, Cu,
+Zn): a series of compounds with the spiroffite structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1999 143 246 253 JSSCBI
+loop_
+_publ_author_name
+'Feger, C.R.'
+'Schimek, G.L.'
+'Kolis, J.W.'
+_cell_length_a 11.8368(8)
+_cell_length_b 5.266(2)
+_cell_length_c 12.2419(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.316(6)
+_cell_angle_gamma 90.
+_cell_volume 750.73
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Te4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 8 f 0.26723(7) 0.2701(1) 0.15583(1) 0.0109(3) 1. 0
+Te1 Te4+ 4 e 0.5 0.6321(1) 0.25 0.0089(2) 1. 0
+Te2 Te4+ 8 f 0.36589(4) 0.28977(9) 0.44539(3) 0.0089(2) 1. 0
+O1 O2- 8 f 0.4152(4) 0.408(1) 0.1479(4) 0.015(1) 1. 0
+O2 O2- 8 f 0.3815(4) 0.5986(9) 0.3570(4) 0.012(1) 1. 0
+O3 O2- 8 f 0.3102(4) 0.0984(9) 0.3194(4) 0.013(1) 1. 0
+O4 O2- 8 f 0.2252(4) 0.4648(9) 0.4562(4) 0.010(1) 1. 0
+#End of TTdata_50704-ICSD

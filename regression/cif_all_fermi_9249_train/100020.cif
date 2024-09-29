@@ -1,0 +1,56 @@
+
+data_100020-ICSD
+_database_code_ICSD 100020
+_audit_creation_date 1980-01-01
+_audit_update_record 1984-07-05
+_chemical_name_systematic 'Lithium antimony (2/1)'
+_chemical_formula_structural 'Li2 Sb'
+_chemical_formula_sum 'Li2 Sb1'
+_chemical_name_structure_type Mg2Ga
+_exptl_crystal_density_diffrn 3.79
+_cell_length_a 7.946(5)
+_cell_length_b 7.946(5)
+_cell_length_c 6.527(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 356.9
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P -6 2 c'
+_symmetry_Int_Tables_number 190
+_refine_ls_R_factor_all 0.058
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z+1/2'
+5 'x-y, -y, z+1/2'
+6 'y, x, z+1/2'
+7 '-x+y, -x, -z+1/2'
+8 '-y, x-y, -z+1/2'
+9 'x, y, -z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li0+ 0
+Sb0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li0+ 6 g 0.294(4) 0 0 0.011(4) 1. 0
+Li2 Li0+ 6 h 0.622(5) 0.010(5) 0.25 0.022(6) 1. 0
+Sb1 Sb0+ 2 b 0 0 0.25 0.0151(4) 1. 0
+Sb2 Sb0+ 4 f 0.33333 0.66667 0.0225(1) 0.0110(3) 1. 0

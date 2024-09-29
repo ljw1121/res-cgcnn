@@ -1,0 +1,52 @@
+
+data_628240-ICSD
+_database_code_ICSD 628240
+_audit_creation_date 2012-02-01
+_chemical_name_systematic 'Lanthanum copper sulfide (4/1/7)'
+_chemical_formula_structural 'La3 Cu La S7'
+_chemical_formula_sum 'Cu1 La4 S7'
+_chemical_name_structure_type La3CuSiS7
+_exptl_crystal_density_diffrn 5.2
+_cell_length_a 10.331
+_cell_length_b 10.331
+_cell_length_c 5.833
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 539.15
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Cu2+ 2
+La3+ 3
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 6 c 0.127 0.357 0.25 . 1. 0
+Cu1 Cu2+ 2 a 0 0 0.28 . 1. 0
+La2 La3+ 2 b 0.3333 0.6667 0.665 . 1. 0
+S1 S2- 6 c 0.089 0.251 0.766 . 1. 0
+S2 S2- 6 c 0.416 0.524 0.519 . 1. 0
+S3 S2- 2 b 0.3333 0.6667 0.042 . 1. 0

@@ -1,0 +1,76 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_25756-ICSD
+_database_code_ICSD 25756
+_audit_creation_date 1980-01-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Niobium copper silicide (5/4/4)'
+_chemical_formula_structural 'Nb5 Cu4 Si4'
+_chemical_formula_sum 'Cu4 Nb5 Si4'
+_chemical_name_structure_type Nb5Cu4Si4
+_exptl_crystal_density_diffrn 7.38
+_publ_section_title 'Die Kristallstruktur von Nb5 Cu4 Si4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Monatshefte fuer Chemie' 1968 99 549 556 MOCHAP
+loop_
+_publ_author_name
+'Ganglberger, E.'
+_cell_length_a 10.1908(7)
+_cell_length_b 10.1908(7)
+_cell_length_c 3.6004(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 373.91
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 4/m'
+_symmetry_Int_Tables_number 87
+_refine_ls_R_factor_all 0.068
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'y, -x, z'
+6 '-y, x, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, x+1/2, -z+1/2'
+10 'y+1/2, -x+1/2, -z+1/2'
+11 'x+1/2, y+1/2, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'y+1/2, -x+1/2, z+1/2'
+14 '-y+1/2, x+1/2, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb0+ 0
+Cu0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb0+ 8 h 0.19576(12) 0.12863(12) 0 0.473 1. 0
+Nb2 Nb0+ 2 b 0 0 0.5 0.434 1. 0
+Cu1 Cu0+ 8 h 0.08164(18) 0.39695(19) 0 0.75 1. 0
+Si1 Si0+ 8 h 0.4404(4) 0.2481(4) 0 0.54 1. 0
+#End of TTdata_25756-ICSD

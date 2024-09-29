@@ -1,0 +1,76 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79934-ICSD
+_database_code_ICSD 79934
+_audit_creation_date 1996-10-14
+_chemical_name_systematic 'Triniobium tritelluride arsenide'
+_chemical_formula_structural 'Nb3 Te3 As'
+_chemical_formula_sum 'As1 Nb3 Te3'
+_chemical_name_structure_type Si3N4(P63/m)
+_exptl_crystal_density_diffrn 7.31
+_publ_section_title
+
+;
+Preparation and crystal structures of the new channel compounds Tl0.5 Nb6
+Te8-y Asy (y=0, 0.5 and 2.0) and Nb3 Te3 As
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1995 224 220 224 JALCEU
+loop_
+_publ_author_name
+'Bensch, W.'
+'Heid, W.'
+_cell_length_a 10.4058(3)
+_cell_length_b 10.4058(3)
+_cell_length_c 3.5684(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 334.62
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.012
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb3+ 3
+Te2- -2
+As3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb3+ 6 h 0.1262(1) 0.5035(1) 0.25 0.006(1) 1. 0
+Te1 Te2- 6 h 0.0526(1) 0.7235(1) 0.25 0.007(1) 1. 0
+As1 As3- 2 d 0.6667 0.3333 0.25 0.008(1) 1. 0
+#End of TTdata_79934-ICSD

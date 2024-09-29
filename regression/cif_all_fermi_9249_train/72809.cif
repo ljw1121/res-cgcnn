@@ -1,0 +1,79 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_72809-ICSD
+_database_code_ICSD 72809
+_audit_creation_date 1994-01-19
+_chemical_name_systematic 'Tetrathallium divanadate'
+_chemical_formula_structural 'Tl4 (V2 O7)'
+_chemical_formula_sum 'O7 Tl4 V2'
+_exptl_crystal_density_diffrn 7.25
+_publ_section_title
+
+;
+Structure determination of Tl4V2O7 from powder diffraction data using an Inel
+X-ray PSD : stereochemical activity of thallium (I) lone pair
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Powder Diffraction' 1992 7 206 211 PODIE2
+loop_
+_publ_author_name
+'Jouanneaux, A.'
+'Joubert, O.'
+'Evain, M.'
+'Ganne, M.'
+_cell_length_a 5.9388(2)
+_cell_length_b 5.9388(2)
+_cell_length_c 7.7322(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 236.17
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 2 d 0.3333 0.6667 0.5837(5) 1.29(2) 1. 0
+Tl2 Tl1+ 2 d 0.3333 0.6667 0.0826(5) 1.29(9) 1. 0
+V1 V5+ 2 c 0 0 0.2677(6) 1.48(16) 1. 0
+O1 O2- 1 b 0 0 0.5 2.58(31) 1. 0
+O2 O2- 6 i 0.1568(6) 0.8432(6) 0.7991(11) 2.58(31) 1. 0
+#End of TTdata_72809-ICSD

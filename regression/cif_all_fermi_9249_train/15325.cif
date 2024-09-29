@@ -1,0 +1,74 @@
+
+data_15325-ICSD
+_database_code_ICSD 15325
+_audit_creation_date 1980-01-01
+_audit_update_record 2016-08-01
+_chemical_name_systematic 'Silicon carbide (1/1)'
+_chemical_formula_structural 'Si C'
+_chemical_formula_sum 'C1 Si1'
+_chemical_name_structure_type SiC(6H)
+_chemical_name_mineral 'Moissanite 6H'
+_exptl_crystal_density_diffrn 3.22
+_cell_length_a 3.08065
+_cell_length_b 3.08065
+_cell_length_c 15.1174
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 124.25
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si0+ 0
+C0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si0+ 2 a 0 0 0 . 1. 0
+Si2 Si0+ 2 b 0.6667 0.3333 0.16678 . 1. 0
+Si3 Si0+ 2 b 0.3333 0.6667 0.33323 . 1. 0
+C1 C0+ 2 a 0 0 0.12527 . 1. 0
+C2 C0+ 2 b 0.6667 0.3333 0.29188 . 1. 0
+C3 C0+ 2 b 0.3333 0.6667 0.4585 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Si1 Si0+ 0.0062 0.0062 0.00016 0.0031 0 0
+Si2 Si0+ 0.0062 0.0062 0.00016 0.0031 0 0
+Si3 Si0+ 0.0062 0.0062 0.00016 0.0031 0 0
+C1 C0+ 0.0111 0.0111 0.00029 0.00555 0 0
+C2 C0+ 0.0111 0.0111 0.00029 0.00555 0 0
+C3 C0+ 0.0111 0.0111 0.00029 0.00555 0 0

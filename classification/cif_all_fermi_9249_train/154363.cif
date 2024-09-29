@@ -1,0 +1,55 @@
+
+data_154363-ICSD
+_database_code_ICSD 154363
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Barium diarseno(III)dialuminate'
+_chemical_formula_structural 'Cs2 (As2 Al2 O7)'
+_chemical_formula_sum 'Al2 As2 Cs2 O7'
+_exptl_crystal_density_diffrn 3.96
+_cell_length_a 5.469(3)
+_cell_length_b 10.0381(16)
+_cell_length_c 8.885(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 487.77
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m m 2'
+_symmetry_Int_Tables_number 44
+_refine_ls_R_factor_all 0.0313
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+As3+ 3
+Al3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 2 a 0 0 0.65501(10) 0.0261(3) 1. 0
+Cs2 Cs1+ 2 b 0 0.5 0.80064(11) 0.0261(4) 1. 0
+As1 As3+ 4 d 0 0.29936(11) 0.38326(12) 0.0159(3) 1. 0
+Al1 Al3+ 4 d 0 0.1622(3) 0.0622(4) 0.0140(7) 1. 0
+O1 O2- 2 a 0 0 0.0011(11) 0.0220(27) 1. 0
+O2 O2- 4 d 0 0.1630(8) 0.2607(9) 0.0212(18) 1. 0
+O3 O2- 8 e 0.2575(17) 0.2525(6) 0.0001(7) 0.0260(14) 1. 0

@@ -1,0 +1,86 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74001-ICSD
+_database_code_ICSD 74001
+_audit_creation_date 1995-01-10
+_chemical_name_systematic 'Sodium iron(III) bis(selenate)'
+_chemical_formula_structural 'Na Fe (Se O4)2'
+_chemical_formula_sum 'Fe1 Na1 O8 Se2'
+_chemical_name_structure_type NaV(SO4)2
+_exptl_crystal_density_diffrn 3.78
+_publ_section_title
+'Crystal structure of the Yavapaiite type compound NaFe(SeO4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Mineralogy and Petrology' 1993 48 227 233 MIPEE9
+loop_
+_publ_author_name
+'Giester, G.'
+_cell_length_a 8.231(1)
+_cell_length_b 5.425(1)
+_cell_length_c 7.176(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.44(1)
+_cell_angle_gamma 90.
+_cell_volume 320.14
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe3+ 3
+Se6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 c 0 0 0.5 . 1. 0
+Fe1 Fe3+ 2 a 0 0 0 . 1. 0
+Se1 Se6+ 4 i 0.36520(6) 0 0.22411(6) . 1. 0
+O1 O2- 4 i 0.2362(5) 0 0.0435(5) . 1. 0
+O2 O2- 4 i 0.2862(7) 0 0.4246(6) . 1. 0
+O3 O2- 8 j 0.4822(4) 0.2463(6) 0.2048(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0354(23) 0.0374(25) 0.0177(15) 0 0.0028(15) 0
+Fe1 Fe3+ 0.0121(4) 0.0104(5) 0.0129(4) 0 -.0027(3) 0
+Se1 Se6+ 0.0133(3) 0.0090(3) 0.0118(2) 0 -.0009(2) 0
+O1 O2- 0.0143(16) 0.0167(18) 0.0169(15) 0 -.0049(12) 0
+O2 O2- 0.0314(25) 0.0378(28) 0.0141(15) 0 0.0066(17) 0
+O3 O2- 0.0238(15) 0.0121(13) 0.0214(13) -.0073(10) -.0080(11) 0.0051(9)
+#End of TTdata_74001-ICSD

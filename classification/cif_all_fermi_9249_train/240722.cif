@@ -1,0 +1,70 @@
+
+data_240722-ICSD
+_database_code_ICSD 240722
+_audit_creation_date 2007-04-01
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Manganese mercury tetrakis(selenocyanate)'
+_chemical_formula_structural 'Mn Hg (Se C N)4'
+_chemical_formula_sum 'C4 Hg1 Mn1 N4 Se4'
+_chemical_name_structure_type CoHg(SCN)4
+_exptl_crystal_density_diffrn 3.73
+_cell_length_a 11.4545(4)
+_cell_length_b 11.4545(4)
+_cell_length_c 4.5803(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 600.96
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.0722
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+Se2- -2
+Mn2+ 2
+N3- -3
+C4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg2+ 2 a 0. 0. 0. 0.0310(2) 1 0
+Se1 Se2- 8 g 0.12582(9) 0.14832(9) 0.3171(3) 0.0339(3) 1 0
+Mn1 Mn2+ 2 d 0. 0.5 0.75 0.0350(7) 1 0
+N1 N3- 8 g 0.6415(7) 0.0504(9) 0.002(4) 0.044(2) 1 0
+C1 C4+ 8 g 0.0803(8) 0.2759(9) 0.120(3) 0.033(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg1 Hg2+ 0.0246(2) 0.0246(2) 0.0439(4) 0. 0. 0.
+Se1 Se2- 0.0319(5) 0.0266(4) 0.0432(7) -0.0023(3) -0.0079(4) -0.0008(4)
+Mn1 Mn2+ 0.0253(8) 0.0253(8) 0.054(2) 0. 0. 0.
+N1 N3- 0.025(3) 0.046(5) 0.062(6) 0.002(3) 0.003(5) 0.001(8)
+C1 C4+ 0.028(4) 0.025(4) 0.047(6) -0.001(3) 0.002(4) -0.010(4)

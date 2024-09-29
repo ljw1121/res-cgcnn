@@ -1,0 +1,98 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_40875-ICSD
+_database_code_ICSD 40875
+_audit_creation_date 2000-07-15
+_chemical_name_systematic 'Potassium pentaindium sulfide'
+_chemical_formula_structural 'K In5 S8'
+_chemical_formula_sum 'In5 K1 S8'
+_chemical_name_structure_type Cr5CsS8
+_exptl_crystal_density_diffrn 4.39
+_publ_section_title
+
+;
+Splitpositionen fuer Alkalimetallkationen in den Thioindaten M In5 S8 (M= K,
+Rb, Cs)?
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,
+Kristallchemie (-144,1977)
+; 1986 177 307 314 ZEKGAX
+loop_
+_publ_author_name
+'Deiseroth, H.J.'
+_cell_length_a 19.060(7)
+_cell_length_b 3.845(1)
+_cell_length_c 9.217(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 103.25(3)
+_cell_angle_gamma 90.
+_cell_volume 657.49
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+S2- -2
+K1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 2 a 0 0 0 . 1. 0
+In2 In3+ 4 i 0.21308(3) 0.5 0.33785(6) . 1. 0
+In3 In3+ 4 i 0.35504(3) 0 0.09171(7) . 1. 0
+S1 S2- 4 i 0.23753(9) 0 0.15277(19) . 1. 0
+S2 S2- 4 i 0.16507(10) 0 0.47617(20) . 1. 0
+S3 S2- 4 i 0.08529(9) 0.5 0.12523(20) . 1. 0
+S4 S2- 4 i 0.43117(10) 0.5 0.21745(20) . 1. 0
+K1 K1+ 2 d 0.5 0 0.5 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+In1 In3+ 0.0138(3) 0.0124(3) 0.0193(3) 0 0.0061(2) 0
+In2 In3+ 0.0252(4) 0.0133(2) 0.0131(2) 0 0.0024(2) 0
+In3 In3+ 0.0168(3) 0.0172(2) 0.0287(3) 0 0.0119(2) 0
+S1 S2- 0.0135(8) 0.0151(6) 0.0159(7) 0 0.0042(4) 0
+S2 S2- 0.0169(6) 0.0126(7) 0.0164(7) 0 0.0026(6) 0
+S3 S2- 0.0133(8) 0.0123(8) 0.0169(7) 0 0.0005(6) 0
+S4 S2- 0.0196(7) 0.0149(7) 0.0178(7) 0 0.0062(6) 0
+K1 K1+ 0.247(15) 0.032(4) 0.058(5) 0 -.081(7) 0
+#End of TTdata_40875-ICSD

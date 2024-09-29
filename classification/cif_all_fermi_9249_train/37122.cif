@@ -1,0 +1,96 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_37122-ICSD
+_database_code_ICSD 37122
+_audit_creation_date 1983-12-31
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Thallium pentavanadium(III) selenide'
+_chemical_formula_structural 'Tl Se8 V5'
+_chemical_formula_sum 'Se8 Tl1 V5'
+_chemical_name_structure_type Cr5CsS8
+_exptl_crystal_density_diffrn 6.59
+_publ_section_title
+
+;
+Channel Structures Based on Octahedral Frameworks: The Crystal Structure of Tl
+Ti Se8, Tl V5 Se8, and Tl Cr5 Se8 and Its Relationships to Tl Cr3 S5,
+Hollandites, and Psilomelane
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1983 48 388 395 JSSCBI
+loop_
+_publ_author_name
+'Klepp, K.O.'
+'Boller, H.'
+_cell_length_a 18.354(1)
+_cell_length_b 3.4656(1)
+_cell_length_c 8.9036(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.03(1)
+_cell_angle_gamma 90.
+_cell_volume 549.44
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.066
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+V3+ 3
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 2 a 0 0 0 . 1. 0
+V1 V3+ 2 d 0 0.5 0.5 . 1. 0
+V2 V3+ 4 i 0.7900(1) 0 0.1479(2) . 1. 0
+V3 V3+ 4 i 0.1490(1) 0 0.4955(2) . 1. 0
+Se1 Se2- 4 i 0.6595(1) 0 0.0021(1) . 1. 0
+Se2 Se2- 4 i 0.2583(1) 0 0.3418(1) . 1. 0
+Se3 Se2- 4 i 0.5849(1) 0 0.3151(1) . 1. 0
+Se4 Se2- 4 i 0.9278(1) 0 0.3178(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl1+ 0.0274(5) 0.0275(6) 0.0269(6) 0 0.0067(4) 0
+V1 V3+ 0.0049(11) 0.0244(14) 0.0082(11) 0 0.0009(8) 0
+V2 V3+ 0.0026(8) 0.018(1) 0.0116(9) 0 0.0028(6) 0
+V3 V3+ 0.0041(8) 0.0153(9) 0.0101(8) 0 0.0018(6) 0
+Se1 Se2- 0.0036(5) 0.0127(7) 0.0116(6) 0 0.0018(4) 0
+Se2 Se2- 0.0039(6) 0.0100(6) 0.0102(6) 0 0.0027(4) 0
+Se3 Se2- 0.0058(6) 0.0120(6) 0.0101(6) 0 0.0025(4) 0
+Se4 Se2- 0.0036(6) 0.0114(6) 0.0117(6) 0 0.0024(4) 0
+#End of TTdata_37122-ICSD

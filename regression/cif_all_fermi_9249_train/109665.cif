@@ -1,0 +1,72 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_109665-ICSD
+_database_code_ICSD 109665
+_audit_creation_date 2008-02-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Zinc oxalate'
+_chemical_formula_structural 'Zn (C2 O4)'
+_chemical_formula_sum 'C2 O4 Zn1'
+_chemical_name_structure_type ZnC2O4
+_exptl_crystal_density_diffrn 3.48
+_publ_section_title
+
+;
+Crystal structure of the ordered phase of zinc oxalate and structure of
+anhydrous Fe(II), Co(II), Ni(II), Cu(II) and Zn(II) oxalates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Strukturnoi Khimii (Issue-No. from 1981)' 1985 26 90 93 ZSTKAI
+loop_
+_publ_author_name
+'Kondrashev, Yu.D.'
+'Bogdanov, V.S.'
+'Golubev, S.N.'
+'Pron, G.F.'
+_cell_length_a 5.831(2)
+_cell_length_b 5.123(2)
+_cell_length_c 5.331(2)
+_cell_angle_alpha 90
+_cell_angle_beta 113.20(2)
+_cell_angle_gamma 90
+_cell_volume 146.37
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+O2- -2
+C3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 2 a 0. 0. 0. . 1. 0
+O1 O2- 4 e 0.179(9) 0.195(9) 0.361(10) . 1. 0
+O2 O2- 4 e -0.139(8) -0.186(9) 0.225(10) . 1. 0
+C1 C3+ 4 e 0.073(14) 0.128(17) 0.548(21) . 1. 0
+#End of TTdata_109665-ICSD

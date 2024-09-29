@@ -1,0 +1,80 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_69456-ICSD
+_database_code_ICSD 69456
+_audit_creation_date 1992-08-20
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Silver pentabismuth bismuth(II) sulfide'
+_chemical_formula_structural 'Ag Bi6 S9'
+_chemical_formula_sum 'Ag1 Bi6 S9'
+_chemical_name_structure_type AgBi6S9
+_chemical_name_mineral 'Pavonite 4P'
+_exptl_crystal_density_diffrn 6.72
+_publ_section_title
+
+;
+A note on the occurrence, composition and crystal structures of pavonite
+homologous series members 4P, 6P and 8P
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Neues Jahrbuch fuer Mineralogie. Monatshefte (Band=Jahr) (1950-)' 1990
+1990 193 204 NJMMAW
+loop_
+_publ_author_name
+'Mumme, W.G.'
+_cell_length_a 13.83
+_cell_length_b 4.04
+_cell_length_c 14.72
+_cell_angle_alpha 90.
+_cell_angle_beta 97.5
+_cell_angle_gamma 90.
+_cell_volume 815.42
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ag1+ 1
+Bi2+ 2.833
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ag1 Ag1+ 2 d 0.5 0 0.5 0.033 1. 0
+Bi1 Bi2+ 4 i 0.1511 0 0.068 0.01 1. 0
+Bi2 Bi2+ 4 i 0.4475 0 0.1876 0.023 1. 0
+Bi3 Bi2+ 4 i 0.2496 0 0.6222 0.02 1. 0
+S1 S2- 2 b 0.5 0 0 0.002 1. 0
+S2 S2- 4 i 0.0882 0 0.2288 0.009 1. 0
+S3 S2- 4 i 0.1388 0 0.4626 0.011 1. 0
+S4 S2- 4 i 0.2108 0 0.8744 0.024 1. 0
+S5 S2- 4 i 0.3872 0 0.3471 0.029 1. 0
+#End of TTdata_69456-ICSD

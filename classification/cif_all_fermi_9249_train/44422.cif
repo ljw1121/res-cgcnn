@@ -1,0 +1,91 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_44422-ICSD
+_database_code_ICSD 44422
+_audit_creation_date 2000-12-16
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Lanthanum iridium boride (1/3/2)'
+_chemical_formula_structural 'La Ir3 B2'
+_chemical_formula_sum 'B2 Ir3 La1'
+_chemical_name_structure_type Co3GdB2
+_exptl_crystal_density_diffrn 14.82
+_publ_section_title
+
+;
+Superconducting and magnetic properties of new ternary borides with the
+CeCo3B2-type structure
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Communications' 1980 35 91 96 SSCOA4
+loop_
+_publ_author_name
+'Ku, H.C.'
+'Meisner, G.P.'
+'Acker, F.'
+'Johnston, D.C.'
+_cell_length_a 5.543(6)
+_cell_length_b 5.543(6)
+_cell_length_c 3.116(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 82.91
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 6/m m m'
+_symmetry_Int_Tables_number 191
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, -z'
+5 '-y, x-y, -z'
+6 'x, y, -z'
+7 'x, x-y, -z'
+8 '-x+y, y, -z'
+9 '-y, -x, -z'
+10 'x-y, x, -z'
+11 'y, -x+y, -z'
+12 '-x, -y, -z'
+13 'x, x-y, z'
+14 '-x+y, y, z'
+15 '-y, -x, z'
+16 'x-y, x, z'
+17 'y, -x+y, z'
+18 '-x, -y, z'
+19 '-x, -x+y, z'
+20 'x-y, -y, z'
+21 'y, x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+Ir0+ 0
+B0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 1 a 0 0 0 . 1. 0
+Ir1 Ir0+ 3 g 0.5 0 0.5 . 1. 0
+B1 B0+ 2 c 0.3333 0.6667 0 . 1. 0
+#End of TTdata_44422-ICSD

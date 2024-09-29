@@ -1,0 +1,78 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_59594-ICSD
+_database_code_ICSD 59594
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Zirconium copper silicium phosphide (1/1/1/1)'
+_chemical_formula_structural 'Zr Cu Si P'
+_chemical_formula_sum 'Cu1 P1 Si1 Zr1'
+_chemical_name_structure_type ZrCuSiAs-CuHfSi2
+_exptl_crystal_density_diffrn 5.91
+_publ_section_title
+'Structure and electrical transport property of a silicopnictide Zr Cu Si P'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2002 165 372 374 JSSCBI
+loop_
+_publ_author_name
+'Abe, H.'
+'Yoshii, K.'
+_cell_length_a 3.5671(1)
+_cell_length_b 3.5671(1)
+_cell_length_c 9.4460(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 120.19
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n m m Z'
+_symmetry_Int_Tables_number 129
+_refine_ls_R_factor_all 0.0433
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z'
+2 '-y, x+1/2, -z'
+3 'y+1/2, -x, -z'
+4 '-y, -x, -z'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 'y, -x+1/2, z'
+11 '-y+1/2, x, z'
+12 'y, x, z'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z'
+15 '-x+1/2, y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr0+ 0
+Cu0+ 0
+Si0+ 0
+P0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr0+ 2 c .25 .25 .2269(2) 0.3 1 0
+Cu1 Cu0+ 2 b .25 .75 .5 0.3 1 0
+Si1 Si0+ 2 a .25 .75 0 0.3 1 0
+P1 P0+ 2 c .25 .25 .6721(5) 0.3 1 0
+#End of TTdata_59594-ICSD

@@ -1,0 +1,104 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_419389-ICSD
+_database_code_ICSD 419389
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Lanthanum osmium carbide (7/4/9)'
+_chemical_formula_structural 'La7 Os4 C9'
+_chemical_formula_sum 'C9 La7 Os4'
+_exptl_crystal_density_diffrn 8.43
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Chemical bonding analysis and properties of La7 Os4 C9 - A new structure type
+containing C- and C2-units as Os-coordinating ligands
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2008 181 3121 3130 JSSCBI
+loop_
+_publ_author_name
+'Dashjav, E.'
+'Prots', Yu.'
+'Kreiner, G.'
+'Schnelle, W.'
+'Wagner, F.R.'
+'Kniep, R.'
+_cell_length_a 11.985(2)
+_cell_length_b 5.4196(10)
+_cell_length_c 11.962(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.037(6)
+_cell_angle_gamma 90.
+_cell_volume 725.19
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0159
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Os0+ 0
+La0+ 0
+C0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Os1 Os0+ 4 i 0.433426(6) 0. 0.570995(6) 0.00433(1) 1 0
+Os2 Os0+ 4 i 0.357438(6) 0. 0.858908(6) 0.00445(1) 1 0
+La1 La0+ 4 i 0.372605(10) 0. 0.155591(10) 0.00526(2) 1 0
+La2 La0+ 4 i 0.137269(10) 0. 0.617355(10) 0.00548(2) 1 0
+La3 La0+ 4 i 0.148802(10) 0. 0.322666(11) 0.00659(2) 1 0
+La4 La0+ 2 a 0. 0. 0. 0.00712(2) 1 0
+C1 C0+ 4 i 0.39216(16) 0. 0.38709(17) 0.0062(2) 1 0
+C2 C0+ 4 i 0.38478(17) 0. 0.70943(17) 0.0065(2) 1 0
+C3 C0+ 4 i 0.19565(17) 0. 0.85659(17) 0.0062(2) 1 0
+C4 C0+ 4 i 0.07817(17) 0. 0.82047(19) 0.0077(3) 1 0
+C5 C0+ 2 b 0.5 0. 0. 0.0059(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Os1 Os0+ 0.00474(2) 0.00500(2) 0.00358(2) 0. 0.00190(2) 0.
+Os2 Os0+ 0.00374(2) 0.00628(2) 0.00331(2) 0. 0.00124(2) 0.
+La1 La0+ 0.00546(3) 0.00512(4) 0.00556(3) 0. 0.00243(3) 0.
+La2 La0+ 0.00567(3) 0.00512(4) 0.00496(3) 0. 0.00109(3) 0.
+La3 La0+ 0.00613(3) 0.00576(4) 0.00861(4) 0. 0.00352(3) 0.
+La4 La0+ 0.01018(5) 0.00530(5) 0.00655(5) 0. 0.00382(4) 0.
+C1 C0+ 0.0059(5) 0.0066(6) 0.0062(6) 0. 0.0021(4) 0.
+C2 C0+ 0.0079(6) 0.0064(6) 0.0057(6) 0. 0.0029(5) 0.
+C3 C0+ 0.0067(5) 0.0053(6) 0.0075(6) 0. 0.0035(5) 0.
+C4 C0+ 0.0063(6) 0.0075(7) 0.0094(6) 0. 0.0030(5) 0.
+C5 C0+ 0.0076(8) 0.0049(8) 0.0043(7) 0. 0.0009(6) 0.
+#End of TTdata_419389-ICSD

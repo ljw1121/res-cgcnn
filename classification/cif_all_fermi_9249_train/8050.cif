@@ -1,0 +1,68 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_8050-ICSD
+_database_code_ICSD 8050
+_audit_creation_date 1980-01-01
+_audit_update_record 1984-11-30
+_chemical_name_systematic
+'Antimony(V) oxide - prepared by high oxygen pressure synthesis'
+_chemical_formula_structural 'Sb2 O5'
+_chemical_formula_sum 'O5 Sb2'
+_chemical_name_structure_type Sb2O5
+_exptl_crystal_density_diffrn 6.75
+_publ_section_title 'Die Kristallstruktur von Antimon(V)-oxid'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1979 35 539 542 ACBCAR
+loop_
+_publ_author_name
+'Jansen, M.'
+_cell_length_a 12.646(1)
+_cell_length_b 4.7820(4)
+_cell_length_c 5.4247(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 103.91(1)
+_cell_angle_gamma 90.
+_cell_volume 318.43
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sb1 Sb5+ 8 f 0.13784(2) 0.24090(4) 0.27977(5) 0.553 1. 0
+O1 O2- 8 f 0.2971(3) 0.0799(6) 0.3752(6) 0.73 1. 0
+O2 O2- 8 f 0.3971(3) 0.4147(7) 0.0510(6) 0.76 1. 0
+O3 O2- 4 e 0 0.4194(9) 0.25 0.75 1. 0
+#End of TTdata_8050-ICSD

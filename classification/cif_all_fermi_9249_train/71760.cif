@@ -1,0 +1,91 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_71760-ICSD
+_database_code_ICSD 71760
+_audit_creation_date 1993-08-22
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Sodium vanadium(III) sulfate(VI)'
+_chemical_formula_structural 'Na V (S O4)2'
+_chemical_formula_sum 'Na1 O8 S2 V1'
+_chemical_name_structure_type NaV(SO4)2
+_exptl_crystal_density_diffrn 2.99
+_publ_section_title 'The crystal structure of Na V (S O4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica (43,1989-)' 1991 45 961 964 ACHSE7
+loop_
+_publ_author_name
+'Fehrmann, R.'
+'Boghosian, S.'
+'Papatheodorou, G.N.'
+'Nielsen, K.'
+'Willestofte Berg, R.'
+'Janniksen Bjerrum, N.'
+_cell_length_a 8.020(1)
+_cell_length_b 5.160(1)
+_cell_length_c 7.135(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.87(2)
+_cell_angle_gamma 90.
+_cell_volume 295.11
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0284
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V3+ 3
+Na1+ 1
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V3+ 2 a 0 0 0 . 1. 0
+Na1 Na1+ 2 c 0 0 0.5 . 1. 0
+S1 S6+ 4 i 0.3619(1) 0 0.2216(1) . 1. 0
+O1 O2- 4 i 0.2401(2) 0 0.0622(2) . 1. 0
+O2 O2- 4 i 0.2886(2) 0 0.4021(2) . 1. 0
+O3 O2- 8 j 0.4694(1) 0.2334(2) 0.2026(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V3+ 0.0068(2) 0.0053(1) 0.0107(2) 0 -.0008(1) 0
+Na1 Na1+ 0.0272(7) 0.0396(10) 0.0150(5) 0 0.0045(5) 0
+S1 S6+ 0.0084(2) 0.0057(2) 0.0100(2) 0 0.0010(1) 0
+O1 O2- 0.0083(5) 0.0110(5) 0.0161(5) 0 -.0018(4) 0
+O2 O2- 0.0156(4) 0.0109(4) 0.0171(4) -.0061(3) -.0043(3) 0.0041(3)
+O3 O2- 0.0219(7) 0.0238(8) 0.0137(6) 0 0.0073(5) 0
+#End of TTdata_71760-ICSD

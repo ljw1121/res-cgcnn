@@ -1,0 +1,82 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_257110-ICSD
+_database_code_ICSD 257110
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Niobium chloride (3/8)'
+_chemical_formula_structural 'Nb3 Cl8'
+_chemical_formula_sum 'Cl8 Nb3'
+_exptl_crystal_density_diffrn 7.02
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Magnetic-nonmagnetic phase transition with interlayer charge
+disproportionation of Nb3 trimers in the cluster compound Nb3Cl8
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2017 56 3483 3488 INOCAJ
+loop_
+_publ_author_name
+'Haraguchi, Yuya'
+'Michioka, Chishiro'
+'Ishikawa, Manabu'
+'Nakano, Yoshiaki'
+'Yamochi, Hideki'
+'Ueda, Hiroaki'
+'Yoshimura, Kazuyoshi'
+_cell_length_a 6.7487
+_cell_length_b 6.7487
+_cell_length_c 6.74
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 265.84
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.0429
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb2+ 2.67
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb2+ 6 i 0.52783(8) 0.05566(8) 0.25305(6) 0.0064(3) 1. 0
+Cl1 Cl1- 2 d 0.3333 0.6667 0.1438(3) 0.0095(8) 1. 0
+Cl2 Cl1- 2 d 0.6667 0.3333 0.4013(3) 0.0093(8) 1. 0
+Cl3 Cl1- 6 i 0.1645(2) 0.3291(5) 0.3630(2) 0.0113(5) 1. 0
+Cl4 Cl1- 6 i 0.8319(2) 0.6638(5) 0.12012(19) 0.0120(5) 1. 0
+#End of TTdata_257110-ICSD

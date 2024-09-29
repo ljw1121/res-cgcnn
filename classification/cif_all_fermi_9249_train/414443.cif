@@ -1,0 +1,92 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_414443-ICSD
+_database_code_ICSD 414443
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Copper tellurium oxobromide'
+_chemical_formula_structural 'Cu3 (Te O3)2 Br2'
+_chemical_formula_sum 'Br2 Cu3 O6 Te2'
+_exptl_crystal_density_diffrn 5.09
+_publ_section_title
+
+;
+Crystal structure and magnetic properties of Cu3(TeO3)2Br2 - a layered
+compound with a new Cu(II) coordination polyhedron
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2005 178 2024 2029 JSSCBI
+loop_
+_publ_author_name
+'Becker, R.'
+'Johnsson, M.'
+'Kremer, R.K.'
+'Lemmens, P.'
+_cell_length_a 8.1999(16)
+_cell_length_b 6.2781(9)
+_cell_length_c 9.3186(18)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.39(2)
+_cell_angle_gamma 90.
+_cell_volume 457.79
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'A 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, -y, -z'
+3 '-x, y, -z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x, -y+1/2, -z+1/2'
+7 '-x, y+1/2, -z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te4+ 4
+Br1- -1
+Cu2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te4+ 4 i 0.23943(5) 0. 0.66206(4) 0.01162(14) 1 0
+Br1 Br1- 4 i 0.13958(9) 0. 0.21243(8) 0.0260(2) 1 0
+Cu1 Cu2+ 2 c 0.5 0. 0.5 0.0157(3) 1 0
+Cu2 Cu2+ 4 i 0.35883(11) 0. 0.08294(8) 0.01618(19) 1 0
+O1 O2- 8 j 0.3675(4) 0.1966(5) -0.4176(3) 0.0157(7) 1 0
+O2 O2- 4 i 0.6283(6) 0. 0.1405(4) 0.0151(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Te1 Te4+ 0.0152(2) 0.0117(3) 0.00953(19) 0. 0.00599(14) 0.
+Br1 Br1- 0.0304(4) 0.0234(5) 0.0329(4) 0. 0.0225(3) 0.
+Cu1 Cu2+ 0.0265(6) 0.0098(6) 0.0170(5) 0. 0.0161(4) 0.
+Cu2 Cu2+ 0.0267(4) 0.0085(5) 0.0189(4) 0. 0.0153(3) 0.
+O1 O2- 0.0255(16) 0.0094(18) 0.0180(14) 0.0005(14) 0.0151(13) 0.0012(12)
+O2 O2- 0.022(2) 0.016(3) 0.0101(18) 0. 0.0091(16) 0.
+#End of TTdata_414443-ICSD

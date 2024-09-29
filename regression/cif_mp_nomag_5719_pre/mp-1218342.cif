@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SrCdSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.11211707
+_cell_length_b   6.38545047
+_cell_length_c   6.58261104
+_cell_angle_alpha   95.62393794
+_cell_angle_beta   112.84905142
+_cell_angle_gamma   66.40343080
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCdSn
+_chemical_formula_sum   'Sr2 Cd2 Sn2'
+_cell_volume   181.03911223
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.74784613  0.70871975  0.20441200  1
+  Sr  Sr1  1  0.25215387  0.29128025  0.79558800  1
+  Cd  Cd2  1  0.55960142  0.27993170  0.39913453  1
+  Cd  Cd3  1  0.44039858  0.72006830  0.60086547  1
+  Sn  Sn4  1  0.05202181  0.11043199  0.21447560  1
+  Sn  Sn5  1  0.94797819  0.88956801  0.78552440  1

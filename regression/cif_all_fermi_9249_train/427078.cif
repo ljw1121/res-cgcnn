@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_427078-ICSD
+_database_code_ICSD 427078
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Dilithium dicalcium hexanitrido-dimagnesiodisilicate'
+_chemical_formula_structural 'Li2 Ca2 (Mg2 Si2 N6)'
+_chemical_formula_sum 'Ca2 Li2 Mg2 N6 Si2'
+_exptl_crystal_density_diffrn 2.89
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Structural relationship between the Mg-containing nitridosilicates Ca2 Mg (Li4
+Si2 N6) and Li2 Ca2 (Mg2 Si2 N6)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry  (online)' 2015 2015 1592 1597
+EJICFO
+loop_
+_publ_author_name
+'Schmiechen, Sebastian'
+'Nietschke, Frederik'
+'Schnick, Wolfgang'
+_cell_length_a 5.5472(11)
+_cell_length_b 9.844(2)
+_cell_length_c 5.9978(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 97.13(3)
+_cell_angle_gamma 90.
+_cell_volume 324.98
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Si4+ 4
+Mg2+ 2
+Li1+ 1
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 h 0. 0.31597(7) 0.5 0.00949(19) 1 0
+Si1 Si4+ 4 i 0.13076(15) 0. 0.67901(14) 0.0084(2) 1 0
+Mg1 Mg2+ 4 g 0. 0.23392(12) 0. 0.0106(3) 1 0
+Li1 Li1+ 4 i 0.1710(13) 0.5 0.9044(10) 0.0198(13) 1 0
+N1 N3- 4 i -0.1912(5) 0. 0.6098(4) 0.0112(5) 1 0
+N2 N3- 8 j 0.2523(4) 0.3548(2) 0.1895(3) 0.0130(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.0090(3) 0.0121(3) 0.0076(3) 0. 0.0021(2) 0.
+Si1 Si4+ 0.0078(4) 0.0086(5) 0.0085(4) 0. 0.0006(3) 0.
+Mg1 Mg2+ 0.0092(5) 0.0110(6) 0.0115(5) 0. 0.0011(4) 0.
+Li1 Li1+ 0.025(3) 0.022(3) 0.013(3) 0. 0.003(2) 0.
+N1 N3- 0.0083(11) 0.0172(14) 0.0079(11) 0. 0.0003(9) 0.
+N2 N3- 0.0122(9) 0.0136(11) 0.0135(9) -0.0030(8) 0.0032(7) -0.0037(7)
+#End of TTdata_427078-ICSD

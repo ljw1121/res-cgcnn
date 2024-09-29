@@ -1,0 +1,93 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_78784-ICSD
+_database_code_ICSD 78784
+_audit_creation_date 1997-11-10
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Dithallium triplatinum platinum(IV) sulfide'
+_chemical_formula_structural 'Tl2 Pt4 S6'
+_chemical_formula_sum 'Pt4 S6 Tl2'
+_chemical_name_structure_type Tl2Pt4Te6
+_exptl_crystal_density_diffrn 9.09
+_publ_section_title
+
+;
+Ternaere Thalliumplatin- und Thalliumpalladiumchalkogenide Tl2 M4 X6.
+Synthesen, Kristallstruktur und Bindungsverhaeltnisse
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1995
+621 2083 2088 ZAACAB
+loop_
+_publ_author_name
+'Bronger, W.'
+'Bonsmann, B.'
+_cell_length_a 7.0660(5)
+_cell_length_b 7.0660(5)
+_cell_length_c 5.8369(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 252.38
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.04
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+Pt4+ 4
+Pt2+ 2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 2 d 0.3333 0.6667 0.3773(6) . 1. 0
+Pt1 Pt4+ 1 a 0 0 0 . 1. 0
+Pt2 Pt2+ 3 e 0.5 0 0 . 1. 0
+S1 S2- 6 i 0.1689(13) -.1689(13) 0.7955(14) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl1+ 0.0158(9) 0.0158(9) 0.0115(12) 0.0079(5) 0 0
+Pt1 Pt4+ 0.0047(11) 0.0047(11) 0.0080(19) 0.0024(6) 0 0
+Pt2 Pt2+ 0.0043(9) 0.0057(6) 0.0148(10) 0.0029(3) 0.0016(3) 0.0032(6)
+S1 S2- 0.006(3) 0.006(3) 0.009(4) -.0015(30) -.001(2) 0.001(2)
+#End of TTdata_78784-ICSD

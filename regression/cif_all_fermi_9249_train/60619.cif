@@ -1,0 +1,49 @@
+
+data_60619-ICSD
+_database_code_ICSD 60619
+_audit_creation_date 1986-12-03
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Tin (II) oxide - red modification'
+_chemical_formula_structural 'Sn O'
+_chemical_formula_sum 'O1 Sn1'
+_exptl_crystal_density_diffrn 5.63
+_cell_length_a 5.
+_cell_length_b 5.72
+_cell_length_c 11.12
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 318.03
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn2+ 4 a 0 0 0 . 1. 0
+Sn2 Sn2+ 4 a 0 0.441 0.254 . 1. 0
+O1 O2- 8 b 0.18 0.25 0.38 . 1. 0

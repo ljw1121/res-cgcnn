@@ -1,0 +1,68 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_48018-ICSD
+_database_code_ICSD 48018
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Tetracopper dichloride hexahydroxide'
+_chemical_formula_structural 'Cu4 Cl2 (O H)6'
+_chemical_formula_sum 'H6 Cl2 Cu4 O6'
+_chemical_name_structure_type Botallackite
+_chemical_name_mineral Botallackite
+_exptl_crystal_density_diffrn 3.6
+_publ_section_title 'An electron diffraction study of Cu Cl2 (Cu (O H)2)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1958 3 444 451 KRISAJ
+loop_
+_publ_author_name
+'Voronova, A.A.'
+'Vainshtein, B.K.'
+_cell_length_a 5.73
+_cell_length_b 6.12
+_cell_length_c 5.63
+_cell_angle_alpha 90.
+_cell_angle_beta 93.75
+_cell_angle_gamma 90.
+_cell_volume 197.01
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.22
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Cl1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 2 a 0 0 0 . 1. 0
+Cu2 Cu2+ 2 e 0.000(2) 0.25 0.500(2) . 1. 0
+Cl1 Cl1- 2 e 0.392(3) 0.25 0.210(3) . 1. 0
+O1 O2- 2 e 0.850(6) 0.25 0.883(6) . 1. 0
+O2 O2- 4 f 0.857(6) 0.000(6) 0.324(6) . 1. 0
+#End of TTdata_48018-ICSD

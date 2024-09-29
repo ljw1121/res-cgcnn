@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_52558-ICSD
+_database_code_ICSD 52558
+_audit_creation_date 2003-04-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Trisilver cesium selenide'
+_chemical_formula_structural 'Ag3 Cs Se2'
+_chemical_formula_sum 'Ag3 Cs1 Se2'
+_chemical_name_structure_type Ag3CsS2
+_exptl_crystal_density_diffrn 6.54
+_publ_section_title 'Ternaere Selenide des Silbers'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1978 60 5 13 JCOMAH
+loop_
+_publ_author_name
+'Bronger, W.'
+'Eyck, J.'
+'Schils, H.'
+_cell_length_a 16.742(9)
+_cell_length_b 4.441(7)
+_cell_length_c 9.097(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 112.61(5)
+_cell_angle_gamma 90.
+_cell_volume 624.39
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.069
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ag1+ 1
+Cs1+ 1
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ag1 Ag1+ 4 i 0.5903(2) 0 0.6385(4) . 1. 0
+Ag2 Ag1+ 4 i 0.6891(2) 0 0.4415(5) . 1. 0
+Ag3 Ag1+ 4 i 0.0566(2) 0 0.3995(4) . 1. 0
+Cs1 Cs1+ 4 i 0.1369(2) 0 0.0458(3) . 1. 0
+Se1 Se2- 4 i 0.1945(2) 0 0.6848(5) . 1. 0
+Se2 Se2- 4 i 0.5220(2) 0 0.2296(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ag1 Ag1+ 0.0246(15) 0.0239(16) 0.0345(18) 0 0.0175(14) 0
+Ag2 Ag1+ 0.0220(16) 0.0563(24) 0.0409(22) 0 0.0169(15) 0
+Ag3 Ag1+ 0.0403(18) 0.0151(14) 0.0259(17) 0 0.0118(14) 0
+Cs1 Cs1+ 0.0175(11) 0.0173(12) 0.0223(12) 0 0.0049(9) 0
+Se1 Se2- 0.0117(15) 0.0153(18) 0.0239(19) 0 0.0066(14) 0
+Se2 Se2- 0.0149(15) 0.0133(16) 0.0236(19) 0 0.0079(14) 0
+#End of TTdata_52558-ICSD

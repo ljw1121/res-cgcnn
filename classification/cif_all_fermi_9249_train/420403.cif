@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_420403-ICSD
+_database_code_ICSD 420403
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Iron(II) diborate - beta'
+_chemical_formula_structural 'Fe B2 O4'
+_chemical_formula_sum 'B2 Fe1 O4'
+_chemical_name_structure_type Ni2BO4
+_exptl_crystal_density_diffrn 4.18
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis and crystal structure of the high - pressure iron borate beta - Fe
+B2 O4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 2009 64 883 890
+ZNBSEN
+loop_
+_publ_author_name
+'Neumair, S.C.'
+'Glaum, R.'
+'Huppertz, H.'
+_cell_length_a 9.4995(19)
+_cell_length_b 5.6285(11)
+_cell_length_c 4.4366(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.50(3)
+_cell_angle_gamma 90.
+_cell_volume 224.96
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0276
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 4 e 0.5 0.84233(10) 0.25 0.0096(3) 1 0
+O1 O2- 8 f 0.6464(2) 0.8480(4) -0.0226(5) 0.0083(4) 1 0
+O2 O2- 8 f 0.3600(2) 0.5857(4) -0.0353(5) 0.0085(4) 1 0
+B1 B3+ 8 f 0.3126(3) 0.6079(6) -0.3770(8) 0.0092(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe2+ 0.0094(3) 0.0106(4) 0.0094(4) 0. 0.0040(2) 0.
+O1 O2- 0.0082(9) 0.0090(9) 0.0081(10) -0.0007(7) 0.0033(7) -0.0007(6)
+O2 O2- 0.0091(9) 0.0093(9) 0.0069(10) -0.0009(7) 0.0022(7) -0.0006(7)
+B1 B3+ 0.0083(13) 0.0110(14) 0.0081(15) -0.0004(11) 0.0025(11) 0.0004(10)
+#End of TTdata_420403-ICSD

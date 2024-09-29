@@ -1,0 +1,57 @@
+
+data_98232-ICSD
+_database_code_ICSD 98232
+_audit_creation_date 2004-10-01
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Lanthanum zinc germanium (2/6/3)'
+_chemical_formula_structural 'La2 Zn6 Ge3'
+_chemical_formula_sum 'Ge3 La2 Zn6'
+_chemical_name_structure_type La2Zn6Ge3
+_exptl_crystal_density_diffrn 6.9
+_cell_length_a 7.7088(2)
+_cell_length_b 7.7088(2)
+_cell_length_c 4.1496(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 213.56
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -6 2 m'
+_symmetry_Int_Tables_number 189
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z'
+5 'x-y, -y, z'
+6 'y, x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+Zn0+ 0
+Ge0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 2 c 0.3333 0.6667 0 0.38(2) 1. 0
+Zn1 Zn0+ 3 f 0.1880(2) 0 0 0.67(4) 1. 0
+Zn2 Zn0+ 3 g 0.7089(2) 0 0.5 0.71(4) 1. 0
+Ge1 Ge0+ 3 g 0.3775(2) 0 0.5 0.57(4) 1. 0

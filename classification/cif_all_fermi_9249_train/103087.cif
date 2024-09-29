@@ -1,0 +1,71 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_103087-ICSD
+_database_code_ICSD 103087
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Copper palladium (4/1)'
+_chemical_formula_structural 'Cu4 Pd'
+_chemical_formula_sum 'Cu4 Pd1'
+_exptl_crystal_density_diffrn 9.63
+_publ_section_title 'Ordering reaction of the Cu4 Pd alloys'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Transactions of the American Institute of Mining, Metallurgical and Petroleum
+Engineers
+; 1954 200 1076 1082 TAIMAF
+loop_
+_publ_author_name
+'Geisler, A.H.'
+'Newkirk, J.B.'
+_cell_length_a 5.826
+_cell_length_b 5.826
+_cell_length_c 7.328
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 248.73
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 42/m'
+_symmetry_Int_Tables_number 84
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z+1/2'
+2 'y, -x, -z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'y, -x, z+1/2'
+6 '-y, x, z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu0+ 0
+Pd0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu0+ 2 a 0 0 0 . 1. 0
+Cu2 Cu0+ 2 f 0.5 0.5 0.25 . 1. 0
+Cu3 Cu0+ 4 j 0.2 0.6 0 . 1. 0
+Cu4 Cu0+ 8 k 0.1 0.3 0.25 . 1. 0
+Pd5 Pd0+ 4 j 0.4 0.2 0 . 1. 0
+#End of TTdata_103087-ICSD

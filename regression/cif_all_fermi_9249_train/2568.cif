@@ -1,0 +1,95 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_2568-ICSD
+_database_code_ICSD 2568
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Potassium octathiopentachromate(III)'
+_chemical_formula_structural 'K (Cr5 S8)'
+_chemical_formula_sum 'Cr5 K1 S8'
+_chemical_name_structure_type Cr5CsS8
+_exptl_crystal_density_diffrn 3.62
+_publ_section_title
+
+;
+Darstellung und Kristallstruktur der Alkalithiochromate(III), A Cr5 S8  (A=
+Cs, Rb und K)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1978
+447 89 96 ZAACAB
+loop_
+_publ_author_name
+'Huster, J.'
+_cell_length_a 17.798(4)
+_cell_length_b 3.447(1)
+_cell_length_c 8.598(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.00(2)
+_cell_angle_gamma 90.
+_cell_volume 509.51
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Cr3+ 3
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 2 d 0 0.5 0.5 . 1. 0
+Cr1 Cr3+ 2 a 0 0 0 . 1. 0
+Cr2 Cr3+ 4 i 0.3428(1) 0 0.0217(2) . 1. 0
+Cr3 Cr3+ 4 i 0.2945(1) 0 0.6628(2) . 1. 0
+S1 S2- 4 i 0.5754(2) 0 0.1563(3) . 1. 0
+S2 S2- 4 i 0.0849(2) 0 0.8231(3) . 1. 0
+S3 S2- 4 i 0.1685(2) 0 0.4900(3) . 1. 0
+S4 S2- 4 i 0.2390(2) 0 0.1570(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.043(3) 0.030(3) 0.039(3) 0 0.005(2) 0
+Cr1 Cr3+ 0.006(1) 0.006(1) 0.011(1) 0 0.002(1) 0
+Cr2 Cr3+ 0.005(1) 0.006(1) 0.014(1) 0 0.004 0
+Cr3 Cr3+ 0.006(1) 0.007(1) 0.011(7) 0 0.003 0
+S1 S2- 0.006(1) 0.006(1) 0.011(1) 0 0.001(1) 0
+S2 S2- 0.007(1) 0.010(1) 0.010(1) 0 0.002(1) 0
+S3 S2- 0.008(1) 0.008(1) 0.010(1) 0 0.003(1) 0
+S4 S2- 0.008(1) 0.006(1) 0.011(1) 0 0.003(1) 0
+#End of TTdata_2568-ICSD

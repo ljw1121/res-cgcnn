@@ -1,0 +1,96 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_240343-ICSD
+_database_code_ICSD 240343
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Strontium nickel digermanide'
+_chemical_formula_structural 'Sr Ni Ge2'
+_chemical_formula_sum 'Ge2 Ni1 Sr1'
+_chemical_name_structure_type BaCuSn2
+_exptl_crystal_density_diffrn 5.98
+_publ_section_title
+
+;
+Localized and Delocalized Chemical Bonding in the Compounds CaNiGe2, SrNiGe2,
+and SrNiSn2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2006 45 7408 7416 INOCAJ
+loop_
+_publ_author_name
+'Hlukhyy, V.'
+'Eck, S.'
+'Faessler, T.F.'
+_cell_length_a 4.4285(14)
+_cell_length_b 17.420(4)
+_cell_length_c 4.1996(15)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 323.98
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0409
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge0+ 0
+Ni0+ 0
+Ge0+ 0
+Sr0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ge1 Ge0+ 4 c 0. 0.45782(8) 0.25 0.0203(5) 1 0
+Ni1 Ni0+ 4 c 0. 0.31993(10) 0.25 0.0168(5) 1 0
+Ge2 Ge0+ 4 c 0. 0.75045(8) 0.25 0.0206(5) 1 0
+Sr1 Sr0+ 4 c 0. 0.10761(7) 0.25 0.0172(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ge1 Ge0+ 0.0240(8) 0.0209(8) 0.0161(7) 0. 0. 0.
+Ni1 Ni0+ 0.0206(9) 0.0160(8) 0.0139(8) 0. 0. 0.
+Ge2 Ge0+ 0.0267(8) 0.0180(8) 0.0170(7) 0. 0. 0.
+Sr1 Sr0+ 0.0190(7) 0.0163(7) 0.0161(7) 0. 0. 0.
+#End of TTdata_240343-ICSD

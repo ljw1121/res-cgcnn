@@ -1,0 +1,75 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_601866-ICSD
+_database_code_ICSD 601866
+_audit_creation_date 2013-02-01
+_chemical_name_systematic 'Yttrium cobalt germanide (1/1/1)'
+_chemical_formula_structural 'Y Co Ge'
+_chemical_formula_sum 'Co1 Ge1 Y1'
+_chemical_name_structure_type TiNiSi-MgSrSi
+_exptl_crystal_density_diffrn 6.89
+_publ_section_title
+
+;
+Crystal structure and Mossbauer effect study of equiatomic
+(Sc,Y,Ln)-Co-(Si,Ge,Sn) ternary compounds (Ln Gd - Tm, Lu)
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1986 119 319 326 JCOMAH
+loop_
+_publ_author_name
+'Dwight, A.E.'
+'Vaishnava, P.P.'
+'Kimball, C.W.'
+'Matykiewicz, J.L.'
+_cell_length_a 6.898(3)
+_cell_length_b 4.208(2)
+_cell_length_c 7.326(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 212.65
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co0+ 0
+Y0+ 0
+Ge0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co0+ 4 c 0.79 0.25 0.605 . 1. 0
+Y1 Y0+ 4 c 0.998 0.25 0.201 . 1. 0
+Ge1 Ge0+ 4 c 0.205 0.25 0.575 . 1. 0
+#End of TTdata_601866-ICSD

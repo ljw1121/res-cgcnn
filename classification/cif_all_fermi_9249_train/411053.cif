@@ -1,0 +1,97 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_411053-ICSD
+_database_code_ICSD 411053
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Trichlorosulfur nonachlorodirhenate(IV)'
+_chemical_formula_structural '(S Cl3) (Re2 Cl9)'
+_chemical_formula_sum 'Cl12 Re2 S1'
+_exptl_crystal_density_diffrn 3.62
+_cell_measurement_temperature 193.
+_publ_section_title
+
+;
+Die Kristallstruktur von S Cl3 (Re2 Cl9) und ihre Verwandtschaft zum Ru
+Br3-Typ
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2000
+626 830 832 ZAACAB
+loop_
+_publ_author_name
+'Rabe, S.'
+'Mueller, U.'
+_cell_length_a 8.341(4)
+_cell_length_b 10.533(5)
+_cell_length_c 8.661(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.90(4)
+_cell_angle_gamma 90.
+_cell_volume 760.5
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.083
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re4+ 4
+Cl1- -1
+S4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re4+ 2 e 0.63625(16) 0.25 0.38981(15) . 1. 0
+Re2 Re4+ 2 e 0.86063(17) 0.25 0.62523(15) . 1. 0
+Cl1 Cl1- 4 f 0.6147(7) 0.0942(6) 0.2051(7) . 1. 0
+Cl2 Cl1- 2 e 0.3652(11) 0.25 0.4254(11) . 1. 0
+Cl3 Cl1- 4 f 0.6637(8) 0.0864(6) 0.5844(7) . 1. 0
+Cl4 Cl1- 2 e 0.8041(12) 0.25 0.8876(10) . 1. 0
+Cl5 Cl1- 4 f 1.0488(7) 0.0934(6) 0.6686(7) . 1. 0
+Cl6 Cl1- 2 e 0.9259(10) 0.25 0.3586(9) . 1. 0
+Cl7 Cl1- 4 f 0.1735(8) 0.1024(6) 0.0837(7) . 1. 0
+Cl8 Cl1- 2 e 0.4060(12) 0.25 0.8771(13) . 1. 0
+S1 S4+ 2 e 0.1827(11) 0.25 0.9410(11) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re4+ 0.0153(8) 0.0135(7) 0.0168(7) 0 0.0013(5) 0
+Re2 Re4+ 0.0167(8) 0.0142(7) 0.0155(7) 0 0.0035(5) 0
+Cl1 Cl1- 0.028(3) 0.020(3) 0.023(3) -.004(3) 0.004(2) -.005(2)
+Cl2 Cl1- 0.025(5) 0.021(4) 0.039(5) 0 0.014(4) 0
+Cl3 Cl1- 0.035(4) 0.020(3) 0.026(3) -.007(3) 0.002(3) 0.005(3)
+Cl4 Cl1- 0.030(5) 0.035(5) 0.021(4) 0 0.009(4) 0
+Cl5 Cl1- 0.025(3) 0.021(3) 0.025(3) 0.005(3) 0.000(2) 0.002(2)
+Cl6 Cl1- 0.016(4) 0.028(5) 0.019(4) 0 0.004(3) 0
+Cl7 Cl1- 0.037(4) 0.027(3) 0.026(3) -.008(3) -.005(3) 0.003(3)
+Cl8 Cl1- 0.024(5) 0.039(6) 0.048(6) 0 0.009(4) 0
+S1 S4+ 0.021(5) 0.028(5) 0.024(4) 0 -.002(4) 0
+#End of TTdata_411053-ICSD

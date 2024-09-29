@@ -1,0 +1,96 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_249647-ICSD
+_database_code_ICSD 249647
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Yttrium chloride molybdate(VI)'
+_chemical_formula_structural 'Y Cl (Mo O4)'
+_chemical_formula_sum 'Cl1 Mo1 O4 Y1'
+_chemical_name_structure_type GdWO4Cl
+_exptl_crystal_density_diffrn 3.95
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Y F [Mo O4] and Y Cl [Mo O4]: Two halide derivatives of yttrium
+ortho-oxomolybdate: Syntheses, structures, and luminescence properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2008 47 3728 3735 INOCAJ
+loop_
+_publ_author_name
+'Schleid, T.'
+'Strobel, S.'
+'Dorhout, P.K.'
+'Nockemann, P.'
+'Binnemans, K.'
+'Hartenbach, I.'
+_cell_length_a 10.1902(5)
+_cell_length_b 7.2067(3)
+_cell_length_c 6.8150(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.130(4)
+_cell_angle_gamma 90.
+_cell_volume 478.28
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0186
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Cl1- -1
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 i 0.22105(3) 0. 0.11038(5) 0.00675(13) 1 0
+Cl1 Cl1- 4 i 0.00979(9) 0. 0.76222(14) 0.0169(2) 1 0
+Mo1 Mo6+ 4 i 0.36315(3) 0. 0.73080(4) 0.00627(12) 1 0
+O1 O2- 4 i 0.2958(3) 0. 0.4662(4) 0.0187(7) 1 0
+O2 O2- 4 i 0.4583(3) 0. 0.2030(4) 0.0149(6) 1 0
+O3 O2- 8 j 0.19868(19) 0.3109(3) 0.1532(3) 0.0126(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.0061(2) 0.0077(2) 0.00684(18) 0. 0.00258(13) 0.
+Cl1 Cl1- 0.0077(4) 0.0338(6) 0.0091(4) 0. 0.0026(3) 0.
+Mo1 Mo6+ 0.00547(19) 0.00907(19) 0.00488(17) 0. 0.00244(12) 0.
+O1 O2- 0.0175(16) 0.0323(18) 0.0068(12) 0. 0.0043(11) 0.
+O2 O2- 0.0081(13) 0.0223(16) 0.0144(14) 0. 0.0036(10) 0.
+O3 O2- 0.0139(10) 0.0099(9) 0.0148(9) -0.0001(7) 0.0053(8) -0.0007(7)
+#End of TTdata_249647-ICSD

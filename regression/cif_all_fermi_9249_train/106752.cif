@@ -1,0 +1,82 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_106752-ICSD
+_database_code_ICSD 106752
+_audit_creation_date 2005-04-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Gallium tin vanadium (1/2/2)'
+_chemical_formula_structural 'Ga Sn2 V2'
+_chemical_formula_sum 'Ga1 Sn2 V2'
+_chemical_name_structure_type GaSn2V2
+_exptl_crystal_density_diffrn 7.68
+_cell_measurement_temperature 298.
+_publ_section_title 'Structure of V2 Sn2 Ga'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1990 46 1195 1197 ACSCEE
+loop_
+_publ_author_name
+'Ye, J.'
+'Horiuchi, H.'
+'Shishido, T.'
+'Fukuda, T.'
+_cell_length_a 5.603(1)
+_cell_length_b 18.798(2)
+_cell_length_c 6.7191(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 707.69
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C m c a'
+_symmetry_Int_Tables_number 64
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y+1/2, z+1/2'
+2 '-x, y+1/2, -z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, y+1/2, -z+1/2'
+6 'x, -y+1/2, z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y, z+1/2'
+10 '-x+1/2, y, -z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, y, -z+1/2'
+14 'x+1/2, -y, z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga0+ 0
+Sn0+ 0
+V0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga0+ 8 e 0.25 0.01814(5) 0.25 0.82 1. 0
+Sn1 Sn0+ 8 f 0 0.11137(3) 0.57528(9) 0.74 1. 0
+Sn2 Sn0+ 8 f 0 0.72207(3) 0.57952(9) 0.71 1. 0
+V1 V0+ 8 e 0.25 0.15949(8) 0.25 0.64 1. 0
+V2 V0+ 8 f 0 0.57569(8) 0.5316(2) 0.69 1. 0
+#End of TTdata_106752-ICSD

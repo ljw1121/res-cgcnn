@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_41107-ICSD
+_database_code_ICSD 41107
+_audit_creation_date 1999-11-30
+_audit_update_record 2002-04-01
+_chemical_name_systematic 'Arsenic germanium telluride (4/1/7)'
+_chemical_formula_structural 'As4 Ge Te7'
+_chemical_formula_sum 'As4 Ge1 Te7'
+_chemical_name_structure_type AgBiSe2
+_exptl_crystal_density_diffrn 6.29
+_publ_section_title
+
+;
+Systeme As - Ge -Te. III. Etude cristallographique d'une famille de composes a
+modeles structuraux communs:beta-As2 Te3, As4 Ge Te7 et As2 Gen Te(3+n) (n = 1
+a 5)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1988 74 277 286 JSSCBI
+loop_
+_publ_author_name
+'Shu, H.W.'
+'Jaulmes, S.'
+'Flahaut, J.'
+_cell_length_a 4.069(2)
+_cell_length_b 4.069(2)
+_cell_length_c 23.31
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 334.23
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te2- -2
+As3+ 3
+Te2- -2
+As3+ 3
+Te2- -2
+Ge2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te2- 1 a 0 0 0 . 1. 0
+As1 As3+ 2 d 0.6667 0.3333 0.0892 . 1. 0
+Te2 Te2- 2 d 0.3333 0.6667 0.1506 . 1. 0
+Te3 Te2- 2 c 0 0 0.2729 . 1. 0
+As2 As3+ 2 d 0.6667 0.3333 0.3346 . 1. 0
+Te4 Te2- 2 d 0.3333 0.6667 0.4259 . 1. 0
+Ge1 Ge2+ 1 b 0 0 0.5 . 1. 0
+#End of TTdata_41107-ICSD

@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_237304-ICSD
+_database_code_ICSD 237304
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Barium nickel germanide (1/1/1)'
+_chemical_formula_structural 'Ba Ni Ge'
+_chemical_formula_sum 'Ba1 Ge1 Ni1'
+_chemical_name_structure_type (Bi7Pb)Pt4
+_exptl_crystal_density_diffrn 5.94
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+From one to three dimensions: Corrugated.infin.1[Ni Ge] ribbons as a building
+block in alkaline earth metal Ae/Ni/Ge phases with crystal structure and
+chemical bonding in Ae Ni Ge (Ae = Mg, Sr, Ba)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2013 52 6905 6915 INOCAJ
+loop_
+_publ_author_name
+'Hlukhyy, Viktor'
+'Siggelkow, Lisa'
+'Faessler, Thomas F.'
+_cell_length_a 5.969(4)
+_cell_length_b 4.1950(10)
+_cell_length_c 11.993(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 300.3
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0218
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba0+ 0
+Ni0+ 0
+Ge0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba0+ 4 c 0.11787(7) 0.25 0.35200(3) 0.02128(18) 1 0
+Ni1 Ni0+ 4 c 0.09597(15) 0.25 0.04111(7) 0.0186(2) 1 0
+Ge1 Ge0+ 4 c 0.36901(12) 0.25 0.62128(6) 0.0196(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba0+ 0.0229(3) 0.0216(3) 0.0194(2) 0. -0.00033(14) 0.
+Ni1 Ni0+ 0.0240(4) 0.0124(4) 0.0194(4) 0. -0.0020(3) 0.
+Ge1 Ge0+ 0.0272(4) 0.0131(4) 0.0184(3) 0. 0.0031(2) 0.
+#End of TTdata_237304-ICSD

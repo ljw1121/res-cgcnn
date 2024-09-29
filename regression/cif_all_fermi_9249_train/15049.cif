@@ -1,0 +1,88 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_15049-ICSD
+_database_code_ICSD 15049
+_audit_creation_date 1980-01-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Vanadium arsenide (4/3) - beta'
+_chemical_formula_structural 'V4 As3'
+_chemical_formula_sum 'As3 V4'
+_chemical_name_structure_type V4As3
+_exptl_crystal_density_diffrn 6.74
+_publ_section_title 'The structure of a high-temperature polymorph of V4 As3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica, Series A: (28,1974-)' 1974 28 771 778 ACAPCT
+loop_
+_publ_author_name
+'Berger, R.'
+_cell_length_a 13.7251(5)
+_cell_length_b 3.3928(2)
+_cell_length_c 9.2297(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.521(3)
+_cell_angle_gamma 90.
+_cell_volume 422.57
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.017
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V2+ 2.25
+As3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V2+ 2 a 0 0 0 . 1. 0
+V2 V2+ 4 i 0.65796(4) 0 0.44440(5) . 1. 0
+V3 V2+ 4 i 0.22512(4) 0 0.17747(6) . 1. 0
+V4 V2+ 4 i 0.43820(4) 0 0.27309(5) . 1. 0
+V5 V2+ 2 c 0 0 0.5 . 1. 0
+As1 As3- 4 i 0.06945(2) 0 0.26623(3) . 1. 0
+As2 As3- 4 i 0.35916(2) 0 0.01043(3) . 1. 0
+As3 As3- 4 i 0.82122(2) 0 0.34827(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+V1 V2+ 0.00073(3) 0.01335(49) 0.00115(6) 0 0.000045(15) 0
+V2 V2+ 0.00068(2) 0.01220(35) 0.00139(4) 0 0.00009(1) 0
+V3 V2+ 0.00059(2) 0.01633(38) 0.00279(5) 0 0.00011(2) 0
+V4 V2+ 0.00055(2) 0.01108(33) 0.00155(4) 0 0.00010(1) 0
+V5 V2+ 0.00045(2) 0.01587(50) 0.00084(5) 0 0.00005(2) 0
+As1 As3- 0.00065(1) 0.01084(21) 0.00106(3) 0 0.00009(1) 0
+As2 As3- 0.00092(1) 0.01092(21) 0.00130(3) 0 0.00014(1) 0
+As3 As3- 0.00062(1) 0.00951(21) 0.00148(3) 0 0.00009(1) 0
+#End of TTdata_15049-ICSD

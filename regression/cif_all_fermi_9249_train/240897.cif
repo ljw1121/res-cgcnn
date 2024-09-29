@@ -1,0 +1,88 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_240897-ICSD
+_database_code_ICSD 240897
+_audit_creation_date 2008-08-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Distrontium magnesium diborate'
+_chemical_formula_structural 'Sr2 Mg (B O3)2'
+_chemical_formula_sum 'B2 Mg1 O6 Sr2'
+_chemical_name_structure_type La2Ni5B4
+_exptl_crystal_density_diffrn 4.22
+_cell_measurement_temperature 113.
+_publ_section_title 'Strontium magnesium borate, Sr2 Mg (B O3)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E. Structure Reports Online' 2007 63
+i175 i175 ACSEBH
+loop_
+_publ_author_name
+'Chen Guo Jun'
+'Wu Yi cheng'
+'Fu Pei Zhen'
+_cell_length_a 9.046(4)
+_cell_length_b 5.1579(18)
+_cell_length_c 6.103(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 118.691(12)
+_cell_angle_gamma 90.
+_cell_volume 249.79
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.065
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Mg2+ 2
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 4 i 0.2895(2) 0. 0.8170(3) 0.0101(9) 1 0
+Mg1 Mg2+ 2 d 0.5 0. 0.5 0.0100(19) 1 0
+O1 O2- 8 j -0.0227(11) -0.2346(16) 0.2319(14) 0.013(2) 1 0
+O2 O2- 4 i 0.2305(15) 0. 0.334(2) 0.014(3) 1 0
+B1 B3+ 4 i 0.065(3) 0. 0.262(4) 0.015(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr2+ 0.0114(11) 0.0111(13) 0.0122(11) 0. 0.0092(8) 0.
+Mg1 Mg2+ 0.008(5) 0.013(5) 0.014(4) 0. 0.009(4) 0.
+O1 O2- 0.017(5) 0.016(5) 0.016(4) 0.004(4) 0.015(4) 0.001(4)
+O2 O2- 0.012(7) 0.009(8) 0.025(7) 0. 0.012(6) 0.
+B1 B3+ 0.015(13) 0.018(14) 0.014(11) 0. 0.009(10) 0.
+#End of TTdata_240897-ICSD

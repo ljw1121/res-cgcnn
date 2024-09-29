@@ -1,0 +1,101 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_409631-ICSD
+_database_code_ICSD 409631
+_audit_creation_date 2003-10-01
+_chemical_name_systematic 'Lanthanum indium bromide (5/3/1)'
+_chemical_formula_structural 'La5 In3 Br'
+_chemical_formula_sum 'Br1 In3 La5'
+_chemical_name_structure_type Ga4Ti5
+_exptl_crystal_density_diffrn 6.51
+_publ_section_title
+'Crystal structure of pentalanthanum bromotriindate, La5 In3 Br'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 2002 217
+321 322 ZKNSFT
+loop_
+_publ_author_name
+'Zheng, C.'
+'Li, S.'
+'Mattausch, H.J.'
+'Simon, A.'
+_cell_length_a 9.828(2)
+_cell_length_b 9.828(2)
+_cell_length_c 6.829(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 571.24
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m c m'
+_symmetry_Int_Tables_number 193
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z+1/2'
+2 'x-y, -y, -z+1/2'
+3 'y, x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 'x, x-y, z+1/2'
+8 '-x+y, y, z+1/2'
+9 '-y, -x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 'x, x-y, -z'
+14 '-x+y, y, -z'
+15 '-y, -x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 '-x, -x+y, z'
+20 'x-y, -y, z'
+21 'y, x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+In0+ 0
+Br0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 6 g 0.26636(14) 0 0.25 0.0336(6) 1. 0
+La2 La0+ 4 d 0.3333 0.6667 0 0.0386(6) 1. 0
+In1 In0+ 6 g 0.39269(19) 0.39269(19) 0.25 0.0503(8) 1. 0
+Br1 Br0+ 2 b 0 0 0 0.0343(11) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La0+ 0.0174(6) 0.0155(8) 0.0673(12) 0.0077(4) 0 0
+La2 La0+ 0.0490(8) 0.0490(8) 0.0177(9) 0.0245(4) 0 0
+In1 In0+ 0.0180(7) 0.0180(7) 0.116(2) 0.0096(7) 0 0
+Br1 Br0+ 0.0185(11) 0.0185(11) 0.066(3) 0.0092(6) 0 0
+#End of TTdata_409631-ICSD

@@ -1,0 +1,69 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_26022-ICSD
+_database_code_ICSD 26022
+_audit_creation_date 1986-10-16
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Rubidium tetrabromoaurate'
+_chemical_formula_structural 'Rb (Au Br4)'
+_chemical_formula_sum 'Au1 Br4 Rb1'
+_exptl_crystal_density_diffrn 4.92
+_publ_section_title
+'Kristallchemischer Vergleich der Strukturen von Rb Au Cl4 und Rb Au Br4.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,
+Kristallchemie (-144,1977)
+; 1971 134 471 472 ZEKGAX
+loop_
+_publ_author_name
+'Straehle, J.'
+'Baernighausen, H.'
+_cell_length_a 10.299
+_cell_length_b 6.214
+_cell_length_c 7.436
+_cell_angle_alpha 90.
+_cell_angle_beta 121.33
+_cell_angle_gamma 90.
+_cell_volume 406.5
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au3+ 3
+Rb1+ 1
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au3+ 2 a 0 0 0 2.38 1. 0
+Rb1 Rb1+ 2 b 0 0.5 0.5 4.1 1. 0
+Br1 Br1- 4 e 0.1183(2) -.0165(4) 0.3783(2) 3.58 1. 0
+Br2 Br1- 4 e 0.1691(2) 0.2949(3) 0.0419(3) 4.11 1. 0
+#End of TTdata_26022-ICSD

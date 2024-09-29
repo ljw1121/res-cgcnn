@@ -1,0 +1,74 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_56463-ICSD
+_database_code_ICSD 56463
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Dicopper(I) zirconium telluride'
+_chemical_formula_structural 'Cu2 Zr Te3'
+_chemical_formula_sum 'Cu2 Te3 Zr1'
+_chemical_name_structure_type Cu2TiTe3
+_exptl_crystal_density_diffrn 6.71
+_publ_section_title
+
+;
+Ternary chalcogenides of IVa metals and copper. The crystal structures of Cu2
+Zr Te3 and Cu2 Hf Te3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Crystallographic Meeting' 1994 15 624 624 ECME1M
+loop_
+_publ_author_name
+'Klepp, K.O.'
+'Mayr, D.'
+_cell_length_a 20.310(7)
+_cell_length_b 4.070(1)
+_cell_length_c 7.255(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 97.24(1)
+_cell_angle_gamma 90.
+_cell_volume 594.93
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu1+ 1
+Zr4+ 4
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu1+ 4 i 0.45269(5) 0 0.8470(2) 1.11(2) 1. 0
+Cu2 Cu1+ 4 i 0.21192(5) 0 0.4289(2) 1.21(2) 1. 0
+Zr1 Zr4+ 4 i 0.14633(4) 0 0.0538(1) 0.75(1) 1. 0
+Te1 Te2- 4 i 0.41768(3) 0 0.17960(7) 0.81(1) 1. 0
+Te2 Te2- 4 i 0.74853(3) 0 0.21715(7) 0.68(1) 1. 0
+Te3 Te2- 4 i 0.08237(3) 0 0.36671(7) 0.84(1) 1. 0
+#End of TTdata_56463-ICSD

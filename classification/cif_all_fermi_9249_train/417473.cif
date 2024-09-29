@@ -1,0 +1,115 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_417473-ICSD
+_database_code_ICSD 417473
+_audit_creation_date 2008-08-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Yttrium osmium boride (3/6/8)'
+_chemical_formula_structural 'Y3 Os8 B6'
+_chemical_formula_sum 'B6 Os8 Y3'
+_chemical_name_structure_type La3Ru8B6
+_exptl_crystal_density_diffrn 13.34
+_cell_measurement_temperature 293.
+_publ_section_title
+'La3 Ru8 B6 and Y3 Os8 B6, new members of a homologous series R (A)n M3n-1 B2n'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2007 180 2740 2746 JSSCBI
+loop_
+_publ_author_name
+'Sologub, O.L.'
+'Salamakha, L.P.'
+'Noel, H.'
+'Roisnel, T.'
+'Goncalves, A.P.'
+_cell_length_a 5.4792(2)
+_cell_length_b 9.5139(4)
+_cell_length_c 17.6972(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 922.53
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'F m m m'
+_symmetry_Int_Tables_number 69
+_refine_ls_R_factor_all 0.0377
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 'x, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x, -y, z'
+6 '-x, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x, y+1/2, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x, y+1/2, z+1/2'
+12 '-x, -y+1/2, -z+1/2'
+13 '-x, -y+1/2, z+1/2'
+14 '-x, y+1/2, -z+1/2'
+15 'x, -y+1/2, -z+1/2'
+16 'x, y+1/2, z+1/2'
+17 'x+1/2, y, -z+1/2'
+18 'x+1/2, -y, z+1/2'
+19 '-x+1/2, y, z+1/2'
+20 '-x+1/2, -y, -z+1/2'
+21 '-x+1/2, -y, z+1/2'
+22 '-x+1/2, y, -z+1/2'
+23 'x+1/2, -y, -z+1/2'
+24 'x+1/2, y, z+1/2'
+25 'x+1/2, y+1/2, -z'
+26 'x+1/2, -y+1/2, z'
+27 '-x+1/2, y+1/2, z'
+28 '-x+1/2, -y+1/2, -z'
+29 '-x+1/2, -y+1/2, z'
+30 '-x+1/2, y+1/2, -z'
+31 'x+1/2, -y+1/2, -z'
+32 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Os0+ 0
+Y0+ 0
+B0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Os1 Os0+ 16 j 0.25 0.25 0.08994(5) 0.0029(4) 1 0
+Os2 Os0+ 8 i 0 0 0.41955(7) 0.0027(4) 1 0
+Os3 Os0+ 8 f 0.25 0.25 0.25 0.0022(4) 1 0
+Y1 Y0+ 8 i 0 0 0.17917(18) 0.0053(6) 1 0
+Y2 Y0+ 4 a 0 0 0 0.0065(8) 1 0
+B1 B0+ 16 m 0 0.148(2) 0.3225(14) 0.004(4) 1 0
+B2 B0+ 8 h 0 0.320(3) 0 0.001(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Os1 Os0+ 0.0034(5) 0.0053(6) 0.0010(5) 0.0011(3) 0 0
+Os2 Os0+ 0.0061(6) 0.0019(6) 0.0010(6) 0 0 0
+Os3 Os0+ 0.0025(6) 0.0040(7) 0.0010(7) 0 0 0
+Y1 Y0+ 0.0089(14) 0.0070(13) 0.0010(13) 0 0 0
+Y2 Y0+ 0.0106(19) 0.0090(18) 0.0010(19) 0 0 0
+#End of TTdata_417473-ICSD

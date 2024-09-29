@@ -1,0 +1,79 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35282-ICSD
+_database_code_ICSD 35282
+_audit_creation_date 1982-12-31
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Copper phosphide (1/2)'
+_chemical_formula_structural 'Cu P2'
+_chemical_formula_sum 'Cu1 P2'
+_chemical_name_structure_type CuP2
+_exptl_crystal_density_diffrn 4.31
+_publ_section_title
+
+;
+Darstellung,Eigenschaften und Kristallstruktur von Cu2 P7 und
+Strukturverfeinerungen von Cu P2 und Ag P2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1982
+491 225 236 ZAACAB
+loop_
+_publ_author_name
+'Moeller, M.H.'
+'Jeitschko, W.'
+_cell_length_a 5.8004(4)
+_cell_length_b 4.8063(3)
+_cell_length_c 7.5263(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 112.70(1)
+_cell_angle_gamma 90.
+_cell_volume 193.57
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.036
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu1+ 1
+P0+ -0.5
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu1+ 4 e 0.14344(5) 0.46071(7) 0.41602(4) . 1. 0
+P1 P0+ 4 e 0.24958(9) 0.7789(1) 0.69970(7) 0.32 1. 0
+P2 P0+ 4 e 0.40648(9) 0.1139(1) 0.58025(7) 0.29 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu1+ 0.0075(1) 0.0114(1) 0.0093(1) 0.0014(1) 0.0045(1) 0.0036(1)
+#End of TTdata_35282-ICSD

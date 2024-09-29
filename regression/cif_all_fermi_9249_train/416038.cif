@@ -1,0 +1,98 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_416038-ICSD
+_database_code_ICSD 416038
+_audit_creation_date 2006-10-01
+_audit_update_record 2008-08-01
+_chemical_name_systematic 'Trirubidium sodium bis(ruthenate(VI))'
+_chemical_formula_structural 'Rb3 Na (Ru O4)2'
+_chemical_formula_sum 'Na1 O8 Rb3 Ru2'
+_chemical_name_structure_type K3Na(SO4)2
+_exptl_crystal_density_diffrn 4.
+_publ_section_title
+
+;
+K3 Na (Ru O4)2 and Rb3 Na (Ru O4)2, two new ruthenates with glaserite
+structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2006 8 500 507 SSSCFJ
+loop_
+_publ_author_name
+'Mogare, K.M.'
+'Klein, W.'
+'Peters, E.M.'
+'Jansen, M.'
+_cell_length_a 6.0784(3)
+_cell_length_b 6.0784(3)
+_cell_length_c 7.8994(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 252.76
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.0239
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Na1+ 1
+Ru6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 1 a 0. 0. 0. 0.0294(3) 1 0
+Rb2 Rb1+ 2 d 0.6667 0.3333 0.34149(9) 0.0196(2) 1 0
+Na1 Na1+ 1 b 0. 0. 0.5 0.0172(8) 1 0
+Ru1 Ru6+ 2 d 0.6667 0.3333 0.78011(7) 0.0139(2) 1 0
+O1 O2- 2 d 0.6667 0.3333 0.9973(9) 0.050(2) 1 0
+O2 O2- 6 i 0.3548(6) 0.1774(3) 0.6933(5) 0.0272(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0339(4) 0.0339(4) 0.0203(6) 0.0170(2) 0. 0.
+Rb2 Rb1+ 0.0202(3) 0.0202(3) 0.0183(4) 0.01010(15) 0. 0.
+Na1 Na1+ 0.0143(12) 0.0143(12) 0.023(2) 0.0071(6) 0. 0.
+Ru1 Ru6+ 0.0138(2) 0.0138(2) 0.0139(3) 0.00692(12) 0. 0.
+O1 O2- 0.066(3) 0.066(3) 0.016(3) 0.0331(17) 0. 0.
+O2 O2- 0.0154(15) 0.0252(12) 0.0378(17) 0.0077(7) -0.0066(14) -0.0033(7)
+#End of TTdata_416038-ICSD

@@ -1,0 +1,80 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_150385-ICSD
+_database_code_ICSD 150385
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Distrontium stannate - HT'
+_chemical_formula_structural 'Sr2 (Sn O4)'
+_chemical_formula_sum 'O4 Sn1 Sr2'
+_chemical_name_structure_type La2CuO4
+_exptl_crystal_density_diffrn 5.73
+_cell_measurement_temperature 423.
+_publ_section_title
+'Neutron diffraction study of phase transitions in Sr2 Sn O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2004 177 4081 4086 JSSCBI
+loop_
+_publ_author_name
+'Fu, W.T.'
+'Visser, D.'
+'Knight, K.S.'
+'Ijdo, D.J.W.'
+_cell_length_a 5.72395(3)
+_cell_length_b 5.74073(4)
+_cell_length_c 12.62308(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 414.79
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'B m a b'
+_symmetry_Int_Tables_number 64
+_refine_ls_R_factor_all 0.0383
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 '-x, -y+1/2, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y+1/2, z+1/2'
+6 'x, y+1/2, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z'
+10 '-x+1/2, -y+1/2, z'
+11 '-x+1/2, y, z+1/2'
+12 '-x+1/2, -y, -z+1/2'
+13 'x+1/2, -y+1/2, z'
+14 'x+1/2, y+1/2, -z'
+15 'x+1/2, -y, -z+1/2'
+16 'x+1/2, y, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn4+ 4
+Sr2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn4+ 4 a 0 0 0 0.0126(4) 1. 0
+Sr1 Sr2+ 8 f 0 0.0064(3) 0.35268(5) 0.0163(3) 1. 0
+O1 O2- 8 e 0.25 0.25 0.0089(1) 0.0227(3) 1. 0
+O2 O2- 8 f 0 -0.0244(4) 0.16310(8) 0.0251(4) 1. 0
+#End of TTdata_150385-ICSD

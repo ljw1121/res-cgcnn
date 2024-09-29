@@ -1,0 +1,44 @@
+
+data_15057-ICSD
+_database_code_ICSD 15057
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Iron phosphide (1/1)'
+_chemical_formula_structural 'Fe P'
+_chemical_formula_sum 'Fe1 P1'
+_chemical_name_structure_type CoAs
+_exptl_crystal_density_diffrn 6.19
+_cell_length_a 5.193(1)
+_cell_length_b 5.792(1)
+_cell_length_c 3.099(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 93.21
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+P3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 a 0.0020(4) 0.2004(3) 0.25 0.07 1. 0
+P1 P3- 4 a 0.1912(7) 0.5684(6) 0.296(5) 0.04 1. 0

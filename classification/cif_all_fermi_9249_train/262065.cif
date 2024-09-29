@@ -1,0 +1,75 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_262065-ICSD
+_database_code_ICSD 262065
+_audit_creation_date 2012-02-01
+_chemical_name_systematic 'Sodium thallium'
+_chemical_formula_structural 'Na Tl'
+_chemical_formula_sum 'Na1 Tl1'
+_chemical_name_structure_type KTl
+_exptl_crystal_density_diffrn 7.31
+_publ_section_title 'Revisiting the Zintl-Klemm concept: alkali metal trielides'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2011 50 7625 7636 INOCAJ
+loop_
+_publ_author_name
+'Wang Fei'
+'Miller G.J.'
+_cell_length_a 12.5385
+_cell_length_b 13.1401
+_cell_length_c 7.5183
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1238.69
+_cell_formula_units_Z 24
+_symmetry_space_group_name_H-M 'C m c e'
+_symmetry_Int_Tables_number 64
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y+1/2, z+1/2'
+2 '-x, y+1/2, -z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, y+1/2, -z+1/2'
+6 'x, -y+1/2, z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y, z+1/2'
+10 '-x+1/2, y, -z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, y, -z+1/2'
+14 'x+1/2, -y, z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na0+ 0
+Tl0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na0+ 8 e 0.25 0.18217 0.25 . 1. 0
+Na2 Na0+ 8 d -0.15605 0 0 . 1. 0
+Na3 Na0+ 8 f 0 0.20685 -0.05971 . 1. 0
+Tl1 Tl0+ 16 g 0.14257 0.38264 0.12418 . 1. 0
+Tl2 Tl0+ 8 f 0 0.57367 0.2122 . 1. 0
+#End of TTdata_262065-ICSD

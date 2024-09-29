@@ -1,0 +1,90 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_412371-ICSD
+_database_code_ICSD 412371
+_audit_creation_date 2003-04-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Silver dibismuth triselenide chloride'
+_chemical_formula_structural 'Ag Bi2 Se3 Cl'
+_chemical_formula_sum 'Ag1 Bi2 Cl1 Se3'
+_chemical_name_structure_type AgBi2Se3Cl
+_exptl_crystal_density_diffrn 7.5
+_publ_section_title
+
+;
+Synthese und Kristallstrukturen der quaternaeren Chalkogenidchloride Ag Bi2 S3
+Cl und Ag Bi2 Se3 Cl
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2002
+628 1537 1540 ZAACAB
+loop_
+_publ_author_name
+'Ruck, M.'
+_cell_length_a 7.9738(8)
+_cell_length_b 4.1067(2)
+_cell_length_c 11.135(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.17(1)
+_cell_angle_gamma 90.
+_cell_volume 353.53
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.036
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Ag1+ 1
+Cl1- -1
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 2 e 0.18924(7) 0.25 0.93262(5) 0.02033(15) 1. 0
+Bi2 Bi3+ 2 e 0.53023(8) 0.25 0.34340(4) 0.02464(16) 1. 0
+Ag1 Ag1+ 2 e 0.04709(19) 0.25 0.41366(12) 0.0514(4) 1. 0
+Cl1 Cl1- 2 e 0.5955(4) 0.25 0.8998(3) 0.0217(7) 1. 0
+Se1 Se2- 2 e 0.20156(19) 0.25 0.66381(12) 0.0244(3) 1. 0
+Se2 Se2- 2 e 0.69322(17) 0.25 0.58700(11) 0.0164(3) 1. 0
+Se3 Se2- 2 e 0.04734(16) 0.25 0.1522(1) 0.0137(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0189(3) 0.0127(3) 0.0282(3) 0 0.0035(2) 0
+Bi2 Bi3+ 0.0319(4) 0.0240(3) 0.0168(3) 0 0.0036(2) 0
+Ag1 Ag1+ 0.0526(10) 0.0454(8) 0.0486(8) 0 -0.0024(7) 0
+Cl1 Cl1- 0.0179(18) 0.0248(16) 0.0230(16) 0 0.0059(13) 0
+Se1 Se2- 0.0274(9) 0.0227(7) 0.0237(7) 0 0.0073(6) 0
+Se2 Se2- 0.0182(7) 0.0147(6) 0.0156(6) 0 0.0028(5) 0
+Se3 Se2- 0.0163(7) 0.0114(6) 0.0137(6) 0 0.0041(5) 0
+#End of TTdata_412371-ICSD

@@ -1,0 +1,72 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_16726-ICSD
+_database_code_ICSD 16726
+_audit_creation_date 1986-09-26
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Vanadium oxide hydroxide (3/4/4)'
+_chemical_formula_structural 'V3 O4 (O H)4'
+_chemical_formula_sum 'H4 O8 V3'
+_chemical_name_mineral Doloresite
+_exptl_crystal_density_diffrn 3.44
+_publ_section_title
+'The crystal structures of three new vanadium oxide minerals'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica (1,1948-23,1967)' 1958 11 56 58 ACCRA9
+loop_
+_publ_author_name
+'Evans, H.T.jr.'
+'Mrose, M.E.'
+_cell_length_a 19.64(6)
+_cell_length_b 2.99(1)
+_cell_length_c 4.83(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 103.92(8)
+_cell_angle_gamma 90.
+_cell_volume 275.31
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.22
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 2 c 0 0 0.5 . 1. 0
+V2 V4+ 4 i 0.172 0 0.369 . 1. 0
+O1 O2- 4 i 0.014 0.5 0.738 . 1. 0
+O2 O2- 4 i 0.083 0 0.468 . 1. 0
+O3 O2- 4 i 0.171 0.5 0.064 . 1. 0
+O4 O2- 4 i 0.208 0.5 0.66 . 1. 0
+#End of TTdata_16726-ICSD

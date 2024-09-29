@@ -1,0 +1,86 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_56425-ICSD
+_database_code_ICSD 56425
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Dirubidium tetraiodozincate - LT, average structure'
+_chemical_formula_structural 'Rb2 (Zn I4)'
+_chemical_formula_sum 'I4 Rb2 Zn1'
+_chemical_name_structure_type K2ZnBr4
+_exptl_crystal_density_diffrn 4.19
+_cell_measurement_temperature 30.
+_publ_section_title
+
+;
+Roentgenographische Untersuchungen zur Dynamik struktureller
+Phasenumwandlungen fuer zwei Fallbeispiele: Rb2 Zn I4 und Ca Cl2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dissertation Universitaet Karlsruhe' 1998 1998 1 173 DIKARM
+loop_
+_publ_author_name
+'Purgahn, J.'
+_cell_length_a 10.2296(4)
+_cell_length_b 8.0815(2)
+_cell_length_c 7.5804(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.775(1)
+_cell_angle_gamma 90.
+_cell_volume 589.72
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Zn2+ 2
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 2 e 0.03827(6) 0.25 0.69543(7) . 1. 0
+Rb2 Rb1+ 2 e 0.58523(6) 0.25 0.79336(8) . 1. 0
+Zn1 Zn2+ 2 e 0.21547(8) 0.25 0.30119(9) . 1. 0
+I1 I1- 2 e -.05453(4) 0.25 0.12761(5) . 1. 0
+I2 I1- 2 e 0.36066(4) 0.25 0.07915(5) . 1. 0
+I3 I1- 4 f 0.27824(3) -.00590(4) 0.52328(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0040(3) 0.0121(3) 0.0056(2) 0 0.0019(2) 0
+Rb2 Rb1+ 0.0037(3) 0.0121(3) 0.0056(2) 0 0.0026(2) 0
+Zn1 Zn2+ 0.0038(3) 0.0088(4) 0.0035(3) 0 0.0018(2) 0
+I1 I1- 0.00222(19) 0.0251(3) 0.00465(16) 0 0.00123(13) 0
+I2 I1- 0.00273(19) 0.0234(4) 0.00361(10) 0 0.00244(13) 0
+I3 I1- 0.00553(15) 0.00470(18) 0.00722(14) 0.00031(9) 0.00341(10) -0.0002(1)
+#End of TTdata_56425-ICSD

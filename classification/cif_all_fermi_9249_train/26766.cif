@@ -1,0 +1,72 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_26766-ICSD
+_database_code_ICSD 26766
+_audit_creation_date 1980-01-01
+_audit_update_record 2009-02-01
+_chemical_name_systematic 'Palladium sulfide'
+_chemical_formula_structural 'Pd S'
+_chemical_formula_sum 'Pd1 S1'
+_chemical_name_structure_type PdS
+_chemical_name_mineral Vysotskite
+_exptl_crystal_density_diffrn 6.71
+_publ_section_title 'The structure of braggite and palladium sulphide.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,
+Kristallchemie (-144,1977)
+; 1937 96 203 213 ZEKGAX
+loop_
+_publ_author_name
+'Gaskell, T.F.'
+_cell_length_a 6.43(2)
+_cell_length_b 6.43(2)
+_cell_length_c 6.63(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 274.12
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 42/m'
+_symmetry_Int_Tables_number 84
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z+1/2'
+2 'y, -x, -z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'y, -x, z+1/2'
+6 '-y, x, z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pd2+ 2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pd1 Pd2+ 2 e 0 0 0.25 . 1. 0
+Pd2 Pd2+ 2 c 0 0.5 0 . 1. 0
+Pd3 Pd2+ 4 j 0.475(5) 0.250(5) 0.000(5) . 1. 0
+S1 S2- 8 k 0.20(1) 0.32(1) 0.220(15) . 1. 0
+#End of TTdata_26766-ICSD

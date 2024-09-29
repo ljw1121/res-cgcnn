@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_411460-ICSD
+_database_code_ICSD 411460
+_audit_creation_date 2002-10-01
+_chemical_name_systematic 'Disodium rubidium aurate(I)'
+_chemical_formula_structural 'Na2 Rb (Au O2)'
+_chemical_formula_sum 'Au1 Na2 O2 Rb1'
+_chemical_name_structure_type KNa2AuO2
+_exptl_crystal_density_diffrn 5.28
+_publ_section_title
+'Synthese, Kristallstruktur und Eigenschaften von Na2 Rb Au O2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2001
+627 135 138 ZAACAB
+loop_
+_publ_author_name
+'Mudring, A.V.'
+'Jansen, M.'
+_cell_length_a 9.9276(6)
+_cell_length_b 5.5903(3)
+_cell_length_c 4.0864(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 226.79
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P n n m'
+_symmetry_Int_Tables_number 58
+_refine_ls_R_factor_all 0.0632
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 'x+1/2, -y+1/2, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au1+ 1
+Rb1+ 1
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au1+ 2 a 0.5 0.5 0.5 . 1. 0
+Rb1 Rb1+ 2 d 0.5 0 0 . 1. 0
+O1 O2- 4 g 0.6563(8) 0.2745(17) 0.5 . 1. 0
+Na1 Na1+ 4 g 0.7300(6) 0.4211(12) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au1 Au1+ 0.0131(3) 0.0104(3) 0.0132(3) 0.0025(3) 0 0
+Rb1 Rb1+ 0.0359(9) 0.0171(7) 0.0187(6) -.0096(10) 0 0
+O1 O2- 0.013(3) 0.021(4) 0.014(3) 0.010(3) 0 0
+Na1 Na1+ 0.021(2) 0.017(2) 0.020(2) -.010(2) 0 0
+#End of TTdata_411460-ICSD

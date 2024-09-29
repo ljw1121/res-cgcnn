@@ -1,0 +1,115 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_416888-ICSD
+_database_code_ICSD 416888
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Tetralithium strontium diphosphide'
+_chemical_formula_structural 'Li4 Sr P2'
+_chemical_formula_sum 'Li4 P2 Sr1'
+_chemical_name_structure_type Cu4NaAs2
+_exptl_crystal_density_diffrn 2.37
+_cell_measurement_temperature 167.
+_publ_section_title
+
+;
+Synthesis and single crystal structures of ternary phosphides Li4 Sr P2 and A
+Ae P (A = Li, Na; Ae = Sr, Ba)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2007 180 432 439 JSSCBI
+loop_
+_publ_author_name
+'Dong Yong-Kwan'
+'DiSalvo, F.J.'
+_cell_length_a 4.2813(2)
+_cell_length_b 4.2813(2)
+_cell_length_c 23.437(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 372.04
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 m H'
+_symmetry_Int_Tables_number 166
+_refine_ls_R_factor_all 0.0142
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+1/3'
+14 '-x+2/3, -x+y+1/3, -z+1/3'
+15 'y+2/3, x+1/3, -z+1/3'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+1/3'
+20 'x+2/3, x-y+1/3, z+1/3'
+21 '-y+2/3, -x+1/3, z+1/3'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+2/3'
+26 '-x+1/3, -x+y+2/3, -z+2/3'
+27 'y+1/3, x+2/3, -z+2/3'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+2/3'
+32 'x+1/3, x-y+2/3, z+2/3'
+33 '-y+1/3, -x+2/3, z+2/3'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Sr2+ 2
+P3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 6 c 0. 0. 0.13767(11) 0.0120(4) 1 0
+Li2 Li1+ 6 c 0. 0. 0.42912(11) 0.0121(4) 1 0
+Sr1 Sr2+ 3 a 0. 0. 0. 0.00563(5) 1 0
+P1 P3- 6 c 0. 0. 0.246269(13) 0.00583(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.0128(7) 0.0128(7) 0.0105(10) 0.0064(4) 0. 0.
+Li2 Li1+ 0.0089(7) 0.0089(7) 0.0186(12) 0.0044(3) 0. 0.
+Sr1 Sr2+ 0.00570(6) 0.00570(6) 0.00549(7) 0.00285(3) 0. 0.
+P1 P3- 0.00514(9) 0.00514(9) 0.00722(12) 0.00257(4) 0. 0.
+#End of TTdata_416888-ICSD

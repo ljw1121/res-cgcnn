@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65942-ICSD
+_database_code_ICSD 65942
+_audit_creation_date 1990-12-27
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Dicesium tetrapotassium pentaoxodiferrate(II)'
+_chemical_formula_structural 'Cs2 K4 (Fe2 O5)'
+_chemical_formula_sum 'Cs2 Fe2 K4 O5'
+_chemical_name_structure_type Cs2K4Fe2O5
+_exptl_crystal_density_diffrn 3.62
+_publ_section_title
+'Das erste zweikernige Oxoferrat(II): "Cs2 K4 (O2 Fe O Fe O2)"'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1989
+569 16 30 ZAACAB
+loop_
+_publ_author_name
+'Mueller, H.P.'
+'Hoppe, R.'
+_cell_length_a 7.074
+_cell_length_b 11.385
+_cell_length_c 6.997
+_cell_angle_alpha 90.
+_cell_angle_beta 91.76
+_cell_angle_gamma 90.
+_cell_volume 563.25
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0463
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+K1+ 1
+Fe2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 i 0.8285(1) 0.5 0.1936(1) . 1. 0
+K1 K1+ 4 h 0 0.2455(1) 0.5 . 1. 0
+K2 K1+ 4 g 0.5 0.2781(2) 0 . 1. 0
+Fe1 Fe2+ 4 i 0.6931(2) 0.5 0.6817(2) . 1. 0
+O1 O2- 8 j 0.2156(8) 0.3559(5) 0.2258(8) . 1. 0
+O2 O2- 2 c 0 0 0.5 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0170(3) 0.0464(5) 0.0232(4) 0 0.0016(2) 0
+K1 K1+ 0.0233(9) 0.0253(9) 0.0211(8) 0 0.0005(6) 0
+K2 K1+ 0.0179(10) 0.0236(10) 0.0202(10) 0 -.0032(7) 0
+Fe1 Fe2+ 0.0107(6) 0.0203(7) 0.0142(6) 0 -.0021(5) 0
+O1 O2- 0.0228(26) 0.0295(28) 0.0306(28) -.0039(21) -.0039(21) -.0078(23)
+O2 O2- 0.0334(64) 0.0159(48) 0.0453(71) 0 -.0231(55) 0
+#End of TTdata_65942-ICSD

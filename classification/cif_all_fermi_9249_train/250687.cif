@@ -1,0 +1,99 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_250687-ICSD
+_database_code_ICSD 250687
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Potassium zinc arsenide (2/5/4)'
+_chemical_formula_structural 'K2 Zn5 As4'
+_chemical_formula_sum 'As4 K2 Zn5'
+_exptl_crystal_density_diffrn 4.93
+_cell_measurement_temperature 173.
+_publ_section_title
+
+;
+Ternary arsenides A2 Zn5 As4 (A = K, Rb): Zintl phases built from stellae
+quadrangulae
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2012 51 9517 9521 INOCAJ
+loop_
+_publ_author_name
+'Stoyko, Stanislav S.'
+'Khatun, Mansura'
+'Mar, Arthur'
+_cell_length_a 11.5758(5)
+_cell_length_b 7.0476(3)
+_cell_length_c 11.6352(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 949.21
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0138
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K0+ 0
+Zn0+ 0
+As0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K0+ 8 e 0.21456(4) 0. 0. 0.01331(9) 1 0
+Zn1 Zn0+ 8 g 0.14314(2) 0.38609(4) 0.25 0.00968(6) 1 0
+Zn2 Zn0+ 8 f 0. 0.65236(4) 0.10852(2) 0.01013(6) 1 0
+Zn3 Zn0+ 4 c 0. 0.00784(5) 0.25 0.01072(8) 1 0
+As1 As0+ 8 g 0.341532(17) 0.25779(3) 0.25 0.00756(6) 1 0
+As2 As0+ 8 f 0. 0.27484(3) 0.097688(17) 0.00759(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K0+ 0.01352(19) 0.01344(18) 0.01297(19) 0. 0. 0.00170(15)
+Zn1 Zn0+ 0.00730(11) 0.01177(11) 0.00998(11) 0.00028(8) 0. 0.
+Zn2 Zn0+ 0.01094(11) 0.01225(11) 0.00719(11) 0. 0. 0.00008(8)
+Zn3 Zn0+ 0.01110(15) 0.00804(14) 0.01303(16) 0. 0. 0.
+As1 As0+ 0.00620(9) 0.00777(9) 0.00869(10) 0.00049(6) 0. 0.
+As2 As0+ 0.00910(10) 0.00789(9) 0.00579(9) 0. 0. -0.00006(6)
+#End of TTdata_250687-ICSD

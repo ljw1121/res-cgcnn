@@ -1,0 +1,74 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_649139-ICSD
+_database_code_ICSD 649139
+_audit_creation_date 2013-08-01
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Palladium zinc (2/1)'
+_chemical_formula_structural 'Pd2 Zn'
+_chemical_formula_sum 'Pd2 Zn1'
+_chemical_name_structure_type Co2Si
+_exptl_crystal_density_diffrn 10.9
+_publ_section_title
+
+;
+Ternaere Kohlenstofflegierungen von Palladium und Platin mit Magnesium,
+Aluminium, Zink, Gallium, Germanium, Kadmium, Indium, Zinn, Quecksilber,
+Thallium und Blei
+;
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Metallkunde' 1961 52 391 396 ZEMTAE
+loop_
+_publ_author_name
+'Stadelmaier, Hans H.'
+'Hardy, William K.'
+_cell_length_a 5.35
+_cell_length_b 4.14
+_cell_length_c 7.65
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 169.44
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pd0+ 0
+Zn0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pd1 Pd0+ 4 c 0.832 0.25 0.065 . 1. 0
+Pd2 Pd0+ 4 c 0.982 0.25 0.712 . 1. 0
+Zn1 Zn0+ 4 c 0.296 0.25 0.101 . 1. 0
+#End of TTdata_649139-ICSD

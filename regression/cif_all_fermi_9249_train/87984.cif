@@ -1,0 +1,71 @@
+
+data_87984-ICSD
+_database_code_ICSD 87984
+_audit_creation_date 2001-07-16
+_chemical_name_systematic 'Rubidium manganese(III) telluride'
+_chemical_formula_structural 'Rb Mn Te2'
+_chemical_formula_sum 'Mn1 Rb1 Te2'
+_chemical_name_structure_type AgTlTe2
+_exptl_crystal_density_diffrn 4.24
+_cell_length_a 4.539(1)
+_cell_length_b 4.539(1)
+_cell_length_c 15.055(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 310.17
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4 m 2'
+_symmetry_Int_Tables_number 119
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z'
+2 '-y, -x, -z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, z'
+6 '-x, y, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'y+1/2, x+1/2, -z+1/2'
+10 '-y+1/2, -x+1/2, -z+1/2'
+11 'y+1/2, -x+1/2, -z+1/2'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, z+1/2'
+14 '-x+1/2, y+1/2, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Mn3+ 3
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 2 a 0 0 0 . 1. 0
+Mn1 Mn3+ 2 c 0 0.5 0.25 . 1. 0
+Te1 Te2- 4 e 0 0 0.3563(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.026(2) 0.026(2) 0.030(3) 0 0 0
+Mn1 Mn3+ 0.011(2) 0.011(2) 0.012(4) 0 0 0
+Te1 Te2- 0.015(2) 0.017(2) 0.016(1) 0 0 0

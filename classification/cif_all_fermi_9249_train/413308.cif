@@ -1,0 +1,74 @@
+
+data_413308-ICSD
+_database_code_ICSD 413308
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Mercury dipotassium tetraselenostannate'
+_chemical_formula_structural 'Hg K2 Se4 Sn'
+_chemical_formula_sum 'Hg1 K2 Se4 Sn1'
+_chemical_name_structure_type Tl2CdGeTe4
+_exptl_crystal_density_diffrn 5.24
+_cell_length_a 8.0681(11)
+_cell_length_b 8.0681(11)
+_cell_length_c 6.9497(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 452.39
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4 2 m'
+_symmetry_Int_Tables_number 121
+_refine_ls_R_factor_all 0.0862
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x, z'
+2 'y, x, z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, -z'
+6 '-x, y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y+1/2, x+1/2, z+1/2'
+11 'y+1/2, -x+1/2, -z+1/2'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+Sn4+ 4
+Se2- -2
+K1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg2+ 2 a 0. 0. 0. 0.0236(9) 1 0
+Sn1 Sn4+ 2 b 0. 0. -0.5 0.0132(10) 1 0
+Se1 Se2- 8 i -0.1722(3) -0.1722(3) -0.2637(6) 0.0143(7) 1 0
+K1 K1+ 4 c -0.5 0. -0.5 0.026(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg1 Hg2+ 0.0294(13) 0.0294(13) 0.0121(11) 0. 0. 0.
+Sn1 Sn4+ 0.0128(16) 0.0128(16) 0.0139(15) 0. 0. 0.
+Se1 Se2- 0.0121(10) 0.0121(10) 0.0186(13) -0.0056(11) 0.0007(11) 0.0007(11)
+K1 K1+ 0.027(8) 0.026(8) 0.023(4) 0. 0. 0.

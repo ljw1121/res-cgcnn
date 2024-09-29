@@ -1,0 +1,92 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_240496-ICSD
+_database_code_ICSD 240496
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Tricopper(II) bis(selenate(IV)) dichloride'
+_chemical_formula_structural 'Cu3 (Se O3)2 Cl2'
+_chemical_formula_sum 'Cl2 Cu3 O6 Se2'
+_exptl_crystal_density_diffrn 4.33
+_publ_section_title
+
+;
+Monoclinic Cu3 (Se O3)2 Cl2: an oxohalide with an unusual Cu O4 Cl
+trigonal-bipyramidal coordination
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2007 63 i4 i6 ACSCEE
+loop_
+_publ_author_name
+'Becker, R.'
+'Berger, H.'
+'Johnsson, M.'
+_cell_length_a 8.9333(12)
+_cell_length_b 6.2164(7)
+_cell_length_c 7.5815(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.238(13)
+_cell_angle_gamma 90.
+_cell_volume 395.03
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0266
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se4+ 4
+Cu2+ 2
+Cl1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se4+ 4 i 0.34244(4) 0.5 1.26285(5) 0.00972(18) 1 0
+Cu1 Cu2+ 2 a 0.5 0.5 1. 0.0165(2) 1 0
+Cu2 Cu2+ 4 i 0.43034(6) 0. 1.17961(10) 0.0213(2) 1 0
+Cl1 Cl1- 4 i 0.28908(14) 0. 1.37017(19) 0.0257(3) 1 0
+O1 O2- 8 j 0.41995(18) 0.3090(3) 1.1506(3) 0.0146(4) 1 0
+O2 O2- 4 i 0.3508(3) 0. 0.8657(4) 0.0131(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se4+ 0.0098(2) 0.0092(2) 0.0115(2) 0. 0.00539(15) 0.
+Cu1 Cu2+ 0.0247(4) 0.0076(3) 0.0268(4) 0. 0.0211(3) 0.
+Cu2 Cu2+ 0.0347(3) 0.0068(3) 0.0356(4) 0. 0.0288(3) 0.
+Cl1 Cl1- 0.0313(5) 0.0245(5) 0.0321(6) 0. 0.0247(5) 0.
+O1 O2- 0.0187(9) 0.0085(8) 0.0223(8) 0.0006(5) 0.0144(7) -0.0003(7)
+O2 O2- 0.0086(9) 0.0148(10) 0.0174(11) 0. 0.0063(8) 0.
+#End of TTdata_240496-ICSD

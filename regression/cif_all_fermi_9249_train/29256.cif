@@ -1,0 +1,68 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_29256-ICSD
+_database_code_ICSD 29256
+_audit_creation_date 1980-01-01
+_audit_update_record 2005-10-01
+_chemical_name_systematic 'Calcium dizinc bis(phosphate(V)) -beta'
+_chemical_formula_structural 'Ca Zn2 (P O4)2'
+_chemical_formula_sum 'Ca1 O8 P2 Zn2'
+_chemical_name_mineral 'Scholzite (dehydrated)'
+_exptl_crystal_density_diffrn 3.36
+_publ_section_title
+'Dehydration and transformation phases of Scholzite Ca Zn2 (P O4)2 (H2 O)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (24,1968-38,1982)' 1972 28 322 323 ACBCAR
+loop_
+_publ_author_name
+'Czaya, R.'
+_cell_length_a 5.18
+_cell_length_b 5.18
+_cell_length_c 7.67
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 178.23
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3'
+_symmetry_Int_Tables_number 147
+_refine_ls_R_factor_all 0.29
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Zn2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 1 a 0 0 0 . 1. 0
+Zn1 Zn2+ 2 d 0.6667 0.3333 0.7 . 1. 0
+P1 P5+ 2 d 0.6667 0.3333 0.25 . 1. 0
+O1 O2- 2 d 0.6667 0.3333 0.45 . 1. 0
+#End of TTdata_29256-ICSD

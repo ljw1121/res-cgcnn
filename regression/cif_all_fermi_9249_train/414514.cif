@@ -1,0 +1,71 @@
+
+data_414514-ICSD
+_database_code_ICSD 414514
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Lanthanum iridium phosphide (1/1/1)'
+_chemical_formula_structural 'La Ir P'
+_chemical_formula_sum 'Ir1 La1 P1'
+_chemical_name_structure_type LaPtSi
+_exptl_crystal_density_diffrn 9.81
+_cell_length_a 4.149(2)
+_cell_length_b 4.149(2)
+_cell_length_c 14.278(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 245.78
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 41 m d'
+_symmetry_Int_Tables_number 109
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, -x+1/2, z+1/4'
+2 '-y, x+1/2, z+1/4'
+3 'x, -y, z'
+4 '-x, y, z'
+5 '-y, -x+1/2, z+1/4'
+6 'y, x+1/2, z+1/4'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'y+1/2, -x, z+3/4'
+10 '-y+1/2, x, z+3/4'
+11 'x+1/2, -y+1/2, z+1/2'
+12 '-x+1/2, y+1/2, z+1/2'
+13 '-y+1/2, -x, z+3/4'
+14 'y+1/2, x, z+3/4'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La0+ 0
+Ir0+ 0
+P0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La0+ 4 a 0. 0. 0. 0.0041(2) 1 0
+Ir1 Ir0+ 4 a 0. 0. 0.41238(9) 0.0043(2) 1 0
+P1 P0+ 4 a 0. 0. 0.5802(4) 0.0027(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La0+ 0.0039(12) 0.0051(13) 0.0033(5) 0. 0. 0.
+Ir1 Ir0+ 0.0036(12) 0.0063(13) 0.0032(3) 0. 0. 0.
+P1 P0+ 0.002(2) 0.005(3) 0.0012(16) 0. 0. 0.

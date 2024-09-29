@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_166171-ICSD
+_database_code_ICSD 166171
+_audit_creation_date 2010-08-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Barium palladium hydride (2/1/4)'
+_chemical_formula_structural 'Ba2 Pd H4'
+_chemical_formula_sum 'H4 Ba2 Pd1'
+_chemical_name_structure_type Ba2PdH4
+_exptl_crystal_density_diffrn 5.48
+_cell_measurement_temperature 150.
+_publ_section_title
+
+;
+A novel tetrahedral formally zerovalent-palladium hydrido complex stabilized
+by divalent alkaline earth counterions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 1999 121 10908 10912 JACSAT
+loop_
+_publ_author_name
+'Olofsson-Martensson, M.'
+'Kritikos, M.'
+'Noreus, D.'
+_cell_length_a 7.986(2)
+_cell_length_b 5.758(2)
+_cell_length_c 10.153(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 466.87
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0317
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Pd0+ 0
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 c 0.8531(1) 0.25 0.59726(9) . 1. 0
+Ba2 Ba2+ 4 c 0.0128(1) 0.25 0.16776(9) . 1. 0
+Pd1 Pd0+ 4 c 0.2598(2) 0.25 0.5808(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0070(5) 0.0074(5) 0.0091(5) 0. 0.0004(4) 0.
+Ba2 Ba2+ 0.0056(4) 0.0076(5) 0.0069(4) 0. -0.0001(3) 0.
+Pd1 Pd0+ 0.0088(3) 0.0082(6) 0.0089(7) 0. -0.0001(5) 0.
+#End of TTdata_166171-ICSD

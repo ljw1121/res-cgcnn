@@ -1,0 +1,70 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_40488-ICSD
+_database_code_ICSD 40488
+_audit_creation_date 1999-11-30
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Deuterium vanadium oxide (0.04/2/5)'
+_chemical_formula_structural 'D0.039 V2 O5'
+_chemical_formula_sum 'D0.039 O5 V2'
+_chemical_name_structure_type V2O5
+_exptl_crystal_density_diffrn 3.36
+_publ_section_title 'Hydrogen insertion compounds of V6 O13 and V2 O5'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1984 19 319 324 MRBUAC
+loop_
+_publ_author_name
+'Dickens, P.G.'
+'Chippindale, A.M.'
+'Hibble, S.J.'
+'Lancaster, P.'
+_cell_length_a 11.57(1)
+_cell_length_b 3.57(1)
+_cell_length_c 4.36(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 180.09
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m m n Z'
+_symmetry_Int_Tables_number 59
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y+1/2, -z'
+2 '-x, y+1/2, -z'
+3 'x+1/2, -y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y+1/2, z'
+6 'x, -y+1/2, z'
+7 '-x+1/2, y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4.98
+O2- -2
+D1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 4 f 0.10118(8) 0.25 0.8917(2) 0.54 1. 0
+O1 O2- 4 f 0.1043(4) 0.25 0.531(1) 1.21 1. 0
+O2 O2- 4 f -.0689(3) 0.25 0.003(1) 0.81 1. 0
+O3 O2- 2 a 0.25 0.25 0.001(2) 0.91 1. 0
+#End of TTdata_40488-ICSD

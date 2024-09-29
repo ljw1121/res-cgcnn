@@ -1,0 +1,84 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_24153-ICSD
+_database_code_ICSD 24153
+_audit_creation_date 1980-01-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Dizinc diphosphate(V) - beta'
+_chemical_formula_structural 'Zn2 (P2 O7)'
+_chemical_formula_sum 'O7 P2 Zn2'
+_chemical_name_structure_type Sc2Si2O7
+_exptl_crystal_density_diffrn 4.25
+_publ_section_title
+'The crystal structure and phase transition of beta-Zn2 P2 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Journal of Chemistry' 1965 43 1147 1153 CJCHAG
+loop_
+_publ_author_name
+'Calvo, C.'
+_cell_length_a 6.61(1)
+_cell_length_b 8.29(1)
+_cell_length_c 4.51(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.4(2)
+_cell_angle_gamma 90.
+_cell_volume 238.26
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.098
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 4 h 0 0.3092(4) 0.5 . 1. 0
+P1 P5+ 4 i 0.2104(7) 0 0.9014(11) . 1. 0
+O1 O2- 2 a 0 0 0 . 1. 0
+O2 O2- 4 i 0.3781(20) 0 0.2167(34) . 1. 0
+O3 O2- 8 j 0.2262(18) 0.1559(12) 0.7181(31) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 Zn2+ 0.029(2) 0.023(3) 0.013(1) 0 -.004(1) 0
+P1 P5+ 0.008(2) 0.021(4) 0.013(2) 0 0.003(1) 0
+O1 O2- 0.027(13) 0.069(28) 0.073(15) 0 0.012(7) 0
+O2 O2- 0.032(5) 0.016(8) 0.034(8) 0 0.016(4) 0
+O3 O2- 0.034(5) 0.004(6) 0.044(7) 0.004(3) 0.013(3) -.004(4)
+#End of TTdata_24153-ICSD

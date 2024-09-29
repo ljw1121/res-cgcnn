@@ -1,0 +1,99 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281441-ICSD
+_database_code_ICSD 281441
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Cesium phyllo-triselenidolanthanomercurate'
+_chemical_formula_structural 'Cs (La Hg Se3)'
+_chemical_formula_sum 'Cs1 Hg1 La1 Se3'
+_chemical_name_structure_type KCuZrS3
+_exptl_crystal_density_diffrn 5.97
+_cell_measurement_temperature 153.
+_publ_section_title
+'The Cs Ln M Se3 semiconductors (Ln = rare-earth element, Y; M = Zn, Cd, Hg)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2003 42 4109 4116 INOCAJ
+loop_
+_publ_author_name
+'Mitchell, K.'
+'Huang, F.-Q.'
+'McFarland, A.D.'
+'Haynes, C.L.'
+'Somers, R.C.'
+'van Duyne, R.P.'
+'Ibers, J.A.'
+_cell_length_a 4.4002(4)
+_cell_length_b 15.7279(14)
+_cell_length_c 11.4052(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 789.31
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0192
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+La3+ 3
+Cs1+ 1
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg2+ 4 c 0 0.45581(2) 0.25 0.01243(13) 1. 0
+La1 La3+ 4 a 0 0 0 0.00928(14) 1. 0
+Cs1 Cs1+ 4 c 0 0.74254(3) 0.25 0.01578(16) 1. 0
+Se1 Se2- 8 f 0 0.37349(3) 0.05260(5) 0.01050(16) 1. 0
+Se2 Se2- 4 c 0 0.06187(5) 0.25 0.00906(18) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg1 Hg2+ 0.0132(2) 0.0162(2) 0.00789(18) 0 0 0
+La1 La3+ 0.0078(2) 0.0134(2) 0.0066(2) 0 0 0.00015(15)
+Cs1 Cs1+ 0.0131(3) 0.0127(3) 0.0216(3) 0 0 0
+Se1 Se2- 0.0106(3) 0.0114(3) 0.0095(3) 0 0 -0.0006(2)
+Se2 Se2- 0.0087(4) 0.0121(4) 0.0064(4) 0 0 0
+#End of TTdata_281441-ICSD

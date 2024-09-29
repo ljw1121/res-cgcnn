@@ -1,0 +1,62 @@
+
+data_63490-ICSD
+_database_code_ICSD 63490
+_audit_creation_date 1992-08-20
+_chemical_name_systematic 'Carbonylcopper(I) chloride'
+_chemical_formula_structural '(Cu (C O)) Cl'
+_chemical_formula_sum 'C1 Cl1 Cu1 O1'
+_exptl_crystal_density_diffrn 2.83
+_cell_measurement_temperature 129.
+_cell_length_a 3.672(1)
+_cell_length_b 8.197(2)
+_cell_length_c 4.947(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 148.9
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m n 21'
+_symmetry_Int_Tables_number 31
+_refine_ls_R_factor_all 0.054
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu1+ 1
+Cl1- -1
+C2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu1+ 2 a 0 0.1396(2) 0 . 1. 0
+Cl1 Cl1- 2 a 0.5 0.1213(4) 0.3016(8) . 1. 0
+C1 C2+ 2 a 0 0.325(2) -.216(3) . 1. 0
+O1 O2- 2 a 0 0.438(1) -.341(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu1+ 0.0166(7) 0.0169(8) 0.0163(8) 0 0 0.002(1)
+Cl1 Cl1- 0.011(1) 0.015(1) 0.014(2) 0 0 0.000(2)
+C1 C2+ 0.015(6) 0.027(8) 0.024(8) 0 0 0.002(7)
+O1 O2- 0.040(7) 0.025(6) 0.036(8) 0 0 0.004(7)

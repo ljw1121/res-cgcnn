@@ -1,0 +1,86 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_414166-ICSD
+_database_code_ICSD 414166
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Dibarium tetraselenogermanate'
+_chemical_formula_structural 'Ba2 (Ge Se4)'
+_chemical_formula_sum 'Ba2 Ge1 Se4'
+_chemical_name_structure_type K2ZnBr4
+_exptl_crystal_density_diffrn 5.12
+_cell_measurement_temperature 298.
+_publ_section_title
+'From yellow to black: new semiconducting Ba chalcogeno-germanates'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 2004 59 975 979
+ZNBSEN
+loop_
+_publ_author_name
+'Assoud, A.'
+'Soheilnia, N.'
+'Kleinke, H.'
+_cell_length_a 6.9958(4)
+_cell_length_b 7.0938(4)
+_cell_length_c 9.1738(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.1350(10)
+_cell_angle_gamma 90.
+_cell_volume 430.11
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0286
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Ge4+ 4
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 2 e 0.21266(4) 0.25 0.54580(3) 0.01445(7) 1 0
+Ba2 Ba2+ 2 e 0.28540(4) 0.25 0.07688(3) 0.01569(7) 1 0
+Ge1 Ge4+ 2 e 0.79291(7) 0.25 0.71097(5) 0.01046(9) 1 0
+Se1 Se2- 2 e 0.63161(8) 0.25 0.44204(5) 0.01951(11) 1 0
+Se2 Se2- 2 e 0.58570(8) 0.25 0.86643(5) 0.01858(11) 1 0
+Se3 Se2- 4 f 0.98951(5) 0.49117(4) 0.22706(4) 0.01345(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.01343(13) 0.01964(14) 0.01142(11) 0. 0.00562(9) 0.
+Ba2 Ba2+ 0.01704(14) 0.01936(14) 0.01292(11) 0. 0.00796(9) 0.
+Ge1 Ge4+ 0.0100(2) 0.0112(2) 0.01195(18) 0. 0.00614(15) 0.
+Se1 Se2- 0.0183(2) 0.0298(3) 0.01092(18) 0. 0.00544(16) 0.
+Se2 Se2- 0.0136(2) 0.0321(3) 0.01345(19) 0. 0.00896(16) 0.
+Se3 Se2- 0.01491(15) 0.01004(15) 0.01635(14) -0.00093(11) 0.00644(11)
+0.00001(10)
+#End of TTdata_414166-ICSD

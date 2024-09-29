@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Hf6Al2Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.27279982
+_cell_length_b   7.88980151
+_cell_length_c   7.88935376
+_cell_angle_alpha   120.00187668
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf6Al2Co
+_chemical_formula_sum   'Hf6 Al2 Co1'
+_cell_volume   176.42063000
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.50000000  0.60128275  1.00000000  1
+  Hf  Hf1  1  0.50000000  0.39873182  0.39873361  1
+  Hf  Hf2  1  0.50000000  0.99999821  0.60126639  1
+  Hf  Hf3  1  0.00000000  0.25081103  0.00000000  1
+  Hf  Hf4  1  0.00000000  0.74911667  0.74910307  1
+  Hf  Hf5  1  -0.00000000  0.00001360  0.25089693  1
+  Al  Al6  1  0.00000000  0.33331594  0.66664966  1
+  Al  Al7  1  0.00000000  0.66666628  0.33335034  1
+  Co  Co8  1  0.50000000  0.99996371  0.00000000  1

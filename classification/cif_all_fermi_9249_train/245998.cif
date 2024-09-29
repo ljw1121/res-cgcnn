@@ -1,0 +1,92 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_245998-ICSD
+_database_code_ICSD 245998
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Rubidium pentascandium octatelluride'
+_chemical_formula_structural 'Rb Sc5 Te8'
+_chemical_formula_sum 'Rb1 Sc5 Te8'
+_chemical_name_structure_type Cr5CsS8
+_exptl_crystal_density_diffrn 5.06
+_cell_measurement_temperature 293.
+_publ_section_title
+'Synthesis and crystal structure of the rubidium scandium telluride Rb Sc5 Te8'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2008
+634 1463 1465 ZAACAB
+loop_
+_publ_author_name
+'Babo, J.M.'
+'Schleid, T.'
+_cell_length_a 21.3061(9)
+_cell_length_b 4.1394(2)
+_cell_length_c 10.2203(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.392(4)
+_cell_angle_gamma 90.
+_cell_volume 873.09
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Sc3+ 3
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 2 a 0 0 0 . 1. 0
+Sc1 Sc3+ 2 d 0 0.5 0.5 . 1. 0
+Sc2 Sc3+ 4 i 0.15543(4) 0 0.47553(9) . 1. 0
+Sc3 Sc3+ 4 i 0.20541(4) 0 0.84487(9) . 1. 0
+Te1 Te2- 4 i 0.07501(2) 0 0.66539(3) . 1. 0
+Te2 Te2- 4 i 0.41601(2) 0 0.68711(3) . 1. 0
+Te3 Te2- 4 i 0.33588(2) 0 0.00178(3) . 1. 0
+Te4 Te2- 4 i 0.26226(2) 0 0.34217(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0665(7) 0.0273(6) 0.0390(6) 0. -0.0037(5) 0.
+Sc1 Sc3+ 0.0106(6) 0.0077(7) 0.0118(6) 0. 0.0026(5) 0.
+Sc2 Sc3+ 0.0104(4) 0.0105(5) 0.0107(4) 0. 0.0036(3) 0.
+Sc3 Sc3+ 0.0134(4) 0.0114(5) 0.0089(5) 0. 0.0015(4) 0.
+Te1 Te2- 0.0084(2) 0.0101(2) 0.0105(2) 0. 0.0007(1) 0.
+Te2 Te2- 0.0124(2) 0.0101(2) 0.0101(2) 0. 0.0031(1) 0.
+Te3 Te2- 0.0126(2) 0.0104(2) 0.0111(2) 0. 0.0033(1) 0.
+Te4 Te2- 0.0101(2) 0.0076(2) 0.0099(2) 0. 0.0043(1) 0.
+#End of TTdata_245998-ICSD

@@ -1,0 +1,76 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_238299-ICSD
+_database_code_ICSD 238299
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Trisodium hexatitanate(IV)'
+_chemical_formula_structural 'Na3 Ti6 O13'
+_chemical_formula_sum 'Na3 O13 Ti6'
+_exptl_crystal_density_diffrn 3.62
+_publ_section_title
+'Na2+x Ti6 O13 as potential negative electrode material for Na-ion batteries'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2014 53 8250 8256 INOCAJ
+loop_
+_publ_author_name
+'Shen, Kun'
+'Wagemaker, Marnix'
+_cell_length_a 14.880077
+_cell_length_b 3.756987
+_cell_length_c 9.414455
+_cell_angle_alpha 90
+_cell_angle_beta 100.587
+_cell_angle_gamma 90
+_cell_volume 517.35
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na0+ 0.667
+Ti4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na0+ 4 i 0.471714 0 0.189316 . 1. 0
+Na2 Na0+ 2 d 0.5 0 0.5 . 1. 0
+Ti1 Ti4+ 4 i 0.119377 0 0.090748 . 1. 0
+Ti2 Ti4+ 4 i 0.157138 0 0.436824 . 1. 0
+Ti3 Ti4+ 4 i 0.22341 0 0.759997 . 1. 0
+O1 O2- 4 i 0.267934 0 0.278369 . 1. 0
+O2 O2- 4 i 0.071513 0 0.298388 . 1. 0
+O3 O2- 4 i 0.316272 0 0.583704 . 1. 0
+O4 O2- 4 i 0.110748 0 0.63282 . 1. 0
+O5 O2- 4 i 0.35545 0 0.88871 . 1. 0
+O6 O2- 4 i 0.16508 0 0.91469 . 1. 0
+O7 O2- 2 a 0 0 0 . 1. 0
+#End of TTdata_238299-ICSD

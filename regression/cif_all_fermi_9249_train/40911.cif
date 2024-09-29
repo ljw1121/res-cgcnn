@@ -1,0 +1,71 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_40911-ICSD
+_database_code_ICSD 40911
+_audit_creation_date 2000-07-15
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Dimagnesium nickel hydride - LT'
+_chemical_formula_structural 'Mg2 Ni H4'
+_chemical_formula_sum 'H4 Mg2 Ni1'
+_chemical_name_structure_type Mg2NiH4(C2/c)
+_exptl_crystal_density_diffrn 2.71
+_publ_section_title
+'Low-temperature structure of Mg2 Ni H4: Evidence for microtwinning'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1986 115 55 78 JCOMAH
+loop_
+_publ_author_name
+'Zolliker, P.'
+'Yvon, K.'
+'Baerlocher, C.'
+_cell_length_a 14.363(2)
+_cell_length_b 6.4052(5)
+_cell_length_c 6.4863(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 113.622(2)
+_cell_angle_gamma 90.
+_cell_volume 546.73
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni0+ 0
+Mg0+ 0
+H0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni0+ 8 f 0.1192(5) 0.230(1) 0.083(1) 1.9(2) 1. 0
+Mg1 Mg0+ 8 f 0.258(1) 0.485(2) 0.072(2) 0.1(4) 1. 0
+Mg2 Mg0+ 4 e 0 0.021(4) 0.25 0.6(5) 1. 0
+Mg3 Mg0+ 4 e 0 0.518(4) 0.25 0.1(4) 1. 0
+#End of TTdata_40911-ICSD

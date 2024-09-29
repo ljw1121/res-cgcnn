@@ -1,0 +1,52 @@
+
+data_152909-ICSD
+_database_code_ICSD 152909
+_audit_creation_date 2006-10-01
+_chemical_name_systematic 'Manganese digallium sulfide'
+_chemical_formula_structural 'Mn Ga2 S4'
+_chemical_formula_sum 'Ga2 Mn1 S4'
+_chemical_name_structure_type Al2CdS4
+_exptl_crystal_density_diffrn 3.52
+_cell_length_a 5.46
+_cell_length_b 5.46
+_cell_length_c 10.2
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 304.08
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.17
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga3+ 3
+Mn2+ 2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga3+ 2 a 0 0 0 . 1. 0
+Ga2 Ga3+ 2 c 0 0.5 0.25 . 1. 0
+Mn1 Mn2+ 2 d 0 0.5 0.75 . 1. 0
+S1 S2- 8 g 0.242(1) 0.243(2) 0.1358(3) . 1. 0

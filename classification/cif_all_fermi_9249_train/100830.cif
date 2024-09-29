@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_100830-ICSD
+_database_code_ICSD 100830
+_audit_creation_date 1981-12-31
+_chemical_name_systematic 'Potassium tricopper ditelluride'
+_chemical_formula_structural 'K Cu3 Te2'
+_chemical_formula_sum 'Cu3 K1 Te2'
+_chemical_name_structure_type Ag3CsS2
+_exptl_crystal_density_diffrn 5.67
+_publ_section_title 'Zur Kenntnis von Na2 Cu4 S3 und K Cu3 Te2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1981 16 1291 1297 MRBUAC
+loop_
+_publ_author_name
+'Savelsberg, G.'
+'Schaefer, H.'
+_cell_length_a 16.453(9)
+_cell_length_b 4.294(4)
+_cell_length_c 8.661(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.86
+_cell_angle_gamma 90.
+_cell_volume 567.9
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.052
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Cu1+ 1
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 i 0.1336(2) 0 0.0446(4) . 1. 0
+Cu1 Cu1+ 4 i 0.5843(1) 0 0.6024(3) . 1. 0
+Cu2 Cu1+ 4 i 0.6959(2) 0 0.4711(3) . 1. 0
+Cu3 Cu1+ 4 i 0.9304(2) 0 0.5864(3) . 1. 0
+Te1 Te2- 4 i 0.7983(1) 0 0.3061(1) . 1. 0
+Te2 Te2- 4 i 0.5213(1) 0 0.2423(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0201(14) 0.0267(17) 0.2017(15) 0 0.0049(12) 0
+Cu1 Cu1+ 0.0259(10) 0.0336(12) 0.0285(10) 0 0.0192(9) 0
+Cu2 Cu1+ 0.0274(11) 0.0387(13) 0.0415(13) 0 0.0253(10) 0
+Cu3 Cu1+ 0.0590(16) 0.0209(11) 0.0169(9) 0 -.0003(10) 0
+Te1 Te2- 0.0098(4) 0.0146(4) 0.0099(4) 0 0.0039(3) 0
+Te2 Te2- 0.0110(4) 0.0151(4) 0.0078(4) 0 0.0035(3) 0
+#End of TTdata_100830-ICSD

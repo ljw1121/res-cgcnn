@@ -1,0 +1,82 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_105171-ICSD
+_database_code_ICSD 105171
+_audit_creation_date 2004-10-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Sodium thallium (2/1)'
+_chemical_formula_structural 'Na2 Tl'
+_chemical_formula_sum 'Na2 Tl1'
+_chemical_name_structure_type Na2Tl
+_exptl_crystal_density_diffrn 4.6
+_publ_section_title 'Structure and bonding model for Na2 Tl'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica (1,1948-23,1967)' 1967 22 836 845 ACCRA9
+loop_
+_publ_author_name
+'Hansen, D.A.'
+'Smith, J.F.'
+_cell_length_a 13.9350(4)
+_cell_length_b 8.8797(3)
+_cell_length_c 11.6927(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1446.84
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'C 2 2 21'
+_symmetry_Int_Tables_number 20
+_refine_ls_R_factor_all 0.117
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 'x, -y, -z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na0+ 0
+Tl0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na0+ 4 a 0.067(2) 0 0 3.6(6) 1. 0
+Na2 Na0+ 4 b 0 0.592(4) 0.25 4.7(7) 1. 0
+Na3 Na0+ 8 c 0.297(2) 0.194(3) 0.421(2) 4.3(4) 1. 0
+Na4 Na0+ 8 c 0.126(2) 0.278(2) 0.207(2) 3.7(4) 1. 0
+Na5 Na0+ 8 c 0.370(2) 0.405(3) 0.166(2) 5.2(6) 1. 0
+Tl1 Tl0+ 8 c 0.2845(1) 0.0484(2) 0.1320(1) . 1. 0
+Tl2 Tl0+ 8 c 0.0498(2) 0.6776(3) 0.5270(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl0+ 0.00209(6) 0.0117(2) 0.0043(1) 0.0009(1) 0.00098(8) 0.0008(2)
+Tl2 Tl0+ 0.00350(9) 0.0167(4) 0.0051(2) 0.0063(2) 0.0021(2) -.0011(2)
+#End of TTdata_105171-ICSD

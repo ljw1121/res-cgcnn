@@ -1,0 +1,55 @@
+
+data_190042-ICSD
+_database_code_ICSD 190042
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Iron(II) trititanate'
+_chemical_formula_structural 'Fe (Ti3 O7)'
+_chemical_formula_sum 'Fe1 O7 Ti3'
+_exptl_crystal_density_diffrn 6.32
+_cell_measurement_temperature 300.
+_cell_measurement_pressure 61000000.
+_cell_length_a 9.9522(5)
+_cell_length_b 2.7397(1)
+_cell_length_c 5.9953(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 163.47
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m m 2'
+_symmetry_Int_Tables_number 44
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+Ti4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 2 a 0 0 0.665(1) . 1. 0
+Ti1 Ti4+ 2 b 0 0.5 0.205(2) . 1. 0
+Ti2 Ti4+ 4 c 0.2328(3) 0 0.896(2) . 1. 0
+O1 O2- 2 a 0 0 -0.013(4) . 1. 0
+O2 O2- 4 c 0.3013(8) 0 0.607(3) . 1. 0
+O3 O2- 4 c 0.651(1) 0 0.223(2) . 1. 0
+O4 O2- 4 c 0.885(1) 0 0.386(2) . 1. 0

@@ -1,0 +1,77 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_5027-ICSD
+_database_code_ICSD 5027
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Dipalladium copper tin'
+_chemical_formula_structural 'Pd2 Cu Sn'
+_chemical_formula_sum 'Cu1 Pd2 Sn1'
+_chemical_name_mineral Cabriite
+_exptl_crystal_density_diffrn 10.72
+_publ_section_title
+
+;
+Cabriite, Pd2SnCu, a new mineral species in the mineral group of palladium,
+tin and copper compounds
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 1983 21 481 487 CAMIA6
+loop_
+_publ_author_name
+'Evstigneeva, T.L.'
+'Genkin, A.D.'
+_cell_length_a 7.88
+_cell_length_b 7.88
+_cell_length_c 3.94
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 244.65
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P m m m'
+_symmetry_Int_Tables_number 47
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pd0+ 0
+Sn0+ 0
+Cu0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pd1 Pd0+ 1 b 0.5 0 0 . 1. 0
+Pd2 Pd0+ 2 n 0 0.25 0.5 . 1. 0
+Pd3 Pd0+ 2 j 0.25 0 0.5 . 1. 0
+Pd4 Pd0+ 1 e 0 0.5 0 . 1. 0
+Pd5 Pd0+ 2 p 0.5 0.25 0.5 . 1. 0
+Sn1 Sn0+ 4 y 0.25 0.25 0 . 1. 0
+Cu1 Cu0+ 1 a 0 0 0 . 1. 0
+Cu2 Cu0+ 1 f 0.5 0.5 0 . 1. 0
+Cu3 Cu0+ 2 l 0.25 0.5 0.5 . 1. 0
+#End of TTdata_5027-ICSD

@@ -1,0 +1,50 @@
+
+data_153886-ICSD
+_database_code_ICSD 153886
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Silicon dioxide - cristobalite'
+_chemical_formula_structural 'Si O2'
+_chemical_formula_sum 'O2 Si1'
+_chemical_name_structure_type Cristobalite(alpha)
+_chemical_name_mineral Cristobalite
+_exptl_crystal_density_diffrn 2.31
+_cell_length_a 4.9836(15)
+_cell_length_b 4.9836(15)
+_cell_length_c 6.9549(39)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 172.73
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 41 21 2'
+_symmetry_Int_Tables_number 92
+_refine_ls_R_factor_all 0.0689
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, -z+3/4'
+2 '-x+1/2, y+1/2, -z+1/4'
+3 '-y, -x, -z+1/2'
+4 'y, x, -z'
+5 'y+1/2, -x+1/2, z+3/4'
+6 '-y+1/2, x+1/2, z+1/4'
+7 '-x, -y, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 4 a 0.3057(24) 0.3057(24) 0 0.0032(41) 1. 0
+O1 O2- 8 b 0.2513(42) 0.0952(44) 0.1561(27) 0.0032(41) 1. 0

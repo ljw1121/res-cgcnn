@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_625123-ICSD
+_database_code_ICSD 625123
+_audit_creation_date 2013-02-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Tungsten cobalt silicide (1/1.5/0.5)'
+_chemical_formula_structural 'W Co1.5 Si0.5'
+_chemical_formula_sum 'Co1.5 Si0.5 W1'
+_chemical_name_structure_type Laves(2H)-MgZn2
+_exptl_crystal_density_diffrn 13.03
+_publ_section_title 'Ternary laves phases with transition elements and Silicon'
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Transactions of the Metallurgical Society of Aime' 1961 221 1087 1088
+TMSAAB
+loop_
+_publ_author_name
+'Bardos, D.I.'
+'Gupta, K.P.'
+'Beck, P.A.'
+_cell_length_a 4.7
+_cell_length_b 4.7
+_cell_length_c 7.63
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 145.97
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si0+ 0
+Co0+ 0
+W0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si0+ 2 a 0 0 0 . 1. 0
+Co1 Co0+ 6 h 0.167 0.334 0.25 . 1. 0
+W1 W0+ 4 f 0.3333 0.6667 0.563 . 1. 0
+#End of TTdata_625123-ICSD

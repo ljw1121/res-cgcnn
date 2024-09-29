@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_414302-ICSD
+_database_code_ICSD 414302
+_audit_creation_date 2005-10-01
+_audit_update_record 2006-10-01
+_chemical_name_systematic 'Aluminium iridium (9/2)'
+_chemical_formula_structural 'Al9 Ir2'
+_chemical_formula_sum 'Al9 Ir2'
+_chemical_name_structure_type Al9Co2
+_exptl_crystal_density_diffrn 5.85
+_publ_section_title 'The Co2 Al9 structure type revisited'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2005
+631 534 541 ZAACAB
+loop_
+_publ_author_name
+'Bostroem, M.'
+'Rosner, H.'
+'Prots', Yu.M.'
+'Burkhardt, U.'
+'Grin', Yu.'
+_cell_length_a 6.3779(3)
+_cell_length_b 6.4318(2)
+_cell_length_c 8.7337(3)
+_cell_angle_alpha 90
+_cell_angle_beta 94.776(4)
+_cell_angle_gamma 90
+_cell_volume 357.02
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.019
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir0+ 0
+Al0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir0+ 4 e 0.73673(3) 0.12194(3) 0.16833(2) 0.00408(6) 1 0
+Al1 Al0+ 4 e 0.5988(2) 0.4781(3) 0.22987(19) 0.0087(4) 1 0
+Al2 Al0+ 4 e 0.6113(2) 0.6931(3) 0.50067(18) 0.0081(4) 1 0
+Al3 Al0+ 4 e 0.9033(2) 0.7850(3) 0.27213(19) 0.0093(4) 1 0
+Al4 Al0+ 4 e 0.7859(2) 0.1055(3) 0.46095(19) 0.0086(4) 1 0
+Al5 Al0+ 2 a 0 0 0 0.0162(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ir1 Ir0+ 0.00356(10) 0.00475(10) 0.00386(10) -0.00002(5) -0.00022(5) 0.00003(5)
+Al1 Al0+ 0.0083(6) 0.0086(7) 0.0093(7) 0.0015(5) 0.0014(5) -0.0011(5)
+Al2 Al0+ 0.0073(6) 0.0082(6) 0.0081(6) -0.0005(5) -0.0025(5) 0.0014(5)
+Al3 Al0+ 0.0076(6) 0.0100(7) 0.0103(7) 0.0024(5) -0.0003(5) 0.0024(5)
+Al4 Al0+ 0.0094(6) 0.0088(7) 0.0074(6) -0.0001(5) 0.0003(5) -0.0011(5)
+Al5 Al0+ 0.0163(11) 0.0141(11) 0.0199(12) -0.0019(9) 0.0126(9) -0.0039(9)
+#End of TTdata_414302-ICSD

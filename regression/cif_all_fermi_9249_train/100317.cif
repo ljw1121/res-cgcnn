@@ -1,0 +1,64 @@
+
+data_100317-ICSD
+_database_code_ICSD 100317
+_audit_creation_date 1980-12-31
+_audit_update_record 2003-04-01
+_chemical_name_systematic 'Cadmium sulfate(VI)'
+_chemical_formula_structural 'Cd (S O4)'
+_chemical_formula_sum 'Cd1 O4 S1'
+_chemical_name_structure_type CdSO4
+_exptl_crystal_density_diffrn 4.76
+_cell_length_a 4.6982(2)
+_cell_length_b 4.7191(2)
+_cell_length_c 6.5578(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 145.39
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P n 21 m'
+_symmetry_Int_Tables_number 31
+_refine_ls_R_factor_all 0.013
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, z+1/2'
+2 '-x, y+1/2, -z+1/2'
+3 'x, y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cd1 Cd2+ 2 a 0.14161(4) 0.25 0 . 1. 0
+S1 S6+ 2 a 0.6657(1) 0.7306(4) 0 . 1. 0
+O1 O2- 2 a 0.3600(4) 0.6703(6) 0 . 1. 0
+O2 O2- 2 a 0.7009(6) 0.0421(5) 0 . 1. 0
+O3 O2- 4 b 0.8052(4) 0.6013(3) 0.1798(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cd1 Cd2+ 0.01284(8) 0.01143(9) 0.00413(4) -.00341(9) 0 0
+S1 S6+ 0.00658(16) 0.00694(38) 0.00357(8) -.00149(21) 0 0
+O1 O2- 0.0076(7) 0.00145(7) 0.0097(5) -.0026(6) 0 0
+O2 O2- 0.0145(7) 0.0070(6) 0.0078(4) -.0026(6) 0 0
+O3 O2- 0.0137(5) 0.0130(5) 0.0042(2) 0.0015(4) -.0018(3) 0.0007(3)

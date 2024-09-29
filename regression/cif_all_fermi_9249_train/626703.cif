@@ -1,0 +1,78 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_626703-ICSD
+_database_code_ICSD 626703
+_audit_creation_date 2012-02-01
+_chemical_name_systematic 'Chromium selenide (2/3)'
+_chemical_formula_structural 'Cr2 Se3'
+_chemical_formula_sum 'Cr2 Se3'
+_chemical_name_structure_type Cr2S3(hP20)
+_exptl_crystal_density_diffrn 5.7
+_publ_section_title
+'Chimie minerale. Etude structurale de nouveaux seleniures de chrome Cr2 Se3'
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences, Serie C,
+Sciences Chimiques (1966-)
+; 1968 267 884 887 CHDCAQ
+loop_
+_publ_author_name
+'Chevreton, M.'
+'Dumont, B.'
+_cell_length_a 6.28
+_cell_length_b 6.28
+_cell_length_c 11.64
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 397.56
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P -3 1 c'
+_symmetry_Int_Tables_number 163
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, -z+1/2'
+2 'x, x-y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, -y, z+1/2'
+8 '-x, -x+y, z+1/2'
+9 'y, x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr3+ 3
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr3+ 2 c 0.3333 0.6667 0.25 . 1. 0
+Cr2 Cr3+ 2 b 0 0 0 . 1. 0
+Cr3 Cr3+ 4 f 0.3333 0.6667 0 . 1. 0
+Se1 Se2- 12 i 0.333 0 0.375 . 1. 0
+#End of TTdata_626703-ICSD

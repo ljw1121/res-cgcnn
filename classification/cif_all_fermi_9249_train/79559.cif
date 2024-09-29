@@ -1,0 +1,90 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79559-ICSD
+_database_code_ICSD 79559
+_audit_creation_date 1996-10-14
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Palladium sulfate(VI) - M'
+_chemical_formula_structural 'Pd (S O4)'
+_chemical_formula_sum 'O4 Pd1 S1'
+_chemical_name_structure_type PdSO4
+_exptl_crystal_density_diffrn 4.2
+_publ_section_title
+
+;
+Beitraege zum thermischen Verhalten von Sulfaten. XIV. Zum thermischen
+Verhalten von Pd S O4 . 2(H2 O) und Pd S O4 . 0.75(H2 O) sowie zur Struktur
+von M - Pd S O4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1994 216 11 19 JALCEU
+loop_
+_publ_author_name
+'Dahmen, T.'
+'Rittner, P.'
+'Boeger-Seidl, S.'
+'Gruehn, R.'
+_cell_length_a 7.8447(8)
+_cell_length_b 5.1793(3)
+_cell_length_c 7.9092(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 95.606(7)
+_cell_angle_gamma 90.
+_cell_volume 319.81
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.019
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pd2+ 2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pd1 Pd2+ 4 c 0.25 0.25 0 . 1. 0
+S1 S6+ 4 e 0 0.07847(9) 0.25 . 1. 0
+O1 O2- 8 f 0.4779(2) 0.7416(2) 0.4004(2) . 1. 0
+O2 O2- 8 f 0.6561(1) 0.4202(2) 0.2820(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pd1 Pd2+ 0.0099(1) 0.0143(1) 0.0089(1) -.00187(3) 0.00257(5) -.00021(3)
+S1 S6+ 0.0087(2) 0.0148(2) 0.0082(2) 0 0.0022(1) 0
+O1 O2- 0.0123(5) 0.0192(6) 0.0126(6) -.0011(2) 0.0037(4) -.0044(2)
+O2 O2- 0.0171(4) 0.0255(4) 0.0127(4) 0.0098(4) 0.0046(3) 0.0040(4)
+#End of TTdata_79559-ICSD

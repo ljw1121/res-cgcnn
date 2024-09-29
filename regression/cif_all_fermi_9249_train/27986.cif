@@ -1,0 +1,68 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_27986-ICSD
+_database_code_ICSD 27986
+_audit_creation_date 1980-01-01
+_audit_update_record 1990-05-24
+_chemical_name_systematic 'Boron nitride'
+_chemical_formula_structural 'B N'
+_chemical_formula_sum 'B1 N1'
+_exptl_crystal_density_diffrn 2.26
+_publ_section_title 'Die Kristallstruktur des Bornitrides, B N'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Norsk Geologisk Tidsskrift' 1927 9 266 270 NOGTAO
+loop_
+_publ_author_name
+'Hassel, O.'
+_cell_length_a 2.51
+_cell_length_b 2.51
+_cell_length_c 6.69
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 36.5
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+N3- -3
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+N1 N3- 1 a 0 0 0 . 1. 0
+N2 N3- 1 b 0 0 0.5 . 1. 0
+B1 B3+ 2 d 0.3333 0.6667 0.05 . 1. 0
+#End of TTdata_27986-ICSD

@@ -1,0 +1,92 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_203186-ICSD
+_database_code_ICSD 203186
+_audit_creation_date 1990-12-27
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Dithallium octachlorodimercuropalladate'
+_chemical_formula_structural 'Tl2 (Hg2 Pd Cl8)'
+_chemical_formula_sum 'Cl8 Hg2 Pd1 Tl2'
+_chemical_name_structure_type Tl2Hg2PdCl8
+_exptl_crystal_density_diffrn 5.67
+_publ_section_title
+
+;
+Zur Kenntnis der neuen Verbindungsgruppe A2 Hg2 Pd X8 (Mit A= Rb, Tl; X= Cl,
+Br) mit eigenem Strukturtyp
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1989 154 295 307 JCOMAH
+loop_
+_publ_author_name
+'Keller, H.K.'
+'Schroeder, L.'
+_cell_length_a 11.358(2)
+_cell_length_b 6.728(2)
+_cell_length_c 9.752(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.32(1)
+_cell_angle_gamma 90.
+_cell_volume 703.25
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0742
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+Hg2+ 2
+Pd2+ 2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 4 i 0.3982(1) 0 0.1644(2) . 1. 0
+Hg1 Hg2+ 4 i 0.1340(1) 0 0.4007(2) . 1. 0
+Pd1 Pd2+ 2 a 0 0 0 . 1. 0
+Cl1 Cl1- 8 j 0.6362(5) 0.2603(9) 0.1289(6) . 1. 0
+Cl2 Cl1- 4 i 0.9177(8) 0 0.305(1) . 1. 0
+Cl3 Cl1- 4 i 0.3494(9) 0 0.506(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl1+ 0.025(1) 0.034(1) 0.026(1) 0 0.008(1) 0
+Hg1 Hg2+ 0.021(1) 0.056(1) 0.027(1) 0 0.003(1) 0
+Pd1 Pd2+ 0.014(1) 0.016(2) 0.012(2) 0 0.002(1) 0
+Cl1 Cl1- 0.022(3) 0.019(3) 0.024(3) 0.002(2) 0.002(2) 0.003(2)
+Cl2 Cl1- 0.016(4) 0.070(7) 0.023(4) 0 0.003(3) 0
+Cl3 Cl1- 0.017(4) 0.071(7) 0.023(4) 0 -.001(3) 0
+#End of TTdata_203186-ICSD

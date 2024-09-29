@@ -1,0 +1,55 @@
+
+data_74702-ICSD
+_database_code_ICSD 74702
+_audit_creation_date 1995-10-17
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Indium niobium(I) disulfide'
+_chemical_formula_structural 'In Nb S2'
+_chemical_formula_sum 'In1 Nb1 S2'
+_chemical_name_structure_type InNbS2
+_exptl_crystal_density_diffrn 5.73
+_cell_length_a 3.34
+_cell_length_b 3.34
+_cell_length_c 8.16
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 78.83
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -6 m 2'
+_symmetry_Int_Tables_number 187
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z'
+2 '-x+y, y, -z'
+3 '-y, -x, -z'
+4 'x, x-y, z'
+5 '-x+y, y, z'
+6 '-y, -x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb1+ 1
+In3+ 3
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb1+ 1 b 0 0 0.5 . 1. 0
+In1 In3+ 1 a 0 0 0 . 1. 0
+S1 S2- 2 h 0.3333 0.6667 0.32 . 1. 0

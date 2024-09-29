@@ -1,0 +1,70 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_16841-ICSD
+_database_code_ICSD 16841
+_audit_creation_date 1984-09-06
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Copper(I) phosphide'
+_chemical_formula_structural 'Cu3 P'
+_chemical_formula_sum 'Cu3 P1'
+_chemical_name_structure_type Cu3As(HT)
+_exptl_crystal_density_diffrn 7.11
+_publ_section_title 'The crystal structure of Cu3 As and Cu3 P'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Arkiv foer Kemi, Mineralogi och Geologi, A' 1938 12 1 15 ARKGAJ
+loop_
+_publ_author_name
+'Steenberg, B.'
+_cell_length_a 7.084
+_cell_length_b 7.084
+_cell_length_c 7.149
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 310.69
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P -3 c 1'
+_symmetry_Int_Tables_number 165
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu1+ 1
+P3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu1+ 2 b 0 0 0 . 1. 0
+Cu2 Cu1+ 4 d 0.3333 0.6667 0.17 . 1. 0
+Cu3 Cu1+ 12 g 0.69 0.07 0.08 . 1. 0
+P1 P3- 6 f 0.38 0 0.25 . 1. 0
+#End of TTdata_16841-ICSD

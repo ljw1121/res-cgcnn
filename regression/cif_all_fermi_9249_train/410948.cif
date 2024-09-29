@@ -1,0 +1,93 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_410948-ICSD
+_database_code_ICSD 410948
+_audit_creation_date 2000-07-15
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Tribromotellurium hexabromotungstate(V)'
+_chemical_formula_structural '(Te Br3) (W Br6)'
+_chemical_formula_sum 'Br9 Te1 W1'
+_chemical_name_structure_type TeBr3WBr6
+_exptl_crystal_density_diffrn 4.73
+_publ_section_title
+
+;
+Trihalogenochalcogenonium-halogenometallates (E X3) (M X6) synthesis and
+crystal structures of (Te X3) (M X6) (X= Cl, Br; M= W, Nb, Ta) and a
+suggestion for a structure designation code for the various structure types in
+this familiy of compounds
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1999 214 780 785 ZEKRDZ
+loop_
+_publ_author_name
+'Beck, J.'
+'Schloerb, T.'
+_cell_length_a 6.601(9)
+_cell_length_b 11.34(1)
+_cell_length_c 9.931(13)
+_cell_angle_alpha 90.
+_cell_angle_beta 103.19(11)
+_cell_angle_gamma 90.
+_cell_volume 723.78
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.1274
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W5+ 5
+Te4+ 4
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W5+ 2 e 0.3581(2) 0.25 0.8614(2) . 1. 0
+Te1 Te4+ 2 e 0.2417(3) 0.25 0.4618(2) . 1. 0
+Br1 Br1- 2 e 0.7132(6) 0.25 1.0023(5) . 1. 0
+Br2 Br1- 2 e 0.5262(6) 0.25 0.3381(6) . 1. 0
+Br3 Br1- 2 e -.0011(6) 0.25 0.6792(7) . 1. 0
+Br4 Br1- 4 f 0.2360(5) 0.0908(3) 0.9872(4) . 1. 0
+Br5 Br1- 4 f 0.0400(5) 0.0879(3) 0.3285(4) . 1. 0
+Br6 Br1- 4 f 0.4629(5) 0.0956(3) 0.6914(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W5+ 0.0360(8) 0.0396(9) 0.0503(10) 0 0.0122(6) 0
+Te1 Te4+ 0.0257(9) 0.029(1) 0.0336(11) 0 0.0095(7) 0
+Br1 Br1- 0.036(2) 0.062(3) 0.073(3) 0 0.003(2) 0
+Br2 Br1- 0.043(2) 0.064(3) 0.075(3) 0 0.028(2) 0
+Br3 Br1- 0.028(2) 0.051(2) 0.120(4) 0 0.016(2) 0
+Br4 Br1- 0.057(2) 0.051(2) 0.068(2) -.0062(12) 0.0226(14) 0.0138(14)
+Br5 Br1- 0.052(2) 0.050(2) 0.070(2) -.0106(12) 0.0156(14) -.0095(14)
+Br6 Br1- 0.051(2) 0.040(2) 0.125(3) 0.0096(12) 0.027(2) -.002(2)
+#End of TTdata_410948-ICSD

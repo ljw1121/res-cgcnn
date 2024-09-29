@@ -1,0 +1,70 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_156051-ICSD
+_database_code_ICSD 156051
+_audit_creation_date 2007-08-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Vanadium oxide - beta'
+_chemical_formula_structural 'V2 O5'
+_chemical_formula_sum 'O5 V2'
+_chemical_name_structure_type V2O5(P21/m)
+_exptl_crystal_density_diffrn 3.77
+_publ_section_title
+'V2 O5 phase diagram revisited at high pressures and high temperatures'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2007 429 87 98 JALCEU
+loop_
+_publ_author_name
+'Balog, P.'
+'Orosel, D.'
+'Cancarevic, Z.'
+'Schoen, C.'
+'Jansen, M.'
+_cell_length_a 7.1118(6)
+_cell_length_b 3.5791(2)
+_cell_length_c 6.2903(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.15(1)
+_cell_angle_gamma 90.
+_cell_volume 160.11
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V5+ 2 e 0.1017(4) 0.25 0.8073(4) 0.011(1) 1. 0
+V2 V5+ 2 e 0.2786(3) 0.25 0.2630(6) 0.013(1) 1. 0
+O1 O2- 2 e 0.8240(1) 0.75 0.4382(2) -0.015(2) 1. 0
+O2 O2- 2 e 0.9696(1) 0.25 0.1450(1) -0.008(2) 1. 0
+O3 O2- 2 e 0.4937(1) 0.25 0.3190(1) 0.003(3) 1. 0
+O4 O2- 2 e 0.3007(1) 0.25 0.9663(1) -0.017(2) 1. 0
+O5 O2- 2 e 0.2034(9) 0.75 0.2635(2) 0.003(3) 1. 0
+#End of TTdata_156051-ICSD

@@ -1,0 +1,90 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_409804-ICSD
+_database_code_ICSD 409804
+_audit_creation_date 2005-10-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Tetrarubidium hexathiodisilicate'
+_chemical_formula_structural 'Rb4 (Si2 S6)'
+_chemical_formula_sum 'Rb4 S6 Si2'
+_chemical_name_structure_type Rb4Si2S6
+_exptl_crystal_density_diffrn 2.77
+_cell_measurement_temperature 296.
+_publ_section_title
+'Crystal structure of tetrarubidium hexathiodisilicate(IV), Rb4 Si2 S6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 2004 219
+361 362 ZKNSFT
+loop_
+_publ_author_name
+'Kolb, A.'
+'Gollackner, M.'
+'Klepp, K.O.'
+_cell_length_a 13.23(2)
+_cell_length_b 6.864(2)
+_cell_length_c 9.53(1)
+_cell_angle_alpha 90
+_cell_angle_beta 125.15(5)
+_cell_angle_gamma 90
+_cell_volume 707.61
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.048
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+S2- -2
+Si4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 4 i 0.58030(11) 0. 0.36164(13) 0.0272(3) 1 0
+Rb2 Rb1+ 4 i 0.80583(12) 0. 0.1881(1) 0.0337(3) 1 0
+S1 S2- 4 i 0.1122(3) 0. 0.3921(3) 0.0250(6) 1 0
+S2 S2- 4 i 0.2874(3) 0. 0.2217(4) 0.0282(7) 1 0
+S3 S2- 4 g 0. 0.2346(4) 0. 0.0263(6) 1 0
+Si1 Si4+ 4 i 0.1155(3) 0. 0.1783(3) 0.0186(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0308(6) 0.0263(6) 0.0203(5) 0. 0.0121(4) 0.
+Rb2 Rb1+ 0.0417(7) 0.0317(7) 0.0264(6) 0. 0.0189(5) 0.
+S1 S2- 0.029(2) 0.035(2) 0.0236(12) 0. 0.0168(11) 0.
+S2 S2- 0.0325(13) 0.0278(13) 0.0162(11) 0. 0.0149(10) 0.
+S3 S2- 0.037(2) 0.0111(11) 0.0176(10) 0. 0.0080(10) 0.
+Si1 Si4+ 0.027(1) 0.0153(13) 0.0097(10) 0. 0.0080(10) 0.
+#End of TTdata_409804-ICSD

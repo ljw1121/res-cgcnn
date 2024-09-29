@@ -1,0 +1,81 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_167749-ICSD
+_database_code_ICSD 167749
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Rhodium(III) pentaammine chloride dinitrate'
+_chemical_formula_structural '(Rh (N H3)5 Cl) (N O3)2'
+_chemical_formula_sum 'H15 Cl1 N7 O6 Rh1'
+_chemical_name_structure_type Ir(NH3)5Cl(NO3)2
+_exptl_crystal_density_diffrn 1.92
+_cell_measurement_temperature 293.
+_publ_section_title
+'Crystal structure and properties of (M (N H3)5 Cl) (N O3)2 (M = Ir, Rh, Ru)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Strukturnoi Khimii (Issue-No. from 1981)' 2009 50 502 507
+ZSTKAI
+loop_
+_publ_author_name
+'Plyusnin, P.E.'
+'Semitut, E.yu.'
+'Baidina, I.A.'
+'Sheludyakova, L.A.'
+'Korenev, S.V.'
+_cell_length_a 7.5858(5)
+_cell_length_b 7.5858(5)
+_cell_length_c 10.4135(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 599.24
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 4'
+_symmetry_Int_Tables_number 79
+_refine_ls_R_factor_all 0.0255
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, -x, z'
+2 '-y, x, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rh3+ 3
+Cl1- -1
+N3- -3
+N5+ 5
+N3- -3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rh1 Rh3+ 2 a 0 0 -0.1336 0.03889(15) 1. 0
+Cl1 Cl1- 2 a 0 0 0.0922(4) 0.0658(11) 1. 0
+N1 N3- 2 a 0 0 -0.3337(11) 0.048(3) 1. 0
+N2 N5+ 4 b 0 0.5 -0.3862(10) 0.0431(7) 1. 0
+N3 N3- 8 c 0.1927(3) 0.1922(3) -0.1364(5) 0.0467(6) 1. 0
+O1 O2- 4 b 0 0.5 -0.2654(4) 0.0575(10) 1. 0
+O2 O2- 8 c 0.1(4) 0.3591(4) -0.4442(3) 0.0634(8) 1. 0
+#End of TTdata_167749-ICSD

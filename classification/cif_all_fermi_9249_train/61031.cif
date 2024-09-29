@@ -1,0 +1,119 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_61031-ICSD
+_database_code_ICSD 61031
+_audit_creation_date 1986-12-03
+_audit_update_record 2006-10-01
+_chemical_name_systematic 'Lanthanum tripalladium tetrasulfide'
+_chemical_formula_structural 'La Pd3 S4'
+_chemical_formula_sum 'La1 Pd3 S4'
+_chemical_name_structure_type Pd3US4
+_exptl_crystal_density_diffrn 6.36
+_publ_section_title
+
+;
+Preparation, characterization, and physical properties of the series M Pd3 S4
+(M = rare earth)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Journal of the Chemical Society. Dalton Transactions, Inorganic Chemistry
+(1972-)
+; 1985 1985 2369 2373 JCDTBI
+loop_
+_publ_author_name
+'Keszler, D.A.'
+'Ibers, J.A.'
+'Mueller, M.H.'
+_cell_length_a 6.7398(1)
+_cell_length_b 6.7398(1)
+_cell_length_c 6.7398(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 306.15
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m -3 n'
+_symmetry_Int_Tables_number 223
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z+1/2, -y+1/2, x+1/2'
+2 'y+1/2, -x+1/2, z+1/2'
+3 'x+1/2, -z+1/2, y+1/2'
+4 '-z+1/2, y+1/2, -x+1/2'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 '-x+1/2, z+1/2, -y+1/2'
+7 'z+1/2, y+1/2, -x+1/2'
+8 'y+1/2, x+1/2, -z+1/2'
+9 'x+1/2, z+1/2, -y+1/2'
+10 '-z+1/2, -y+1/2, x+1/2'
+11 '-y+1/2, -x+1/2, z+1/2'
+12 '-x+1/2, -z+1/2, y+1/2'
+13 '-z+1/2, y+1/2, x+1/2'
+14 '-y+1/2, x+1/2, z+1/2'
+15 '-x+1/2, z+1/2, y+1/2'
+16 'z+1/2, -y+1/2, -x+1/2'
+17 'y+1/2, -x+1/2, -z+1/2'
+18 'x+1/2, -z+1/2, -y+1/2'
+19 '-z+1/2, -y+1/2, -x+1/2'
+20 '-y+1/2, -x+1/2, -z+1/2'
+21 '-x+1/2, -z+1/2, -y+1/2'
+22 'z+1/2, y+1/2, x+1/2'
+23 'y+1/2, x+1/2, z+1/2'
+24 'x+1/2, z+1/2, y+1/2'
+25 'z, x, -y'
+26 'y, z, -x'
+27 'x, y, -z'
+28 '-z, -x, y'
+29 '-y, -z, x'
+30 '-x, -y, z'
+31 'z, -x, y'
+32 'y, -z, x'
+33 'x, -y, z'
+34 '-z, x, -y'
+35 '-y, z, -x'
+36 '-x, y, -z'
+37 '-z, x, y'
+38 '-y, z, x'
+39 '-x, y, z'
+40 'z, -x, -y'
+41 'y, -z, -x'
+42 'x, -y, -z'
+43 '-z, -x, -y'
+44 '-y, -z, -x'
+45 '-x, -y, -z'
+46 'z, x, y'
+47 'y, z, x'
+48 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Pd1+ 1.67
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 2 a 0 0 0 0.33(1) 1. 0
+Pd1 Pd1+ 6 d 0.25 0.5 0 0.475(1) 1. 0
+S1 S2- 8 e 0.25 0.25 0.25 0.30(1) 1. 0
+#End of TTdata_61031-ICSD

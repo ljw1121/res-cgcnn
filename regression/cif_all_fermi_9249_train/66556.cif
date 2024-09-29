@@ -1,0 +1,101 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_66556-ICSD
+_database_code_ICSD 66556
+_audit_creation_date 1994-01-19
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Disodium sulfate - III'
+_chemical_formula_structural 'Na2 (S O4)'
+_chemical_formula_sum 'Na2 O4 S1'
+_chemical_name_structure_type Na2CrO4
+_exptl_crystal_density_diffrn 2.63
+_cell_measurement_temperature 505.
+_publ_section_title
+
+;
+Phase-transition process of Na2 S O4(III) to Na2 S O4(I) and anharmonic
+thermal vibration
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1991 47 581 588
+ASBSDK
+loop_
+_publ_author_name
+'Tanaka, K.'
+'Naruse, H.'
+'Morikawa, H.'
+'Marumo, F.'
+_cell_length_a 5.6330(6)
+_cell_length_b 9.0538(10)
+_cell_length_c 7.0316(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 358.61
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0 0 0 . 1. 0
+Na2 Na1+ 4 c 0 0.6890(3) 0.25 . 1. 0
+S1 S6+ 4 c 0 0.34840(14) 0.25 . 1. 0
+O1 O2- 8 g 0.2135(7) 0.4431(4) 0.25 . 1. 0
+O2 O2- 8 f 0 0.2556(5) 0.0819(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0375(12) 0.0317(12) 0.0291(11) 0 0 0.0045(10)
+Na2 Na1+ 0.0581(19) 0.0315(14) 0.0540(18) 0 0 0
+S1 S6+ 0.0157(4) 0.0174(4) 0.0222(5) 0 0 0
+O1 O2- 0.0264(18) 0.0392(20) 0.0404(16) 0.0146(16) 0 0
+O2 O2- 0.0545(27) 0.0436(22) 0.0457(26) 0 0 0.0231(20)
+#End of TTdata_66556-ICSD

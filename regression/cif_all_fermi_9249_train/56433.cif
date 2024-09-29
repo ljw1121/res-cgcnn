@@ -1,0 +1,51 @@
+
+data_56433-ICSD
+_database_code_ICSD 56433
+_audit_creation_date 2003-04-01
+_audit_update_record 2005-10-01
+_chemical_name_systematic 'Cesium calcium trinitrate(III)'
+_chemical_formula_structural 'Cs Ca (N O2)3'
+_chemical_formula_sum 'Ca1 Cs1 N3 O6'
+_chemical_name_structure_type CsCd(NO2)3
+_exptl_crystal_density_diffrn 3.02
+_cell_measurement_temperature 292.
+_cell_length_a 5.553(1)
+_cell_length_b 5.553
+_cell_length_c 5.553
+_cell_angle_alpha 89.75(1)
+_cell_angle_beta 89.75
+_cell_angle_gamma 89.75
+_cell_volume 171.23
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'R 3 R'
+_symmetry_Int_Tables_number 146
+_refine_ls_R_factor_all 0.0105
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z, x, y'
+2 'y, z, x'
+3 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Ca2+ 2
+N3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 1 a 0 0 0 0.02018(6) 1. 0
+Ca1 Ca2+ 1 a 0.53289(4) 0.53289 0.53289 0.01472(9) 1. 0
+N1 N3+ 3 b 0.0686(3) 0.4831(3) 0.5098(3) 0.0223(2) 1. 0
+O1 O2- 3 b -.0498(3) 0.4918(3) 0.7031(3) 0.0279(2) 1. 0
+O2 O2- 3 b -.0549(3) 0.4808(3) 0.3229(3) 0.0289(2) 1. 0

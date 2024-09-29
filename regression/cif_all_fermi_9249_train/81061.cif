@@ -1,0 +1,74 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_81061-ICSD
+_database_code_ICSD 81061
+_audit_creation_date 1997-05-13
+_audit_update_record 2005-10-01
+_chemical_name_systematic 'Cobalt molybdate - II, HP'
+_chemical_formula_structural 'Co Mo O4'
+_chemical_formula_sum 'Co1 Mo1 O4'
+_chemical_name_structure_type Wolframite-NiWO4
+_exptl_crystal_density_diffrn 5.6
+_cell_measurement_temperature 297.
+_publ_section_title
+
+;
+Crystal structures and magnetic properties of the high-pressure modifications
+of Co Mo O4 and Ni Mo O4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Magnetism and Magnetic Materials' 1995 150 1 4 JMMMDC
+loop_
+_publ_author_name
+'Wiesmann, M.'
+'Ehrenberg, H.'
+'Wltschek, G.'
+'Zinn, P.'
+'Weitzel, H.'
+'Fuess, H.'
+_cell_length_a 4.6559(2)
+_cell_length_b 5.6808(2)
+_cell_length_c 4.9112(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 89.51(2)
+_cell_angle_gamma 90.
+_cell_volume 129.89
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2/c 1'
+_symmetry_Int_Tables_number 13
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 2 f 0.5 0.6722(8) 0.25 . 1. 0
+Mo1 Mo6+ 2 e 0 0.1848(4) 0.25 . 1. 0
+O1 O2- 4 g 0.2162(15) 0.1075(14) 0.9323(18) . 1. 0
+O2 O2- 4 g 0.2545(17) 0.3758(14) 0.4001(18) . 1. 0
+#End of TTdata_81061-ICSD

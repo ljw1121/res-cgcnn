@@ -1,0 +1,86 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_431913-ICSD
+_database_code_ICSD 431913
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Cadmium rhodium (5/2)'
+_chemical_formula_structural 'Cd5 Rh2'
+_chemical_formula_sum 'Cd5 Rh2'
+_exptl_crystal_density_diffrn 9.69
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, crystal structure and electronic structure of the binary phase
+Rh2Cd5
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2017 246 302 308 JSSCBI
+loop_
+_publ_author_name
+'Koley, Biplab'
+'Chatterjee, S.'
+'Jana, Partha P.'
+_cell_length_a 5.6482(10)
+_cell_length_b 10.6071(18)
+_cell_length_c 4.3724(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 261.95
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+_refine_ls_R_factor_all 0.0166
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd0+ 0
+Rh0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cd1 Cd0+ 2 c 0 0.5 0 0.01013(15) 1 0
+Cd2 Cd0+ 4 g 0.39625(7) 0.27774(4) 0 0.00949(11) 1 0
+Cd3 Cd0+ 4 h 0.16373(7) 0.09691(4) 0.5 0.00970(11) 1 0
+Rh1 Rh0+ 4 h 0.13999(7) 0.35467(4) 0.5 0.00798(12) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cd1 Cd0+ 0.0164(3) 0.0084(2) 0.0056(2) 0.00124(19) 0 0
+Cd2 Cd0+ 0.0080(2) 0.01307(19) 0.00745(19) 0.00075(13) 0 0
+Cd3 Cd0+ 0.0096(2) 0.00822(18) 0.01127(20) -0.00013(13) 0 0
+Rh1 Rh0+ 0.0093(2) 0.00832(19) 0.00627(19) 0.00041(14) 0 0
+#End of TTdata_431913-ICSD

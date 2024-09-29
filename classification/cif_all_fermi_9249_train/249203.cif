@@ -1,0 +1,69 @@
+
+data_249203-ICSD
+_database_code_ICSD 249203
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Cadmium mercury tetrakis(selenocyanate)'
+_chemical_formula_structural 'Cd Hg (Se (C N))4'
+_chemical_formula_sum 'C4 Cd1 Hg1 N4 Se4'
+_chemical_name_structure_type CoHg(SCN)4
+_exptl_crystal_density_diffrn 3.97
+_cell_length_a 11.6579(7)
+_cell_length_b 11.6579(7)
+_cell_length_c 4.5109(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 613.06
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.0533
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+Cd2+ 2
+Se0+ 0
+N4- -4
+C3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg2+ 2 a 0. -1. 0. 0.0342(4) 1 0
+Cd1 Cd2+ 2 d 0. -0.5 -0.25 0.0415(5) 1 0
+Se1 Se0+ 8 g 0.12886(12) -0.85669(11) 0.3190(3) 0.0380(4) 1 0
+N1 N4- 8 g 0.0551(11) -0.6450(9) 0.016(4) 0.052(3) 1 0
+C1 C3+ 8 g 0.0841(11) -0.7281(12) 0.126(3) 0.037(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg1 Hg2+ 0.0276(4) 0.0276(4) 0.0474(6) 0. 0. 0.
+Cd1 Cd2+ 0.0299(6) 0.0299(6) 0.0646(13) 0. 0. 0.
+Se1 Se0+ 0.0340(7) 0.0302(7) 0.0498(9) -0.0023(5) -0.0084(6) -0.0007(5)
+N1 N4- 0.055(7) 0.023(5) 0.077(8) 0.011(5) 0.002(9) 0.019(7)
+C1 C3+ 0.027(6) 0.039(7) 0.045(6) -0.004(5) 0.000(5) -0.011(6)

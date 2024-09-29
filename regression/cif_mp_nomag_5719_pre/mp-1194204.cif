@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Hf9FeRe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.42534495
+_cell_length_b   8.58974383
+_cell_length_c   8.58974383
+_cell_angle_alpha   120.01210119
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf9FeRe4
+_chemical_formula_sum   'Hf18 Fe2 Re8'
+_cell_volume   538.30173109
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.55820608  0.79970264  0.59936982  1
+  Hf  Hf1  1  0.55827006  0.79966165  0.20033835  1
+  Hf  Hf2  1  0.55820608  0.40063018  0.20029736  1
+  Hf  Hf3  1  0.44179392  0.20029736  0.40063018  1
+  Hf  Hf4  1  0.44172994  0.20033835  0.79966165  1
+  Hf  Hf5  1  0.44179392  0.59936982  0.79970264  1
+  Hf  Hf6  1  0.05820608  0.20029736  0.40063018  1
+  Hf  Hf7  1  0.05827006  0.20033835  0.79966165  1
+  Hf  Hf8  1  0.05820608  0.59936982  0.79970264  1
+  Hf  Hf9  1  0.94179392  0.79970264  0.59936982  1
+  Hf  Hf10  1  0.94172994  0.79966165  0.20033835  1
+  Hf  Hf11  1  0.94179392  0.40063018  0.20029736  1
+  Hf  Hf12  1  0.75000000  0.46065750  0.92135933  1
+  Hf  Hf13  1  0.75000000  0.46062836  0.53937164  1
+  Hf  Hf14  1  0.75000000  0.07864067  0.53934250  1
+  Hf  Hf15  1  0.25000000  0.53934250  0.07864067  1
+  Hf  Hf16  1  0.25000000  0.53937164  0.46062836  1
+  Hf  Hf17  1  0.25000000  0.92135933  0.46065750  1
+  Fe  Fe18  1  0.75000000  0.66659529  0.33340471  1
+  Fe  Fe19  1  0.25000000  0.33340471  0.66659529  1
+  Re  Re20  1  0.75000000  0.11007672  0.22020016  1
+  Re  Re21  1  0.75000000  0.11009849  0.88990151  1
+  Re  Re22  1  0.75000000  0.77979984  0.88992328  1
+  Re  Re23  1  0.25000000  0.88992328  0.77979984  1
+  Re  Re24  1  0.25000000  0.88990151  0.11009849  1
+  Re  Re25  1  0.25000000  0.22020016  0.11007672  1
+  Re  Re26  1  0.50000000  0.00000000  -0.00000000  1
+  Re  Re27  1  0.00000000  0.00000000  -0.00000000  1

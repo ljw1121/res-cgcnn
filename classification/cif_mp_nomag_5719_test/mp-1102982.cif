@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaGaNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08252654
+_cell_length_b   6.68774855
+_cell_length_c   6.42555406
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   105.05958995
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaGaNi
+_chemical_formula_sum   'La4 Ga4 Ni4'
+_cell_volume   252.40446218
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.20133606  0.91632877  0.85159445  1
+  La  La1  1  0.29866394  0.58367123  0.35159445  1
+  La  La2  1  0.79866394  0.08367123  0.14840555  1
+  La  La3  1  0.70133606  0.41632877  0.64840555  1
+  Ga  Ga4  1  0.18242188  0.42142676  0.86268387  1
+  Ga  Ga5  1  0.31757812  0.07857324  0.36268387  1
+  Ga  Ga6  1  0.81757812  0.57857324  0.13731613  1
+  Ga  Ga7  1  0.68242188  0.92142676  0.63731613  1
+  Ni  Ni8  1  0.45536723  0.32235563  0.09212897  1
+  Ni  Ni9  1  0.04463277  0.17764437  0.59212897  1
+  Ni  Ni10  1  0.54463277  0.67764437  0.90787103  1
+  Ni  Ni11  1  0.95536723  0.82235563  0.40787103  1

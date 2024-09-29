@@ -1,0 +1,87 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_97091-ICSD
+_database_code_ICSD 97091
+_audit_creation_date 2004-10-01
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Dicalcium diosmate(V)'
+_chemical_formula_structural 'Ca2 (Os2 O7)'
+_chemical_formula_sum 'Ca2 O7 Os2'
+_chemical_name_structure_type Ca2Sb2O7
+_exptl_crystal_density_diffrn 7.08
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Syntheses, structures and properties of some osmates(IV,V) adopting the
+pyrochlore and weberite structures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Chemistry' 2002 12 2376 2382 JMACEP
+loop_
+_publ_author_name
+'Reading, J.'
+'Knee, C.S.'
+'Weller, M.T.'
+_cell_length_a 7.2062(2)
+_cell_length_b 10.1089(2)
+_cell_length_c 7.3746(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 537.22
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I m m a'
+_symmetry_Int_Tables_number 74
+_refine_ls_R_factor_all 0.0327
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 '-x, -y+1/2, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y+1/2, z'
+6 'x, y+1/2, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y, -z+1/2'
+10 '-x+1/2, -y, z+1/2'
+11 '-x+1/2, y+1/2, z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'x+1/2, -y, z+1/2'
+14 'x+1/2, y, -z+1/2'
+15 'x+1/2, -y+1/2, -z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Os5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 a 0 0 0 0.0025(5) 1. 0
+Ca2 Ca2+ 4 d 0.25 0.25 0.75 0.0021(6) 1. 0
+Os1 Os5+ 4 c 0.25 0.25 0.25 0.0004(2) 1. 0
+Os2 Os5+ 4 b 0 0 0.5 0.0000(2) 1. 0
+O1 O2- 4 e 0 0.25 0.1625(4) 0.0055(4) 1. 0
+O2 O2- 8 h 0 0.4038(2) 0.7279(2) 0.0026(3) 1. 0
+O3 O2- 16 j 0.2059(2) 0.3834(1) 0.4356(2) 0.0021(2) 1. 0
+#End of TTdata_97091-ICSD

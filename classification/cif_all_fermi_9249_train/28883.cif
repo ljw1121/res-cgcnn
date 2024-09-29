@@ -1,0 +1,69 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_28883-ICSD
+_database_code_ICSD 28883
+_audit_creation_date 1980-01-01
+_audit_update_record 1991-04-19
+_chemical_name_systematic 'Hexaammonium hexamolybdotellurate heptahydrate'
+_chemical_formula_structural '(N H4)6 (Te Mo6 O24) (H2 O)7'
+_chemical_formula_sum 'H38 Mo6 N6 O31 Te1'
+_exptl_crystal_density_diffrn 2.82
+_publ_section_title
+'The Crystal Structures of Ammonium and Potassium Molybdotellurates'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 1948 70 1291 1292 JACSAT
+loop_
+_publ_author_name
+'Evans, H.T.jr.'
+_cell_length_a 14.62
+_cell_length_b 14.91
+_cell_length_c 14.26
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 3108.45
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a a'
+_symmetry_Int_Tables_number 56
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 'x+1/2, y, -z+1/2'
+3 '-x, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y, z+1/2'
+7 'x, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te6+ 6
+Mo6+ 6
+N3- -3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te6+ 4 a 0 0 0 . 1. 0
+Mo1 Mo6+ 8 e 0 0.228 0 . 1. 0
+Mo2 Mo6+ 8 e 0.113 0.121 -.168 . 1. 0
+Mo3 Mo6+ 8 e 0.113 -.121 -.168 . 1. 0
+#End of TTdata_28883-ICSD

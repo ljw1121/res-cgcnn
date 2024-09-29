@@ -1,0 +1,103 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_170184-ICSD
+_database_code_ICSD 170184
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Cesium lanthanum zinc trirelluride'
+_chemical_formula_structural 'Cs La Zn Te3'
+_chemical_formula_sum 'Cs1 La1 Te3 Zn1'
+_chemical_name_structure_type KCuZrS3
+_exptl_crystal_density_diffrn 5.25
+_cell_measurement_temperature 153.
+_publ_section_title
+
+;
+Syntheses, structure, some band gaps, and electronic structures of Cs Ln Zn
+Te3 (Ln = La, Pr, Nd, Sm, Gd, Tb, Dy, Ho, Er, Tm, Y)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2004 43 7735 7740 INOCAJ
+loop_
+_publ_author_name
+'Yao, J.'
+'Deng, B.'
+'Sherry, L.J.'
+'McFarland, A.D.'
+'Ellis, D.E.'
+'van Duyne, R.P.'
+'Ibers, J.A.'
+_cell_length_a 4.5364(4)
+_cell_length_b 16.6203(15)
+_cell_length_c 12.0854(11)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 911.19
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0278
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+La3+ 3
+Zn2+ 2
+Te2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 c 0. 0.74199(4) 0.25 0.01840(17) 1 0
+La1 La3+ 4 a 0. 0. 0. 0.01075(15) 1 0
+Zn1 Zn2+ 4 c 0. 0.45906(6) 0.25 0.0129(2) 1 0
+Te1 Te2- 8 f 0. 0.37257(2) 0.06593(3) 0.01202(14) 1 0
+Te2 Te2- 4 c 0. 0.05849(3) 0.25 0.01059(16) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0141(3) 0.0149(3) 0.0261(3) 0. 0. 0.
+La1 La3+ 0.0084(3) 0.0157(3) 0.0082(3) 0. 0. 0.00033(18)
+Zn1 Zn2+ 0.0134(5) 0.0162(6) 0.0091(5) 0. 0. 0.
+Te1 Te2- 0.0111(2) 0.0135(2) 0.0114(2) 0. 0. -0.00053(15)
+Te2 Te2- 0.0103(3) 0.0131(3) 0.0084(3) 0. 0. 0.
+#End of TTdata_170184-ICSD

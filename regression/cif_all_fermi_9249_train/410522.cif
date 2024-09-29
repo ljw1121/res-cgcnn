@@ -1,0 +1,119 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_410522-ICSD
+_database_code_ICSD 410522
+_audit_creation_date 1999-06-02
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Calcium silver silicide (4/2/6)'
+_chemical_formula_structural 'Ca4 Ag2 Si6'
+_chemical_formula_sum 'Ag2 Ca4 Si6'
+_chemical_name_structure_type Eu2AuGe3
+_exptl_crystal_density_diffrn 3.5
+_cell_measurement_temperature 297.
+_publ_section_title
+
+;
+New examples for the unexpected stability of the 10pi electron Hueckel arene
+(Si6)10-
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1999
+625 285 293 ZAACAB
+loop_
+_publ_author_name
+'Cardoso Gil, R.H.'
+'Carrillo Cabrera, W.'
+'Schultheiss, M.'
+'Peters, K.'
+'von Schnering, H.G.'
+'Grin', Yu.'
+_cell_length_a 8.315(1)
+_cell_length_b 14.391(2)
+_cell_length_c 8.646(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1034.59
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'F m m m'
+_symmetry_Int_Tables_number 69
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 'x, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x, -y, z'
+6 '-x, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x, y+1/2, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x, y+1/2, z+1/2'
+12 '-x, -y+1/2, -z+1/2'
+13 '-x, -y+1/2, z+1/2'
+14 '-x, y+1/2, -z+1/2'
+15 'x, -y+1/2, -z+1/2'
+16 'x, y+1/2, z+1/2'
+17 'x+1/2, y, -z+1/2'
+18 'x+1/2, -y, z+1/2'
+19 '-x+1/2, y, z+1/2'
+20 '-x+1/2, -y, -z+1/2'
+21 '-x+1/2, -y, z+1/2'
+22 '-x+1/2, y, -z+1/2'
+23 'x+1/2, -y, -z+1/2'
+24 'x+1/2, y, z+1/2'
+25 'x+1/2, y+1/2, -z'
+26 'x+1/2, -y+1/2, z'
+27 '-x+1/2, y+1/2, z'
+28 '-x+1/2, -y+1/2, -z'
+29 '-x+1/2, -y+1/2, z'
+30 '-x+1/2, y+1/2, -z'
+31 'x+1/2, -y+1/2, -z'
+32 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Ag1+ 1
+Si1- -1.67
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 8 i 0 0 0.24885(13) . 1. 0
+Ca2 Ca2+ 8 f 0.25 0.25 0.25 . 1. 0
+Ag1 Ag1+ 8 h 0 0.66668(3) 0 . 1. 0
+Si1 Si1- 8 h 0 0.16180(12) 0 . 1. 0
+Si2 Si1- 16 o 0.24403(13) 0.08070(9) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.02013(67) 0.02163(70) 0.01938(70) 0 0 0
+Ca2 Ca2+ 0.01992(67) 0.02236(69) 0.02085(72) 0 0 0
+Ag1 Ag1+ 0.01519(22) 0.01690(23) 0.02327(25) 0 0 0
+Si1 Si1- 0.01418(74) 0.01735(77) 0.02829(90) 0 0 0
+Si2 Si1- 0.01543(60) 0.01651(64) 0.02407(69) -.00049(36) 0 0
+#End of TTdata_410522-ICSD

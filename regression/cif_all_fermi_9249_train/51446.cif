@@ -1,0 +1,71 @@
+
+data_51446-ICSD
+_database_code_ICSD 51446
+_audit_creation_date 2003-04-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Lithium aluminium silicide (8/3/5)'
+_chemical_formula_structural 'Li8 Al3 Si5'
+_chemical_formula_sum 'Al3 Li8 Si5'
+_chemical_name_structure_type Li8Al3Si5
+_exptl_crystal_density_diffrn 2.01
+_cell_length_a 6.1147(1)
+_cell_length_b 6.1147(1)
+_cell_length_c 6.1147(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 228.63
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -4 3 m'
+_symmetry_Int_Tables_number 215
+_refine_ls_R_factor_all 0.0697
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, -y, x'
+2 '-y, -x, z'
+3 '-x, -z, y'
+4 '-z, -x, y'
+5 '-y, -z, x'
+6 '-x, -y, z'
+7 '-z, y, -x'
+8 '-y, x, -z'
+9 '-x, z, -y'
+10 '-z, x, -y'
+11 '-y, z, -x'
+12 '-x, y, -z'
+13 'z, -y, -x'
+14 'y, -x, -z'
+15 'x, -z, -y'
+16 'z, -x, -y'
+17 'y, -z, -x'
+18 'x, -y, -z'
+19 'z, y, x'
+20 'y, x, z'
+21 'x, z, y'
+22 'z, x, y'
+23 'y, z, x'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al0+ 0
+Li0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al0+ 3 d 0.5 0. 0. 1.4(1) 1. 0
+Li1 Li0+ 1 a 0. 0. 0. 2.1(8) 1. 0
+Li2 Li0+ 3 c 0. 0.5 0.5 2.3(6) 1. 0
+Li3 Li0+ 4 e 0.751(4) 0.751(4) 0.751(4) 2.1(5) 1. 0
+Si1 Si0+ 1 b 0.5 0.5 0.5 0.9(2) 1. 0
+Si2 Si0+ 4 e 0.248(2) 0.248(2) 0.248(2) 0.93(6) 1. 0

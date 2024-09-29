@@ -1,0 +1,91 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_103047-ICSD
+_database_code_ICSD 103047
+_audit_creation_date 2004-10-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Copper magnesium (1/2)'
+_chemical_formula_structural 'Cu Mg2'
+_chemical_formula_sum 'Cu1 Mg2'
+_chemical_name_structure_type CuMg2
+_exptl_crystal_density_diffrn 3.41
+_publ_section_title 'Kristallstruktur von Ni Mg2, Cu Mg2 und Au Mg3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Metallkunde' 1951 42 321 325 ZEMTAE
+loop_
+_publ_author_name
+'Schubert, K.'
+'Anderko, K.'
+_cell_length_a 9.07
+_cell_length_b 5.284
+_cell_length_c 18.25
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 874.65
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'F d d d S'
+_symmetry_Int_Tables_number 70
+_refine_ls_R_factor_all 0.114
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, y+1/4, -z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, -y, -z'
+5 'x+1/4, -y+1/4, z+1/4'
+6 '-x+1/4, -y+1/4, -z+1/4'
+7 '-x, y, -z'
+8 'x, y, z'
+9 'x+1/4, y+3/4, -z+3/4'
+10 '-x+1/4, y+3/4, z+3/4'
+11 '-x, -y+1/2, z+1/2'
+12 'x, -y+1/2, -z+1/2'
+13 'x+1/4, -y+3/4, z+3/4'
+14 '-x+1/4, -y+3/4, -z+3/4'
+15 '-x, y+1/2, -z+1/2'
+16 'x, y+1/2, z+1/2'
+17 'x+3/4, y+1/4, -z+3/4'
+18 '-x+3/4, y+1/4, z+3/4'
+19 '-x+1/2, -y, z+1/2'
+20 'x+1/2, -y, -z+1/2'
+21 'x+3/4, -y+1/4, z+3/4'
+22 '-x+3/4, -y+1/4, -z+3/4'
+23 '-x+1/2, y, -z+1/2'
+24 'x+1/2, y, z+1/2'
+25 'x+3/4, y+3/4, -z+1/4'
+26 '-x+3/4, y+3/4, z+1/4'
+27 '-x+1/2, -y+1/2, z'
+28 'x+1/2, -y+1/2, -z'
+29 'x+3/4, -y+3/4, z+1/4'
+30 '-x+3/4, -y+3/4, -z+1/4'
+31 '-x+1/2, y+1/2, -z'
+32 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu0+ 0
+Mg0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu0+ 16 g 0 0 0.128 . 1. 0
+Mg1 Mg0+ 16 e 0.161 0 0 . 1. 0
+Mg2 Mg0+ 16 g 0 0 0.411 . 1. 0
+#End of TTdata_103047-ICSD

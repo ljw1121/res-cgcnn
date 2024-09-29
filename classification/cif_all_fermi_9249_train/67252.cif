@@ -1,0 +1,79 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_67252-ICSD
+_database_code_ICSD 67252
+_audit_creation_date 1990-12-27
+_audit_update_record 2004-10-01
+_chemical_name_systematic 'Copper tellurium bromide (1/2/1)'
+_chemical_formula_structural 'Cu Te2 Br'
+_chemical_formula_sum 'Br1 Cu1 Te2'
+_chemical_name_structure_type CuClSe2
+_exptl_crystal_density_diffrn 5.82
+_publ_section_title
+'Refinement of the crystal structures of Cu Te2 Br and Cu Te 2I'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 1989 44 990 992
+ZNBSEN
+loop_
+_publ_author_name
+'Milius, W.'
+_cell_length_a 8.345(8)
+_cell_length_b 4.928(4)
+_cell_length_c 15.733(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 135.3(2)
+_cell_angle_gamma 90.
+_cell_volume 455.1
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.055
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu1+ 1
+Te0+ 0
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu1+ 4 e 0.7861(5) 0.1431(6) 0.2492(3) . 1. 0
+Te1 Te0+ 4 e 0.9954(3) 0.4997(3) 0.3603(2) . 1. 0
+Te2 Te0+ 4 e 0.2933(2) 0.2836(3) 0.3573(1) . 1. 0
+Br1 Br1- 4 e 0.6822(4) 0.8936(5) 0.3872(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu1+ 0.0375(18) 0.0369(15) 0.0441(20) 0.0014(14) 0.0313(15) 0.0012(12)
+Te1 Te0+ 0.0288(8) 0.0289(7) 0.0270(7) 0.0001(7) 0.0202(7) 0.0009(6)
+Te2 Te0+ 0.0261(8) 0.0305(8) 0.027(1) -.0003(7) 0.0183(7) 0.0012(6)
+Br1 Br1- 0.0295(13) 0.0341(12) 0.0300(15) 0.0008(11) 0.0205(11) 0.0012(10)
+#End of TTdata_67252-ICSD

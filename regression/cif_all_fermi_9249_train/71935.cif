@@ -1,0 +1,126 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_71935-ICSD
+_database_code_ICSD 71935
+_audit_creation_date 1993-08-22
+_chemical_name_systematic 'Barium hafnium sulfide (6/5/16)'
+_chemical_formula_structural 'Ba6 Hf5 S16'
+_chemical_formula_sum 'Ba6 Hf5 S16'
+_exptl_crystal_density_diffrn 5.48
+_publ_section_title
+
+;
+Synthesis and structure of Ba6Hf5S16 and Ba5Hf4S13: the n=5 and 4 members of
+the An+1BnX3n+1 Ruddlesden-Popper phases
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1992 31 1788 1791 INOCAJ
+loop_
+_publ_author_name
+'Chen, B.-H.'
+'Eichhorn, B.W.'
+'Fanwick, P.E.'
+_cell_length_a 7.002(1)
+_cell_length_b 6.987(2)
+_cell_length_c 55.205(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2700.79
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'F m m m'
+_symmetry_Int_Tables_number 69
+_refine_ls_R_factor_all 0.079
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 'x, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x, -y, z'
+6 '-x, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x, y+1/2, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x, y+1/2, z+1/2'
+12 '-x, -y+1/2, -z+1/2'
+13 '-x, -y+1/2, z+1/2'
+14 '-x, y+1/2, -z+1/2'
+15 'x, -y+1/2, -z+1/2'
+16 'x, y+1/2, z+1/2'
+17 'x+1/2, y, -z+1/2'
+18 'x+1/2, -y, z+1/2'
+19 '-x+1/2, y, z+1/2'
+20 '-x+1/2, -y, -z+1/2'
+21 '-x+1/2, -y, z+1/2'
+22 '-x+1/2, y, -z+1/2'
+23 'x+1/2, -y, -z+1/2'
+24 'x+1/2, y, z+1/2'
+25 'x+1/2, y+1/2, -z'
+26 'x+1/2, -y+1/2, z'
+27 '-x+1/2, y+1/2, z'
+28 '-x+1/2, -y+1/2, -z'
+29 '-x+1/2, -y+1/2, z'
+30 '-x+1/2, y+1/2, -z'
+31 'x+1/2, -y+1/2, -z'
+32 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hf4+ 4
+Ba2+ 2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hf1 Hf4+ 4 a 0 0 0 . 1. 0
+Hf2 Hf4+ 8 i 0 0 0.09003(4) . 1. 0
+Hf3 Hf4+ 8 i 0 0 0.18095(4) . 1. 0
+Ba1 Ba2+ 8 i 0.5 0 0.04501(6) . 1. 0
+Ba2 Ba2+ 8 i 0.5 0 0.13445(6) . 1. 0
+Ba3 Ba2+ 8 i 0.5 0 0.21847(6) . 1. 0
+S1 S2- 8 i 0 0 0.0448(3) . 1. 0
+S2 S2- 8 i 0 0 0.1352(3) . 1. 0
+S3 S2- 8 i 0 0 0.2256(3) . 1. 0
+S4 S2- 16 j 0.25 0.25 0.1788(2) . 1. 0
+S5 S2- 16 j 0.25 0.25 0.0901(3) . 1. 0
+S6 S2- 8 e 0.25 0.25 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Hf1 Hf4+ 0.7(1) 0.2(1) 0.7(1) 0 0 0
+Hf2 Hf4+ 0.32(8) 0.23(8) 0.73(8) 0 0 0
+Hf3 Hf4+ 0.98(9) 0.72(9) 0.56(8) 0 0 0
+Ba1 Ba2+ 3.0(2) 4.1(2) 0.9(1) 0 0 0
+Ba2 Ba2+ 1.5(1) 1.4(1) 1.1(1) 0 0 0
+Ba3 Ba2+ 2.4(2) 1.6(1) 0.5(1) 0 0 0
+S1 S2- 9.(2) 3.5(9) 0.9(6) 0 0 0
+S2 S2- 8.(1) 5.(1) 1.0(6) 0 0 0
+S3 S2- 3.5(8) 2.2(7) 0.7(5) 0 0 0
+S4 S2- 0.5(4) 2.2(5) 5.4(6) -.3(4) 0 0
+S5 S2- 7.3(4) 7.4(8) 6.3(8) -6.2(6) 0 0
+S6 S2- 5.(1) 8.(1) 9.(2) -4.2(6) 0 0
+#End of TTdata_71935-ICSD

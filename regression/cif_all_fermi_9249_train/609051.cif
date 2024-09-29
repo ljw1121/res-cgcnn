@@ -1,0 +1,74 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_609051-ICSD
+_database_code_ICSD 609051
+_audit_creation_date 2008-08-01
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Aluminium palladium (2/1)'
+_chemical_formula_structural 'Al Pd2'
+_chemical_formula_sum 'Al1 Pd2'
+_chemical_name_structure_type Co2Si
+_exptl_crystal_density_diffrn 9.32
+_publ_section_title
+
+;
+Zum Aufbau der Systeme Kobalt-Gallium, Palladium-Gallium, Palladium- Zinn und
+verwandter Legierungen
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Metallkunde' 1959 50 534 540 ZEMTAE
+loop_
+_publ_author_name
+'Schubert, Konrad'
+'Lukas, Hans Leo'
+'Meissner, Hans-Georg'
+'Bhan, Suray'
+_cell_length_a 5.415
+_cell_length_b 4.057
+_cell_length_c 7.776
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 170.83
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al0+ 0
+Pd0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al0+ 4 c 0.71 0.25 0.61 . 1 0
+Pd1 Pd0+ 4 c 0.04 0.25 0.21 . 1 0
+Pd2 Pd0+ 4 c 0.17 0.25 0.57 . 1 0
+#End of TTdata_609051-ICSD

@@ -1,0 +1,99 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_409171-ICSD
+_database_code_ICSD 409171
+_audit_creation_date 1999-06-02
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Barium dialumodiborate'
+_chemical_formula_structural 'Ba (Al2 B2 O7)'
+_chemical_formula_sum 'Al2 B2 Ba1 O7'
+_chemical_name_structure_type SrAl2B2O7
+_exptl_crystal_density_diffrn 3.07
+_publ_section_title 'Crystal structure of barium aluminium borate Ba Al2 B2 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 1998 213
+452 452 ZKNSFT
+loop_
+_publ_author_name
+'Ye, N.'
+'Zeng, W.R.'
+'Wu, B.-C.'
+'Huang, X.-Y.'
+'Chen, C.-T.'
+_cell_length_a 5.001(2)
+_cell_length_b 5.001(2)
+_cell_length_c 24.3780(30)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 528.01
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R 3 2 H'
+_symmetry_Int_Tables_number 155
+_refine_ls_R_factor_all 0.0556
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+2/3, -x+y+1/3, -z+1/3'
+8 'x-y+2/3, -y+1/3, -z+1/3'
+9 'y+2/3, x+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+1/3, -x+y+2/3, -z+2/3'
+14 'x-y+1/3, -y+2/3, -z+2/3'
+15 'y+1/3, x+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Al3+ 3
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 3 a 0 0 0 . 1. 0
+Al1 Al3+ 6 c 0 0 0.4317(1) . 1. 0
+B1 B3+ 6 c 0 0 0.2629(3) . 1. 0
+O1 O2- 3 b 0 0 0.5 . 1. 0
+O2 O2- 18 f 0.6399(1) 0.7593(1) 0.40073(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0058 0.0058 0.0048 0.0029 0 0
+Al1 Al3+ 0.0072(1) 0.0072 0.0010(1) 0.0036 0 0
+B1 B3+ 0.0059(2) 0.0059 0.005 0.003 0 0
+O1 O2- 0.034(1) 0.034 0.001(1) 0.017 0 0
+O2 O2- 0.0072(1) 0.0193(2) 0.0139(1) 0.0056(1) -.0022(1) -.0082(1)
+#End of TTdata_409171-ICSD

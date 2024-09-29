@@ -1,0 +1,102 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280847-ICSD
+_database_code_ICSD 280847
+_audit_creation_date 2002-10-01
+_chemical_name_systematic 'Cesium yttrium zinc selenide'
+_chemical_formula_structural 'Cs Y Zn Se3'
+_chemical_formula_sum 'Cs1 Se3 Y1 Zn1'
+_chemical_name_structure_type KCuZrS3
+_exptl_crystal_density_diffrn 4.86
+_cell_measurement_temperature 153.
+_publ_section_title
+
+;
+Tuning of optical band gaps: syntheses, structures, magnetic properties and
+optical properties of Cs Ln Zn Se3 (Ln = Sm, Tb, Dy, Ho, Er, Tm, Yb and Y)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2002 41 1199 1204 INOCAJ
+loop_
+_publ_author_name
+'Mitchell, K.'
+'Haynes, C.L.'
+'McFarland, A.D.'
+'van Duyne, R.P.'
+'Ibers, J.A.'
+_cell_length_a 4.1409(4)
+_cell_length_b 15.8145(15)
+_cell_length_c 10.9284(11)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 715.66
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Se2- -2
+Y3+ 3
+Se2- -2
+Zn2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 c 0 0.74095(3) 0.25 . 1. 0
+Se1 Se2- 8 f 0 0.38130(3) 0.05780(4) . 1. 0
+Y1 Y3+ 4 a 0 0 0 . 1. 0
+Se2 Se2- 4 c 0 0.05435(5) 0.25 . 1. 0
+Zn1 Zn2+ 4 c 0 0.45945(6) 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0120(3) 0.0086(3) 0.0194(3) 0 0 0
+Se1 Se2- 0.0083(3) 0.0067(3) 0.0083(3) 0 0 -.00013(18)
+Y1 Y3+ 0.0071(4) 0.0072(4) 0.0062(4) 0 0 -.0002(2)
+Se2 Se2- 0.0079(4) 0.0071(4) 0.0063(4) 0 0 0
+Zn1 Zn2+ 0.0096(4) 0.0094(5) 0.0075(4) 0 0 0
+#End of TTdata_280847-ICSD

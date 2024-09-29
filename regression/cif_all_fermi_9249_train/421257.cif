@@ -1,0 +1,99 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_421257-ICSD
+_database_code_ICSD 421257
+_audit_creation_date 2011-02-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Scandium platinum silicide (3/1/3)'
+_chemical_formula_structural 'Sc3 Pt Si3'
+_chemical_formula_sum 'Pt1 Sc3 Si3'
+_chemical_name_structure_type RhSc3Si3
+_exptl_crystal_density_diffrn 5.74
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Ternary silicides Sc3 T Si3 (T = Ru, Rh, Ir, Pt) - structure, chemical bonding
+and solid state NMR
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2010
+636 1839 1850 ZAACAB
+loop_
+_publ_author_name
+'Harmening, T.'
+'Mohr, D.'
+'Eckert, H.'
+'Al Alam, A.'
+'Matar, S.F.'
+'Poettgen, R.'
+_cell_length_a 11.663(1)
+_cell_length_b 4.0318(5)
+_cell_length_c 10.193(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 479.3
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0248
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc0+ 0
+Pt0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc0+ 4 c 0.52115(15) 0.25 0.62361(17) 0.0024(3) 1 0
+Sc2 Sc0+ 4 c 0.09942(17) 0.25 0.57980(15) 0.0026(3) 1 0
+Sc3 Sc0+ 4 c 0.30109(15) 0.25 0.84084(16) 0.0032(3) 1 0
+Pt1 Pt0+ 4 c 0.17826(3) 0.25 0.11288(3) 0.00281(10) 1 0
+Si1 Si0+ 4 c 0.3237(3) 0.25 0.4834(2) 0.0026(4) 1 0
+Si2 Si0+ 4 c 0.3439(2) 0.25 0.2528(2) 0.0030(5) 1 0
+Si3 Si0+ 4 c 0.0431(2) 0.25 0.3119(2) 0.0020(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sc1 Sc0+ 0.0011(7) 0.0039(7) 0.0022(6) 0. -0.0001(7) 0.
+Sc2 Sc0+ 0.0023(8) 0.0023(8) 0.0033(6) 0. 0.0000(5) 0.
+Sc3 Sc0+ 0.0010(9) 0.0023(7) 0.0069(6) 0. 0.0005(6) 0.
+Pt1 Pt0+ 0.00329(16) 0.00182(15) 0.00332(13) 0. -0.00098(16) 0.
+Si1 Si0+ 0.0028(11) 0.0016(10) 0.0034(8) 0. -0.0001(11) 0.
+Si2 Si0+ 0.0016(14) 0.0041(11) 0.0034(9) 0. -0.0003(8) 0.
+Si3 Si0+ 0.0010(12) 0.0023(12) 0.0035(9) 0. 0.0005(9) 0.
+#End of TTdata_421257-ICSD

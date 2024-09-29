@@ -1,0 +1,82 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_22397-ICSD
+_database_code_ICSD 22397
+_audit_creation_date 1986-09-24
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Nitrogen(I) oxide'
+_chemical_formula_structural 'N2 O'
+_chemical_formula_sum 'N2 O1'
+_chemical_name_structure_type CO2(cP12)
+_exptl_crystal_density_diffrn 1.56
+_publ_section_title 'The structure of solid nitrous oxide and carbon dioxide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Proceedings of the Koninklijke Nederlandse Academie van Wetenschappen'
+1924 27 839 846 PKNAAU
+loop_
+_publ_author_name
+'de Smedt, J.'
+'Keesom, W.H.'
+_cell_length_a 5.72
+_cell_length_b 5.72
+_cell_length_c 5.72
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 187.15
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P a -3'
+_symmetry_Int_Tables_number 205
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, x+1/2, y'
+2 'z+1/2, x, -y+1/2'
+3 'z, -x+1/2, y+1/2'
+4 '-z, -x, -y'
+5 'y, -z+1/2, x+1/2'
+6 '-y+1/2, z+1/2, x'
+7 'y+1/2, z, -x+1/2'
+8 '-y, -z, -x'
+9 'x+1/2, y, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x, -y, -z'
+13 'z+1/2, -x+1/2, -y'
+14 '-z+1/2, -x, y+1/2'
+15 '-z, x+1/2, -y+1/2'
+16 'z, x, y'
+17 '-y, z+1/2, -x+1/2'
+18 'y+1/2, -z+1/2, -x'
+19 '-y+1/2, -z, x+1/2'
+20 'y, z, x'
+21 '-x+1/2, -y, z+1/2'
+22 '-x, y+1/2, -z+1/2'
+23 'x+1/2, -y+1/2, -z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+N1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 4 a 0 0 0 . 1. 0
+N1 N1+ 8 c 0.117 0.117 0.117 . 1. 0
+#End of TTdata_22397-ICSD

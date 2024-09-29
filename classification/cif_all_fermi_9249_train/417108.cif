@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_417108-ICSD
+_database_code_ICSD 417108
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Lanthanum potassium palladate(II)'
+_chemical_formula_structural 'La K Pd O3'
+_chemical_formula_sum 'K1 La1 O3 Pd1'
+_chemical_name_structure_type KSmPdO3
+_exptl_crystal_density_diffrn 5.76
+_cell_measurement_temperature 294.
+_publ_section_title
+
+;
+Crystal growth and structural characterization of the new ordered palladates,
+Ln K Pd O3 (Ln = La, Pr, Nd, Sm - Gd) and the isostructural, partially
+Cu-substituted palladate, Pr K (Cu0.14 Pd0.86) O3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2007 46 3116 3122 INOCAJ
+loop_
+_publ_author_name
+'Mugavero, S.J.'
+'Smith, M.D.'
+'zur Loye, H.C.'
+_cell_length_a 13.4232(8)
+_cell_length_b 3.9840(2)
+_cell_length_c 7.4424(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.644(2)
+_cell_angle_gamma 90.
+_cell_volume 383.26
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0324
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Pd2+ 2
+K1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 i 0.65026(3) 0. 0.08272(5) 0.00873(13) 1 0
+Pd1 Pd2+ 4 i 0.00608(3) 0. 0.77459(7) 0.00792(14) 1 0
+K1 K1+ 4 i 0.35744(11) 0. 0.4348(2) 0.0121(3) 1 0
+O1 O2- 4 i 0.8345(4) 0. 0.1358(7) 0.0120(9) 1 0
+O2 O2- 4 i 0.4941(4) 0. 0.2030(7) 0.0140(9) 1 0
+O3 O2- 4 i 0.1510(3) 0. 0.2862(7) 0.0110(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.00660(18) 0.00674(19) 0.0129(2) 0. 0.00269(12) 0.
+Pd1 Pd2+ 0.0069(2) 0.0045(2) 0.0118(2) 0. 0.00158(16) 0.
+K1 K1+ 0.0101(6) 0.0130(6) 0.0122(6) 0. 0.0011(4) 0.
+O1 O2- 0.0090(19) 0.010(2) 0.015(2) 0. 0.0007(17) 0.
+O2 O2- 0.017(2) 0.004(2) 0.020(3) 0. 0.0038(19) 0.
+O3 O2- 0.0065(18) 0.010(2) 0.015(2) 0. 0.0003(16) 0.
+#End of TTdata_417108-ICSD

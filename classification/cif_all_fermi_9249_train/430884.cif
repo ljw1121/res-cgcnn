@@ -1,0 +1,88 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_430884-ICSD
+_database_code_ICSD 430884
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Lanthanum niobate(V) - m-LaNbO4-phase'
+_chemical_formula_structural 'La Nb O4'
+_chemical_formula_sum 'La1 Nb1 O4'
+_chemical_name_structure_type YNbO4(mS24)
+_exptl_crystal_density_diffrn 5.9
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+High-temperature properties and ferroelastic phase transitions in rare-earth
+niobates (Ln Nb O4)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Ceramic Society' 2014 97 3307 3319 JACTAW
+loop_
+_publ_author_name
+'Sarin, Pankaj'
+'Hughes, Robert W.'
+'Lowry, Daniel R.'
+'Apostolov, Zlatomir D.'
+'Kriven, Waltraud M.'
+_cell_length_a 5.56297(11)
+_cell_length_b 11.53296(20)
+_cell_length_c 5.20530(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 93.9832(17)
+_cell_angle_gamma 90.
+_cell_volume 333.15
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 1 2/a 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0117
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y, -z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 '-x, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 e 0.25 0.62553(24) 0. 0.04303 1. 0
+Nb1 Nb5+ 4 e 0.25 0.14676(22) 0. 0.07534 1. 0
+O1 O2- 8 f 0.10771 0.43767 0.28169 0.0422(35) 1. 0
+O2 O2- 8 f -0.0381(27) 0.7186(9) 0.3021(31) 0.084(4) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.0582(9) 0.0215(7) 0.0507(8) 0. 0.0128(9) 0.
+Nb1 Nb5+ 0.0815(21) 0.0328(19) 0.1076(23) 0. -0.0226(19) 0.
+#End of TTdata_430884-ICSD

@@ -1,0 +1,68 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_644085-ICSD
+_database_code_ICSD 644085
+_audit_creation_date 2012-08-01
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Molybdenum phosphide (3/1)'
+_chemical_formula_structural 'Mo3 P'
+_chemical_formula_sum 'Mo3 P1'
+_chemical_name_structure_type Ni3P
+_exptl_crystal_density_diffrn 9.09
+_publ_section_title 'An X-ray investigation of transition metal phosphides'
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica (1-27,1973-42,1988)' 1954 8 226 239 ACSAA4
+loop_
+_publ_author_name
+'Schoenberg, Nils'
+_cell_length_a 9.729
+_cell_length_b 9.729
+_cell_length_c 4.923
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 465.98
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo0+ 0
+P0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo0+ 8 g 0.09 0.096 0.233 . 1. 0
+Mo2 Mo0+ 8 g 0.35 0.006 0.998 . 1. 0
+Mo3 Mo0+ 8 g 0.196 0.209 0.736 . 1. 0
+P1 P0+ 8 g 0.29 0.011 0.497 . 1. 0
+#End of TTdata_644085-ICSD

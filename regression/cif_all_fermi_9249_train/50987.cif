@@ -1,0 +1,95 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_50987-ICSD
+_database_code_ICSD 50987
+_audit_creation_date 2000-12-16
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Palladium(III) telluride iodide'
+_chemical_formula_structural 'Pd Te I'
+_chemical_formula_sum 'I1 Pd1 Te1'
+_exptl_crystal_density_diffrn 6.93
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Single-crystal x-ray diffraction and electronic band structure studies of Pd
+Te I
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1998 137 206 210 JSSCBI
+loop_
+_publ_author_name
+'Seo, D.-K.'
+'Whangbo Myunghwan'
+'Neininger, K.'
+'Thiele, G.'
+_cell_length_a 7.821(1)
+_cell_length_b 7.821(1)
+_cell_length_c 5.659(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 346.15
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 42/m m c'
+_symmetry_Int_Tables_number 131
+_refine_ls_R_factor_all 0.0363
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, z+1/2'
+2 '-y, -x, z+1/2'
+3 '-x, y, z'
+4 'x, -y, z'
+5 '-y, x, -z+1/2'
+6 'y, -x, -z+1/2'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, -z+1/2'
+10 'y, x, -z+1/2'
+11 'x, -y, -z'
+12 '-x, y, -z'
+13 'y, -x, z+1/2'
+14 '-y, x, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pd3+ 3
+Te2- -2
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pd1 Pd3+ 4 l 0 0.2525(1) 0 . 1. 0
+Te1 Te2- 4 j 0.2164(1) 0 0 . 1. 0
+I1 I1- 4 m 0.2435(1) 0.5 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pd1 Pd3+ 0.014(1) 0.014(1) 0.013(1) 0 0 0
+Te1 Te2- 0.014(1) 0.014(1) 0.016(1) 0 0 0
+I1 I1- 0.015(1) 0.013(1) 0.037(1) 0 0 0
+#End of TTdata_50987-ICSD

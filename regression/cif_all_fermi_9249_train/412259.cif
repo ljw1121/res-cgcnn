@@ -1,0 +1,105 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_412259-ICSD
+_database_code_ICSD 412259
+_audit_creation_date 2004-10-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Calcium diazide'
+_chemical_formula_structural 'Ca (N3)2'
+_chemical_formula_sum 'Ca1 N6'
+_chemical_name_structure_type Sr(N3)2
+_exptl_crystal_density_diffrn 2.21
+_publ_section_title 'Azide und Cyanamide - aehnlich und doch anders'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 2003 58 1097
+1104 ZNBSEN
+loop_
+_publ_author_name
+'Reckeweg, O.'
+'Simon, A.'
+_cell_length_a 5.954(2)
+_cell_length_b 11.036(5)
+_cell_length_c 11.331(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 744.54
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F d d d Z'
+_symmetry_Int_Tables_number 70
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+3/4, y+3/4, -z'
+2 'x+3/4, -y, z+3/4'
+3 '-x, y+3/4, z+3/4'
+4 '-x, -y, -z'
+5 '-x+1/4, -y+1/4, z'
+6 '-x+1/4, y, -z+1/4'
+7 'x, -y+1/4, -z+1/4'
+8 'x, y, z'
+9 'x+3/4, y+1/4, -z+1/2'
+10 'x+3/4, -y+1/2, z+1/4'
+11 '-x, y+1/4, z+1/4'
+12 '-x, -y+1/2, -z+1/2'
+13 '-x+1/4, -y+3/4, z+1/2'
+14 '-x+1/4, y+1/2, -z+3/4'
+15 'x, -y+3/4, -z+3/4'
+16 'x, y+1/2, z+1/2'
+17 'x+1/4, y+3/4, -z+1/2'
+18 'x+1/4, -y, z+1/4'
+19 '-x+1/2, y+3/4, z+1/4'
+20 '-x+1/2, -y, -z+1/2'
+21 '-x+3/4, -y+1/4, z+1/2'
+22 '-x+3/4, y, -z+3/4'
+23 'x+1/2, -y+1/4, -z+3/4'
+24 'x+1/2, y, z+1/2'
+25 'x+1/4, y+1/4, -z'
+26 'x+1/4, -y+1/2, z+3/4'
+27 '-x+1/2, y+1/4, z+3/4'
+28 '-x+1/2, -y+1/2, -z'
+29 '-x+3/4, -y+3/4, z'
+30 '-x+3/4, y+1/2, -z+1/4'
+31 'x+1/2, -y+3/4, -z+1/4'
+32 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+N0+ 0
+N0+ -0.5
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 8 b 0.125 0.125 0.625 0.0139(3) 1. 0
+N1 N0+ 16 g 0.125 0.125 0.9990(2) 0.0159(4) 1. 0
+N2 N0+ 32 h 0.0278(3) 0.44250(15) 0.25092(19) 0.0213(4) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.0141(4) 0.0114(4) 0.0164(3) 0 0 0
+N1 N0+ 0.0171(9) 0.0146(10) 0.0159(8) -.0022(7) 0 0
+N2 N0+ 0.0187(7) 0.0186(8) 0.0264(8) -.0023(5) -.0008(8) 0.0048(7)
+#End of TTdata_412259-ICSD

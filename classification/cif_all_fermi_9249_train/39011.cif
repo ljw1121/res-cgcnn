@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_39011-ICSD
+_database_code_ICSD 39011
+_audit_creation_date 1986-04-14
+_audit_update_record 2009-08-01
+_chemical_name_systematic 'Isothiocyanatopentaamminecobalt(III) chloride'
+_chemical_formula_structural '(Co (N C S) (N H3)5) Cl2'
+_chemical_formula_sum 'C1 H15 Cl2 Co1 N6 S1'
+_exptl_crystal_density_diffrn 1.75
+_publ_section_title
+'Crystal structure of isothiocyanato-pentaammine-cobalt(III) chloride'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Nippon Kagaku Kaishi (= J.Chem.Soc.Japan) (1947-)' 1967 88 1151 1153
+NKAKB8
+loop_
+_publ_author_name
+'Kushi, Y.'
+'Kuroya, H.'
+'Komiyama, Y.'
+_cell_length_a 7.16(2)
+_cell_length_b 7.16(2)
+_cell_length_c 10.13(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 519.32
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 4 m m'
+_symmetry_Int_Tables_number 107
+_refine_ls_R_factor_all 0.157
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, z'
+2 'y, -x, z'
+3 '-y, -x, z'
+4 'y, x, z'
+5 'x, -y, z'
+6 '-x, y, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, x+1/2, z+1/2'
+10 'y+1/2, -x+1/2, z+1/2'
+11 '-y+1/2, -x+1/2, z+1/2'
+12 'y+1/2, x+1/2, z+1/2'
+13 'x+1/2, -y+1/2, z+1/2'
+14 '-x+1/2, y+1/2, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co3+ 3
+Cl1- -1
+N3- -3
+C4+ 4
+S2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co3+ 2 a 0 0 0 6.5 1. 0
+Cl1 Cl1- 4 b 0.5 0 0.25 6.5 1. 0
+N1 N3- 2 a 0 0 0.198 6.5 1. 0
+N2 N3- 8 c 0.197 0.197 0 6.5 1. 0
+N3 N3- 2 a 0 0 -.195 6.5 1. 0
+C1 C4+ 2 a 0 0 -.308 6.5 1. 0
+S1 S2- 2 a 0 0 -.485 6.5 1. 0
+#End of TTdata_39011-ICSD

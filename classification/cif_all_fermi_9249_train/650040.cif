@@ -1,0 +1,51 @@
+
+data_650040-ICSD
+_database_code_ICSD 650040
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Rubidium vanadium sulfide (1/5/8)'
+_chemical_formula_structural 'Rb V5 S8'
+_chemical_formula_sum 'Rb1 S8 V5'
+_chemical_name_structure_type Cr5CsS8
+_exptl_crystal_density_diffrn 4.11
+_cell_length_a 17.529
+_cell_length_b 3.328
+_cell_length_c 8.527
+_cell_angle_alpha 90.
+_cell_angle_beta 104.08
+_cell_angle_gamma 90.
+_cell_volume 482.49
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2 1'
+_symmetry_Int_Tables_number 5
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, y, z'
+3 '-x+1/2, y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+V3+ 3
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 2 a 0 0.5 0 . 1. 0
+V1 V3+ 2 b 0 0 0.5 . 1. 0
+V2 V3+ 4 c 0.291 0 0.145 . 1. 0
+V3 V3+ 4 c 0.35 0 0.509 . 1. 0
+S1 S2- 4 c 0.161 0 0.002 . 1. 0
+S2 S2- 4 c 0.241 0 0.659 . 1. 0
+S3 S2- 4 c 0.085 0 0.317 . 1. 0
+S4 S2- 4 c 0.426 0 0.324 . 1. 0

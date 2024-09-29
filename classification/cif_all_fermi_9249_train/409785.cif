@@ -1,0 +1,76 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_409785-ICSD
+_database_code_ICSD 409785
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Calcium molybdate'
+_chemical_formula_structural 'Ca Mo O4'
+_chemical_formula_sum 'Ca1 Mo1 O4'
+_chemical_name_structure_type YNbO4(mS24)
+_exptl_crystal_density_diffrn 4.8
+_cell_measurement_temperature 298.
+_cell_measurement_pressure 16000000.
+_publ_section_title
+
+;
+Crystal structure of calcium molybdate, Ca Mo O4, a scheelite-type to
+fergusonite-type transition in powellite at P > 15 GPa
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 2004 219
+337 338 ZKNSFT
+loop_
+_publ_author_name
+'Crichton, W.A.'
+'Grzechnik, A.'
+_cell_length_a 5.0342(14)
+_cell_length_b 10.7683(23)
+_cell_length_c 5.1084(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.957(20)
+_cell_angle_gamma 90.
+_cell_volume 276.89
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 1 2/a 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.124
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y, -z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 '-x, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 e 0.25 0.6117(13) 0. 0.01 1. 0
+Mo1 Mo6+ 4 e 0.25 0.1216(8) 0. 0.005 1. 0
+O1 O2- 8 f 0.906(5) 0.9635(22) 0.212(5) 0.02 1. 0
+O2 O2- 8 f 0.500(4) 0.2178(23) 0.824(6) 0.02 1. 0
+#End of TTdata_409785-ICSD

@@ -1,0 +1,91 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_81819-ICSD
+_database_code_ICSD 81819
+_audit_creation_date 1997-11-10
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Tribarium digermanium dinitride'
+_chemical_formula_structural 'Ba3 Ge (Ge N2)'
+_chemical_formula_sum 'Ba3 Ge2 N2'
+_chemical_name_structure_type Ba3Ge2N2
+_exptl_crystal_density_diffrn 5.37
+_publ_section_title
+
+;
+A barium germanium nitride, Ba3 Ge2 N2, containing (1-infinite)Ge(2-) and (Ge
+N2)(4-) anions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1996 241 69 74 JALCEU
+loop_
+_publ_author_name
+'Yamane, H.'
+'DiSalvo, F.J.'
+_cell_length_a 9.6196(6)
+_cell_length_b 4.0466(2)
+_cell_length_c 10.1337(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 113.553(4)
+_cell_angle_gamma 90.
+_cell_volume 361.61
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+N3- -3
+Ge2+ 2
+Ge2- -2
+Ba2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 2 e 0.0287(1) 0.25 0.1739(1) . 1. 0
+N1 N3- 2 e 0.0715(11) 0.25 0.6764(9) . 1. 0
+N2 N3- 2 e 0.183(1) 0.25 0.0003(9) . 1. 0
+Ge1 Ge2+ 2 e 0.2468(1) 0.25 0.8472(1) . 1. 0
+Ge2 Ge2- 2 e 0.4218(1) 0.25 0.4455(1) . 1. 0
+Ba2 Ba2+ 2 e 0.6143(1) 0.25 0.8558(1) . 1. 0
+Ba3 Ba2+ 2 e 0.8123(1) 0.25 0.4416(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.009(1) 0.011(1) 0.010(1) 0 0.003(1) 0
+N1 N3- 0.021(5) 0.011(5) 0.011(4) 0 0.009(4) 0
+N2 N3- 0.011(4) 0.013(5) 0.008(4) 0 0.004(3) 0
+Ge1 Ge2+ 0.007(1) 0.015(1) 0.007(1) 0 0.001(1) 0
+Ge2 Ge2- 0.011(1) 0.010(1) 0.013(1) 0 0.002(1) 0
+Ba2 Ba2+ 0.009(1) 0.012(1) 0.010(1) 0 0.001(1) 0
+Ba3 Ba2+ 0.008(1) 0.011(1) 0.009(1) 0 0.002(1) 0
+#End of TTdata_81819-ICSD

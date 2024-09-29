@@ -1,0 +1,53 @@
+
+data_417444-ICSD
+_database_code_ICSD 417444
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Barium octanitrido hexasilicate'
+_chemical_formula_structural 'Ba Si6 N8'
+_chemical_formula_sum 'Ba1 N8 Si6'
+_exptl_crystal_density_diffrn 3.87
+_cell_length_a 7.93160(10)
+_cell_length_b 9.34365(10)
+_cell_length_c 4.83569(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 358.37
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m m 2'
+_symmetry_Int_Tables_number 44
+_refine_ls_R_factor_all 0.0238
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Si4+ 4
+N3- -3.25
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 2 a 0. 0. 0.8135(13) 0.0325(6) 1. 0
+Si1 Si4+ 4 d 0.5 0.87334(34) 0.8541(20) 0.0237(18) 1. 0
+Si2 Si4+ 8 e 0.79774(30) 0.33956(32) 0.8356(16) 0.0260(12) 1. 0
+N1 N3- 4 c 0.7863(9) 0. 0.346(4) 0.003(4) 1. 0
+N2 N3- 4 d 0. 0.6859(11) 0.6904(18) 0.039(5) 1. 0
+N3 N3- 8 e 0.3205(9) 0.8008(8) 0.6936(15) 0.0246(32) 1. 0

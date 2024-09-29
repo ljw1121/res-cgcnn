@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_56880-ICSD
+_database_code_ICSD 56880
+_audit_creation_date 2003-10-01
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Dicalcium iron(III) trioxide chloride'
+_chemical_formula_structural 'Ca2 Fe O3 Cl'
+_chemical_formula_sum 'Ca2 Cl1 Fe1 O3'
+_exptl_crystal_density_diffrn 3.61
+_publ_section_title
+'The preparation and structures of the alkaline earth iron oxyhalides'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1991 92 496 513 JSSCBI
+loop_
+_publ_author_name
+'Ackerman, J.F.'
+_cell_length_a 3.848(2)
+_cell_length_b 3.848(2)
+_cell_length_c 13.65(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 202.12
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n Z'
+_symmetry_Int_Tables_number 85
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x+1/2, -z'
+2 'y+1/2, -x, -z'
+3 'x+1/2, y+1/2, -z'
+4 '-x, -y, -z'
+5 'y, -x+1/2, z'
+6 '-y+1/2, x, z'
+7 '-x+1/2, -y+1/2, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Ca2+ 2
+Cl1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 2 c 0.25 0.25 -.20939(27) . 1. 0
+Ca1 Ca2+ 2 c 0.25 0.25 0.34223(63) . 1. 0
+Ca2 Ca2+ 2 c 0.25 0.25 0.09366(60) . 1. 0
+Cl1 Cl1- 2 c 0.25 0.25 0.57240(81) . 1. 0
+O1 O2- 4 f 0.25 0.75 0.7661(13) . 1. 0
+O2 O2- 2 c 0.25 0.25 0.9223(21) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.0017(9) 0.0017(9) 0.0185(22) 0 0 0
+Ca1 Ca2+ 0.0131(18) 0.0131(18) 0.0275(42) 0 0 0
+Ca2 Ca2+ 0.0157(19) 0.0157(19) 0.0125(31) 0 0 0
+Cl1 Cl1- 0.0191(19) 0.0191(19) 0.0402(42) 0 0 0
+O1 O2- 0.0202(34) 0.0193(36) 0.0377(94) 0.0004(20) 0 0
+O2 O2- 0.0174(59) 0.0174(59) 0.2001(353) 0 0 0
+#End of TTdata_56880-ICSD

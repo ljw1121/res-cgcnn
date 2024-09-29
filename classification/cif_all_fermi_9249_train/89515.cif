@@ -1,0 +1,78 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_89515-ICSD
+_database_code_ICSD 89515
+_audit_creation_date 2002-04-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Tricalcium dicopper(I) dizinc phosphide'
+_chemical_formula_structural 'Ca3 Cu2 Zn2 P4'
+_chemical_formula_sum 'Ca3 Cu2 P4 Zn2'
+_chemical_name_structure_type Ca3Cu2Zn2P4
+_exptl_crystal_density_diffrn 4.05
+_publ_section_title
+'Stapelvarianten aus Sr Pt Sb - und Ca Al2 Si2 - analogen Baubloecken'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1999
+625 126 130 ZAACAB
+loop_
+_publ_author_name
+'Frik, L.'
+'Mewis, A.'
+_cell_length_a 4.034(1)
+_cell_length_b 4.034(1)
+_cell_length_c 14.604(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 205.81
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Cu1+ 1
+Zn2+ 2
+P3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 1 a 0 0 0 0.0087(8) 1. 0
+Ca2 Ca2+ 2 c 0 0 0.2697(1) 0.0068(6) 1. 0
+Cu1 Cu1+ 2 d 0.3333 0.6667 0.1353(1) 0.0093(4) 1. 0
+Zn1 Zn2+ 2 d 0.3333 0.6667 0.5615(1) 0.0102(3) 1. 0
+P1 P3- 2 d 0.3333 0.6667 0.8668(2) 0.0056(7) 1. 0
+P2 P3- 2 d 0.3333 0.6667 0.3883(2) 0.0065(6) 1. 0
+#End of TTdata_89515-ICSD

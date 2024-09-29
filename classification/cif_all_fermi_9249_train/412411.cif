@@ -1,0 +1,79 @@
+
+data_412411-ICSD
+_database_code_ICSD 412411
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Calcium nickel silicide (1/2/1)'
+_chemical_formula_structural 'Ca Ni2 Si'
+_chemical_formula_sum 'Ca1 Ni2 Si1'
+_chemical_name_structure_type ReB3
+_exptl_crystal_density_diffrn 4.49
+_cell_length_a 4.0038(5)
+_cell_length_b 4.0038(5)
+_cell_length_c 9.8864(17)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 137.25
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.0273
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca0+ 0
+Ni0+ 0
+Si0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca0+ 2 c 0.3333 0.6667 0.25 0.0167(4) 1. 0
+Ni1 Ni0+ 4 f 0.3333 0.6667 0.96051(6) 0.0133(3) 1. 0
+Si1 Si0+ 2 a 0 0 0 0.0142(4) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca0+ 0.0163(5) 0.0163(5) 0.0174(6) 0.0082(3) 0 0
+Ni1 Ni0+ 0.0099(3) 0.0099(3) 0.0200(4) 0.00497(16) 0 0
+Si1 Si0+ 0.0094(5) 0.0094(5) 0.0238(8) 0.0047(3) 0 0

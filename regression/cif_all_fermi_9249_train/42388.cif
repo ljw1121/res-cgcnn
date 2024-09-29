@@ -1,0 +1,58 @@
+
+data_42388-ICSD
+_database_code_ICSD 42388
+_audit_creation_date 2000-07-15
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Vanadium phosphide carbide (4/2/1)'
+_chemical_formula_structural 'V4 P2 C'
+_chemical_formula_sum 'C1 P2 V4'
+_exptl_crystal_density_diffrn 5.51
+_cell_length_a 9.567
+_cell_length_b 9.567
+_cell_length_c 3.166
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 250.95
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P -6 2 m'
+_symmetry_Int_Tables_number 189
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z'
+5 'x-y, -y, z'
+6 'y, x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V2+ 2
+P3- -3
+C2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V2+ 6 k 0.21 0.45 0.5 . 1. 0
+V2 V2+ 3 f 0.53 0 0 . 1. 0
+V3 V2+ 3 f 0.81 0 0 . 1. 0
+P1 P3- 3 f 0.285 0 0 . 1. 0
+P2 P3- 2 c 0.3333 0.6667 0 . 1. 0
+P3 P3- 1 b 0 0 0.5 . 1. 0
+C1 C2- 3 g 0.67 0 0.5 . 1. 0

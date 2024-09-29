@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_413459-ICSD
+_database_code_ICSD 413459
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Yttrium nickel indium (1/1/2)'
+_chemical_formula_structural 'Y Ni In2'
+_chemical_formula_sum 'In2 Ni1 Y1'
+_chemical_name_structure_type Al2CuMg
+_exptl_crystal_density_diffrn 7.63
+_publ_section_title 'Synthesis and structures of Y Ni In2 and Y4 Ni11 In20'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2004 177 1359 1364 JSSCBI
+loop_
+_publ_author_name
+'Hlukhyy, V.'
+'Zaremba, V.I.'
+'Kal'ichak, Ya.M.'
+'Poettgen, R.'
+_cell_length_a 4.3152(8)
+_cell_length_b 10.420(2)
+_cell_length_c 7.300(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 328.24
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0328
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y0+ 0
+Ni0+ 0
+In0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y0+ 4 c 0 0.06858(6) 0.25 . 1. 0
+Ni1 Ni0+ 4 c 0 0.78756(8) 0.25 . 1. 0
+In1 In0+ 8 f 0 0.35706(3) 0.04978(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y0+ 0.0095(2) 0.0083(2) 0.0099(2) 0 0 0
+Ni1 Ni0+ 0.0090(3) 0.0097(3) 0.0097(3) 0 0 0
+In1 In0+ 0.00963(12) 0.00873(11) 0.00790(11) 0 0 0.00045(10)
+#End of TTdata_413459-ICSD

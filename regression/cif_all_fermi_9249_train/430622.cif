@@ -1,0 +1,70 @@
+
+data_430622-ICSD
+_database_code_ICSD 430622
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Aluminium gold scandium (1/1/1)'
+_chemical_formula_structural 'Al1 Au1 Sc1'
+_chemical_formula_sum 'Al1 Au1 Sc1'
+_chemical_name_structure_type Mg2Ga
+_exptl_crystal_density_diffrn 8.18
+_cell_measurement_temperature 293.
+_cell_length_a 7.2288(4)
+_cell_length_b 7.2288(4)
+_cell_length_c 7.2415(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 327.71
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P -6 2 c'
+_symmetry_Int_Tables_number 190
+_refine_ls_R_factor_all 0.0315
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z+1/2'
+5 'x-y, -y, z+1/2'
+6 'y, x, z+1/2'
+7 '-x+y, -x, -z+1/2'
+8 '-y, x-y, -z+1/2'
+9 'x, y, -z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc0+ 0
+Au0+ 0
+Al0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc0+ 6 h 0.4093(5) 0.3955(5) 0.25 0.0078(9) 1 0
+Au1 Au0+ 2 b 0 0 0.25 0.00868(18) 1 0
+Au2 Au0+ 4 f 0.333333 0.666667 0.01962(8) 0.00888(13) 1 0
+Al1 Al0+ 6 g 0.2625(6) 0 0 0.0068(12) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sc1 Sc0+ 0.0057(11) 0.0074(11) 0.0098(11) 0.0029(9) 0 0
+Au1 Au0+ 0.0079(2) 0.0079(2) 0.0102(4) 0.00397(10) 0 0
+Au2 Au0+ 0.00693(17) 0.00693(17) 0.0128(2) 0.00346(8) 0 0
+Al1 Al0+ 0.0066(12) 0.0072(19) 0.0069(18) 0.0036(9) 0.0003(7) 0.0006(14)

@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_261514-ICSD
+_database_code_ICSD 261514
+_audit_creation_date 2011-08-01
+_chemical_name_systematic
+'Potassium dimanganese trihydrogen dioxide bismolybdate(VI)'
+_chemical_formula_structural 'K Mn2 (H3 O2) (Mo O4)2'
+_chemical_formula_sum 'H3 K1 Mn2 Mo2 O10'
+_chemical_name_structure_type KMn2H3O2(MoO4)2
+_exptl_crystal_density_diffrn 3.64
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Synthesis, magnetic properties, and magnetic structure of a natrochalcite
+structural variant, K M(II)2 D3 O2 (Mo O4)2 (M = Mn, Fe, or Co)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2011 50 3286 3294 INOCAJ
+loop_
+_publ_author_name
+'Maalej, W.'
+'Vilminot, S.'
+'Andre, G.'
+'Damay, F.'
+'Elaoud, Z.'
+'Mhiri, T.'
+'Kurmoo, M.'
+_cell_length_a 9.4636(1)
+_cell_length_b 6.6862(1)
+_cell_length_c 7.8969(1)
+_cell_angle_alpha 90
+_cell_angle_beta 112.9279(7)
+_cell_angle_gamma 90
+_cell_volume 460.2
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.123
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, -y, -z'
+3 '-x, y, -z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Mn2+ 2
+K1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 4 i 0.4168(3) 0.5 0.7017(3) 3.01(8) 1. 0
+Mn1 Mn2+ 4 e 0.75 0.75 0.75 3.7(1) 1. 0
+K1 K1+ 2 c 0 0.5 0.5 3.4(2) 1. 0
+O1 O2- 4 i 0.8528(12) 0.5 0.9342(17) 4.8(4) 1. 0
+O2 O2- 4 i 0.2842(15) 0.5 0.8032(18) 5.9(5) 1. 0
+O3 O2- 8 j 0.9669(11) 0.7910(11) 0.7127(12) 3.9(3) 1. 0
+O4 O2- 4 i 0.3161(15) 0.5 0.4785(18) 4.6(4) 1. 0
+#End of TTdata_261514-ICSD

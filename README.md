@@ -43,7 +43,7 @@ root_dir
 ├── ...
 ```
 
-Two example of customized dataset is provided in the repository at `classificaiton/cif_all_fermi_9249_train/` and `regression/cif_all_fermi_9249_train/. This contains `9249 `samples with `SHCs as target properties.
+Two example of customized dataset is provided in the repository at `classificaiton/cif_all_fermi_9249_train/` and `regression/cif_all_fermi_9249_train/`. This contains 9249 samples with SHCs as target properties.
 
 ### Train a Res-CGCNN model
 
@@ -57,7 +57,7 @@ Then, you can train a Res-CGCNN model for your customized dataset by:
 python main.py root_dir
 ```
 
-You can set the number of training, validation, and test data with labels `--train-size`, `--val-size`, and `--test-size`. Alternatively, you may use the flags `--train-ratio`, `--val-ratio`, `--test-ratio` instead. Note that the ratio flags cannot be used with the size flags simultaneously. For instance, `regression/cif_all_fermi_9249_train/` has 10 data points in total. You can train a model by:
+You can set the number of training, validation, and test data with labels `--train-size`, `--val-size`, and `--test-size`. Alternatively, you may use the flags `--train-ratio`, `--val-ratio`, `--test-ratio` instead. Note that the ratio flags cannot be used with the size flags simultaneously. For instance, `regression/cif_all_fermi_9249_train/` has 9249 data points in total. You can train a model by:
 
 ```bash
 python main.py --train-ratio 0.8 --val-ratio 0.1 --test-ratio 0.1 regression/cif_all_fermi_9249_train/
@@ -82,7 +82,7 @@ Before predicting the material properties, you will need to:
 - [Define a customized dataset](https://github.com/txie-93/cgcnn#define-a-customized-dataset) at `root_dir` for all the crystal structures that you want to predict.
 - Obtain a pre-trained Res-CGCNN model named `model_best.pth.tar`.
 
-Two example of customized dataset is provided in the repository at `classificaiton/cif_mp_nomag_5719_test/` and `regression/cif_mp_nomag_5719_test/. This contains` 5719 `samples`get from [Materials Project](%5Bhttps://www.materialsproject.org/%5D(https://www.materialsproject.org/)) to predict SHCs.
+Two example of customized dataset is provided in the repository at `classificaiton/cif_mp_nomag_5719_test/` and `regression/cif_mp_nomag_5719_test/`. This contains 5719 samples get from [Materials Project](%5Bhttps://www.materialsproject.org/%5D(https://www.materialsproject.org/)) to predict SHCs.
 
 Then, you can predict the properties of the crystals in `root_dir`:
 
